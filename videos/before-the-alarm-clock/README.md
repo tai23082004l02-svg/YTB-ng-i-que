@@ -5,8 +5,13 @@ Video tiếng Anh về một ngày của người săn bắt – hái lượm.
 - Thời lượng: 4 phút 12 giây.
 - Định dạng: MP4, H.264/AAC, 1280 × 720.
 - Giọng đọc: Kokoro, tiếng Anh Mỹ, `am_michael`.
-- 12 cảnh minh họa, chuyển động máy quay và phụ đề tiếng Anh gắn trong video.
-- Tranh minh họa có chuyển cảnh; nhân vật chưa có hoạt hình tay chân riêng.
+- 48 hình minh họa khác nhau, đổi hình mỗi 4,6–5,8 giây; phụ đề tiếng Anh gắn trong video.
+- Hình đứng yên hoàn toàn: không zoom, không di chuyển máy quay, không có thanh tiêu đề hoặc số cảnh phía trên.
+- Nhân vật chưa có hoạt hình tay chân riêng.
+
+## Bản cập nhật 2
+
+Đã bỏ thanh tiêu đề và bộ đếm cảnh, tắt toàn bộ zoom, thêm 36 hình mới so với bản đầu. Lời đọc và thời lượng được giữ nguyên.
 
 ## Xem hoặc tải video
 
