@@ -1,0 +1,53 @@
+# Nguyên tắc sản xuất video
+
+Đây là cách làm đã được người dùng chốt sau bản cập nhật 2 của **Before the Alarm Clock**. Dùng làm mặc định cho video tiếp theo; yêu cầu mới của người dùng được ưu tiên khi có khác biệt.
+
+## 1. Định hướng nội dung
+
+- Hướng đến khán giả Mỹ: kịch bản, lời đọc và phụ đề bằng tiếng Anh Mỹ, câu văn tự nhiên, dễ nghe.
+- Tự xử lý kịch bản, âm thanh, hình ảnh và dựng video khi được giao sản xuất; không dừng để xin duyệt từng bước nếu không có yêu cầu duyệt.
+- Viết kịch bản mới, có mở đầu thu hút, diễn tiến rõ và kết thúc gọn. Không chép lời hoặc lấy hình từ video tham khảo để dùng làm nội dung mới.
+- Với nội dung lịch sử hoặc kiến thức, đối chiếu các ý chính với nguồn đáng tin cậy; phân biệt bằng chứng, suy luận và cảnh minh họa giả định. Không bịa số liệu hoặc biến một ví dụ thành quy luật chung.
+- Chọn độ dài theo chủ đề và yêu cầu. Video tham chiếu dài khoảng 4 phút 12 giây; đây không phải giới hạn bắt buộc cho mọi video.
+
+## 2. Phong cách hình ảnh
+
+- Minh họa hoạt hình 2D vẽ tay, nét viền đen, màu phẳng và bảng màu dịu, đồng nhất. Bản cập nhật 2 trong kho là mẫu hình ảnh ưu tiên.
+- Nhân vật đơn giản, biểu cảm dễ đọc; bối cảnh đủ để hiểu hành động, tránh chi tiết gây rối.
+- Giữ nhân vật nhất quán xuyên suốt bằng tóc, trang phục, màu sắc, vóc dáng và phụ kiện. Chốt nhóm nhân vật tham chiếu trước khi tạo hàng loạt hình.
+- Cảnh có nhiều người phải có đủ nhân vật theo nội dung, với ngoại hình, tư thế và vai trò phân biệt. Không mặc định mọi cảnh chỉ có một người.
+- Tạo nhiều hình khác nhau: xen kẽ cảnh toàn, cảnh sinh hoạt nhóm, cận công cụ, thức ăn, dấu vết và chi tiết phục vụ lời kể.
+
+## 3. Nhịp dựng đã chốt
+
+- **Hình đứng yên hoàn toàn trong mỗi cảnh. Không zoom động, pan, rung máy hoặc hiệu ứng Ken Burns.**
+- **Không có thanh tiêu đề phía trên, tên chương, bộ đếm cảnh hay gạch trang trí như bản đầu.**
+- **Đổi sang hình minh họa khác khoảng mỗi 4–6 giây**, theo ý trong lời đọc. Không kéo một hình qua cả đoạn thuyết minh dài.
+- Tăng mật độ bằng hình mới có nội dung khác, không dùng nhiều mức phóng/cắt của cùng một hình để thay cho việc tạo thêm minh họa.
+- Chuyển thẳng giữa các hình; không thêm hiệu ứng chuyển cảnh gây giật hoặc phân tán.
+- Giữ hình đầy khung, không méo tỷ lệ; khi cắt hình phải bảo toàn nhân vật và chi tiết quan trọng.
+- Mốc tham chiếu: **48 hình khác nhau trong khoảng 4 phút 12 giây**, mỗi hình khoảng 4,6–5,8 giây. Với độ dài khác, ước lượng số hình bằng thời lượng tính theo giây chia cho khoảng 5, rồi điều chỉnh theo lời kể.
+
+## 4. Lời đọc và phụ đề
+
+- Dùng **Kokoro**, ngôn ngữ tiếng Anh Mỹ. Giọng mặc định đã dùng: **`am_michael`**, tốc độ khoảng **0.97**; chỉ đổi khi nội dung hoặc yêu cầu cần.
+- Nghe/kiểm tra phát âm, khoảng nghỉ và nhịp kể; xuất lời đọc riêng để tái sử dụng khi sửa hình.
+- Khi người dùng chỉ sửa hình, giữ nguyên kịch bản và lời đọc nếu không có yêu cầu sửa nội dung.
+- Phụ đề tiếng Anh đặt phía dưới, chữ sáng có viền tối, dễ đọc trên điện thoại. Không dùng dải nền đen cố định che toàn bộ phía dưới hình.
+- Đồng bộ theo mốc thời gian lời đọc; xử lý dấu câu, xuống dòng và phụ đề đi qua điểm đổi hình. Không chia thời gian đều theo số chữ để giả làm đồng bộ chính xác.
+- Cân âm lượng lời đọc, tránh clipping; bản tham chiếu dùng mục tiêu khoảng -16 LUFS, true peak không quá -1.5 dBTP.
+
+## 5. Kiểm tra và bàn giao
+
+- Xuất MP4 H.264/AAC, khung ngang 16:9; tối thiểu 1280 × 720 như bản đã chốt. Không mô tả ảnh nguồn độ phân giải thấp thành chất lượng gốc cao.
+- Kiểm tra toàn bộ tệp bằng giải mã, kiểm tra hình đại diện ở nhiều đoạn, độ dài, tính liên tục, phụ đề và âm thanh. Xác nhận không còn thanh tiêu đề, số cảnh hay chuyển động máy quay.
+- Báo đúng khả năng của bản dựng: đây là video minh họa tĩnh có đổi cảnh; không gọi là hoạt hình tay chân đầy đủ khi nhân vật không có chuyển động riêng.
+- Bàn giao video, thumbnail, kịch bản, phụ đề SRT, tiêu đề và mô tả YouTube; ghi nguồn tham khảo và thông tin sản xuất trong tài liệu đi kèm.
+- Đưa bản hoàn thành/cập nhật lên kho GitHub theo yêu cầu của người dùng. Khi thay video, cập nhật tài liệu mô tả để khớp bản hiện tại và kiểm tra liên kết tải.
+- Trong câu trả lời bàn giao, ưu tiên liên kết GitHub có thể truy cập, vì người dùng không xem được liên kết tệp cục bộ. Dùng liên kết theo commit khi cần tránh tải nhầm bản cũ do cache.
+- Không tự đăng video lên YouTube nếu chưa được yêu cầu.
+
+## Mẫu đã được chấp nhận
+
+- [Video và tài liệu Before the Alarm Clock](videos/before-the-alarm-clock/README.md)
+- [Thay đổi trong bản cập nhật 2](videos/before-the-alarm-clock/release-notes-v2.md)
