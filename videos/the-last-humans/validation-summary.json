@@ -1,0 +1,15 @@
+{
+  "full_video_decode": "passed before audio-only remux",
+  "video_bitstream_after_remux": "identical SHA256",
+  "full_final_audio_decode": "passed",
+  "duration_seconds": 1485.0,
+  "chapters": 20,
+  "selected_unique_illustrations": 268,
+  "subtitle_cues": 480,
+  "encoded_integrated_loudness_lufs": -16.6,
+  "encoded_true_peak_dbtp": -1.57,
+  "video_sha256": "b7e0922abfc44e3fcc9d12a91a405f124e75f5bc0d685d00a73ef91d28540338",
+  "format": "1280x720 H.264, 24 fps, AAC 48 kHz mono",
+  "motion": "static images; no zoom/pan",
+  "visual_review": "representative source sheets and rendered frames across the video"
+}
