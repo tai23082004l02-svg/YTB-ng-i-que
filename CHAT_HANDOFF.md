@@ -37,19 +37,27 @@
 | [Could We Survive?](videos/could-we-survive/README.md) | **34:30**, 28 phần, **371 hình dùng**, 681 đoạn phụ đề | Năm đại tuyệt chủng và giả định sinh tồn hiện đại; có ảnh nguồn, ghi chú khoa học và bộ đăng YouTube. |
 | [Before Us / Silurian Hypothesis](videos/before-us/README.md) | **30:08**, 24 phần, **322 hình dùng**, 566 đoạn phụ đề | Câu hỏi về khả năng phát hiện, không tuyên bố có nền văn minh công nghiệp tiền nhân loại. Có đủ nguồn và bộ đăng. |
 | [Where Is Everybody? / Fermi Paradox](videos/where-is-everybody/README.md) | **35:23**, 28 phần, **377 hình dùng**, 683 đoạn phụ đề | Chuyển sang chủ đề vũ trụ; phạm vi SETI, mô hình lan rộng, Bộ lọc lớn và giới hạn suy luận. |
+| [Born Between Stars](videos/born-between-stars/README.md) | **39:38**, 32 phần, **594 hình dùng**, 767 đoạn phụ đề | Bản đầu áp dụng nhịp mới: trung bình khoảng 4 giây; cảnh đơn giản 3–4 giây, giải thích 5–6 giây. Chuyện tàu nhiều thế hệ là hư cấu. |
 
 Tên tiếng Anh video dài: **Earth Once Had Many Human Species. Why Are We the Only Ones Left?**
 
 Bản video dài nằm trong commit `afd41171e9b38c6442f7bfb2f325b74b57fc51e2`. Liên kết tải ổn định:
 https://raw.githubusercontent.com/tai23082004l02-svg/YTB-ng-i-que/afd41171e9b38c6442f7bfb2f325b74b57fc51e2/videos/the-last-humans/The-Last-Humans.mp4
 
-**Cập nhật nhịp dựng sau video Nghịch lý Fermi:** áp dụng mặc định trung bình khoảng 4 giây/cảnh cho các tác vụ sản xuất tiếp theo. MP4 Where Is Everybody? hiện vẫn là bản 377 cảnh/35:23 (khoảng 5,2–5,8 giây/cảnh); yêu cầu cập nhật quy tắc chưa bao gồm dựng lại video này.
+**Cập nhật nhịp dựng sau video Nghịch lý Fermi:** áp dụng mặc định trung bình khoảng 4 giây/cảnh cho các tác vụ sản xuất tiếp theo. Born Between Stars đã áp dụng nhịp mới. MP4 Where Is Everybody? hiện vẫn là bản 377 cảnh/35:23 (khoảng 5,2–5,8 giây/cảnh); yêu cầu cập nhật quy tắc chưa bao gồm dựng lại video này.
 
 **Trạng thái bàn giao: đã hoàn thành và đẩy lên GitHub. Không có video đang làm dở.** Không tự tạo lại hoặc thay đổi video cũ nếu người dùng chỉ yêu cầu một chủ đề mới.
 
 ## 4. Tệp nào chứa gì?
 
-**Bản mới nhất:** [videos/where-is-everybody/](videos/where-is-everybody/README.md), Nghịch lý Fermi. **35:23**, 28 phần, 34 bộ ảnh (408 ô, 377 dùng), 683 cue. Giọng `am_michael`, speed 1.07, không tempo bổ sung. Chủ đề do người dùng chốt sau khi mở rộng kênh sang vũ trụ.
+**Bản mới nhất:** [videos/born-between-stars/](videos/born-between-stars/README.md), tàu nhiều thế hệ, **39:38**, 32 phần, 40 bộ **4 × 4** (640 ô, 594 dùng), 767 cue. Bản đầu triển khai nhịp mới: **trung bình 4,004 giây/cảnh**, 417 cảnh đơn giản 3–4 giây và 177 cảnh giải thích 5–6 giây. Giọng `am_michael` speed 1.07, không tempo bổ sung.
+
+Đọc project/story-bible.json trước khi sửa: Lyra rời Trái Đất từ nhỏ, trưởng thành, già và qua đời; Sera là hậu duệ khác nhiều thế kỷ sau, không phải Lyra đổi tên hoặc cháu chỉ cách vài chục năm. Hai búi tóc/huy hiệu tròn của Lyra khác một bím tóc/huy hiệu tam giác của Sera. Tàu, sự cố và đích đến đều là hư cấu; không có hành tinh an toàn, số người tối thiểu hay công nghệ ngủ đông đã được bảo đảm. Đọc SOURCES.md và project/physics-checks.json.
+
+Ảnh nguồn dự án này dùng **4 cột × 4 hàng, ô 0–15**, không dùng 3 × 4 của video cũ. project/grid-crops.json ghi ranh giới thực tế và crop giữ tỷ lệ. project/curation-notes.json: bỏ sheet-09 ô 0 vì mũi tên không hướng ra ngoài vành quay; cảnh 160 dùng sheet-32 ô 4. Giữ lời đọc khi chỉ sửa hình.
+
+
+**Bản trước:** [videos/where-is-everybody/](videos/where-is-everybody/README.md), Nghịch lý Fermi. **35:23**, 28 phần, 34 bộ ảnh (408 ô, 377 dùng), 683 cue. Giọng `am_michael`, speed 1.07, không tempo bổ sung. Chủ đề do người dùng chốt sau khi mở rộng kênh sang vũ trụ.
 
 Không coi sự im lặng là một cuộc tìm kiếm toàn diện hoặc bằng chứng vũ trụ trống rỗng. Drake là khung giả định; Bộ lọc lớn không phải định luật hay ngày tận thế được dự báo. Zoo/dark forest là suy đoán. Câu chuyện tín hiệu mở đầu/cuối là hư cấu. Đọc SOURCES.md và project/curation-notes.json: cảnh 251 đã bỏ sheet-18 ô 9 có hình giống đền Mesoamerica, thay bằng khoáng vật ở sheet-30 ô 5. Chương cuối dùng bộ 33; đọc shots.json, không đoán từ số bộ. Đọc grid-crops.json khi dựng lại: hàng/cột thực tế không luôn chia đều, phải bỏ đường chia ô và giữ tỷ lệ hình.
 

@@ -1,0 +1,66 @@
+TITLE
+A Starship Leaves Earth. Nobody On Board Will See Its Destination.
+
+DESCRIPTION
+What if your home was a starship—and the people who chose its destination died centuries before you were born?
+
+Follow Lyra, a child leaving Earth, and Sera, a different descendant living centuries later, through an original fictional generation-ship story. Between ordinary meals, repairs, and decisions, we examine the real science and the unsolved problems behind a journey to another star.
+
+Propulsion is only the beginning. Wayfarer also needs shielding, artificial gravity, food, water, medicine, manufacturing, preserved knowledge, and a society that can keep learning. Who gets to decide what the journey is for when the founders are gone?
+
+This is a thought experiment, not a launched mission, a certified ship design, or an announcement of a safe second Earth. Proposed technologies and population models are distinguished from demonstrated capabilities. No fixed crew number or survival probability is presented as a guarantee.
+
+CHAPTERS
+00:00 The Child at the Window
+01:01 Wayfarer: A Fictional Thought Experiment
+02:13 Four Light-Years Is Not Next Door
+03:17 Why Would Anyone Volunteer?
+04:35 Speed Has an Energy Bill
+05:49 Getting There Includes Stopping
+06:59 A Vessel That Must Become a Place
+08:08 A Grain Can Become a Hazard
+09:21 The Shield Is Not a Magic Wall
+10:37 Making Down Without Making a Planet
+11:49 An Ecosystem Is Not a Decoration
+13:06 Dinner Has a Failure Tree
+14:19 The Passengers Too Small to Count
+15:35 Power Does Not End at the Reactor
+16:51 Almost Closed Is Not Closed Forever
+18:09 The People Who Repair the Repairs
+19:21 A Workshop Is Not an Entire Economy
+20:38 A Hospital Without a Planet Behind It
+21:57 How Many People Is Enough?
+23:14 Diversity Is Not a License to Control People
+24:33 The Last Engineer Who Remembers Earth
+25:47 A World Needs Ordinary Days
+27:01 Who Inherits the Right to Decide?
+28:16 Born Between Stars
+29:24 A Choice With No Easy Exit
+30:41 Letters From a Changing Earth
+31:58 One Pump and Several Assumptions
+33:17 The Destination Keeps Moving
+34:34 Another World Is Not Another Earth
+35:53 The Ship May Still Be Home
+37:04 Could We Send Something Else?
+38:25 Who Does the Journey Belong To?
+
+SOURCES & SCIENCE NOTES
+Full references, calculations, uncertainties, and visual curation:
+https://github.com/tai23082004l02-svg/YTB-ng-i-que/blob/main/videos/born-between-stars/SOURCES.md
+
+NASA — Life-support systems:
+https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/
+
+ESA MELiSSA — Regenerative life-support research:
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Melissa/Closed_Loop_Concept
+
+NASA NTRS — Physics of Artificial Gravity:
+https://ntrs.nasa.gov/citations/20070001008
+
+Marin & Beluffi — A model-dependent population study:
+https://arxiv.org/abs/1806.03856
+
+PRODUCTION NOTE
+Original English script with AI-generated 2D illustrations and synthetic narration. Characters, ship, incidents, and destination are fictional. Diagrams are conceptual, not flight hardware validation or actual scientific measurement data. Historical founder images in Sera's era are archives or separate comparisons.
+
+#InterstellarTravel #GenerationShip #Space

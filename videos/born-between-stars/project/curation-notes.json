@@ -1,0 +1,14 @@
+[
+  {
+    "shot_index": 160,
+    "excluded": {
+      "sheet": "09",
+      "cell": 0
+    },
+    "replacement": {
+      "sheet": "32",
+      "cell": 4
+    },
+    "reason": "Generated ring diagram used parallel page-down arrows rather than radial outward apparent-down directions. Exclude the misleading vector diagram; use a neutral habitat layout explanation instead. Replacement source visually checked: neutral room/corridor layout, no incorrect force vectors."
+  }
+]

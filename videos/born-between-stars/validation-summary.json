@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "duration_seconds": 2378.458333,
+  "runtime_rounded": "39:38",
+  "chapters": 32,
+  "narration_words_whitespace_count": 5798,
+  "video_codec": "h264",
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "audio_bitrate": "129241",
+  "integrated_loudness_lufs": -16.74,
+  "true_peak_dbtp": -2.17,
+  "loudness_range_lu": 2.4,
+  "full_decode_exit_code": 0,
+  "subtitle_cues": 767,
+  "selected_unique_illustrations": 594,
+  "generated_illustrations": 640,
+  "mean_scene_seconds": 4.004138607744108,
+  "simple_shots": 417,
+  "explanatory_shots": 177,
+  "simple_range_seconds": [
+    3.0,
+    4.0
+  ],
+  "explanation_range_seconds": [
+    5.0,
+    5.958333333333333
+  ],
+  "cuts_near_caption_boundaries": 179,
+  "incorrect_gravity_vector_panel_excluded": true,
+  "framing": "measured four-by-four grid boundaries; 6-pixel source inset, aspect-preserving scale and fixed center crop",
+  "zip_crc": "passed",
+  "mp4_bytes": 90220777,
+  "sha256": "b2c5dbf1eab7cd590e483a8b27b386638aa3b291bb02bb2d17d7ae9332fba15e",
+  "review_scope": "Full automated decode, timing and final-audio measurement; representative visual review, character-age transitions, thumbnail and curated gravity illustration. Not exhaustive human listening."
+}

@@ -1,0 +1,3837 @@
+[
+  {
+    "start": 0.35,
+    "end": 3.025,
+    "text": "On the day the ship leaves Earth, Lyra is eight years"
+  },
+  {
+    "start": 3.025,
+    "end": 5.875,
+    "text": "old. Her father points through the window and tells her"
+  },
+  {
+    "start": 5.875,
+    "end": 7.225,
+    "text": "to remember the blue."
+  },
+  {
+    "start": 7.225,
+    "end": 10.275,
+    "text": "Her mother has explained the journey many times: another"
+  },
+  {
+    "start": 10.275,
+    "end": 14.15,
+    "text": "star, another home, a future their family will help begin."
+  },
+  {
+    "start": 14.15,
+    "end": 16.7125,
+    "text": "But Lyra understands something the adults cannot make"
+  },
+  {
+    "start": 16.7125,
+    "end": 20.05,
+    "text": "smaller. She will never stand beneath that other sun."
+  },
+  {
+    "start": 20.05,
+    "end": 21.8,
+    "text": "Neither will her parents."
+  },
+  {
+    "start": 21.8,
+    "end": 25.05,
+    "text": "If this ship reaches its destination, the people who arrive"
+  },
+  {
+    "start": 25.05,
+    "end": 28.2625,
+    "text": "will belong to generations that have not been born."
+  },
+  {
+    "start": 28.725,
+    "end": 32.300000000000004,
+    "text": "Somewhere ahead are first birthdays, ordinary arguments,"
+  },
+  {
+    "start": 32.300000000000004,
+    "end": 36.4125,
+    "text": "broken machines, old age, and funerals, all inside a"
+  },
+  {
+    "start": 36.4125,
+    "end": 39.3875,
+    "text": "vessel that cannot call for a replacement part."
+  },
+  {
+    "start": 39.3875,
+    "end": 42.525000000000006,
+    "text": "This is a fictional journey, but the questions it raises"
+  },
+  {
+    "start": 42.525000000000006,
+    "end": 46.125,
+    "text": "are real. Could a ship remain a world for centuries?"
+  },
+  {
+    "start": 46.125,
+    "end": 48.425,
+    "text": "Could its people remain a society?"
+  },
+  {
+    "start": 48.425,
+    "end": 50.8625,
+    "text": "And would the descendants of those who chose to leave"
+  },
+  {
+    "start": 50.8625,
+    "end": 53.5125,
+    "text": "still believe that the journey was theirs?"
+  },
+  {
+    "start": 53.925000000000004,
+    "end": 57.35,
+    "text": "Before we ask whether humanity can reach another star,"
+  },
+  {
+    "start": 57.35,
+    "end": 59.95,
+    "text": "we have to ask what it means to send people who will"
+  },
+  {
+    "start": 59.95,
+    "end": 61.25,
+    "text": "never arrive."
+  },
+  {
+    "start": 62.275000000000006,
+    "end": 64.10000000000001,
+    "text": "We will call the ship Wayfarer."
+  },
+  {
+    "start": 64.10000000000001,
+    "end": 67.675,
+    "text": "It is not a NASA mission, a completed engineering design,"
+  },
+  {
+    "start": 67.675,
+    "end": 70.625,
+    "text": "or a prediction about the year we will leave Earth."
+  },
+  {
+    "start": 70.625,
+    "end": 73.72500000000001,
+    "text": "It is a thought experiment: a community attempting an"
+  },
+  {
+    "start": 73.72500000000001,
+    "end": 77.175,
+    "text": "interstellar journey without assuming that ordinary human"
+  },
+  {
+    "start": 77.175,
+    "end": 79.98750000000001,
+    "text": "lives can be extended across centuries."
+  },
+  {
+    "start": 79.98750000000001,
+    "end": 83.1375,
+    "text": "Our destination is an imagined candidate habitat in a"
+  },
+  {
+    "start": 83.1375,
+    "end": 86.5125,
+    "text": "nearby star system, not an announcement that astronomers"
+  },
+  {
+    "start": 86.5125,
+    "end": 88.9125,
+    "text": "have discovered a safe second Earth."
+  },
+  {
+    "start": 89.35,
+    "end": 93.5,
+    "text": "The ship's two rotating living rings, central spine, shielding,"
+  },
+  {
+    "start": 93.5,
+    "end": 96.3875,
+    "text": "power systems, and workshops are conceptual tools for"
+  },
+  {
+    "start": 96.3875,
+    "end": 98.0,
+    "text": "exploring the problem."
+  },
+  {
+    "start": 98.0,
+    "end": 100.55,
+    "text": "They do not demonstrate that such a vessel can presently"
+  },
+  {
+    "start": 100.55,
+    "end": 103.4375,
+    "text": "be built. We will borrow established physics where it"
+  },
+  {
+    "start": 103.4375,
+    "end": 107.175,
+    "text": "applies, real experience from spaceflight where it helps,"
+  },
+  {
+    "start": 107.175,
+    "end": 109.9,
+    "text": "and clearly identified assumptions where the evidence"
+  },
+  {
+    "start": 109.9,
+    "end": 113.3125,
+    "text": "runs out. The distinction matters because a beautiful"
+  },
+  {
+    "start": 113.3125,
+    "end": 116.75,
+    "text": "spaceship illustration can make an unsolved problem look"
+  },
+  {
+    "start": 116.75,
+    "end": 118.4625,
+    "text": "like a finished product."
+  },
+  {
+    "start": 118.92500000000001,
+    "end": 121.87500000000001,
+    "text": "Wayfarer earns its place in this story by forcing the"
+  },
+  {
+    "start": 121.87500000000001,
+    "end": 123.86250000000001,
+    "text": "problems into the same room."
+  },
+  {
+    "start": 123.86250000000001,
+    "end": 127.37500000000001,
+    "text": "The people need to breathe while the machines are repaired."
+  },
+  {
+    "start": 127.37500000000001,
+    "end": 130.66250000000002,
+    "text": "The food system needs power while the society decides"
+  },
+  {
+    "start": 130.66250000000002,
+    "end": 132.525,
+    "text": "who gets to make the rules."
+  },
+  {
+    "start": 133.57500000000002,
+    "end": 136.96250000000003,
+    "text": "The nearest star beyond the Sun, Proxima Centauri, is"
+  },
+  {
+    "start": 136.96250000000003,
+    "end": 139.31250000000003,
+    "text": "a little more than four light-years away."
+  },
+  {
+    "start": 139.31250000000003,
+    "end": 142.43750000000003,
+    "text": "A light-year measures distance, not the time a spacecraft"
+  },
+  {
+    "start": 142.43750000000003,
+    "end": 144.51250000000002,
+    "text": "automatically takes to get there."
+  },
+  {
+    "start": 144.51250000000002,
+    "end": 147.06250000000003,
+    "text": "Light crosses that distance in a little more than four"
+  },
+  {
+    "start": 147.06250000000003,
+    "end": 150.425,
+    "text": "years. A much slower ship takes much longer."
+  },
+  {
+    "start": 150.425,
+    "end": 153.70000000000002,
+    "text": "At one percent of light speed, a journey across roughly"
+  },
+  {
+    "start": 153.70000000000002,
+    "end": 156.58750000000003,
+    "text": "four and a half light-years would involve about four hundred"
+  },
+  {
+    "start": 156.58750000000003,
+    "end": 160.37500000000003,
+    "text": "and fifty years of cruising, even before a realistic accounting"
+  },
+  {
+    "start": 160.37500000000003,
+    "end": 162.46250000000003,
+    "text": "of acceleration and braking."
+  },
+  {
+    "start": 162.9,
+    "end": 165.925,
+    "text": "That arithmetic is an illustration, not a flight plan"
+  },
+  {
+    "start": 165.925,
+    "end": 169.2125,
+    "text": "for Wayfarer. Different speeds and propulsion assumptions"
+  },
+  {
+    "start": 169.2125,
+    "end": 170.65,
+    "text": "give different journeys."
+  },
+  {
+    "start": 170.65,
+    "end": 173.70000000000002,
+    "text": "What it tells us is that a star can be our astronomical"
+  },
+  {
+    "start": 173.70000000000002,
+    "end": 176.775,
+    "text": "neighbor while remaining separated from us by many human"
+  },
+  {
+    "start": 176.775,
+    "end": 180.51250000000002,
+    "text": "lifetimes. A map on a classroom wall can place two bright"
+  },
+  {
+    "start": 180.51250000000002,
+    "end": 182.35000000000002,
+    "text": "dots a handspan apart."
+  },
+  {
+    "start": 182.35000000000002,
+    "end": 185.03750000000002,
+    "text": "It cannot show a child what it feels like to spend her"
+  },
+  {
+    "start": 185.03750000000002,
+    "end": 186.72500000000002,
+    "text": "whole life between them."
+  },
+  {
+    "start": 186.72500000000002,
+    "end": 189.3125,
+    "text": "Lyra's teacher starts with the distance."
+  },
+  {
+    "start": 189.72500000000002,
+    "end": 192.65000000000003,
+    "text": "The harder lesson will be learning that almost everything"
+  },
+  {
+    "start": 192.65000000000003,
+    "end": 196.45000000000005,
+    "text": "the community needs must travel inside that handspan."
+  },
+  {
+    "start": 197.55000000000004,
+    "end": 200.72500000000002,
+    "text": "Lyra's parents are not escaping an Earth that has conveniently"
+  },
+  {
+    "start": 200.72500000000002,
+    "end": 203.23750000000004,
+    "text": "become uninhabitable for our story."
+  },
+  {
+    "start": 203.23750000000004,
+    "end": 206.36250000000004,
+    "text": "They volunteered because they believed exploration and"
+  },
+  {
+    "start": 206.36250000000004,
+    "end": 209.50000000000003,
+    "text": "a lasting community beyond the Solar System could be worth"
+  },
+  {
+    "start": 209.50000000000003,
+    "end": 211.18750000000003,
+    "text": "extraordinary work."
+  },
+  {
+    "start": 211.18750000000003,
+    "end": 214.40000000000003,
+    "text": "Other people on Earth disagreed, and some had excellent"
+  },
+  {
+    "start": 214.40000000000003,
+    "end": 218.56250000000003,
+    "text": "reasons. Resources spent on a starship could support scientific"
+  },
+  {
+    "start": 218.56250000000003,
+    "end": 223.20000000000005,
+    "text": "probes, environmental repair, or communities already alive."
+  },
+  {
+    "start": 223.80000000000004,
+    "end": 226.75000000000006,
+    "text": "Spreading humanity across distant places might eventually"
+  },
+  {
+    "start": 226.75000000000006,
+    "end": 230.10000000000005,
+    "text": "reduce some shared vulnerabilities, but a single fragile"
+  },
+  {
+    "start": 230.10000000000005,
+    "end": 233.38750000000005,
+    "text": "vessel does not automatically make our species safe."
+  },
+  {
+    "start": 233.38750000000005,
+    "end": 236.75000000000006,
+    "text": "A generation ship could concentrate risks as well as distribute"
+  },
+  {
+    "start": 236.75000000000006,
+    "end": 240.50000000000006,
+    "text": "them. These are choices about goals, opportunity costs,"
+  },
+  {
+    "start": 240.50000000000006,
+    "end": 243.78750000000005,
+    "text": "and responsibilities, not just about engines."
+  },
+  {
+    "start": 243.78750000000005,
+    "end": 247.70000000000005,
+    "text": "The founding adults can argue, sign agreements, or decide"
+  },
+  {
+    "start": 247.70000000000005,
+    "end": 251.50000000000006,
+    "text": "to remain home. Their future descendants cannot participate"
+  },
+  {
+    "start": 251.50000000000006,
+    "end": 253.16250000000005,
+    "text": "in that first decision."
+  },
+  {
+    "start": 253.60000000000002,
+    "end": 256.05,
+    "text": "That does not by itself settle whether the mission should"
+  },
+  {
+    "start": 256.05,
+    "end": 259.925,
+    "text": "happen. Parents and societies routinely shape futures"
+  },
+  {
+    "start": 259.925,
+    "end": 261.75,
+    "text": "that children inherit."
+  },
+  {
+    "start": 261.75,
+    "end": 265.55,
+    "text": "But the scale of this inheritance is unusual: a world"
+  },
+  {
+    "start": 265.55,
+    "end": 269.82500000000005,
+    "text": "with no easy exit, a destination chosen before your birth,"
+  },
+  {
+    "start": 269.82500000000005,
+    "end": 272.95000000000005,
+    "text": "and a journey whose justification must survive the people"
+  },
+  {
+    "start": 272.95000000000005,
+    "end": 274.70000000000005,
+    "text": "who first believed in it."
+  },
+  {
+    "start": 275.8,
+    "end": 279.00000000000006,
+    "text": "One percent of light speed sounds modest because the other"
+  },
+  {
+    "start": 279.00000000000006,
+    "end": 281.56250000000006,
+    "text": "ninety-nine percent is still missing."
+  },
+  {
+    "start": 281.56250000000006,
+    "end": 285.2875,
+    "text": "In ordinary engineering terms, it is enormous."
+  },
+  {
+    "start": 285.2875,
+    "end": 288.8,
+    "text": "A useful approximate calculation gives one kilogram moving"
+  },
+  {
+    "start": 288.8,
+    "end": 292.175,
+    "text": "at that speed about four and a half trillion joules of"
+  },
+  {
+    "start": 292.175,
+    "end": 295.7375,
+    "text": "kinetic energy. That is only the kinetic energy of the"
+  },
+  {
+    "start": 295.7375,
+    "end": 297.18750000000006,
+    "text": "moving kilogram."
+  },
+  {
+    "start": 297.6,
+    "end": 300.75000000000006,
+    "text": "It is not the total energy a real propulsion system must"
+  },
+  {
+    "start": 300.75000000000006,
+    "end": 305.52500000000003,
+    "text": "supply, and it ignores the rest of the ship, fuel, inefficiency,"
+  },
+  {
+    "start": 305.52500000000003,
+    "end": 308.76250000000005,
+    "text": "and the details of how momentum is exchanged."
+  },
+  {
+    "start": 308.76250000000005,
+    "end": 311.52500000000003,
+    "text": "Making the vessel heavier to improve safety makes the"
+  },
+  {
+    "start": 311.52500000000003,
+    "end": 313.55,
+    "text": "propulsion problem harder."
+  },
+  {
+    "start": 313.55,
+    "end": 317.57500000000005,
+    "text": "Adding more fuel can itself add mass that must be accelerated."
+  },
+  {
+    "start": 317.57500000000005,
+    "end": 320.96250000000003,
+    "text": "Moving faster also changes the danger from material"
+  },
+  {
+    "start": 320.96250000000003,
+    "end": 322.96250000000003,
+    "text": "encountered along the way."
+  },
+  {
+    "start": 323.375,
+    "end": 327.0375,
+    "text": "At this speed, relativity does not conveniently turn centuries"
+  },
+  {
+    "start": 327.0375,
+    "end": 330.3625,
+    "text": "of travel into a short human lifetime on board."
+  },
+  {
+    "start": 330.3625,
+    "end": 333.27500000000003,
+    "text": "Large time-dilation benefits require a very different"
+  },
+  {
+    "start": 333.27500000000003,
+    "end": 336.075,
+    "text": "regime, with very different demands."
+  },
+  {
+    "start": 336.075,
+    "end": 338.9125,
+    "text": "We are not choosing a speed that science has certified"
+  },
+  {
+    "start": 338.9125,
+    "end": 342.3,
+    "text": "as practical. We are seeing why a journey that looks slow"
+  },
+  {
+    "start": 342.3,
+    "end": 345.65000000000003,
+    "text": "beside a beam of light can still require capabilities"
+  },
+  {
+    "start": 345.65000000000003,
+    "end": 349.075,
+    "text": "far beyond those of today's crewed spacecraft."
+  },
+  {
+    "start": 350.12500000000006,
+    "end": 353.6,
+    "text": "A fast flyby and a usable arrival are different missions."
+  },
+  {
+    "start": 353.6,
+    "end": 356.725,
+    "text": "Wayfarer must manage its motion at the destination,"
+  },
+  {
+    "start": 356.725,
+    "end": 360.3,
+    "text": "not simply cross an imaginary finish line beside a star."
+  },
+  {
+    "start": 360.3,
+    "end": 363.20000000000005,
+    "text": "If the propulsion concept requires carried reaction"
+  },
+  {
+    "start": 363.20000000000005,
+    "end": 366.75000000000006,
+    "text": "mass, the braking problem affects the departure plan."
+  },
+  {
+    "start": 366.75000000000006,
+    "end": 370.55,
+    "text": "If it relies on external beams, sails, or interactions"
+  },
+  {
+    "start": 370.55,
+    "end": 373.8,
+    "text": "with material and fields, those systems bring their own"
+  },
+  {
+    "start": 373.8,
+    "end": 375.56250000000006,
+    "text": "assumptions and limits."
+  },
+  {
+    "start": 375.56250000000006,
+    "end": 378.75000000000006,
+    "text": "There is no universal rule that the answer is simply twice"
+  },
+  {
+    "start": 378.75000000000006,
+    "end": 379.7875,
+    "text": "the fuel."
+  },
+  {
+    "start": 380.20000000000005,
+    "end": 383.67500000000007,
+    "text": "The entire trajectory and propulsion architecture matter."
+  },
+  {
+    "start": 383.67500000000007,
+    "end": 386.46250000000003,
+    "text": "Nor can the crew assume that a friendly station will"
+  },
+  {
+    "start": 386.46250000000003,
+    "end": 388.48750000000007,
+    "text": "be waiting to slow them down."
+  },
+  {
+    "start": 388.48750000000007,
+    "end": 391.83750000000003,
+    "text": "A robotic precursor might improve their information, but"
+  },
+  {
+    "start": 391.83750000000003,
+    "end": 394.92500000000007,
+    "text": "it does not automatically provide a functioning interstellar"
+  },
+  {
+    "start": 394.92500000000007,
+    "end": 396.52500000000003,
+    "text": "transport network."
+  },
+  {
+    "start": 396.52500000000003,
+    "end": 399.96250000000003,
+    "text": "On the classroom display, Lyra draws a ship arriving at"
+  },
+  {
+    "start": 399.96250000000003,
+    "end": 403.45000000000005,
+    "text": "a bright dot. Her father adds a second question beside"
+  },
+  {
+    "start": 403.45000000000005,
+    "end": 405.76250000000005,
+    "text": "it: what happens to the speed?"
+  },
+  {
+    "start": 406.175,
+    "end": 409.55,
+    "text": "The question is a small correction to a child's picture"
+  },
+  {
+    "start": 409.55,
+    "end": 412.26250000000005,
+    "text": "and a major correction to our intuition."
+  },
+  {
+    "start": 412.26250000000005,
+    "end": 415.57500000000005,
+    "text": "A design that solves departure while leaving arrival to"
+  },
+  {
+    "start": 415.57500000000005,
+    "end": 418.425,
+    "text": "hope has not yet solved the journey."
+  },
+  {
+    "start": 419.5,
+    "end": 422.5,
+    "text": "Wayfarer is more than a cabin behind an engine."
+  },
+  {
+    "start": 422.5,
+    "end": 425.4875,
+    "text": "Its conceptual layout separates inhabited regions from"
+  },
+  {
+    "start": 425.4875,
+    "end": 428.875,
+    "text": "some machinery and stores, with rotating rings connected"
+  },
+  {
+    "start": 428.875,
+    "end": 430.75,
+    "text": "around a central structure."
+  },
+  {
+    "start": 430.75,
+    "end": 433.8875,
+    "text": "The drawing is not to scale, and the real structural,"
+  },
+  {
+    "start": 433.8875,
+    "end": 437.65,
+    "text": "thermal, vibration, and control problems remain substantial."
+  },
+  {
+    "start": 437.65,
+    "end": 440.325,
+    "text": "Why show a recognizable layout at all?"
+  },
+  {
+    "start": 440.325,
+    "end": 443.2,
+    "text": "Because the crew need a place they can understand."
+  },
+  {
+    "start": 443.2,
+    "end": 446.325,
+    "text": "Lyra knows the route from her family's room to the garden,"
+  },
+  {
+    "start": 446.325,
+    "end": 448.9375,
+    "text": "the classroom, and the medical area."
+  },
+  {
+    "start": 449.4,
+    "end": 452.3125,
+    "text": "She knows which doors require training and which passage"
+  },
+  {
+    "start": 452.3125,
+    "end": 454.025,
+    "text": "is closed for maintenance."
+  },
+  {
+    "start": 454.025,
+    "end": 456.775,
+    "text": "The same places will appear throughout our journey."
+  },
+  {
+    "start": 456.775,
+    "end": 460.34999999999997,
+    "text": "Their surfaces will be replaced, their uses will change,"
+  },
+  {
+    "start": 460.34999999999997,
+    "end": 463.1375,
+    "text": "and the people responsible for them will die."
+  },
+  {
+    "start": 463.1375,
+    "end": 466.1375,
+    "text": "A room called the original workshop may eventually contain"
+  },
+  {
+    "start": 466.1375,
+    "end": 468.4375,
+    "text": "almost none of its original equipment."
+  },
+  {
+    "start": 468.4375,
+    "end": 471.45,
+    "text": "The ship's identity will survive through patterns of use,"
+  },
+  {
+    "start": 471.45,
+    "end": 474.92499999999995,
+    "text": "records, and care rather than through untouched metal."
+  },
+  {
+    "start": 474.92499999999995,
+    "end": 477.5125,
+    "text": "That is our first shift in perspective."
+  },
+  {
+    "start": 477.95000000000005,
+    "end": 481.35,
+    "text": "We are not preserving one machine in a box for centuries."
+  },
+  {
+    "start": 481.35,
+    "end": 484.7875,
+    "text": "We are imagining a community continuously rebuilding"
+  },
+  {
+    "start": 484.7875,
+    "end": 487.3,
+    "text": "the conditions that allow it to exist."
+  },
+  {
+    "start": 488.35,
+    "end": 491.5625,
+    "text": "Interstellar space is sparse, but sparse does not mean"
+  },
+  {
+    "start": 491.5625,
+    "end": 495.2375,
+    "text": "empty. Gas and dust matter when a vessel moves rapidly"
+  },
+  {
+    "start": 495.2375,
+    "end": 498.3625,
+    "text": "through them. The energy involved in an impact depends"
+  },
+  {
+    "start": 498.3625,
+    "end": 501.6375,
+    "text": "on the material's mass and relative speed, and a small"
+  },
+  {
+    "start": 501.6375,
+    "end": 504.9125,
+    "text": "particle at a very high speed can carry a serious amount"
+  },
+  {
+    "start": 504.9125,
+    "end": 508.4,
+    "text": "of energy. The right response is not to fill the screen"
+  },
+  {
+    "start": 508.4,
+    "end": 510.8625,
+    "text": "with convenient asteroid fields."
+  },
+  {
+    "start": 510.8625,
+    "end": 514.1,
+    "text": "Those familiar movie obstacles give the wrong impression"
+  },
+  {
+    "start": 514.1,
+    "end": 515.5125,
+    "text": "of the environment."
+  },
+  {
+    "start": 515.95,
+    "end": 519.325,
+    "text": "The real challenge can involve tiny particles, uncertain"
+  },
+  {
+    "start": 519.325,
+    "end": 523.25,
+    "text": "distributions, long exposure, and limited ability to inspect"
+  },
+  {
+    "start": 523.25,
+    "end": 525.2875,
+    "text": "or repair every surface."
+  },
+  {
+    "start": 525.2875,
+    "end": 528.0500000000001,
+    "text": "Possible shielding arrangements might use sacrificial"
+  },
+  {
+    "start": 528.0500000000001,
+    "end": 532.15,
+    "text": "material, separated layers, or other proposed defenses,"
+  },
+  {
+    "start": 532.15,
+    "end": 533.875,
+    "text": "depending on the mission."
+  },
+  {
+    "start": 533.875,
+    "end": 537.1375,
+    "text": "None is a universal certified solution for our fictional"
+  },
+  {
+    "start": 537.1375,
+    "end": 541.1875,
+    "text": "journey. Protection also adds mass, which returns us to"
+  },
+  {
+    "start": 541.1875,
+    "end": 542.6875,
+    "text": "the propulsion budget."
+  },
+  {
+    "start": 543.175,
+    "end": 547.25,
+    "text": "Lyra sees a damaged test sample in a classroom demonstration,"
+  },
+  {
+    "start": 547.25,
+    "end": 550.875,
+    "text": "not an actual window being struck beside her face."
+  },
+  {
+    "start": 550.875,
+    "end": 554.225,
+    "text": "Her teacher asks which parts can be allowed to wear away,"
+  },
+  {
+    "start": 554.225,
+    "end": 557.5,
+    "text": "which must remain protected, and how the community would"
+  },
+  {
+    "start": 557.5,
+    "end": 560.625,
+    "text": "know that its remaining protection was still enough."
+  },
+  {
+    "start": 561.7,
+    "end": 565.25,
+    "text": "Radiation presents another problem, related to shielding"
+  },
+  {
+    "start": 565.25,
+    "end": 567.3625000000001,
+    "text": "but different from a dust impact."
+  },
+  {
+    "start": 567.3625000000001,
+    "end": 570.7625,
+    "text": "Outside Earth's protective environment, space travelers"
+  },
+  {
+    "start": 570.7625,
+    "end": 574.2875,
+    "text": "face sources including energetic particles from the Sun"
+  },
+  {
+    "start": 574.2875,
+    "end": 576.5125,
+    "text": "and galactic cosmic rays."
+  },
+  {
+    "start": 576.5125,
+    "end": 579.3125,
+    "text": "Different particles and energies interact with shielding"
+  },
+  {
+    "start": 579.3125,
+    "end": 583.0125,
+    "text": "differently. More material is not automatically a complete"
+  },
+  {
+    "start": 583.0125,
+    "end": 586.5125,
+    "text": "answer, and secondary radiation can matter."
+  },
+  {
+    "start": 587.0,
+    "end": 590.0500000000001,
+    "text": "Water and other stored materials can contribute to protection"
+  },
+  {
+    "start": 590.0500000000001,
+    "end": 592.8125,
+    "text": "in a design, but their placement has to work with the"
+  },
+  {
+    "start": 592.8125,
+    "end": 594.3625000000001,
+    "text": "ship's other needs."
+  },
+  {
+    "start": 594.3625000000001,
+    "end": 597.85,
+    "text": "A storm shelter for a limited event and a whole-life exposure"
+  },
+  {
+    "start": 597.85,
+    "end": 600.5625,
+    "text": "strategy are not the same thing."
+  },
+  {
+    "start": 600.5625,
+    "end": 603.9625,
+    "text": "The centuries-long consequences for a community, including"
+  },
+  {
+    "start": 603.9625,
+    "end": 607.4250000000001,
+    "text": "children and future pregnancies, are not established by"
+  },
+  {
+    "start": 607.4250000000001,
+    "end": 609.45,
+    "text": "a short mission experience."
+  },
+  {
+    "start": 609.45,
+    "end": 612.1625,
+    "text": "We should not claim that one wall thickness makes the"
+  },
+  {
+    "start": 612.1625,
+    "end": 613.4625,
+    "text": "voyage safe."
+  },
+  {
+    "start": 613.9250000000001,
+    "end": 617.6500000000001,
+    "text": "Instead, the story asks for measurement, models, uncertainty"
+  },
+  {
+    "start": 617.6500000000001,
+    "end": 621.1375,
+    "text": "margins, protected spaces, and the willingness to revise"
+  },
+  {
+    "start": 621.1375,
+    "end": 625.2625,
+    "text": "plans. Lyra's mother helps inventory supplies stored around"
+  },
+  {
+    "start": 625.2625,
+    "end": 629.4000000000001,
+    "text": "a shelter. The water is valuable for drinking, chemistry,"
+  },
+  {
+    "start": 629.4000000000001,
+    "end": 631.7750000000001,
+    "text": "thermal management, and protection."
+  },
+  {
+    "start": 631.7750000000001,
+    "end": 635.0375,
+    "text": "Using it differently in one system can change what another"
+  },
+  {
+    "start": 635.0375,
+    "end": 637.225,
+    "text": "system is able to promise."
+  },
+  {
+    "start": 638.2750000000001,
+    "end": 641.4125,
+    "text": "If Wayfarer's living rings rotate, the floor can push"
+  },
+  {
+    "start": 641.4125,
+    "end": 644.2625,
+    "text": "on their occupants as they move around the ring."
+  },
+  {
+    "start": 644.2625,
+    "end": 647.3750000000001,
+    "text": "In the rotating frame, that can produce an experience"
+  },
+  {
+    "start": 647.3750000000001,
+    "end": 648.7875,
+    "text": "resembling weight."
+  },
+  {
+    "start": 648.7875,
+    "end": 652.2,
+    "text": "The apparent down points outward, toward the rim, rather"
+  },
+  {
+    "start": 652.2,
+    "end": 655.0125,
+    "text": "than toward the center of a miniature planet."
+  },
+  {
+    "start": 655.0125,
+    "end": 658.825,
+    "text": "This is established mechanics, not a gravity generator."
+  },
+  {
+    "start": 658.825,
+    "end": 662.6375,
+    "text": "The experience depends on radius and rotation rate."
+  },
+  {
+    "start": 663.1,
+    "end": 666.5625,
+    "text": "A small, rapidly turning habitat can present motion and"
+  },
+  {
+    "start": 666.5625,
+    "end": 669.8625000000001,
+    "text": "adaptation challenges, including effects on movements"
+  },
+  {
+    "start": 669.8625000000001,
+    "end": 671.4875000000001,
+    "text": "of the head and body."
+  },
+  {
+    "start": 671.4875000000001,
+    "end": 674.7375000000001,
+    "text": "A larger radius can change those tradeoffs while making"
+  },
+  {
+    "start": 674.7375000000001,
+    "end": 677.4875000000001,
+    "text": "the structure harder to build and operate."
+  },
+  {
+    "start": 677.4875000000001,
+    "end": 681.575,
+    "text": "We also do not possess evidence that any chosen artificial-gravity"
+  },
+  {
+    "start": 681.575,
+    "end": 684.9625,
+    "text": "environment guarantees normal health and reproduction"
+  },
+  {
+    "start": 684.9625,
+    "end": 687.2375000000001,
+    "text": "over many human generations."
+  },
+  {
+    "start": 687.725,
+    "end": 691.1625,
+    "text": "Lyra drops a soft ball in a lesson and discovers why a"
+  },
+  {
+    "start": 691.1625,
+    "end": 694.95,
+    "text": "moving body does not always follow the path she expected."
+  },
+  {
+    "start": 694.95,
+    "end": 697.75,
+    "text": "The diagram helps us see the mechanics."
+  },
+  {
+    "start": 697.75,
+    "end": 700.825,
+    "text": "It does not turn the ring into a medically validated Earth"
+  },
+  {
+    "start": 700.825,
+    "end": 704.8375000000001,
+    "text": "replacement. Designing an environment that feels familiar"
+  },
+  {
+    "start": 704.8375000000001,
+    "end": 707.9000000000001,
+    "text": "is only part of learning whether it can support an entire"
+  },
+  {
+    "start": 707.9000000000001,
+    "end": 708.8000000000001,
+    "text": "life."
+  },
+  {
+    "start": 709.8500000000001,
+    "end": 713.0500000000001,
+    "text": "The garden is Lyra's favorite room because it smells different"
+  },
+  {
+    "start": 713.0500000000001,
+    "end": 714.4625000000001,
+    "text": "from the corridors."
+  },
+  {
+    "start": 714.4625000000001,
+    "end": 718.0750000000002,
+    "text": "To the engineers, that smell is a reminder of chemistry,"
+  },
+  {
+    "start": 718.0750000000002,
+    "end": 721.3625000000001,
+    "text": "moisture, organisms, and materials moving through a"
+  },
+  {
+    "start": 721.3625000000001,
+    "end": 725.0875000000001,
+    "text": "system. Plants are not decorative reassurance placed around"
+  },
+  {
+    "start": 725.0875000000001,
+    "end": 727.9250000000001,
+    "text": "an otherwise solved life-support problem."
+  },
+  {
+    "start": 727.9250000000001,
+    "end": 731.4250000000001,
+    "text": "If they help produce food or process waste, their needs"
+  },
+  {
+    "start": 731.4250000000001,
+    "end": 733.9375000000001,
+    "text": "become part of the ship's operations."
+  },
+  {
+    "start": 734.4250000000001,
+    "end": 738.0000000000001,
+    "text": "Real spacecraft already recycle important resources, but"
+  },
+  {
+    "start": 738.0000000000001,
+    "end": 740.6750000000001,
+    "text": "they are not independent biospheres proven to operate"
+  },
+  {
+    "start": 740.6750000000001,
+    "end": 743.3000000000001,
+    "text": "for centuries without outside support."
+  },
+  {
+    "start": 743.3000000000001,
+    "end": 746.9000000000001,
+    "text": "Systems need maintenance, replacement hardware, and careful"
+  },
+  {
+    "start": 746.9000000000001,
+    "end": 750.6250000000001,
+    "text": "monitoring. A generation ship would need to manage interacting"
+  },
+  {
+    "start": 750.6250000000001,
+    "end": 754.0875000000001,
+    "text": "loops rather than assume that every output is automatically"
+  },
+  {
+    "start": 754.0875000000001,
+    "end": 755.9375000000001,
+    "text": "useful somewhere else."
+  },
+  {
+    "start": 755.9375000000001,
+    "end": 759.7625,
+    "text": "Material can be contaminated, difficult to separate, or"
+  },
+  {
+    "start": 759.7625,
+    "end": 762.9875000000001,
+    "text": "trapped in a form that the next process cannot use."
+  },
+  {
+    "start": 763.4750000000001,
+    "end": 767.3250000000002,
+    "text": "Real research on regenerative life support helps us investigate"
+  },
+  {
+    "start": 767.3250000000002,
+    "end": 768.6750000000002,
+    "text": "these connections."
+  },
+  {
+    "start": 768.6750000000002,
+    "end": 771.6625000000001,
+    "text": "It does not provide a finished miniature Earth."
+  },
+  {
+    "start": 771.6625000000001,
+    "end": 774.7625000000002,
+    "text": "The challenge is not to make a room look green on launch"
+  },
+  {
+    "start": 774.7625000000002,
+    "end": 778.1375000000002,
+    "text": "day. It is to keep the community fed and breathing through"
+  },
+  {
+    "start": 778.1375000000002,
+    "end": 782.2625000000002,
+    "text": "harvest failures, equipment failures, changing needs,"
+  },
+  {
+    "start": 782.2625000000002,
+    "end": 785.3750000000001,
+    "text": "and the ordinary surprises of living systems."
+  },
+  {
+    "start": 786.4500000000002,
+    "end": 788.6625000000001,
+    "text": "Imagine choosing the food system."
+  },
+  {
+    "start": 788.6625000000001,
+    "end": 791.6250000000001,
+    "text": "One productive crop might look efficient until a disease,"
+  },
+  {
+    "start": 791.6250000000001,
+    "end": 795.1000000000001,
+    "text": "nutrient problem, or environmental failure affects it."
+  },
+  {
+    "start": 795.1000000000001,
+    "end": 798.4125000000001,
+    "text": "Diversity can provide options, but it also brings different"
+  },
+  {
+    "start": 798.4125000000001,
+    "end": 802.6750000000002,
+    "text": "requirements for space, lighting, water, labor, and processing."
+  },
+  {
+    "start": 802.6750000000002,
+    "end": 806.1250000000001,
+    "text": "Food must support nutrition, not just calories, and"
+  },
+  {
+    "start": 806.1250000000001,
+    "end": 809.0000000000001,
+    "text": "meals also matter for morale and culture."
+  },
+  {
+    "start": 809.0000000000001,
+    "end": 812.0875000000002,
+    "text": "Some production could be biological, some could involve"
+  },
+  {
+    "start": 812.0875000000002,
+    "end": 814.9625000000002,
+    "text": "stored reserves or other proposed methods."
+  },
+  {
+    "start": 815.4500000000002,
+    "end": 818.2375000000002,
+    "text": "None removes the need to account for energy and material"
+  },
+  {
+    "start": 818.2375000000002,
+    "end": 821.3000000000002,
+    "text": "flows. The ship must decide what happens after a poor"
+  },
+  {
+    "start": 821.3000000000002,
+    "end": 824.1750000000002,
+    "text": "harvest, before the poor harvest occurs."
+  },
+  {
+    "start": 824.1750000000002,
+    "end": 826.3000000000002,
+    "text": "Is there enough stored food to recover?"
+  },
+  {
+    "start": 826.3000000000002,
+    "end": 829.0000000000002,
+    "text": "Can another growing area remain isolated?"
+  },
+  {
+    "start": 829.0000000000002,
+    "end": 831.8500000000001,
+    "text": "Can the community change its menu without losing essential"
+  },
+  {
+    "start": 831.8500000000001,
+    "end": 835.7500000000002,
+    "text": "nutrients? Lyra helps with an ordinary harvest while adults"
+  },
+  {
+    "start": 835.7500000000002,
+    "end": 837.2125000000002,
+    "text": "record the results."
+  },
+  {
+    "start": 837.2125000000002,
+    "end": 839.6375000000002,
+    "text": "The scene is deliberately peaceful."
+  },
+  {
+    "start": 839.6375000000002,
+    "end": 842.9750000000001,
+    "text": "Reliability is often built through unglamorous attention"
+  },
+  {
+    "start": 842.9750000000001,
+    "end": 844.6875000000002,
+    "text": "before an emergency."
+  },
+  {
+    "start": 845.1250000000002,
+    "end": 848.4000000000002,
+    "text": "A second garden is not true redundancy if it shares the"
+  },
+  {
+    "start": 848.4000000000002,
+    "end": 852.7250000000003,
+    "text": "same vulnerable pumps, power supply, or contamination"
+  },
+  {
+    "start": 852.7250000000003,
+    "end": 854.3375000000002,
+    "text": "route as the first."
+  },
+  {
+    "start": 854.3375000000002,
+    "end": 857.6250000000002,
+    "text": "The food system's boundaries extend well beyond the plants"
+  },
+  {
+    "start": 857.6250000000002,
+    "end": 858.7500000000002,
+    "text": "we can see."
+  },
+  {
+    "start": 859.8250000000002,
+    "end": 863.0125000000002,
+    "text": "Wayfarer cannot simply remove every microorganism and"
+  },
+  {
+    "start": 863.0125000000002,
+    "end": 864.8375000000002,
+    "text": "call the result healthy."
+  },
+  {
+    "start": 864.8375000000002,
+    "end": 868.5125000000002,
+    "text": "Humans live with microbial communities, and biological"
+  },
+  {
+    "start": 868.5125000000002,
+    "end": 872.9500000000002,
+    "text": "systems can depend on organisms that perform useful transformations."
+  },
+  {
+    "start": 872.9500000000002,
+    "end": 877.0750000000002,
+    "text": "Some microbes can also cause disease, damage material,"
+  },
+  {
+    "start": 877.0750000000002,
+    "end": 879.1875000000001,
+    "text": "or disrupt processes."
+  },
+  {
+    "start": 879.1875000000001,
+    "end": 882.8250000000002,
+    "text": "The task is management and understanding, not a fantasy"
+  },
+  {
+    "start": 882.8250000000002,
+    "end": 885.2125000000002,
+    "text": "of perfect sterility everywhere."
+  },
+  {
+    "start": 885.6250000000002,
+    "end": 889.0750000000002,
+    "text": "Conditions in a closed habitat can change, and the evidence"
+  },
+  {
+    "start": 889.0750000000002,
+    "end": 892.3250000000002,
+    "text": "from today's spacecraft does not tell us how every microbial"
+  },
+  {
+    "start": 892.3250000000002,
+    "end": 895.0125000000002,
+    "text": "relationship would behave across centuries."
+  },
+  {
+    "start": 895.0125000000002,
+    "end": 898.8750000000002,
+    "text": "Surveillance, hygiene, sampling, and the ability to isolate"
+  },
+  {
+    "start": 898.8750000000002,
+    "end": 900.4375000000002,
+    "text": "problems would matter."
+  },
+  {
+    "start": 900.4375000000002,
+    "end": 903.6375000000002,
+    "text": "So would the preservation of useful biological stocks"
+  },
+  {
+    "start": 903.6375000000002,
+    "end": 905.8375000000002,
+    "text": "and the equipment needed to study them."
+  },
+  {
+    "start": 905.8375000000002,
+    "end": 908.7375000000002,
+    "text": "A microscope becomes an instrument of infrastructure as"
+  },
+  {
+    "start": 908.7375000000002,
+    "end": 910.3375000000002,
+    "text": "much as discovery."
+  },
+  {
+    "start": 910.3375000000002,
+    "end": 914.5000000000002,
+    "text": "In Lyra's classroom, two sealed samples look almost identical"
+  },
+  {
+    "start": 914.5000000000002,
+    "end": 915.9125000000001,
+    "text": "to the naked eye."
+  },
+  {
+    "start": 916.3500000000001,
+    "end": 919.4375000000001,
+    "text": "The students learn that appearances do not establish whether"
+  },
+  {
+    "start": 919.4375000000001,
+    "end": 923.1625000000001,
+    "text": "water, a surface, or a culture is safe."
+  },
+  {
+    "start": 923.1625000000001,
+    "end": 926.1250000000001,
+    "text": "This is one reason the ship needs more than automated"
+  },
+  {
+    "start": 926.1250000000001,
+    "end": 929.3500000000001,
+    "text": "readings alone. It needs people trained to ask whether"
+  },
+  {
+    "start": 929.3500000000001,
+    "end": 932.5250000000001,
+    "text": "an instrument is measuring the right thing, and what else"
+  },
+  {
+    "start": 932.5250000000001,
+    "end": 935.0500000000001,
+    "text": "could explain a reassuring result."
+  },
+  {
+    "start": 936.1250000000001,
+    "end": 939.3250000000002,
+    "text": "Wayfarer needs dependable power for life support, food"
+  },
+  {
+    "start": 939.3250000000002,
+    "end": 943.3250000000002,
+    "text": "production, communication, workshops, and many other services."
+  },
+  {
+    "start": 943.3250000000002,
+    "end": 946.9500000000002,
+    "text": "Far from a star, ordinary sunlight is much less available"
+  },
+  {
+    "start": 946.9500000000002,
+    "end": 948.4375000000001,
+    "text": "than it is near Earth."
+  },
+  {
+    "start": 948.4375000000001,
+    "end": 951.5000000000001,
+    "text": "A practical interstellar habitat therefore cannot inherit"
+  },
+  {
+    "start": 951.5000000000001,
+    "end": 954.2750000000001,
+    "text": "a simple rooftop-solar assumption without examining the"
+  },
+  {
+    "start": 954.2750000000001,
+    "end": 958.4750000000001,
+    "text": "numbers. Nuclear power is one family of possibilities,"
+  },
+  {
+    "start": 958.4750000000001,
+    "end": 962.6750000000001,
+    "text": "but long-lived operation, fuel, shielding, maintenance,"
+  },
+  {
+    "start": 962.6750000000001,
+    "end": 965.3375000000001,
+    "text": "and replacement remain design problems."
+  },
+  {
+    "start": 965.8000000000001,
+    "end": 968.6875000000001,
+    "text": "A drawing of a fusion engine does not mean that a flight-ready"
+  },
+  {
+    "start": 968.6875000000001,
+    "end": 972.6500000000001,
+    "text": "system exists. Whatever produces useful energy, the ship"
+  },
+  {
+    "start": 972.6500000000001,
+    "end": 974.45,
+    "text": "must also manage heat."
+  },
+  {
+    "start": 974.45,
+    "end": 977.2375000000001,
+    "text": "Vacuum does not make waste heat disappear."
+  },
+  {
+    "start": 977.2375000000001,
+    "end": 980.5375,
+    "text": "Radiators must emit energy, and their performance depends"
+  },
+  {
+    "start": 980.5375,
+    "end": 984.4000000000001,
+    "text": "on temperature, area, materials, and the surrounding design."
+  },
+  {
+    "start": 984.4000000000001,
+    "end": 987.85,
+    "text": "Protecting them, repairing them, and keeping them compatible"
+  },
+  {
+    "start": 987.85,
+    "end": 991.5875000000001,
+    "text": "with inhabited spaces adds another set of tradeoffs."
+  },
+  {
+    "start": 992.0250000000001,
+    "end": 995.0375,
+    "text": "The ship's quiet lights are therefore connected to a much"
+  },
+  {
+    "start": 995.0375,
+    "end": 997.1250000000001,
+    "text": "larger physical arrangement."
+  },
+  {
+    "start": 997.1250000000001,
+    "end": 1000.6,
+    "text": "When Lyra looks at a glowing garden, she is also looking"
+  },
+  {
+    "start": 1000.6,
+    "end": 1004.0375,
+    "text": "at a demand on power production and heat rejection."
+  },
+  {
+    "start": 1004.0375,
+    "end": 1007.6125000000001,
+    "text": "A beautiful habitat interior hides those connections."
+  },
+  {
+    "start": 1007.6125000000001,
+    "end": 1010.5000000000001,
+    "text": "A credible plan would have to expose them."
+  },
+  {
+    "start": 1011.5500000000002,
+    "end": 1014.4375000000001,
+    "text": "High recycling performance is an achievement, but the"
+  },
+  {
+    "start": 1014.4375000000001,
+    "end": 1017.9000000000002,
+    "text": "word almost becomes important over a very long journey."
+  },
+  {
+    "start": 1017.9000000000002,
+    "end": 1021.5000000000001,
+    "text": "NASA has demonstrated major improvements in water recovery"
+  },
+  {
+    "start": 1021.5000000000001,
+    "end": 1023.9125000000001,
+    "text": "aboard the International Space Station."
+  },
+  {
+    "start": 1023.9125000000001,
+    "end": 1027.525,
+    "text": "That does not make the station a completely closed, self-sustaining"
+  },
+  {
+    "start": 1027.525,
+    "end": 1031.6000000000001,
+    "text": "ecosystem. Recovery depends on the systems, operating"
+  },
+  {
+    "start": 1031.6000000000001,
+    "end": 1035.4750000000001,
+    "text": "conditions, maintenance, and what the measurement includes."
+  },
+  {
+    "start": 1035.4750000000001,
+    "end": 1038.7625000000003,
+    "text": "A small continuing loss can become consequential over"
+  },
+  {
+    "start": 1038.7625000000003,
+    "end": 1041.3625000000002,
+    "text": "centuries if it cannot be replaced."
+  },
+  {
+    "start": 1041.8250000000003,
+    "end": 1043.6750000000002,
+    "text": "Some material may escape."
+  },
+  {
+    "start": 1043.6750000000002,
+    "end": 1047.6500000000003,
+    "text": "Some may become inaccessible in damaged equipment or contaminated"
+  },
+  {
+    "start": 1047.6500000000003,
+    "end": 1051.5000000000002,
+    "text": "residues. Even without literal leaks, a useful chemical"
+  },
+  {
+    "start": 1051.5000000000002,
+    "end": 1054.5250000000003,
+    "text": "can become unavailable to the process that needs it."
+  },
+  {
+    "start": 1054.5250000000003,
+    "end": 1058.2750000000003,
+    "text": "Wayfarer must track inventories and pathways, not simply"
+  },
+  {
+    "start": 1058.2750000000003,
+    "end": 1061.3750000000002,
+    "text": "display a reassuring recycling percentage."
+  },
+  {
+    "start": 1061.3750000000002,
+    "end": 1065.5000000000002,
+    "text": "It also needs reserves, ways to recover stranded material,"
+  },
+  {
+    "start": 1065.5000000000002,
+    "end": 1068.6625000000004,
+    "text": "and the capacity to replace worn components."
+  },
+  {
+    "start": 1069.1500000000003,
+    "end": 1072.7000000000003,
+    "text": "Lyra watches an adult identify a persistent imbalance"
+  },
+  {
+    "start": 1072.7000000000003,
+    "end": 1075.8125000000002,
+    "text": "that is too small to notice in a single day."
+  },
+  {
+    "start": 1075.8125000000002,
+    "end": 1079.0250000000003,
+    "text": "The lesson is not that recycling is pointless."
+  },
+  {
+    "start": 1079.0250000000003,
+    "end": 1082.1750000000002,
+    "text": "It is that success over a month and sustainability over"
+  },
+  {
+    "start": 1082.1750000000002,
+    "end": 1085.0125000000003,
+    "text": "many lifetimes ask different questions."
+  },
+  {
+    "start": 1085.0125000000003,
+    "end": 1088.6000000000001,
+    "text": "Time can turn a rounding error into a planning requirement."
+  },
+  {
+    "start": 1089.8250000000003,
+    "end": 1092.8000000000002,
+    "text": "A spacecraft launched from Earth can begin with carefully"
+  },
+  {
+    "start": 1092.8000000000002,
+    "end": 1094.3750000000002,
+    "text": "tested components."
+  },
+  {
+    "start": 1094.3750000000002,
+    "end": 1097.8750000000002,
+    "text": "Centuries later, many components will no longer be original."
+  },
+  {
+    "start": 1097.8750000000002,
+    "end": 1102.1000000000004,
+    "text": "Seals, bearings, sensors, electronics, coatings, pipes,"
+  },
+  {
+    "start": 1102.1000000000004,
+    "end": 1104.8500000000004,
+    "text": "and countless other parts can wear, drift, or become"
+  },
+  {
+    "start": 1104.8500000000004,
+    "end": 1108.0500000000002,
+    "text": "obsolete. Keeping a system running is not the same as"
+  },
+  {
+    "start": 1108.0500000000002,
+    "end": 1110.4625000000003,
+    "text": "keeping every original part alive."
+  },
+  {
+    "start": 1110.4625000000003,
+    "end": 1114.1500000000003,
+    "text": "Wayfarer needs a strategy for maintenance, diagnosis,"
+  },
+  {
+    "start": 1114.1500000000003,
+    "end": 1117.7500000000002,
+    "text": "repair, and replacement that survives changes in personnel"
+  },
+  {
+    "start": 1117.7500000000002,
+    "end": 1118.8875000000003,
+    "text": "and equipment."
+  },
+  {
+    "start": 1119.3500000000004,
+    "end": 1122.8750000000005,
+    "text": "A spare is useful only if it still works, fits the system"
+  },
+  {
+    "start": 1122.8750000000005,
+    "end": 1125.8375000000003,
+    "text": "that remains, and can be installed with the available"
+  },
+  {
+    "start": 1125.8375000000003,
+    "end": 1129.6875000000005,
+    "text": "tools. A backup can fail for the same reason as the primary"
+  },
+  {
+    "start": 1129.6875000000005,
+    "end": 1133.0375000000004,
+    "text": "system. Inspection itself can be mistaken."
+  },
+  {
+    "start": 1133.0375000000004,
+    "end": 1136.3750000000005,
+    "text": "These are familiar reliability problems made unusually"
+  },
+  {
+    "start": 1136.3750000000005,
+    "end": 1139.0500000000004,
+    "text": "persistent by the absence of resupply."
+  },
+  {
+    "start": 1139.0500000000004,
+    "end": 1142.4625000000003,
+    "text": "Lyra's father shows an apprentice a repaired pump beside"
+  },
+  {
+    "start": 1142.4625000000003,
+    "end": 1144.4875000000004,
+    "text": "the failed part it replaced."
+  },
+  {
+    "start": 1144.4875000000004,
+    "end": 1147.4875000000004,
+    "text": "The important inheritance is not just the pump."
+  },
+  {
+    "start": 1147.9000000000003,
+    "end": 1151.7250000000004,
+    "text": "It is the record of what failed, why the repair was chosen,"
+  },
+  {
+    "start": 1151.7250000000004,
+    "end": 1154.3875000000003,
+    "text": "what evidence supported it, and when somebody should"
+  },
+  {
+    "start": 1154.3875000000003,
+    "end": 1158.6375000000003,
+    "text": "check again. The ship must learn to repair its own accumulated"
+  },
+  {
+    "start": 1158.6375000000003,
+    "end": 1161.0500000000002,
+    "text": "judgments as well as its hardware."
+  },
+  {
+    "start": 1162.0750000000003,
+    "end": 1165.0125000000003,
+    "text": "Could the crew simply manufacture whatever they need?"
+  },
+  {
+    "start": 1165.0125000000003,
+    "end": 1168.0375000000001,
+    "text": "A workshop can extend a mission's capabilities, but it"
+  },
+  {
+    "start": 1168.0375000000001,
+    "end": 1171.5750000000003,
+    "text": "is not automatically a complete industrial civilization."
+  },
+  {
+    "start": 1171.5750000000003,
+    "end": 1174.9000000000003,
+    "text": "A machine that prints or shapes a part still needs suitable"
+  },
+  {
+    "start": 1174.9000000000003,
+    "end": 1179.6500000000003,
+    "text": "feedstock, tools, energy, measurement, and quality control."
+  },
+  {
+    "start": 1179.6500000000003,
+    "end": 1183.1750000000002,
+    "text": "A simple bracket and a specialized electronic component"
+  },
+  {
+    "start": 1183.1750000000002,
+    "end": 1186.4750000000001,
+    "text": "ask very different things of the manufacturing chain."
+  },
+  {
+    "start": 1186.4750000000001,
+    "end": 1189.3375000000003,
+    "text": "Some materials are difficult to recover to the required"
+  },
+  {
+    "start": 1189.3375000000003,
+    "end": 1190.3125000000002,
+    "text": "purity."
+  },
+  {
+    "start": 1190.7750000000003,
+    "end": 1193.6000000000004,
+    "text": "Some instruments depend on components whose own production"
+  },
+  {
+    "start": 1193.6000000000004,
+    "end": 1196.6500000000003,
+    "text": "requires an elaborate sequence of other instruments."
+  },
+  {
+    "start": 1196.6500000000003,
+    "end": 1199.8750000000002,
+    "text": "The ship must decide what to carry, what to make, what"
+  },
+  {
+    "start": 1199.8750000000002,
+    "end": 1203.9000000000003,
+    "text": "to repair, and what to redesign around simpler alternatives."
+  },
+  {
+    "start": 1203.9000000000003,
+    "end": 1207.3750000000002,
+    "text": "Those decisions affect mass and the skills the population"
+  },
+  {
+    "start": 1207.3750000000002,
+    "end": 1211.1625000000004,
+    "text": "must preserve. A useful factory is not a magic box that"
+  },
+  {
+    "start": 1211.1625000000004,
+    "end": 1212.8000000000004,
+    "text": "cancels scarcity."
+  },
+  {
+    "start": 1212.8000000000004,
+    "end": 1216.0250000000003,
+    "text": "Lyra sees a replacement fitting being inspected rather"
+  },
+  {
+    "start": 1216.0250000000003,
+    "end": 1218.1375000000003,
+    "text": "than immediately installed."
+  },
+  {
+    "start": 1218.575,
+    "end": 1221.4,
+    "text": "A part that looks right can still fail under pressure,"
+  },
+  {
+    "start": 1221.4,
+    "end": 1225.1375,
+    "text": "fatigue, temperature, or chemical exposure."
+  },
+  {
+    "start": 1225.1375,
+    "end": 1228.3750000000002,
+    "text": "Across generations, the community may become very good"
+  },
+  {
+    "start": 1228.3750000000002,
+    "end": 1230.2375000000002,
+    "text": "at making certain things."
+  },
+  {
+    "start": 1230.2375000000002,
+    "end": 1233.525,
+    "text": "The dangerous assumption would be that competence in one"
+  },
+  {
+    "start": 1233.525,
+    "end": 1237.0625000000002,
+    "text": "part of the chain guarantees independence across the whole"
+  },
+  {
+    "start": 1237.0625000000002,
+    "end": 1237.9750000000001,
+    "text": "chain."
+  },
+  {
+    "start": 1239.0500000000002,
+    "end": 1242.6000000000001,
+    "text": "On Earth, a hospital can depend on networks of specialists,"
+  },
+  {
+    "start": 1242.6000000000001,
+    "end": 1245.9375000000002,
+    "text": "manufacturers, laboratories, and supply routes far beyond"
+  },
+  {
+    "start": 1245.9375000000002,
+    "end": 1249.7500000000002,
+    "text": "its walls. Wayfarer's medical area cannot bring that whole"
+  },
+  {
+    "start": 1249.7500000000002,
+    "end": 1251.1000000000001,
+    "text": "network in a cupboard."
+  },
+  {
+    "start": 1251.1000000000001,
+    "end": 1254.4375000000002,
+    "text": "It needs trained staff, equipment, medicines, preventive"
+  },
+  {
+    "start": 1254.4375000000002,
+    "end": 1258.2000000000003,
+    "text": "care, and a way to handle cases beyond routine treatment."
+  },
+  {
+    "start": 1258.2000000000003,
+    "end": 1262.0750000000003,
+    "text": "Drugs and supplies can degrade; instruments can fail;"
+  },
+  {
+    "start": 1262.0750000000003,
+    "end": 1264.1125000000002,
+    "text": "expertise can be lost."
+  },
+  {
+    "start": 1264.5500000000002,
+    "end": 1268.6500000000003,
+    "text": "Replacing or producing medical material may require capabilities"
+  },
+  {
+    "start": 1268.6500000000003,
+    "end": 1271.3250000000003,
+    "text": "that the general workshop does not possess."
+  },
+  {
+    "start": 1271.3250000000003,
+    "end": 1274.9750000000004,
+    "text": "The difficulty extends beyond dramatic emergency surgery."
+  },
+  {
+    "start": 1274.9750000000004,
+    "end": 1279.0125000000003,
+    "text": "Chronic conditions, dental care, infection control,"
+  },
+  {
+    "start": 1279.0125000000003,
+    "end": 1282.7875000000004,
+    "text": "mental health, disability access, rehabilitation, and"
+  },
+  {
+    "start": 1282.7875000000004,
+    "end": 1286.4500000000003,
+    "text": "ordinary aging all belong to a society's health needs."
+  },
+  {
+    "start": 1286.4500000000003,
+    "end": 1289.8125000000002,
+    "text": "A mission should not imagine that choosing healthy founders"
+  },
+  {
+    "start": 1289.8125000000002,
+    "end": 1293.2750000000003,
+    "text": "removes the need to care for people who later become ill."
+  },
+  {
+    "start": 1293.9250000000002,
+    "end": 1296.9125000000001,
+    "text": "Lyra visits someone recovering quietly while a clinician"
+  },
+  {
+    "start": 1296.9125000000001,
+    "end": 1298.9875000000002,
+    "text": "teaches an apprentice nearby."
+  },
+  {
+    "start": 1298.9875000000002,
+    "end": 1301.9625,
+    "text": "For a child, the room is reassurance."
+  },
+  {
+    "start": 1301.9625,
+    "end": 1304.775,
+    "text": "For the mission planner, it is a reminder that a real"
+  },
+  {
+    "start": 1304.775,
+    "end": 1307.3375,
+    "text": "community contains vulnerability."
+  },
+  {
+    "start": 1307.3375,
+    "end": 1310.375,
+    "text": "The ship has to be designed for people who need care,"
+  },
+  {
+    "start": 1310.375,
+    "end": 1313.7625,
+    "text": "not just for an idealized crew that remains indefinitely"
+  },
+  {
+    "start": 1313.7625,
+    "end": 1316.875,
+    "text": "young, fit, and easy to support."
+  },
+  {
+    "start": 1317.9250000000002,
+    "end": 1320.8125000000002,
+    "text": "There is no single accepted passenger number that makes"
+  },
+  {
+    "start": 1320.8125000000002,
+    "end": 1322.8125000000002,
+    "text": "a generation ship viable."
+  },
+  {
+    "start": 1322.8125000000002,
+    "end": 1325.4000000000003,
+    "text": "Published models can produce very different estimates"
+  },
+  {
+    "start": 1325.4000000000003,
+    "end": 1327.8500000000004,
+    "text": "because they ask different questions and assume different"
+  },
+  {
+    "start": 1327.8500000000004,
+    "end": 1332.0875000000003,
+    "text": "conditions. Demographic stability, genetic diversity,"
+  },
+  {
+    "start": 1332.0875000000003,
+    "end": 1336.3500000000004,
+    "text": "accidents, fertility, age structure, available resources,"
+  },
+  {
+    "start": 1336.3500000000004,
+    "end": 1338.4875000000002,
+    "text": "and social rules all matter."
+  },
+  {
+    "start": 1338.4875000000002,
+    "end": 1341.5500000000002,
+    "text": "A population can be large enough for one model's genetic"
+  },
+  {
+    "start": 1341.5500000000002,
+    "end": 1344.7375000000002,
+    "text": "criterion while lacking enough trained people to maintain"
+  },
+  {
+    "start": 1344.7375000000002,
+    "end": 1346.2125000000003,
+    "text": "crucial systems."
+  },
+  {
+    "start": 1346.6250000000002,
+    "end": 1349.6875000000002,
+    "text": "It can have skilled adults now and a dangerous shortage"
+  },
+  {
+    "start": 1349.6875000000002,
+    "end": 1353.4875000000002,
+    "text": "later. A result based on tightly managed reproduction"
+  },
+  {
+    "start": 1353.4875000000002,
+    "end": 1357.2500000000002,
+    "text": "is not a neutral promise that a small community will thrive."
+  },
+  {
+    "start": 1357.2500000000002,
+    "end": 1361.3500000000001,
+    "text": "Its assumptions involve people, rights, and uncertainty."
+  },
+  {
+    "start": 1361.3500000000001,
+    "end": 1364.8250000000003,
+    "text": "Stored reproductive material might broaden options under"
+  },
+  {
+    "start": 1364.8250000000003,
+    "end": 1368.4500000000003,
+    "text": "some future medical capabilities, but it cannot substitute"
+  },
+  {
+    "start": 1368.4500000000003,
+    "end": 1371.8750000000002,
+    "text": "for every function of a living population, or settle who"
+  },
+  {
+    "start": 1371.8750000000002,
+    "end": 1374.0625000000002,
+    "text": "gets to authorize its use."
+  },
+  {
+    "start": 1374.5000000000002,
+    "end": 1377.4625000000003,
+    "text": "The responsible approach is to describe the model and"
+  },
+  {
+    "start": 1377.4625000000003,
+    "end": 1380.6625000000004,
+    "text": "its limits rather than announce a magical minimum."
+  },
+  {
+    "start": 1380.6625000000004,
+    "end": 1384.4750000000004,
+    "text": "On Wayfarer, a classroom photograph includes children,"
+  },
+  {
+    "start": 1384.4750000000004,
+    "end": 1387.0375000000004,
+    "text": "adults, and older residents."
+  },
+  {
+    "start": 1387.0375000000004,
+    "end": 1389.9250000000004,
+    "text": "Their value is not that they form a convenient set of"
+  },
+  {
+    "start": 1389.9250000000004,
+    "end": 1393.1875000000002,
+    "text": "numbers. It is that the mission exists for lives like"
+  },
+  {
+    "start": 1393.1875000000002,
+    "end": 1394.1500000000003,
+    "text": "theirs."
+  },
+  {
+    "start": 1395.2000000000003,
+    "end": 1398.4000000000003,
+    "text": "A population isolated for many generations would need"
+  },
+  {
+    "start": 1398.4000000000003,
+    "end": 1402.4875000000004,
+    "text": "to consider inheritance, genetic variation, health, and"
+  },
+  {
+    "start": 1402.4875000000004,
+    "end": 1405.3500000000004,
+    "text": "the consequences of a limited founding group."
+  },
+  {
+    "start": 1405.3500000000004,
+    "end": 1408.0750000000003,
+    "text": "But a discussion of genetics can become morally careless"
+  },
+  {
+    "start": 1408.0750000000003,
+    "end": 1410.6625000000004,
+    "text": "if it treats residents as breeding equipment."
+  },
+  {
+    "start": 1410.6625000000004,
+    "end": 1414.4750000000004,
+    "text": "People have relationships, privacy, differing wishes,"
+  },
+  {
+    "start": 1414.4750000000004,
+    "end": 1417.5500000000004,
+    "text": "and rights that cannot be erased by drawing a family tree"
+  },
+  {
+    "start": 1417.5500000000004,
+    "end": 1419.0125000000003,
+    "text": "on a planning board."
+  },
+  {
+    "start": 1419.0125000000003,
+    "end": 1422.6500000000003,
+    "text": "A biological model cannot decide a just political arrangement"
+  },
+  {
+    "start": 1422.6500000000003,
+    "end": 1423.8875000000003,
+    "text": "by itself."
+  },
+  {
+    "start": 1424.3750000000005,
+    "end": 1427.0625000000005,
+    "text": "Medical knowledge and reproductive technologies might"
+  },
+  {
+    "start": 1427.0625000000005,
+    "end": 1430.6875000000005,
+    "text": "change options, while also introducing further technical"
+  },
+  {
+    "start": 1430.6875000000005,
+    "end": 1432.3875000000003,
+    "text": "and ethical questions."
+  },
+  {
+    "start": 1432.3875000000003,
+    "end": 1435.7000000000003,
+    "text": "Coercion could damage the very society the mission claims"
+  },
+  {
+    "start": 1435.7000000000003,
+    "end": 1439.6000000000004,
+    "text": "to preserve. None of this means ignoring constraints."
+  },
+  {
+    "start": 1439.6000000000004,
+    "end": 1442.5250000000003,
+    "text": "It means admitting that constraints must be faced by a"
+  },
+  {
+    "start": 1442.5250000000003,
+    "end": 1446.3625000000004,
+    "text": "legitimate community rather than disguised as an automatic"
+  },
+  {
+    "start": 1446.3625000000004,
+    "end": 1448.1375000000003,
+    "text": "scientific command."
+  },
+  {
+    "start": 1448.6250000000005,
+    "end": 1451.5625000000005,
+    "text": "Wayfarer's residents would need ways to make and revise"
+  },
+  {
+    "start": 1451.5625000000005,
+    "end": 1455.7250000000004,
+    "text": "policy, challenge authority, protect vulnerable people,"
+  },
+  {
+    "start": 1455.7250000000004,
+    "end": 1458.3125000000005,
+    "text": "and respond to changing evidence."
+  },
+  {
+    "start": 1458.3125000000005,
+    "end": 1461.4250000000004,
+    "text": "A durable mission is not just a population that continues"
+  },
+  {
+    "start": 1461.4250000000004,
+    "end": 1464.8750000000005,
+    "text": "to exist. It is a place in which the people who exist"
+  },
+  {
+    "start": 1464.8750000000005,
+    "end": 1467.8375000000003,
+    "text": "can reasonably understand themselves as participants in"
+  },
+  {
+    "start": 1467.8375000000003,
+    "end": 1471.7500000000005,
+    "text": "a shared world, rather than as resources owned by an old"
+  },
+  {
+    "start": 1471.7500000000005,
+    "end": 1473.1750000000004,
+    "text": "departure plan."
+  },
+  {
+    "start": 1474.2750000000005,
+    "end": 1477.4875000000004,
+    "text": "Lyra grows up. The garden becomes a workplace, and the"
+  },
+  {
+    "start": 1477.4875000000004,
+    "end": 1480.2625000000005,
+    "text": "classroom becomes a room she helps teach in."
+  },
+  {
+    "start": 1480.2625000000005,
+    "end": 1482.7750000000005,
+    "text": "Some of the adults who designed the original systems are"
+  },
+  {
+    "start": 1482.7750000000005,
+    "end": 1485.1000000000004,
+    "text": "still alive; others are not."
+  },
+  {
+    "start": 1485.1000000000004,
+    "end": 1488.4000000000005,
+    "text": "The transition exposes a problem that no archive solves"
+  },
+  {
+    "start": 1488.4000000000005,
+    "end": 1492.0625000000005,
+    "text": "alone. A manual can preserve instructions without preserving"
+  },
+  {
+    "start": 1492.0625000000005,
+    "end": 1495.7250000000004,
+    "text": "understanding. Software can survive while the tools needed"
+  },
+  {
+    "start": 1495.7250000000004,
+    "end": 1498.2625000000005,
+    "text": "to read or verify it disappear."
+  },
+  {
+    "start": 1498.2625000000005,
+    "end": 1501.1625000000004,
+    "text": "A procedure can be followed correctly in conditions where"
+  },
+  {
+    "start": 1501.1625000000004,
+    "end": 1503.2875000000004,
+    "text": "it is no longer appropriate."
+  },
+  {
+    "start": 1503.7000000000005,
+    "end": 1507.2750000000005,
+    "text": "The community needs practical training, scientific habits,"
+  },
+  {
+    "start": 1507.2750000000005,
+    "end": 1510.4625000000005,
+    "text": "accessible records, and the ability to question inherited"
+  },
+  {
+    "start": 1510.4625000000005,
+    "end": 1514.0750000000005,
+    "text": "explanations. That means learning why a system works,"
+  },
+  {
+    "start": 1514.0750000000005,
+    "end": 1516.7125000000005,
+    "text": "how its measurements can fail, and what would count as"
+  },
+  {
+    "start": 1516.7125000000005,
+    "end": 1519.5125000000005,
+    "text": "evidence that a familiar repair is wrong."
+  },
+  {
+    "start": 1519.5125000000005,
+    "end": 1522.7250000000004,
+    "text": "Multiple people should understand essential tasks, while"
+  },
+  {
+    "start": 1522.7250000000004,
+    "end": 1526.1500000000005,
+    "text": "records need formats and media that can be maintained."
+  },
+  {
+    "start": 1526.1500000000005,
+    "end": 1529.4000000000005,
+    "text": "Lyra keeps her childhood notebook beside newer technical"
+  },
+  {
+    "start": 1529.4000000000005,
+    "end": 1533.5750000000005,
+    "text": "documents. The notebook is not a complete operating manual."
+  },
+  {
+    "start": 1534.1750000000004,
+    "end": 1537.4750000000006,
+    "text": "It is a small reminder that knowledge has to travel through"
+  },
+  {
+    "start": 1537.4750000000006,
+    "end": 1541.7875000000006,
+    "text": "actual lives. The ship's most important cargo includes"
+  },
+  {
+    "start": 1541.7875000000006,
+    "end": 1544.8750000000005,
+    "text": "the ability to recognize a mistake made by somebody the"
+  },
+  {
+    "start": 1544.8750000000005,
+    "end": 1546.8000000000004,
+    "text": "community once trusted."
+  },
+  {
+    "start": 1547.8250000000005,
+    "end": 1551.2750000000005,
+    "text": "If every day aboard Wayfarer felt like a disaster drill,"
+  },
+  {
+    "start": 1551.2750000000005,
+    "end": 1553.9125000000004,
+    "text": "the mission would have failed at being a home long before"
+  },
+  {
+    "start": 1553.9125000000004,
+    "end": 1555.5250000000005,
+    "text": "its machinery stopped."
+  },
+  {
+    "start": 1555.5250000000005,
+    "end": 1558.9750000000004,
+    "text": "The people need relationships, private space, meaningful"
+  },
+  {
+    "start": 1558.9750000000004,
+    "end": 1562.6625000000004,
+    "text": "work, rest, play, and reasons to care about tomorrow."
+  },
+  {
+    "start": 1562.6625000000004,
+    "end": 1566.1250000000005,
+    "text": "They will make art, invent customs, disagree about noise,"
+  },
+  {
+    "start": 1566.1250000000005,
+    "end": 1569.2125000000005,
+    "text": "celebrate meals, and argue about which room should become"
+  },
+  {
+    "start": 1569.2125000000005,
+    "end": 1570.5750000000005,
+    "text": "a meeting place."
+  },
+  {
+    "start": 1570.5750000000005,
+    "end": 1573.8000000000004,
+    "text": "None of that is decorative material added after the serious"
+  },
+  {
+    "start": 1573.8000000000004,
+    "end": 1574.9625000000005,
+    "text": "engineering."
+  },
+  {
+    "start": 1575.4500000000005,
+    "end": 1578.7875000000004,
+    "text": "Long-term cooperation depends partly on whether life feels"
+  },
+  {
+    "start": 1578.7875000000004,
+    "end": 1582.4250000000004,
+    "text": "livable. Evidence from confined and isolated environments"
+  },
+  {
+    "start": 1582.4250000000004,
+    "end": 1586.1625000000004,
+    "text": "can inform the discussion, but no existing analogue reproduces"
+  },
+  {
+    "start": 1586.1625000000004,
+    "end": 1590.2250000000004,
+    "text": "a society with centuries of travel and no practical return."
+  },
+  {
+    "start": 1590.2250000000004,
+    "end": 1592.9625000000003,
+    "text": "Designers should therefore be cautious about assuming"
+  },
+  {
+    "start": 1592.9625000000003,
+    "end": 1596.3250000000005,
+    "text": "one psychological selection process guarantees future"
+  },
+  {
+    "start": 1596.3250000000005,
+    "end": 1600.8000000000004,
+    "text": "harmony. Lyra, now an adult, hears children laugh near"
+  },
+  {
+    "start": 1600.8000000000004,
+    "end": 1603.8000000000004,
+    "text": "a garden bench that has already been repaired more than"
+  },
+  {
+    "start": 1603.8000000000004,
+    "end": 1604.6875000000005,
+    "text": "once."
+  },
+  {
+    "start": 1605.1000000000006,
+    "end": 1608.3500000000006,
+    "text": "It is an ordinary moment, and that is precisely why it"
+  },
+  {
+    "start": 1608.3500000000006,
+    "end": 1612.3625000000006,
+    "text": "matters. A successful ship cannot spend generations merely"
+  },
+  {
+    "start": 1612.3625000000006,
+    "end": 1615.6625000000006,
+    "text": "waiting for real life to begin at the destination."
+  },
+  {
+    "start": 1615.6625000000006,
+    "end": 1619.0000000000005,
+    "text": "For the people born between stars, the journey is where"
+  },
+  {
+    "start": 1619.0000000000005,
+    "end": 1621.1000000000006,
+    "text": "their real lives are happening."
+  },
+  {
+    "start": 1622.2000000000005,
+    "end": 1623.8750000000005,
+    "text": "Lyra becomes old."
+  },
+  {
+    "start": 1623.8750000000005,
+    "end": 1626.3625000000004,
+    "text": "The adults who signed the original mission agreement are"
+  },
+  {
+    "start": 1626.3625000000004,
+    "end": 1629.8750000000005,
+    "text": "gone or disappearing from the community's daily life."
+  },
+  {
+    "start": 1629.8750000000005,
+    "end": 1632.8000000000004,
+    "text": "Their promises remain in records, but records are not"
+  },
+  {
+    "start": 1632.8000000000004,
+    "end": 1634.3000000000004,
+    "text": "a living electorate."
+  },
+  {
+    "start": 1634.3000000000004,
+    "end": 1637.6750000000004,
+    "text": "Who now decides how much labor belongs to the destination,"
+  },
+  {
+    "start": 1637.6750000000004,
+    "end": 1641.6750000000004,
+    "text": "how much risk is acceptable, or which rules can be changed?"
+  },
+  {
+    "start": 1641.6750000000004,
+    "end": 1645.5375000000004,
+    "text": "A permanently hereditary command structure is one imaginable"
+  },
+  {
+    "start": 1645.5375000000004,
+    "end": 1648.7375000000004,
+    "text": "answer, not a scientific requirement."
+  },
+  {
+    "start": 1649.2000000000005,
+    "end": 1652.3875000000005,
+    "text": "Elections are another possibility, but an election alone"
+  },
+  {
+    "start": 1652.3875000000005,
+    "end": 1657.1000000000006,
+    "text": "does not solve technical expertise, minority rights, accountability,"
+  },
+  {
+    "start": 1657.1000000000006,
+    "end": 1658.9875000000004,
+    "text": "or emergency authority."
+  },
+  {
+    "start": 1658.9875000000004,
+    "end": 1662.2125000000005,
+    "text": "The ship needs institutions that can respond to real constraints"
+  },
+  {
+    "start": 1662.2125000000005,
+    "end": 1665.2750000000005,
+    "text": "without turning every disagreement into disloyalty."
+  },
+  {
+    "start": 1665.2750000000005,
+    "end": 1668.1625000000006,
+    "text": "The founding charter may provide a starting point, but"
+  },
+  {
+    "start": 1668.1625000000006,
+    "end": 1671.0375000000006,
+    "text": "future residents need a legitimate way to interpret and"
+  },
+  {
+    "start": 1671.0375000000006,
+    "end": 1674.9500000000005,
+    "text": "amend it. Lyra leaves her notebook to the community archive."
+  },
+  {
+    "start": 1674.9500000000005,
+    "end": 1679.0250000000005,
+    "text": "When she dies, there is no dramatic failure in the engines."
+  },
+  {
+    "start": 1679.6250000000002,
+    "end": 1681.2875000000004,
+    "text": "The lights remain on."
+  },
+  {
+    "start": 1681.2875000000004,
+    "end": 1684.4125000000004,
+    "text": "The deeper change is that the mission is losing its direct"
+  },
+  {
+    "start": 1684.4125000000004,
+    "end": 1686.5125000000003,
+    "text": "memory of choosing to leave."
+  },
+  {
+    "start": 1686.5125000000003,
+    "end": 1690.2000000000003,
+    "text": "Whether it remains justified must increasingly be answered"
+  },
+  {
+    "start": 1690.2000000000003,
+    "end": 1693.6625000000004,
+    "text": "by the people who are alive, rather than by the authority"
+  },
+  {
+    "start": 1693.6625000000004,
+    "end": 1695.3750000000002,
+    "text": "of the people who are not."
+  },
+  {
+    "start": 1696.4750000000006,
+    "end": 1699.9750000000006,
+    "text": "Many generations later, another child sits in the classroom."
+  },
+  {
+    "start": 1699.9750000000006,
+    "end": 1702.9000000000005,
+    "text": "Her name is Sera, and she is a descendant of Lyra's"
+  },
+  {
+    "start": 1702.9000000000005,
+    "end": 1705.9750000000006,
+    "text": "community. We are not jumping forward a few decades and"
+  },
+  {
+    "start": 1705.9750000000006,
+    "end": 1708.8750000000005,
+    "text": "pretending the original passengers are still present."
+  },
+  {
+    "start": 1708.8750000000005,
+    "end": 1710.4875000000004,
+    "text": "Centuries have passed."
+  },
+  {
+    "start": 1710.4875000000004,
+    "end": 1713.8500000000006,
+    "text": "Sera reads a preserved copy of Lyra's account and recognizes"
+  },
+  {
+    "start": 1713.8500000000006,
+    "end": 1716.3625000000004,
+    "text": "the garden, even though its equipment and some of its"
+  },
+  {
+    "start": 1716.3625000000004,
+    "end": 1717.9375000000005,
+    "text": "layout have changed."
+  },
+  {
+    "start": 1717.9375000000005,
+    "end": 1721.7750000000005,
+    "text": "Earth is a place in stories, images, scientific records,"
+  },
+  {
+    "start": 1721.7750000000005,
+    "end": 1723.4000000000005,
+    "text": "and delayed messages."
+  },
+  {
+    "start": 1723.4000000000005,
+    "end": 1725.8625000000004,
+    "text": "It is not a landscape she remembers."
+  },
+  {
+    "start": 1726.2750000000005,
+    "end": 1727.6250000000005,
+    "text": "The ship is home."
+  },
+  {
+    "start": 1727.6250000000005,
+    "end": 1729.9000000000005,
+    "text": "The mission's planners would have called her a future"
+  },
+  {
+    "start": 1729.9000000000005,
+    "end": 1731.5875000000005,
+    "text": "arrival generation."
+  },
+  {
+    "start": 1731.5875000000005,
+    "end": 1734.9500000000005,
+    "text": "Sera does not experience herself as a scheduled replacement"
+  },
+  {
+    "start": 1734.9500000000005,
+    "end": 1736.5625000000005,
+    "text": "for somebody who died."
+  },
+  {
+    "start": 1736.5625000000005,
+    "end": 1740.2500000000005,
+    "text": "She is a person whose life has already begun, with friendships,"
+  },
+  {
+    "start": 1740.2500000000005,
+    "end": 1742.6875000000005,
+    "text": "abilities, and plans of her own."
+  },
+  {
+    "start": 1742.6875000000005,
+    "end": 1745.4875000000004,
+    "text": "This is the emotional center of the journey."
+  },
+  {
+    "start": 1745.4875000000004,
+    "end": 1748.8125000000005,
+    "text": "The people who arrive are not simply the original crew"
+  },
+  {
+    "start": 1748.8125000000005,
+    "end": 1751.2625000000005,
+    "text": "delivered later in different bodies."
+  },
+  {
+    "start": 1751.7000000000005,
+    "end": 1755.0375000000006,
+    "text": "They are a new society, shaped by an environment their"
+  },
+  {
+    "start": 1755.0375000000006,
+    "end": 1758.3750000000007,
+    "text": "ancestors chose and by decisions they will have to make"
+  },
+  {
+    "start": 1758.3750000000007,
+    "end": 1761.8625000000006,
+    "text": "for themselves. Their relationship to the destination"
+  },
+  {
+    "start": 1761.8625000000006,
+    "end": 1764.2000000000005,
+    "text": "cannot be assumed in advance."
+  },
+  {
+    "start": 1765.3000000000006,
+    "end": 1768.0500000000006,
+    "text": "Sera grows into an adult and takes part in the ship's"
+  },
+  {
+    "start": 1768.0500000000006,
+    "end": 1771.5625000000005,
+    "text": "decisions. She can question the destination, but she cannot"
+  },
+  {
+    "start": 1771.5625000000005,
+    "end": 1774.6375000000005,
+    "text": "vote a nearby safe planet into existence."
+  },
+  {
+    "start": 1774.6375000000005,
+    "end": 1777.2125000000005,
+    "text": "That distinction makes consent difficult."
+  },
+  {
+    "start": 1777.2125000000005,
+    "end": 1781.2000000000005,
+    "text": "The community can improve privacy, protect dissent, distribute"
+  },
+  {
+    "start": 1781.2000000000005,
+    "end": 1785.0250000000005,
+    "text": "work fairly, and allow meaningful changes in policy."
+  },
+  {
+    "start": 1785.0250000000005,
+    "end": 1788.3000000000006,
+    "text": "It may still be unable to offer the kind of exit available"
+  },
+  {
+    "start": 1788.3000000000006,
+    "end": 1790.8125000000005,
+    "text": "to someone who leaves a town on Earth."
+  },
+  {
+    "start": 1791.2500000000005,
+    "end": 1794.5875000000005,
+    "text": "Even changing course could require resources or travel"
+  },
+  {
+    "start": 1794.5875000000005,
+    "end": 1797.9125000000006,
+    "text": "time beyond the remaining capability of the ship."
+  },
+  {
+    "start": 1797.9125000000006,
+    "end": 1801.4750000000006,
+    "text": "Returning is not automatically easier than continuing."
+  },
+  {
+    "start": 1801.4750000000006,
+    "end": 1804.9250000000006,
+    "text": "A right written in a charter is incomplete if exercising"
+  },
+  {
+    "start": 1804.9250000000006,
+    "end": 1807.5875000000005,
+    "text": "it requires an impossible journey."
+  },
+  {
+    "start": 1807.5875000000005,
+    "end": 1810.5250000000005,
+    "text": "This does not mean that political choice is meaningless"
+  },
+  {
+    "start": 1810.5250000000005,
+    "end": 1812.0250000000005,
+    "text": "aboard Wayfarer."
+  },
+  {
+    "start": 1812.0250000000005,
+    "end": 1814.7125000000005,
+    "text": "It means the society should be honest about what it can"
+  },
+  {
+    "start": 1814.7125000000005,
+    "end": 1818.3750000000005,
+    "text": "offer, and work harder to protect the choices that remain."
+  },
+  {
+    "start": 1819.0000000000005,
+    "end": 1822.2375000000004,
+    "text": "Sera's council faces a maintenance decision that affects"
+  },
+  {
+    "start": 1822.2375000000004,
+    "end": 1826.2125000000005,
+    "text": "living space, reserves, and preparations for arrival."
+  },
+  {
+    "start": 1826.2125000000005,
+    "end": 1829.5000000000005,
+    "text": "People disagree without wanting the community to fail."
+  },
+  {
+    "start": 1829.5000000000005,
+    "end": 1833.2000000000005,
+    "text": "A durable civilization needs room for that disagreement."
+  },
+  {
+    "start": 1833.2000000000005,
+    "end": 1837.3875000000005,
+    "text": "A destination chosen centuries ago does not automatically"
+  },
+  {
+    "start": 1837.3875000000005,
+    "end": 1840.3000000000004,
+    "text": "win every argument about how the living should be treated"
+  },
+  {
+    "start": 1840.3000000000004,
+    "end": 1841.2000000000005,
+    "text": "today."
+  },
+  {
+    "start": 1842.2750000000005,
+    "end": 1844.7500000000005,
+    "text": "A message from Earth does not arrive at the moment it"
+  },
+  {
+    "start": 1844.7500000000005,
+    "end": 1848.1000000000006,
+    "text": "is sent. The delay depends on the changing distance between"
+  },
+  {
+    "start": 1848.1000000000006,
+    "end": 1851.0875000000005,
+    "text": "sender and receiver, and it can become years."
+  },
+  {
+    "start": 1851.0875000000005,
+    "end": 1854.5000000000005,
+    "text": "A conversation involving a reply takes longer still."
+  },
+  {
+    "start": 1854.5000000000005,
+    "end": 1857.3250000000005,
+    "text": "The descendants aboard Wayfarer may receive advice from"
+  },
+  {
+    "start": 1857.3250000000005,
+    "end": 1860.1500000000005,
+    "text": "people who cannot see their current conditions, using"
+  },
+  {
+    "start": 1860.1500000000005,
+    "end": 1862.6875000000005,
+    "text": "assumptions that are already out of date."
+  },
+  {
+    "start": 1862.6875000000005,
+    "end": 1865.7000000000005,
+    "text": "Earth itself will change while the ship travels."
+  },
+  {
+    "start": 1865.7000000000005,
+    "end": 1869.7250000000006,
+    "text": "Languages, institutions, technologies, and shared concerns"
+  },
+  {
+    "start": 1869.7250000000006,
+    "end": 1871.5375000000006,
+    "text": "may become unfamiliar."
+  },
+  {
+    "start": 1872.0250000000005,
+    "end": 1874.4875000000004,
+    "text": "None of that requires an Earth disaster."
+  },
+  {
+    "start": 1874.4875000000004,
+    "end": 1877.1125000000004,
+    "text": "Ordinary historical change is enough."
+  },
+  {
+    "start": 1877.1125000000004,
+    "end": 1880.1375000000005,
+    "text": "Sera can value messages from the old home without treating"
+  },
+  {
+    "start": 1880.1375000000005,
+    "end": 1882.6875000000005,
+    "text": "every instruction as a current mandate."
+  },
+  {
+    "start": 1882.6875000000005,
+    "end": 1885.3625000000004,
+    "text": "Nor should the mission assume communication will remain"
+  },
+  {
+    "start": 1885.3625000000004,
+    "end": 1887.0125000000005,
+    "text": "perfectly reliable."
+  },
+  {
+    "start": 1887.0125000000005,
+    "end": 1890.8250000000005,
+    "text": "Equipment, power, pointing, political support, and the"
+  },
+  {
+    "start": 1890.8250000000005,
+    "end": 1893.1125000000004,
+    "text": "people at both ends all matter."
+  },
+  {
+    "start": 1893.1125000000004,
+    "end": 1896.5000000000005,
+    "text": "A lost message is not proof that Earth has vanished."
+  },
+  {
+    "start": 1896.5000000000005,
+    "end": 1899.8500000000004,
+    "text": "It is a problem to investigate with limited information."
+  },
+  {
+    "start": 1900.4500000000005,
+    "end": 1904.6500000000005,
+    "text": "The communication room contains hope, frustration, memory,"
+  },
+  {
+    "start": 1904.6500000000005,
+    "end": 1907.1125000000006,
+    "text": "and engineering at the same time."
+  },
+  {
+    "start": 1907.1125000000006,
+    "end": 1910.5750000000005,
+    "text": "The ship is connected to humanity's birthplace, but that"
+  },
+  {
+    "start": 1910.5750000000005,
+    "end": 1914.0250000000005,
+    "text": "connection cannot replace the responsibility to understand"
+  },
+  {
+    "start": 1914.0250000000005,
+    "end": 1917.3000000000006,
+    "text": "and govern the world its residents actually inhabit."
+  },
+  {
+    "start": 1918.3500000000004,
+    "end": 1921.6625000000004,
+    "text": "Our crisis begins with something uncinematic: a pump in"
+  },
+  {
+    "start": 1921.6625000000004,
+    "end": 1924.8000000000004,
+    "text": "one growing area stops behaving as expected."
+  },
+  {
+    "start": 1924.8000000000004,
+    "end": 1927.0750000000005,
+    "text": "The plants do not all die instantly."
+  },
+  {
+    "start": 1927.0750000000005,
+    "end": 1930.0500000000004,
+    "text": "The community has an opportunity to diagnose the fault,"
+  },
+  {
+    "start": 1930.0500000000004,
+    "end": 1933.6125000000004,
+    "text": "isolate the affected section, use reserves, and decide"
+  },
+  {
+    "start": 1933.6125000000004,
+    "end": 1936.2375000000004,
+    "text": "which functions matter most during repair."
+  },
+  {
+    "start": 1936.2375000000004,
+    "end": 1939.1375000000005,
+    "text": "Whether that opportunity exists depends on choices made"
+  },
+  {
+    "start": 1939.1375000000005,
+    "end": 1940.8375000000005,
+    "text": "long before the failure."
+  },
+  {
+    "start": 1940.8375000000005,
+    "end": 1943.7250000000004,
+    "text": "Can another growing area remain independent?"
+  },
+  {
+    "start": 1943.7250000000004,
+    "end": 1945.4250000000004,
+    "text": "Are spare parts usable?"
+  },
+  {
+    "start": 1945.4250000000004,
+    "end": 1948.0875000000005,
+    "text": "Can technicians verify a replacement?"
+  },
+  {
+    "start": 1948.5250000000003,
+    "end": 1952.0000000000005,
+    "text": "Are residents told what is known and what remains uncertain?"
+  },
+  {
+    "start": 1952.0000000000005,
+    "end": 1955.3625000000004,
+    "text": "Sera watches trained adults work while others organize"
+  },
+  {
+    "start": 1955.3625000000004,
+    "end": 1957.9375000000005,
+    "text": "meals and protect normal routines."
+  },
+  {
+    "start": 1957.9375000000005,
+    "end": 1961.6875000000005,
+    "text": "No single heroic person repairs an entire society."
+  },
+  {
+    "start": 1961.6875000000005,
+    "end": 1965.7750000000003,
+    "text": "The response draws on distribution systems, records, trust,"
+  },
+  {
+    "start": 1965.7750000000003,
+    "end": 1969.2625000000005,
+    "text": "reserve capacity, and people whose work rarely appears"
+  },
+  {
+    "start": 1969.2625000000005,
+    "end": 1971.4625000000003,
+    "text": "in a dramatic spaceship picture."
+  },
+  {
+    "start": 1971.4625000000003,
+    "end": 1975.1875000000005,
+    "text": "The point is not that a pump failure must destroy a generation"
+  },
+  {
+    "start": 1975.1875000000005,
+    "end": 1975.9625000000003,
+    "text": "ship."
+  },
+  {
+    "start": 1976.4000000000003,
+    "end": 1979.7000000000005,
+    "text": "It is that apparently separate technical and social systems"
+  },
+  {
+    "start": 1979.7000000000005,
+    "end": 1982.4125000000004,
+    "text": "meet inside ordinary problems."
+  },
+  {
+    "start": 1982.4125000000004,
+    "end": 1986.3625000000004,
+    "text": "Redundancy buys time only if it is genuinely independent"
+  },
+  {
+    "start": 1986.3625000000004,
+    "end": 1990.7625000000005,
+    "text": "enough to work. Trust helps people cooperate only if institutions"
+  },
+  {
+    "start": 1990.7625000000005,
+    "end": 1994.4000000000003,
+    "text": "have earned it. A repair is also a test of the community's"
+  },
+  {
+    "start": 1994.4000000000003,
+    "end": 1996.4000000000003,
+    "text": "accumulated assumptions."
+  },
+  {
+    "start": 1997.4750000000004,
+    "end": 2001.1375000000003,
+    "text": "A nearby star is not a stationary mark on an ancient navigation"
+  },
+  {
+    "start": 2001.1375000000003,
+    "end": 2005.3125000000005,
+    "text": "chart. Stars move, the ship moves, and a mission lasting"
+  },
+  {
+    "start": 2005.3125000000005,
+    "end": 2008.2125000000003,
+    "text": "centuries must keep track of changing geometry and its"
+  },
+  {
+    "start": 2008.2125000000003,
+    "end": 2012.6250000000005,
+    "text": "own state. Navigation requires measurements, models, functioning"
+  },
+  {
+    "start": 2012.6250000000005,
+    "end": 2015.5375000000004,
+    "text": "instruments, and the ability to correct errors within"
+  },
+  {
+    "start": 2015.5375000000004,
+    "end": 2017.3875000000003,
+    "text": "the vehicle's capabilities."
+  },
+  {
+    "start": 2017.3875000000003,
+    "end": 2020.7750000000003,
+    "text": "A beautiful route drawn at departure is not a substitute"
+  },
+  {
+    "start": 2020.7750000000003,
+    "end": 2022.9125000000004,
+    "text": "for continuing observation."
+  },
+  {
+    "start": 2022.9125000000004,
+    "end": 2025.7625000000003,
+    "text": "The destination also needs reconnaissance."
+  },
+  {
+    "start": 2026.2000000000003,
+    "end": 2029.6500000000003,
+    "text": "Earlier robotic missions could provide valuable information,"
+  },
+  {
+    "start": 2029.6500000000003,
+    "end": 2032.9250000000004,
+    "text": "if they can be built, launched, survive, and return"
+  },
+  {
+    "start": 2032.9250000000004,
+    "end": 2036.5500000000004,
+    "text": "useful data. A fast flyby may reveal some things while"
+  },
+  {
+    "start": 2036.5500000000004,
+    "end": 2038.5625000000005,
+    "text": "leaving others unresolved."
+  },
+  {
+    "start": 2038.5625000000005,
+    "end": 2041.9125000000004,
+    "text": "Observations from a distance cannot certify every condition"
+  },
+  {
+    "start": 2041.9125000000004,
+    "end": 2044.4625000000003,
+    "text": "a future human community will need."
+  },
+  {
+    "start": 2044.4625000000003,
+    "end": 2048.0750000000003,
+    "text": "Sera's team compares current measurements with older records."
+  },
+  {
+    "start": 2048.0750000000003,
+    "end": 2050.3625,
+    "text": "Some predictions have held up well."
+  },
+  {
+    "start": 2050.3625,
+    "end": 2052.0125000000003,
+    "text": "Others need revision."
+  },
+  {
+    "start": 2052.0125000000003,
+    "end": 2054.9875,
+    "text": "This is not a betrayal of the original planners."
+  },
+  {
+    "start": 2055.425,
+    "end": 2058.9,
+    "text": "It is what a serious plan should expect later investigators"
+  },
+  {
+    "start": 2058.9,
+    "end": 2062.55,
+    "text": "to do. After centuries of travel, faithfulness to the"
+  },
+  {
+    "start": 2062.55,
+    "end": 2066.0375000000004,
+    "text": "mission may require abandoning an old assumption."
+  },
+  {
+    "start": 2066.0375000000004,
+    "end": 2069.3,
+    "text": "The ship should be aiming at a physically reachable future,"
+  },
+  {
+    "start": 2069.3,
+    "end": 2072.4875,
+    "text": "not at the comforting appearance of an unchanged line"
+  },
+  {
+    "start": 2072.4875,
+    "end": 2073.5000000000005,
+    "text": "on a map."
+  },
+  {
+    "start": 2074.55,
+    "end": 2077.55,
+    "text": "At last, the target system becomes a place the community"
+  },
+  {
+    "start": 2077.55,
+    "end": 2080.3625,
+    "text": "can investigate in much greater detail."
+  },
+  {
+    "start": 2080.3625,
+    "end": 2083.8250000000003,
+    "text": "The fictional candidate world in our story is not revealed"
+  },
+  {
+    "start": 2083.8250000000003,
+    "end": 2085.925,
+    "text": "as a guaranteed paradise."
+  },
+  {
+    "start": 2085.925,
+    "end": 2090.0000000000005,
+    "text": "It may have unsuitable air, difficult radiation conditions,"
+  },
+  {
+    "start": 2090.0000000000005,
+    "end": 2094.0375000000004,
+    "text": "limited accessible resources, or other obstacles."
+  },
+  {
+    "start": 2094.0375000000004,
+    "end": 2097.2000000000003,
+    "text": "Even a world that looks temperate from afar could be dangerous"
+  },
+  {
+    "start": 2097.2000000000003,
+    "end": 2098.3625,
+    "text": "for humans."
+  },
+  {
+    "start": 2098.8,
+    "end": 2102.8500000000004,
+    "text": "A biosphere, if one existed, would introduce further scientific"
+  },
+  {
+    "start": 2102.8500000000004,
+    "end": 2106.1000000000004,
+    "text": "and ethical questions rather than automatically become"
+  },
+  {
+    "start": 2106.1000000000004,
+    "end": 2107.7500000000005,
+    "text": "a welcoming garden."
+  },
+  {
+    "start": 2107.7500000000005,
+    "end": 2110.8625,
+    "text": "Landing would also create demands the ship had not previously"
+  },
+  {
+    "start": 2110.8625,
+    "end": 2114.5375000000004,
+    "text": "faced: moving people and equipment safely, supporting"
+  },
+  {
+    "start": 2114.5375000000004,
+    "end": 2117.8125000000005,
+    "text": "surface operations, and handling environments that might"
+  },
+  {
+    "start": 2117.8125000000005,
+    "end": 2119.9875,
+    "text": "differ sharply from the models."
+  },
+  {
+    "start": 2119.9875,
+    "end": 2123.2250000000004,
+    "text": "The generations who approach need permission to investigate"
+  },
+  {
+    "start": 2123.2250000000004,
+    "end": 2125.1125,
+    "text": "before committing themselves."
+  },
+  {
+    "start": 2125.5750000000003,
+    "end": 2128.5375000000004,
+    "text": "A prudent arrival could involve continued habitation in"
+  },
+  {
+    "start": 2128.5375000000004,
+    "end": 2132.7125,
+    "text": "space while probes and instruments examine options, assuming"
+  },
+  {
+    "start": 2132.7125,
+    "end": 2135.0625000000005,
+    "text": "the mission can support that choice."
+  },
+  {
+    "start": 2135.0625000000005,
+    "end": 2138.8625,
+    "text": "In Sera's council, postponing a landing is not automatically"
+  },
+  {
+    "start": 2138.8625,
+    "end": 2140.4375000000005,
+    "text": "treated as failure."
+  },
+  {
+    "start": 2140.4375000000005,
+    "end": 2143.9500000000003,
+    "text": "The original promise was to make a lasting life possible."
+  },
+  {
+    "start": 2143.9500000000003,
+    "end": 2147.1375000000003,
+    "text": "If a dangerous ceremony of arrival would undermine that"
+  },
+  {
+    "start": 2147.1375000000003,
+    "end": 2150.4500000000003,
+    "text": "purpose, the people who have reached the system are entitled"
+  },
+  {
+    "start": 2150.4500000000003,
+    "end": 2152.4750000000004,
+    "text": "to ask for a better plan."
+  },
+  {
+    "start": 2153.525,
+    "end": 2156.5375000000004,
+    "text": "A classroom illustration often ends with a ship beside"
+  },
+  {
+    "start": 2156.5375000000004,
+    "end": 2159.5625,
+    "text": "a planet and a bright arrow pointing down."
+  },
+  {
+    "start": 2159.5625,
+    "end": 2162.6375000000003,
+    "text": "Wayfarer's story does not have to end that way."
+  },
+  {
+    "start": 2162.6375000000003,
+    "end": 2165.8500000000004,
+    "text": "A community capable of surviving the crossing may still"
+  },
+  {
+    "start": 2165.8500000000004,
+    "end": 2168.8250000000003,
+    "text": "depend on its habitat while it studies the destination,"
+  },
+  {
+    "start": 2168.8250000000003,
+    "end": 2172.2000000000003,
+    "text": "repairs equipment, and builds new capacity."
+  },
+  {
+    "start": 2172.2000000000003,
+    "end": 2175.2250000000004,
+    "text": "Living in space near a star would bring possibilities"
+  },
+  {
+    "start": 2175.2250000000004,
+    "end": 2178.9125000000004,
+    "text": "and new problems of its own; it is not a free, solved"
+  },
+  {
+    "start": 2178.9125000000004,
+    "end": 2181.1875,
+    "text": "alternative to a difficult planet."
+  },
+  {
+    "start": 2181.625,
+    "end": 2185.25,
+    "text": "Orbits, energy, resources, maintenance, and safety still"
+  },
+  {
+    "start": 2185.25,
+    "end": 2188.4,
+    "text": "require a plan. The distinction is that arrival can be"
+  },
+  {
+    "start": 2188.4,
+    "end": 2191.625,
+    "text": "a transition rather than one irreversible moment."
+  },
+  {
+    "start": 2191.625,
+    "end": 2194.6,
+    "text": "Sera walks through the garden and sees a repaired bench,"
+  },
+  {
+    "start": 2194.6,
+    "end": 2198.1875,
+    "text": "children's drawings, and a copy of Lyra's notebook."
+  },
+  {
+    "start": 2198.1875,
+    "end": 2200.9625,
+    "text": "Their ancestors wanted to reach another star."
+  },
+  {
+    "start": 2200.9625,
+    "end": 2204.25,
+    "text": "In doing so, they also created a place that became meaningful"
+  },
+  {
+    "start": 2204.25,
+    "end": 2206.5125000000003,
+    "text": "to people who had never known Earth."
+  },
+  {
+    "start": 2206.5125000000003,
+    "end": 2209.25,
+    "text": "The community does not have to reject that inheritance"
+  },
+  {
+    "start": 2209.25,
+    "end": 2211.4625,
+    "text": "to reconsider what comes next."
+  },
+  {
+    "start": 2211.875,
+    "end": 2215.675,
+    "text": "It can preserve what works, investigate what is outside,"
+  },
+  {
+    "start": 2215.675,
+    "end": 2218.5,
+    "text": "and choose a future with more evidence than the founders"
+  },
+  {
+    "start": 2218.5,
+    "end": 2221.9375,
+    "text": "possessed. Reaching the destination is not the same as"
+  },
+  {
+    "start": 2221.9375,
+    "end": 2223.75,
+    "text": "finishing the work of living."
+  },
+  {
+    "start": 2224.775,
+    "end": 2228.4,
+    "text": "Before anyone commits to a mission like Wayfarer, alternatives"
+  },
+  {
+    "start": 2228.4,
+    "end": 2229.9625,
+    "text": "deserve attention."
+  },
+  {
+    "start": 2229.9625,
+    "end": 2232.8125000000005,
+    "text": "Robotic probes avoid the need to transport a complete"
+  },
+  {
+    "start": 2232.8125000000005,
+    "end": 2236.2125,
+    "text": "human society and could answer questions that make later"
+  },
+  {
+    "start": 2236.2125,
+    "end": 2238.2375,
+    "text": "choices better informed."
+  },
+  {
+    "start": 2238.2375,
+    "end": 2241.7875000000004,
+    "text": "They still face demanding propulsion, communications,"
+  },
+  {
+    "start": 2241.7875000000004,
+    "end": 2244.1875000000005,
+    "text": "power, and survival problems."
+  },
+  {
+    "start": 2244.1875000000005,
+    "end": 2247.9500000000003,
+    "text": "Concepts such as very small light-sail probes are proposals"
+  },
+  {
+    "start": 2247.9500000000003,
+    "end": 2251.8375,
+    "text": "under investigation, not working passenger services."
+  },
+  {
+    "start": 2252.3250000000003,
+    "end": 2256.0375000000004,
+    "text": "Long-duration human hibernation or suspended animation"
+  },
+  {
+    "start": 2256.0375000000004,
+    "end": 2258.9625,
+    "text": "would change the mission if it became possible, but it"
+  },
+  {
+    "start": 2258.9625,
+    "end": 2262.1375000000003,
+    "text": "is not a demonstrated way to preserve healthy travelers"
+  },
+  {
+    "start": 2262.1375000000003,
+    "end": 2264.3375,
+    "text": "through an interstellar crossing."
+  },
+  {
+    "start": 2264.3375,
+    "end": 2268.0750000000003,
+    "text": "Transporting embryos or reproductive material would replace"
+  },
+  {
+    "start": 2268.0750000000003,
+    "end": 2271.8500000000004,
+    "text": "some problems with others, including autonomous care,"
+  },
+  {
+    "start": 2271.8500000000004,
+    "end": 2275.5625,
+    "text": "development, medical uncertainty, and the rights of people"
+  },
+  {
+    "start": 2275.5625,
+    "end": 2278.625,
+    "text": "brought into existence without adult human caregivers"
+  },
+  {
+    "start": 2278.625,
+    "end": 2280.4375,
+    "text": "from their own community."
+  },
+  {
+    "start": 2280.9,
+    "end": 2284.5875,
+    "text": "Much faster crewed travel would raise another set of energy"
+  },
+  {
+    "start": 2284.5875,
+    "end": 2286.5875,
+    "text": "and engineering demands."
+  },
+  {
+    "start": 2286.5875,
+    "end": 2289.425,
+    "text": "These alternatives should not be presented as a menu of"
+  },
+  {
+    "start": 2289.425,
+    "end": 2291.8625,
+    "text": "technologies already available."
+  },
+  {
+    "start": 2291.8625,
+    "end": 2294.55,
+    "text": "Their value is that they challenge our assumptions about"
+  },
+  {
+    "start": 2294.55,
+    "end": 2298.0875,
+    "text": "which questions require human passengers, what must be"
+  },
+  {
+    "start": 2298.0875,
+    "end": 2301.6,
+    "text": "learned first, and whether a long voyage is justified"
+  },
+  {
+    "start": 2301.6,
+    "end": 2305.1,
+    "text": "by the evidence rather than by the beauty of its illustration."
+  },
+  {
+    "start": 2306.3,
+    "end": 2307.7375,
+    "text": "Return to the window."
+  },
+  {
+    "start": 2307.7375,
+    "end": 2310.4500000000003,
+    "text": "Lyra once watched Earth become a smaller light."
+  },
+  {
+    "start": 2310.4500000000003,
+    "end": 2313.4750000000004,
+    "text": "Sera now watches another star from a room her ancestors"
+  },
+  {
+    "start": 2313.4750000000004,
+    "end": 2317.0750000000003,
+    "text": "would recognize in outline and barely recognize in detail."
+  },
+  {
+    "start": 2317.0750000000003,
+    "end": 2319.8500000000004,
+    "text": "The journey has not proved that we can build Wayfarer"
+  },
+  {
+    "start": 2319.8500000000004,
+    "end": 2324.0000000000005,
+    "text": "today. It has shown why the question extends beyond propulsion."
+  },
+  {
+    "start": 2324.0000000000005,
+    "end": 2327.55,
+    "text": "The ship needs energy, protection, material cycles,"
+  },
+  {
+    "start": 2327.55,
+    "end": 2330.9500000000003,
+    "text": "repair, medicine, knowledge, and institutions that can"
+  },
+  {
+    "start": 2330.9500000000003,
+    "end": 2335.2000000000003,
+    "text": "keep learning. Its residents need more than survival statistics."
+  },
+  {
+    "start": 2335.8,
+    "end": 2338.775,
+    "text": "They need lives worth living and a meaningful share in"
+  },
+  {
+    "start": 2338.775,
+    "end": 2340.9125000000004,
+    "text": "deciding what their world is for."
+  },
+  {
+    "start": 2340.9125000000004,
+    "end": 2344.3375,
+    "text": "Perhaps humanity will one day attempt such a voyage."
+  },
+  {
+    "start": 2344.3375,
+    "end": 2348.05,
+    "text": "Perhaps robots, different technologies, or better reasons"
+  },
+  {
+    "start": 2348.05,
+    "end": 2350.5625000000005,
+    "text": "to remain will change the decision."
+  },
+  {
+    "start": 2350.5625000000005,
+    "end": 2354.1125,
+    "text": "The honest next steps are investigation and evidence,"
+  },
+  {
+    "start": 2354.1125,
+    "end": 2357.4500000000003,
+    "text": "not a launch date invented for a dramatic ending."
+  },
+  {
+    "start": 2357.4500000000003,
+    "end": 2361.4,
+    "text": "But the thought experiment leaves us with one clear responsibility."
+  },
+  {
+    "start": 2362.0,
+    "end": 2365.65,
+    "text": "If we send people toward a future we will never see, that"
+  },
+  {
+    "start": 2365.65,
+    "end": 2368.6875,
+    "text": "future does not belong entirely to us."
+  },
+  {
+    "start": 2368.6875,
+    "end": 2371.4375,
+    "text": "The descendants are not merely the means of completing"
+  },
+  {
+    "start": 2371.4375,
+    "end": 2374.675,
+    "text": "our dream. When they look out of the window, the question"
+  },
+  {
+    "start": 2374.675,
+    "end": 2377.75,
+    "text": "of where to go next must also belong to them."
+  }
+]

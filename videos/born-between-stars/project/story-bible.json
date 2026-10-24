@@ -1,0 +1,34 @@
+{
+  "status": "fictional explanatory scenario, not a real mission or certified spacecraft design",
+  "ship_name": "Wayfarer",
+  "timeline": {
+    "chapters_0_to_19": "Founding-era Lyra as a child, usually age eight in illustrations; parents Amina and Jonas alive. Technical examples are conceptual, not a calendar of separate disasters.",
+    "chapters_20_to_21": "Adult Lyra about thirty-five; teaches and helps maintain community.",
+    "chapter_22": "Elderly Lyra about seventy-five passes notebook to archive; natural death, no resurrection.",
+    "chapter_23": "Centuries and many generations later: Sera age eight, a distinct descendant of the community. Not Lyra, not merely her next-age version.",
+    "chapters_24_to_30": "Adult Sera about thirty-five in late-voyage/approach frame; concept comparisons in chapter 30 are not available technologies.",
+    "chapter_31": "Mature Sera about forty-five considers future choices near target star; no guaranteed safe landing."
+  },
+  "characters": {
+    "Lyra": "medium-brown skin; TWO curly hair buns; teal/orange clothing; cream CIRCLE patch; gray hair and wrinkles when elderly",
+    "Amina": "adult Black mother, low tied braids; mustard coveralls and teal belt; founding era only",
+    "Jonas": "adult East Asian father, straight short black hair; navy coveralls/red collar; founding era only",
+    "Sera": "medium-brown skin; ONE long SINGLE BRAID; copper-red jacket and teal shirt; cream TRIANGLE patch; child/adult/mature stages; not living beside founders"
+  },
+  "ship_visuals": [
+    "two coaxial ring habitats separated along long nonrotating central spine",
+    "rounded leading shield at nose, aft engine at other end, radiator fins on aft spine",
+    "coasting exterior has no continuous engine plume, warp trails or asteroid fields",
+    "interior recurrent locations: garden, green bench with orange repair patches, classroom, workshop, clinic, communications room",
+    "apparent down in rotating ring points outward toward rim; no gravity generator",
+    "schematics and scale are illustrative, not structural or medical validation"
+  ],
+  "science_limits": [
+    "fictional nearby candidate habitat, not announced second Earth or confirmed safe Proxima b",
+    "illustrative cruise arithmetic is not an integrated trajectory or propulsion design",
+    "no universal safe shielding thickness, minimum crew number, proven multi-generation reproductive safety or perfect closed ecology",
+    "late Earth pictures are archives/monitors, not a giant Earth outside the centuries-later window",
+    "descendants have agency; reproductive model assumptions are not endorsed coercive policy",
+    "robotic probes, lightsails, hibernation and embryo concepts have distinct unsolved problems; no working passenger service asserted"
+  ]
+}

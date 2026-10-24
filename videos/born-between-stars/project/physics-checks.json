@@ -1,0 +1,12 @@
+{
+  "c_m_per_s": 299792458.0,
+  "c_definition": "SI exact speed of light in vacuum",
+  "illustrative_cruise_speed_fraction_c": 0.01,
+  "speed_m_per_s": 2997924.58,
+  "example_distance_light_years": 4.5,
+  "cruise_years_excluding_acceleration_braking": 450.0,
+  "classical_kinetic_energy_joules_per_kg": 4493775893684.089,
+  "relativistic_kinetic_energy_joules_per_kg": 4494112954972.1455,
+  "gamma": 1.0000500037503126,
+  "limits": "These are illustrative point-mass/constant-speed calculations, not total engine energy, carried-fuel requirements or an engineered Wayfarer mission."
+}

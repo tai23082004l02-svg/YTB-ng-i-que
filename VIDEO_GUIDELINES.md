@@ -30,7 +30,7 @@
 - Giữ hình đầy khung, không méo tỷ lệ; khi cắt hình phải bảo toàn nhân vật và chi tiết quan trọng.
 - Khi dùng ảnh nhiều ô, kiểm tra ranh giới thực tế: hàng/cột AI có thể không chia đều. Cắt bỏ đường chia ô, scale giữ tỷ lệ và kiểm tra khung xuất; không chỉ chia kích thước ảnh cho số hàng/cột rồi mặc định đúng.
 - Ước lượng ban đầu: **số hình dùng ≈ thời lượng thực tế tính theo giây / 4**, rồi điều chỉnh theo nội dung và tỷ lệ cảnh cần quan sát lâu. Ví dụ video **35:23** cần khoảng **500–530 hình khác nhau**; đây là khoảng lập kế hoạch, không phải hạn ngạch cố định. Tạo thêm ảnh nguồn dự phòng để tuyển chọn.
-- Các video tham chiếu đã bàn giao dùng nhịp cũ (ví dụ 48 hình/4:12 hoặc 377 hình/35:23). Giữ chúng làm mẫu phong cách; không dùng mật độ hình cũ làm mặc định cho video mới. Cập nhật quy tắc không có nghĩa các MP4 cũ đã được dựng lại; chỉ sửa khi người dùng giao tác vụ đó.
+- Các video tham chiếu trước Born Between Stars dùng nhịp cũ (ví dụ 48 hình/4:12 hoặc 377 hình/35:23). Giữ chúng làm mẫu phong cách; không dùng mật độ hình cũ làm mặc định cho video mới. Cập nhật quy tắc không có nghĩa các MP4 cũ đã được dựng lại; chỉ sửa khi người dùng giao tác vụ đó.
 
 ## 4. Lời đọc và phụ đề
 
@@ -52,6 +52,8 @@
 - Không tự đăng video lên YouTube nếu chưa được yêu cầu.
 
 ## Video tham chiếu
+
+- [Born Between Stars — 39:38, 594 hình; mẫu nhịp mới trung bình khoảng 4 giây/cảnh](videos/born-between-stars/README.md)
 
 - [Where Is Everybody? — 35:23, 377 hình, Nghịch lý Fermi](videos/where-is-everybody/README.md)
 

@@ -1,0 +1,17 @@
+{
+  "source_measurement": {
+    "input_i": "-27.67",
+    "input_tp": "-1.74",
+    "input_lra": "3.40",
+    "input_thresh": "-38.04",
+    "output_i": "-17.80",
+    "output_tp": "-3.20",
+    "output_lra": "2.40",
+    "output_thresh": "-28.18",
+    "normalization_type": "dynamic",
+    "target_offset": "1.80"
+  },
+  "filter": "loudnorm=I=-16:TP=-3.2:LRA=9:measured_I=-27.67:measured_TP=-1.74:measured_LRA=3.40:measured_thresh=-38.04:offset=1.80:linear=false,volume=0.3dB",
+  "reason": "Additional pre-AAC limiting headroom, followed by a small gain trim based on measured final-file loudness and true peak.",
+  "post_normalization_gain_db": 0.3
+}
