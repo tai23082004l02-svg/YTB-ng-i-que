@@ -20,7 +20,7 @@
 1. Hoạt hình minh họa 2D vẽ tay, nét viền đen, màu dịu; tham khảo hình đã được chấp nhận trong kho.
 2. **Mỗi hình đứng yên hoàn toàn. Không zoom động, pan, rung hoặc Ken Burns.** Người dùng đã phàn nàn rõ về cảm giác rung của bản đầu.
 3. **Không thanh tiêu đề phía trên, tên chương, gạch trang trí hoặc bộ đếm kiểu `03 / 12`.** Người dùng đã yêu cầu xóa hẳn phần này.
-4. **Đổi sang hình khác khoảng mỗi 4–6 giây.** Phải tăng số hình có nội dung khác nhau, không thay bằng nhiều mức phóng của một hình.
+4. **Nhịp mặc định mới: trung bình khoảng 4 giây/cảnh. Cảnh đơn giản 3–4 giây; sơ đồ/hình giải thích cần quan sát 5–6 giây.** Người dùng cập nhật sau video Nghịch lý Fermi; thay nhịp 4–6 giây trước đây. Tăng số hình có nội dung khác nhau, không thay bằng nhiều mức phóng của một hình hoặc tăng tốc lời đọc. Cắt theo ý lời kể, không chia đều máy móc.
 5. Chuyển thẳng giữa các hình, bố cục đầy khung và rõ hành động. Không làm méo tỷ lệ hoặc cắt mất nhân vật quan trọng.
 6. Cảnh nhiều người phải có đủ người, ngoại hình và hành động phân biệt. Dùng nhóm nhân vật tham chiếu để giữ tóc, quần áo, phụ kiện và vóc dáng nhất quán.
 7. Xen kẽ cảnh toàn, tương tác nhóm, cận đồ vật và hình giải thích. Không dùng một hình để gánh cả đoạn thuyết minh dài.
@@ -42,6 +42,8 @@ Tên tiếng Anh video dài: **Earth Once Had Many Human Species. Why Are We the
 
 Bản video dài nằm trong commit `afd41171e9b38c6442f7bfb2f325b74b57fc51e2`. Liên kết tải ổn định:
 https://raw.githubusercontent.com/tai23082004l02-svg/YTB-ng-i-que/afd41171e9b38c6442f7bfb2f325b74b57fc51e2/videos/the-last-humans/The-Last-Humans.mp4
+
+**Cập nhật nhịp dựng sau video Nghịch lý Fermi:** áp dụng mặc định trung bình khoảng 4 giây/cảnh cho các tác vụ sản xuất tiếp theo. MP4 Where Is Everybody? hiện vẫn là bản 377 cảnh/35:23 (khoảng 5,2–5,8 giây/cảnh); yêu cầu cập nhật quy tắc chưa bao gồm dựng lại video này.
 
 **Trạng thái bàn giao: đã hoàn thành và đẩy lên GitHub. Không có video đang làm dở.** Không tự tạo lại hoặc thay đổi video cũ nếu người dùng chỉ yêu cầu một chủ đề mới.
 
@@ -98,7 +100,7 @@ Máy trước có thư mục home chỉ đọc nên cache phải chuyển sang n
 
 1. Đọc hướng dẫn trong kho, kiểm tra trạng thái Git và xác định yêu cầu mới. Không ghi đè thay đổi sẵn có.
 2. Nghiên cứu nguồn phù hợp; viết kịch bản mới có mạch kể rõ, đủ ý và có kết thúc. Với lịch sử/khoa học, phân biệt điều đã biết, giả thuyết và cảnh dựng giả định.
-3. Tạo lời đọc, đo **thời lượng thực tế**, rồi quyết định số hình. Ước lượng ban đầu bằng số giây chia khoảng 5–5,5; không giữ số hình quá ít cho video dài.
+3. Tạo lời đọc, đo **thời lượng thực tế**, rồi quyết định số hình. Ước lượng ban đầu bằng số giây chia khoảng 4, rồi điều chỉnh theo cảnh đơn giản (3–4 giây) và sơ đồ cần quan sát (5–6 giây). Video 35:23 có thể cần khoảng 500–530 hình khác nhau; tạo thêm nguồn dự phòng và không coi số lượng là hạn ngạch cố định.
 4. Lập kế hoạch hình bám từng ý lời kể, chốt tạo hình nhân vật, tạo đủ hình khác nhau và rà soát lỗi nội dung. Không coi hình AI tạo ra là bằng chứng khoa học.
 5. Có thể dùng bộ ảnh nhiều ô như mẫu để giữ phong cách; khi tách ô phải đọc kích thước thực tế và cắt theo lưới. Đây là cách sản xuất, không bắt buộc mọi video đều phải có đúng 24 bộ ảnh.
 6. Dựng hình cố định, cắt thẳng, gắn phụ đề có mốc thời gian thật. Chia ranh giới cảnh theo số frame để tránh lệch tích lũy. Ở 24 fps, có thể làm tròn mốc giây × 24 thành frame rồi lấy hiệu hai ranh giới.

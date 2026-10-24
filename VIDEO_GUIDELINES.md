@@ -22,12 +22,15 @@
 
 - **Hình đứng yên hoàn toàn trong mỗi cảnh. Không zoom động, pan, rung máy hoặc hiệu ứng Ken Burns.**
 - **Không có thanh tiêu đề phía trên, tên chương, bộ đếm cảnh hay gạch trang trí như bản đầu.**
-- **Đổi sang hình minh họa khác khoảng mỗi 4–6 giây**, theo ý trong lời đọc. Không kéo một hình qua cả đoạn thuyết minh dài.
+- **Mặc định mới: trung bình khoảng 4 giây/cảnh**, theo cập nhật của người dùng sau video Nghịch lý Fermi. Quy tắc này thay nhịp 4–6 giây trước đây.
+- **Cảnh minh họa đơn giản: 3–4 giây. Sơ đồ hoặc hình giải thích cần quan sát: 5–6 giây.** Chọn điểm cắt theo ý trong lời đọc và thời gian cần để hiểu hình; không ép mọi cảnh dài bằng nhau hoặc cắt chỉ để đủ số lượng.
+- Tăng nhịp bằng hình mới có nội dung khác nhau, không tăng tốc lời đọc để đạt nhịp hình. Khi chỉ sửa nhịp hình của video có sẵn, giữ nguyên kịch bản, âm thanh và đồng bộ phụ đề nếu người dùng không yêu cầu sửa chúng.
 - Tăng mật độ bằng hình mới có nội dung khác, không dùng nhiều mức phóng/cắt của cùng một hình để thay cho việc tạo thêm minh họa.
 - Chuyển thẳng giữa các hình; không thêm hiệu ứng chuyển cảnh gây giật hoặc phân tán.
 - Giữ hình đầy khung, không méo tỷ lệ; khi cắt hình phải bảo toàn nhân vật và chi tiết quan trọng.
 - Khi dùng ảnh nhiều ô, kiểm tra ranh giới thực tế: hàng/cột AI có thể không chia đều. Cắt bỏ đường chia ô, scale giữ tỷ lệ và kiểm tra khung xuất; không chỉ chia kích thước ảnh cho số hàng/cột rồi mặc định đúng.
-- Mốc tham chiếu: **48 hình khác nhau trong khoảng 4 phút 12 giây**, mỗi hình khoảng 4,6–5,8 giây. Với độ dài khác, ước lượng số hình bằng thời lượng tính theo giây chia cho khoảng 5, rồi điều chỉnh theo lời kể.
+- Ước lượng ban đầu: **số hình dùng ≈ thời lượng thực tế tính theo giây / 4**, rồi điều chỉnh theo nội dung và tỷ lệ cảnh cần quan sát lâu. Ví dụ video **35:23** cần khoảng **500–530 hình khác nhau**; đây là khoảng lập kế hoạch, không phải hạn ngạch cố định. Tạo thêm ảnh nguồn dự phòng để tuyển chọn.
+- Các video tham chiếu đã bàn giao dùng nhịp cũ (ví dụ 48 hình/4:12 hoặc 377 hình/35:23). Giữ chúng làm mẫu phong cách; không dùng mật độ hình cũ làm mặc định cho video mới. Cập nhật quy tắc không có nghĩa các MP4 cũ đã được dựng lại; chỉ sửa khi người dùng giao tác vụ đó.
 
 ## 4. Lời đọc và phụ đề
 
