@@ -51,6 +51,7 @@ Trong [videos/the-last-humans/](videos/the-last-humans/):
 - `subtitles.srt`: phụ đề riêng; bản MP4 cũng đã gắn phụ đề vào hình.
 - `thumbnail.jpg`: thumbnail đã có chữ; header của thumbnail không phải header trong video.
 - `youtube-description.txt`: tiêu đề, mô tả và mốc thời gian 20 chương.
+- `youtube-upload-kit/` và `youtube-upload-kit.zip`: bộ đăng YouTube được chuẩn bị thêm theo yêu cầu người dùng, gồm title ngắn đề xuất, mô tả chỉ cần dán, thumbnail, tags, bình luận ghim, SRT và hướng dẫn cài đặt. Người dùng tự đăng; chưa có URL YouTube được cung cấp.
 - `SOURCES.md`: tài liệu tham khảo, giới hạn bằng chứng và các điểm khoa học cần thận trọng.
 - `production-notes.md`, `validation-summary.json`: cách sản xuất và kết quả kiểm tra thực tế.
 - `project/assets/sheet-00.png` đến `sheet-23.png`: 24 bộ ảnh, mỗi bộ **3 cột × 4 hàng**, tổng cộng 288 hình trước tuyển chọn.

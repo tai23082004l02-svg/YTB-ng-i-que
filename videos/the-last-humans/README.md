@@ -16,6 +16,15 @@ Nếu trình duyệt không phát trực tiếp, hãy tải MP4 về để xem b
 - MP4 H.264/AAC, 1280 × 720, 24 fps, có đánh dấu chương để điều hướng trong trình phát hỗ trợ.
 - Đây là video minh họa tĩnh có đổi cảnh; nhân vật không có hoạt hình tay chân riêng.
 
+## Bộ đăng YouTube
+
+**Tiêu đề đề xuất:** Why Are We the Only Human Species Left?
+
+- **[Tải trọn bộ đăng dạng ZIP](youtube-upload-kit.zip)** — metadata, thumbnail, phụ đề và hướng dẫn; video MP4 tải riêng ở trên.
+- [Mở bộ đăng để sao chép từng mục](youtube-upload-kit/README.md)
+- [Mô tả có thể dán trực tiếp](youtube-upload-kit/description.txt)
+- [Thumbnail sẵn dùng](youtube-upload-kit/thumbnail-main.jpg)
+
 ## Tệp đi kèm
 
 - [Kịch bản đầy đủ](script.txt)
@@ -34,6 +43,6 @@ Video phân biệt loài người với bộ tộc, giới thiệu sapiens, Nean
 
 Những nhóm này không phải tất cả đều sống cùng lúc, ở cùng nơi hoặc từng gặp nhau. Các chân dung, trang phục và cảnh sinh hoạt là phục dựng nghệ thuật; đặc biệt, diện mạo Denisovan còn nhiều bất định. Sơ đồ là minh họa khái niệm, không phải dữ liệu nghiên cứu gốc. Tất cả quần thể người hiện nay đều là Homo sapiens; tỷ lệ tổ tiên cổ không phải một thứ hạng giữa con người.
 
-Kịch bản và hình được tạo mới; lời đọc được tổng hợp bằng Kokoro. Không dùng nhạc của bên thứ ba. Video chưa được đăng lên YouTube.
+Kịch bản và hình được tạo mới; lời đọc được tổng hợp bằng Kokoro. Không dùng nhạc của bên thứ ba. Trợ lý đã chuẩn bị bộ đăng và bàn giao trên GitHub; người dùng tự thao tác đăng YouTube. Chưa có URL YouTube được cung cấp trong dự án.
 
 ![Thumbnail](thumbnail.jpg)

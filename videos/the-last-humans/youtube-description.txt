@@ -1,50 +1,54 @@
 TITLE
-Earth Once Had Many Human Species. Why Are We the Only Ones Left?
+Why Are We the Only Human Species Left?
 
 DESCRIPTION
-For much of our history, being human did not mean being Homo sapiens. Neanderthals, Denisovans, the small-bodied people of Flores, and other relatives shared parts of a much more complicated world.
+Why is Homo sapiens the only human species alive today? The answer lies in fossil bones, ancient DNA, and a surprisingly tangled family tree.
 
-Why did their distinct branches disappear, while ours survived? This original illustrated documentary follows the evidence from fossil bones and stone tools to ancient DNA. We investigate climate, small populations, competition, cooperation, and interbreeding—without pretending that one explanation solves every disappearance.
+Meet the Neanderthals, Denisovans, the small-bodied people of Flores, and other ancient relatives. Then follow the evidence behind their disappearance: changing climates, small populations, competition, social connections, and interbreeding.
 
-We also separate species from tribes, show why overlapping dates do not prove encounters, and ask what it means to be the only surviving human species when some relatives still live on in our ancestry.
+Along the way, we explore the child with a Neanderthal mother and a Denisovan father, the limits of the fossil record, and the ancient ancestry that still survives in people today.
 
-All living human populations are Homo sapiens. Archaic ancestry is population history, not a hierarchy.
-
-Sources and evidence notes accompany this video in the project repository:
-https://github.com/tai23082004l02-svg/YTB-ng-i-que/tree/main/videos/the-last-humans
-
-Selected reading:
-Smithsonian Human Origins — Homo sapiens, Neanderthals, Homo floresiensis, Homo erectus, Homo naledi
-https://humanorigins.si.edu/evidence/human-fossils/species
-Slon et al. (2018) — Neanderthal mother and Denisovan father
-https://www.nature.com/articles/s41586-018-0455-x
-Skov et al. (2022) — Neanderthal social organization
-https://www.nature.com/articles/s41586-022-05283-y
-Huerta-Sánchez et al. (2014) — Denisovan-related introgression and Tibetan altitude adaptation
-https://www.nature.com/articles/nature13408
-
-Production: original English script, AI-generated artistic reconstructions and conceptual diagrams, and American English narration created locally with Kokoro. Ancient faces, clothing and personal scenes are illustrative; Denisovan appearance is particularly uncertain. Diagrams are explanatory artwork, not original research figures. No third-party music is used.
-
-#HumanEvolution #Neanderthals #Denisovans #Prehistory
+These groups did not all live at the same time or in the same place. Researchers are still investigating why particular lineages disappeared. All living human populations belong to Homo sapiens; ancestry percentages are not a hierarchy.
 
 CHAPTERS
-00:00 A world with other humans
-01:02 Species are not tribes
-02:15 The family tree is not a ladder
-03:23 Set the clock before meeting the cast
-04:34 Sapiens was not born a global conqueror
-05:53 Neanderthals were not failed humans
-07:08 What a neanderthal camp can tell us
-08:19 Denisovans enter through a different door
-09:38 The child who connected two branches
-10:46 The small adults of flores
-12:05 More branches, different times
-13:16 Why disappearance is hard to date
-14:33 Suspect one: a changing world
-15:51 Suspect two: the arithmetic of small groups
-17:08 Suspect three: competition without a world war
-18:28 Suspect four: the power of connections
-19:46 Replacement was also mixture
-21:08 A gene can keep part of a story
-22:24 Surviving does not mean being destined to win
-23:38 The last branch and the missing voices
+00:00 A World With Other Humans
+01:02 Species vs. Tribes
+02:15 Evolution Is a Family Tree
+03:23 Who Lived When?
+04:34 The Origins of Homo sapiens
+05:53 Meet the Neanderthals
+07:08 Life in a Neanderthal Camp
+08:19 The Denisovan Mystery
+09:38 A Neanderthal Mother and Denisovan Father
+10:46 The People of Flores
+12:05 Luzon, Homo erectus, and Homo naledi
+13:16 Why Extinction Is Hard to Date
+14:33 Climate and Changing Landscapes
+15:51 The Risk of Small Populations
+17:08 Did Homo sapiens Drive Them Out?
+18:28 The Power of Social Connections
+19:46 Interbreeding and Shared Ancestry
+21:08 Denisovan DNA and High Altitude
+22:24 Was Our Survival Inevitable?
+23:38 The Last Surviving Human Species
+
+SOURCES & FURTHER READING
+Full references and evidence notes:
+https://github.com/tai23082004l02-svg/YTB-ng-i-que/blob/main/videos/the-last-humans/SOURCES.md
+
+Smithsonian Human Origins — Human fossil species:
+https://humanorigins.si.edu/evidence/human-fossils/species
+
+Slon et al. (2018) — A Neanderthal mother and a Denisovan father:
+https://www.nature.com/articles/s41586-018-0455-x
+
+Skov et al. (2022) — Neanderthal social organization:
+https://www.nature.com/articles/s41586-022-05283-y
+
+Huerta-Sánchez et al. (2014) — Denisovan-related DNA and altitude adaptation:
+https://www.nature.com/articles/nature13408
+
+PRODUCTION NOTE
+This original illustrated documentary uses AI-generated artwork and synthetic English narration. Ancient faces, clothing, and personal scenes are artistic reconstructions; Denisovan appearance is especially uncertain. Scientific diagrams are conceptual illustrations, not original research figures.
+
+#HumanEvolution #Neanderthals #Prehistory

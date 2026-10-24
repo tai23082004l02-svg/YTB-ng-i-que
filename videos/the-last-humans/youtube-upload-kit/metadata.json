@@ -1,0 +1,40 @@
+{
+  "status": "prepared assets and recommendations; not uploaded by the assistant",
+  "recommended_title": "Why Are We the Only Human Species Left?",
+  "alternative_titles": [
+    "What Happened to the Other Human Species?",
+    "Earth Once Had Many Human Species. Why Only Us?"
+  ],
+  "description_file": "description.txt",
+  "tags": [
+    "human evolution",
+    "human species",
+    "why are we the only humans left",
+    "Homo sapiens",
+    "Neanderthals",
+    "Neandertals",
+    "Denisovans",
+    "Homo floresiensis",
+    "Homo luzonensis",
+    "Homo erectus",
+    "Homo naledi",
+    "ancient humans",
+    "prehistoric humans",
+    "human origins",
+    "ancient DNA",
+    "Neanderthal DNA",
+    "paleoanthropology",
+    "prehistory",
+    "evolution documentary"
+  ],
+  "thumbnail_file": "thumbnail-main.jpg",
+  "captions_file": "captions.en-US.srt",
+  "language": "en-US",
+  "category": "Education",
+  "category_id": "27",
+  "intended_audience": "general/teen and adult educational audience, not specifically directed to children",
+  "visibility": "owner chooses Public when ready; no publication performed",
+  "video_runtime_seconds": 1485,
+  "chapters": 20,
+  "video_url": "https://raw.githubusercontent.com/tai23082004l02-svg/YTB-ng-i-que/afd41171e9b38c6442f7bfb2f325b74b57fc51e2/videos/the-last-humans/The-Last-Humans.mp4"
+}
