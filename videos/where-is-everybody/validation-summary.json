@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "duration_seconds": 2122.975,
+  "runtime_rounded": "35:23",
+  "chapters": 28,
+  "script_words_whitespace_count": 5028,
+  "video_codec": "h264",
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "audio_bitrate": "129437",
+  "integrated_loudness_lufs": -16.73,
+  "true_peak_dbtp": -1.72,
+  "loudness_range_lu": 2.2,
+  "full_decode_exit_code": 0,
+  "subtitle_cues": 683,
+  "selected_unique_illustrations": 377,
+  "generated_illustrations": 408,
+  "min_shot_seconds": 5.166666666666664,
+  "max_shot_seconds": 5.833333333333485,
+  "framing": "measured contact-sheet separators, 6-pixel source inset, aspect-preserving scale and fixed center crop",
+  "misleading_temple_panel_excluded": true,
+  "zip_crc": "passed",
+  "mp4_bytes": 75042700,
+  "sha256": "091875e1b135f0d5f7f14fee2f66abbbbbdc7e3be312b9ff071c09626a72459e",
+  "review_scope": "Full automated decode and audio measurement; representative visual review of source sheets and final film including curated artifact comparison. Not exhaustive human listening."
+}

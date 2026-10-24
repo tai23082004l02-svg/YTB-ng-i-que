@@ -1,0 +1,3417 @@
+[
+  {
+    "start": 0.375,
+    "end": 3.3,
+    "text": "Imagine that tomorrow, an observatory detects a signal"
+  },
+  {
+    "start": 3.3,
+    "end": 5.9,
+    "text": "that repeats from the direction of another star."
+  },
+  {
+    "start": 5.9,
+    "end": 7.6625,
+    "text": "The pattern looks deliberate."
+  },
+  {
+    "start": 7.6625,
+    "end": 9.425,
+    "text": "A second telescope checks."
+  },
+  {
+    "start": 9.425,
+    "end": 12.025,
+    "text": "Then a third. The signal is still there."
+  },
+  {
+    "start": 12.025,
+    "end": 15.2,
+    "text": "For a moment, humanity has a new question: who is speaking?"
+  },
+  {
+    "start": 15.2,
+    "end": 16.825,
+    "text": "Now return to tonight."
+  },
+  {
+    "start": 16.825,
+    "end": 19.0125,
+    "text": "We have no such confirmed announcement."
+  },
+  {
+    "start": 19.0125,
+    "end": 22.6,
+    "text": "Above us are stars, planets, radiation, and an enormous"
+  },
+  {
+    "start": 22.6,
+    "end": 24.8125,
+    "text": "amount we have barely examined."
+  },
+  {
+    "start": 24.8125,
+    "end": 28.2125,
+    "text": "What we do not have is verified evidence of another technological"
+  },
+  {
+    "start": 28.2125,
+    "end": 29.4875,
+    "text": "civilization."
+  },
+  {
+    "start": 29.925,
+    "end": 32.7,
+    "text": "That gap is the heart of the Fermi paradox."
+  },
+  {
+    "start": 32.7,
+    "end": 35.975,
+    "text": "If our galaxy has had so much time, and so many places"
+  },
+  {
+    "start": 35.975,
+    "end": 38.575,
+    "text": "where life might arise, where is everybody?"
+  },
+  {
+    "start": 38.575,
+    "end": 40.925,
+    "text": "But there is a trap inside that question."
+  },
+  {
+    "start": 40.925,
+    "end": 43.3875,
+    "text": "It can make us imagine that scientists have listened to"
+  },
+  {
+    "start": 43.3875,
+    "end": 45.675,
+    "text": "the entire universe and heard nothing."
+  },
+  {
+    "start": 45.675,
+    "end": 49.3,
+    "text": "They have not. Before we decide that the silence is frightening,"
+  },
+  {
+    "start": 49.3,
+    "end": 52.5875,
+    "text": "comforting, or meaningful, we need to ask what silence"
+  },
+  {
+    "start": 52.5875,
+    "end": 56.25,
+    "text": "actually means. This story begins with an empty chair"
+  },
+  {
+    "start": 56.25,
+    "end": 58.0875,
+    "text": "at a radio telescope."
+  },
+  {
+    "start": 58.5,
+    "end": 61.5,
+    "text": "It ends with a different way of looking at the sky."
+  },
+  {
+    "start": 62.550000000000004,
+    "end": 66.175,
+    "text": "The question is associated with physicist Enrico Fermi"
+  },
+  {
+    "start": 66.175,
+    "end": 69.3375,
+    "text": "and a lunchtime conversation in nineteen fifty."
+  },
+  {
+    "start": 69.3375,
+    "end": 73.22500000000001,
+    "text": "The familiar phrase, where is everybody, became shorthand"
+  },
+  {
+    "start": 73.22500000000001,
+    "end": 76.60000000000001,
+    "text": "for a much wider argument developed by many people."
+  },
+  {
+    "start": 76.60000000000001,
+    "end": 79.8125,
+    "text": "We do not need to reconstruct every detail of that lunch"
+  },
+  {
+    "start": 79.8125,
+    "end": 81.6375,
+    "text": "to understand the problem."
+  },
+  {
+    "start": 81.6375,
+    "end": 85.65,
+    "text": "The universe seems to offer a great deal of time and opportunity."
+  },
+  {
+    "start": 86.275,
+    "end": 89.0125,
+    "text": "Some arguments suggest that a civilization capable of"
+  },
+  {
+    "start": 89.0125,
+    "end": 91.8375,
+    "text": "spreading between stars could become widely distributed"
+  },
+  {
+    "start": 91.8375,
+    "end": 94.17500000000001,
+    "text": "within a fraction of the galaxy's age."
+  },
+  {
+    "start": 94.17500000000001,
+    "end": 97.75,
+    "text": "Yet we do not observe an unmistakably inhabited galaxy."
+  },
+  {
+    "start": 97.75,
+    "end": 100.61250000000001,
+    "text": "That sounds contradictory only if several assumptions"
+  },
+  {
+    "start": 100.61250000000001,
+    "end": 104.2,
+    "text": "are true. Technological life must arise often enough."
+  },
+  {
+    "start": 104.2,
+    "end": 105.60000000000001,
+    "text": "It must survive."
+  },
+  {
+    "start": 105.60000000000001,
+    "end": 108.80000000000001,
+    "text": "It must spread, or produce signals we can detect."
+  },
+  {
+    "start": 108.80000000000001,
+    "end": 111.10000000000001,
+    "text": "And we must have searched in the right way."
+  },
+  {
+    "start": 111.10000000000001,
+    "end": 113.9375,
+    "text": "Change those assumptions, and the apparent contradiction"
+  },
+  {
+    "start": 113.9375,
+    "end": 115.2125,
+    "text": "changes too."
+  },
+  {
+    "start": 115.65,
+    "end": 118.87500000000001,
+    "text": "The Fermi paradox is therefore not a measurement proving"
+  },
+  {
+    "start": 118.87500000000001,
+    "end": 120.67500000000001,
+    "text": "that aliens should be here."
+  },
+  {
+    "start": 120.67500000000001,
+    "end": 124.75000000000001,
+    "text": "It is a confrontation between expectations and observations."
+  },
+  {
+    "start": 124.75000000000001,
+    "end": 128.675,
+    "text": "Its value comes from making us unpack those expectations,"
+  },
+  {
+    "start": 128.675,
+    "end": 131.9625,
+    "text": "one by one, instead of treating our first intuition"
+  },
+  {
+    "start": 131.9625,
+    "end": 133.57500000000002,
+    "text": "as a law of nature."
+  },
+  {
+    "start": 134.625,
+    "end": 136.1625,
+    "text": "Start with our address."
+  },
+  {
+    "start": 136.1625,
+    "end": 139.85,
+    "text": "Earth circles one ordinary star in the Milky Way, a galaxy"
+  },
+  {
+    "start": 139.85,
+    "end": 143.0875,
+    "text": "roughly a hundred thousand light-years across, with hundreds"
+  },
+  {
+    "start": 143.0875,
+    "end": 145.875,
+    "text": "of billions of stars by common estimates."
+  },
+  {
+    "start": 145.875,
+    "end": 149.4,
+    "text": "These are broad scale estimates, not a complete census."
+  },
+  {
+    "start": 149.4,
+    "end": 152.70000000000002,
+    "text": "A light-year is a distance: the distance light travels"
+  },
+  {
+    "start": 152.70000000000002,
+    "end": 155.7875,
+    "text": "in a year. When we look across the galaxy, we are not"
+  },
+  {
+    "start": 155.7875,
+    "end": 158.225,
+    "text": "seeing one simultaneous present."
+  },
+  {
+    "start": 158.225,
+    "end": 160.7125,
+    "text": "We are receiving messages from different moments in the"
+  },
+  {
+    "start": 160.7125,
+    "end": 161.6875,
+    "text": "past."
+  },
+  {
+    "start": 162.125,
+    "end": 165.2375,
+    "text": "The Moon is nearby enough that a radio exchange involves"
+  },
+  {
+    "start": 165.2375,
+    "end": 168.70000000000002,
+    "text": "seconds. A conversation with a star system ten light-years"
+  },
+  {
+    "start": 168.70000000000002,
+    "end": 171.6625,
+    "text": "away would involve at least twenty years between sending"
+  },
+  {
+    "start": 171.6625,
+    "end": 174.7125,
+    "text": "a question and receiving an immediate reply."
+  },
+  {
+    "start": 174.7125,
+    "end": 177.65,
+    "text": "A technological civilization could be alive right now"
+  },
+  {
+    "start": 177.65,
+    "end": 181.05,
+    "text": "in some meaningful shared frame and still be inaccessible"
+  },
+  {
+    "start": 181.05,
+    "end": 183.20000000000002,
+    "text": "to a real-time conversation."
+  },
+  {
+    "start": 183.20000000000002,
+    "end": 186.75,
+    "text": "Distance is not a minor inconvenience added to the story."
+  },
+  {
+    "start": 186.75,
+    "end": 189.1625,
+    "text": "It shapes the story from the beginning."
+  },
+  {
+    "start": 189.1625,
+    "end": 192.6875,
+    "text": "The night sky feels like one room with many lights."
+  },
+  {
+    "start": 193.125,
+    "end": 196.45000000000002,
+    "text": "Physically, it is a vast landscape in which even the fastest"
+  },
+  {
+    "start": 196.45000000000002,
+    "end": 200.32500000000002,
+    "text": "possible news travels slowly compared with a human life."
+  },
+  {
+    "start": 201.55,
+    "end": 204.75,
+    "text": "One part of the old mystery has changed dramatically."
+  },
+  {
+    "start": 204.75,
+    "end": 207.8,
+    "text": "We now know that planets are common around other stars."
+  },
+  {
+    "start": 207.8,
+    "end": 211.13750000000002,
+    "text": "Astronomers have confirmed thousands of exoplanets through"
+  },
+  {
+    "start": 211.13750000000002,
+    "end": 214.16250000000002,
+    "text": "methods such as transits and stellar motion."
+  },
+  {
+    "start": 214.16250000000002,
+    "end": 217.38750000000002,
+    "text": "That is a statement about a growing catalog, not an exact"
+  },
+  {
+    "start": 217.38750000000002,
+    "end": 219.75,
+    "text": "total that will remain current forever."
+  },
+  {
+    "start": 219.75,
+    "end": 223.425,
+    "text": "We have found a remarkable variety of systems: giant planets"
+  },
+  {
+    "start": 223.425,
+    "end": 227.3,
+    "text": "close to their stars, compact families of small worlds,"
+  },
+  {
+    "start": 227.3,
+    "end": 230.425,
+    "text": "and planets unlike anything in our own neighborhood."
+  },
+  {
+    "start": 231.00000000000003,
+    "end": 233.8625,
+    "text": "But a planet is not automatically a habitat."
+  },
+  {
+    "start": 233.8625,
+    "end": 237.15,
+    "text": "A world with Earth's approximate size is not automatically"
+  },
+  {
+    "start": 237.15,
+    "end": 240.63750000000002,
+    "text": "another Earth. A planet in a star's habitable zone has"
+  },
+  {
+    "start": 240.63750000000002,
+    "end": 243.41250000000002,
+    "text": "an orbit where surface liquid water might be possible"
+  },
+  {
+    "start": 243.41250000000002,
+    "end": 245.25000000000003,
+    "text": "under suitable conditions."
+  },
+  {
+    "start": 245.25000000000003,
+    "end": 248.7125,
+    "text": "The phrase does not certify oceans, breathable air, a"
+  },
+  {
+    "start": 248.7125,
+    "end": 250.68750000000003,
+    "text": "stable climate, or life."
+  },
+  {
+    "start": 250.68750000000003,
+    "end": 254.55,
+    "text": "Atmosphere, stellar activity, geological history, and"
+  },
+  {
+    "start": 254.55,
+    "end": 256.52500000000003,
+    "text": "many other conditions matter."
+  },
+  {
+    "start": 256.52500000000003,
+    "end": 260.15000000000003,
+    "text": "Finding many planets enlarges the number of possible settings."
+  },
+  {
+    "start": 260.725,
+    "end": 264.01250000000005,
+    "text": "It does not tell us how often the essential events actually"
+  },
+  {
+    "start": 264.01250000000005,
+    "end": 266.2875,
+    "text": "happen inside those settings."
+  },
+  {
+    "start": 266.2875,
+    "end": 270.06250000000006,
+    "text": "Opportunity is a crucial ingredient, but opportunity and"
+  },
+  {
+    "start": 270.06250000000006,
+    "end": 272.32500000000005,
+    "text": "outcome are different quantities."
+  },
+  {
+    "start": 273.375,
+    "end": 276.79999999999995,
+    "text": "Suppose we found a world with an ocean, energy sources,"
+  },
+  {
+    "start": 276.79999999999995,
+    "end": 278.4375,
+    "text": "and useful chemistry."
+  },
+  {
+    "start": 278.4375,
+    "end": 280.92499999999995,
+    "text": "How likely is it that life would begin there?"
+  },
+  {
+    "start": 280.92499999999995,
+    "end": 284.875,
+    "text": "We do not know. On Earth, life emerged early in the planet's"
+  },
+  {
+    "start": 284.875,
+    "end": 288.34999999999997,
+    "text": "history, but that observation is not a simple stopwatch"
+  },
+  {
+    "start": 288.34999999999997,
+    "end": 290.47499999999997,
+    "text": "revealing a universal rate."
+  },
+  {
+    "start": 290.47499999999997,
+    "end": 293.78749999999997,
+    "text": "We have an incomplete early record, uncertainty about"
+  },
+  {
+    "start": 293.78749999999997,
+    "end": 297.78749999999997,
+    "text": "relevant conditions, and an observer problem: we necessarily"
+  },
+  {
+    "start": 297.78749999999997,
+    "end": 300.65,
+    "text": "find ourselves on a world where enough time remained for"
+  },
+  {
+    "start": 300.65,
+    "end": 302.36249999999995,
+    "text": "observers to appear."
+  },
+  {
+    "start": 302.825,
+    "end": 306.25,
+    "text": "Laboratories have investigated important steps in prebiotic"
+  },
+  {
+    "start": 306.25,
+    "end": 310.09999999999997,
+    "text": "chemistry. No laboratory result yet gives us a reliable"
+  },
+  {
+    "start": 310.09999999999997,
+    "end": 313.0125,
+    "text": "probability that a suitable planet will produce a living"
+  },
+  {
+    "start": 313.0125,
+    "end": 315.2125,
+    "text": "system over a given interval."
+  },
+  {
+    "start": 315.2125,
+    "end": 318.525,
+    "text": "Nor have we confirmed a second independent origin of life."
+  },
+  {
+    "start": 318.525,
+    "end": 321.84999999999997,
+    "text": "If we found organisms elsewhere, we would need to ask"
+  },
+  {
+    "start": 321.84999999999997,
+    "end": 325.72499999999997,
+    "text": "whether they represent a separate origin or share ancestry"
+  },
+  {
+    "start": 325.72499999999997,
+    "end": 327.9625,
+    "text": "through transported material."
+  },
+  {
+    "start": 327.9625,
+    "end": 331.16249999999997,
+    "text": "A genuinely independent example would change this discussion"
+  },
+  {
+    "start": 331.16249999999997,
+    "end": 332.41249999999997,
+    "text": "enormously."
+  },
+  {
+    "start": 332.825,
+    "end": 335.95,
+    "text": "Until then, the leap from many habitable environments"
+  },
+  {
+    "start": 335.95,
+    "end": 339.225,
+    "text": "to many inhabited environments is still a leap."
+  },
+  {
+    "start": 339.225,
+    "end": 341.5,
+    "text": "It may turn out to be a small one."
+  },
+  {
+    "start": 341.5,
+    "end": 343.85,
+    "text": "We do not get to assume that it is."
+  },
+  {
+    "start": 344.9,
+    "end": 347.86249999999995,
+    "text": "Even a galaxy full of life might not be a galaxy full"
+  },
+  {
+    "start": 347.86249999999995,
+    "end": 351.87499999999994,
+    "text": "of messages. For much of Earth's history, life was microbial."
+  },
+  {
+    "start": 351.87499999999994,
+    "end": 355.22499999999997,
+    "text": "A planet can have active chemistry, ecosystems, and"
+  },
+  {
+    "start": 355.22499999999997,
+    "end": 358.4625,
+    "text": "evolution without anybody building an antenna."
+  },
+  {
+    "start": 358.4625,
+    "end": 362.97499999999997,
+    "text": "Complex cells, large bodies, nervous systems, and technological"
+  },
+  {
+    "start": 362.97499999999997,
+    "end": 366.66249999999997,
+    "text": "societies are separate developments, not milestones that"
+  },
+  {
+    "start": 366.66249999999997,
+    "end": 369.53749999999997,
+    "text": "every living world is required to reach."
+  },
+  {
+    "start": 369.53749999999997,
+    "end": 372.86249999999995,
+    "text": "Evolution does not aim at a radio telescope."
+  },
+  {
+    "start": 373.2749999999999,
+    "end": 376.1499999999999,
+    "text": "It favors traits that affect reproduction in particular"
+  },
+  {
+    "start": 376.1499999999999,
+    "end": 379.5374999999999,
+    "text": "environments, with history and contingency shaping what"
+  },
+  {
+    "start": 379.5374999999999,
+    "end": 380.99999999999994,
+    "text": "becomes possible."
+  },
+  {
+    "start": 380.99999999999994,
+    "end": 384.13749999999993,
+    "text": "We should also avoid the opposite mistake: treating Earth's"
+  },
+  {
+    "start": 384.13749999999993,
+    "end": 386.93749999999994,
+    "text": "sequence as the only imaginable route."
+  },
+  {
+    "start": 386.93749999999994,
+    "end": 390.3499999999999,
+    "text": "Another biosphere might differ in ways we cannot predict."
+  },
+  {
+    "start": 390.3499999999999,
+    "end": 392.6624999999999,
+    "text": "The honest position is narrower."
+  },
+  {
+    "start": 392.6624999999999,
+    "end": 395.87499999999994,
+    "text": "Our one known example contains a long interval of life"
+  },
+  {
+    "start": 395.87499999999994,
+    "end": 399.06249999999994,
+    "text": "without human-style technology, and we do not know how"
+  },
+  {
+    "start": 399.06249999999994,
+    "end": 400.98749999999995,
+    "text": "typical that history is."
+  },
+  {
+    "start": 401.42499999999995,
+    "end": 404.8999999999999,
+    "text": "This means two searches can have very different prospects."
+  },
+  {
+    "start": 404.8999999999999,
+    "end": 408.6624999999999,
+    "text": "A search for atmospheric signs of biological activity"
+  },
+  {
+    "start": 408.6624999999999,
+    "end": 411.8499999999999,
+    "text": "could succeed in a universe where a search for deliberate"
+  },
+  {
+    "start": 411.8499999999999,
+    "end": 415.49999999999994,
+    "text": "interstellar transmissions remains unsuccessful."
+  },
+  {
+    "start": 415.49999999999994,
+    "end": 419.4624999999999,
+    "text": "Life, intelligence, and detectable technology are related"
+  },
+  {
+    "start": 419.4624999999999,
+    "end": 422.49999999999994,
+    "text": "questions, not interchangeable words."
+  },
+  {
+    "start": 423.5249999999999,
+    "end": 426.2124999999999,
+    "text": "Consider the animals sharing our own world."
+  },
+  {
+    "start": 426.2124999999999,
+    "end": 429.5999999999999,
+    "text": "Some solve problems, communicate, remember individuals,"
+  },
+  {
+    "start": 429.5999999999999,
+    "end": 431.63749999999993,
+    "text": "cooperate, and use tools."
+  },
+  {
+    "start": 431.63749999999993,
+    "end": 435.07499999999993,
+    "text": "None of that automatically produces metallurgy, electricity,"
+  },
+  {
+    "start": 435.07499999999993,
+    "end": 437.4124999999999,
+    "text": "or an industrial supply chain."
+  },
+  {
+    "start": 437.4124999999999,
+    "end": 440.8999999999999,
+    "text": "A technological civilization requires a particular combination"
+  },
+  {
+    "start": 440.8999999999999,
+    "end": 445.04999999999995,
+    "text": "of abilities, materials, environments, social arrangements,"
+  },
+  {
+    "start": 445.04999999999995,
+    "end": 446.9749999999999,
+    "text": "and accumulated knowledge."
+  },
+  {
+    "start": 446.9749999999999,
+    "end": 449.87499999999994,
+    "text": "We do not know which ingredients are common elsewhere,"
+  },
+  {
+    "start": 449.87499999999994,
+    "end": 452.73749999999995,
+    "text": "or what different combinations might achieve."
+  },
+  {
+    "start": 453.19999999999993,
+    "end": 456.4749999999999,
+    "text": "An ocean world could support sophisticated behavior while"
+  },
+  {
+    "start": 456.4749999999999,
+    "end": 459.9749999999999,
+    "text": "making familiar routes to fire and metalworking difficult."
+  },
+  {
+    "start": 459.9749999999999,
+    "end": 463.26249999999993,
+    "text": "That is a possible constraint, not a proof that aquatic"
+  },
+  {
+    "start": 463.26249999999993,
+    "end": 466.2124999999999,
+    "text": "intelligence could never develop technology."
+  },
+  {
+    "start": 466.2124999999999,
+    "end": 469.2749999999999,
+    "text": "Even a species with machines might not produce emissions"
+  },
+  {
+    "start": 469.2749999999999,
+    "end": 471.5249999999999,
+    "text": "that our instruments could recognize."
+  },
+  {
+    "start": 471.5249999999999,
+    "end": 475.13749999999993,
+    "text": "Its communications could use unfamiliar channels, low"
+  },
+  {
+    "start": 475.13749999999993,
+    "end": 479.04999999999995,
+    "text": "power, narrow beams, or methods that leave little outward"
+  },
+  {
+    "start": 479.04999999999995,
+    "end": 480.06249999999994,
+    "text": "leakage."
+  },
+  {
+    "start": 480.49999999999994,
+    "end": 483.9249999999999,
+    "text": "When we ask how many intelligent species exist, we are"
+  },
+  {
+    "start": 483.9249999999999,
+    "end": 487.0499999999999,
+    "text": "therefore asking something different from how many civilizations"
+  },
+  {
+    "start": 487.0499999999999,
+    "end": 488.63749999999993,
+    "text": "are visible to us."
+  },
+  {
+    "start": 488.63749999999993,
+    "end": 492.7749999999999,
+    "text": "The galaxy might contain minds without transmitters, transmitters"
+  },
+  {
+    "start": 492.7749999999999,
+    "end": 496.1624999999999,
+    "text": "without strong leakage, and strong leakage that never"
+  },
+  {
+    "start": 496.1624999999999,
+    "end": 498.0874999999999,
+    "text": "crosses Earth's position."
+  },
+  {
+    "start": 498.0874999999999,
+    "end": 501.3624999999999,
+    "text": "Each possibility changes what an empty observation can"
+  },
+  {
+    "start": 501.3624999999999,
+    "end": 502.3499999999999,
+    "text": "tell us."
+  },
+  {
+    "start": 503.37499999999994,
+    "end": 506.41249999999997,
+    "text": "The Drake equation is useful here, provided we resist"
+  },
+  {
+    "start": 506.41249999999997,
+    "end": 508.87499999999994,
+    "text": "turning it into a fortune-telling device."
+  },
+  {
+    "start": 508.87499999999994,
+    "end": 512.3,
+    "text": "It organizes factors such as star formation, planetary"
+  },
+  {
+    "start": 512.3,
+    "end": 516.175,
+    "text": "occurrence, the emergence of life, technological activity,"
+  },
+  {
+    "start": 516.175,
+    "end": 519.4,
+    "text": "and the length of time that activity remains detectable."
+  },
+  {
+    "start": 519.4,
+    "end": 522.55,
+    "text": "Some factors can now be constrained by astronomy far"
+  },
+  {
+    "start": 522.55,
+    "end": 525.4749999999999,
+    "text": "better than they could when the equation was introduced."
+  },
+  {
+    "start": 525.4749999999999,
+    "end": 528.0625,
+    "text": "Others remain deeply uncertain."
+  },
+  {
+    "start": 528.0625,
+    "end": 531.5,
+    "text": "Multiply several guesses together and a neat-looking answer"
+  },
+  {
+    "start": 531.5,
+    "end": 534.2624999999999,
+    "text": "can conceal enormous uncertainty."
+  },
+  {
+    "start": 534.6999999999999,
+    "end": 537.9374999999999,
+    "text": "A colorful graphic showing ten thousand civilizations"
+  },
+  {
+    "start": 537.9374999999999,
+    "end": 541.1874999999999,
+    "text": "is not a measurement simply because multiplication appears"
+  },
+  {
+    "start": 541.1874999999999,
+    "end": 544.7124999999999,
+    "text": "underneath it. Different reasonable assumptions can produce"
+  },
+  {
+    "start": 544.7124999999999,
+    "end": 546.6874999999999,
+    "text": "wildly different outcomes."
+  },
+  {
+    "start": 546.6874999999999,
+    "end": 549.55,
+    "text": "The equation's strength is that it exposes where those"
+  },
+  {
+    "start": 549.55,
+    "end": 551.0249999999999,
+    "text": "assumptions enter."
+  },
+  {
+    "start": 551.0249999999999,
+    "end": 554.5374999999999,
+    "text": "It also reminds us that a galaxy's total history is not"
+  },
+  {
+    "start": 554.5374999999999,
+    "end": 557.1874999999999,
+    "text": "the same as the number of civilizations detectable at"
+  },
+  {
+    "start": 557.1874999999999,
+    "end": 561.3999999999999,
+    "text": "the same time. A civilization could last a long time while"
+  },
+  {
+    "start": 561.3999999999999,
+    "end": 564.8625,
+    "text": "producing a recognizable signal only briefly."
+  },
+  {
+    "start": 565.3249999999999,
+    "end": 569.15,
+    "text": "Another might disappear while an automated beacon continued."
+  },
+  {
+    "start": 569.15,
+    "end": 572.4625,
+    "text": "What matters for a specific search is the duration and"
+  },
+  {
+    "start": 572.4625,
+    "end": 576.3124999999999,
+    "text": "character of the detectable phenomenon, not just the lifespan"
+  },
+  {
+    "start": 576.3124999999999,
+    "end": 577.9,
+    "text": "of the people who made it."
+  },
+  {
+    "start": 578.9749999999999,
+    "end": 581.7249999999999,
+    "text": "Imagine two islands where a lamp is switched on for a"
+  },
+  {
+    "start": 581.7249999999999,
+    "end": 583.4875,
+    "text": "few minutes each century."
+  },
+  {
+    "start": 583.4875,
+    "end": 586.1374999999999,
+    "text": "Both islands can truthfully say that someone has used"
+  },
+  {
+    "start": 586.1374999999999,
+    "end": 589.05,
+    "text": "a lamp. That does not mean either island will see the"
+  },
+  {
+    "start": 589.05,
+    "end": 592.5249999999999,
+    "text": "other. In the galaxy, the clocks are much larger, and"
+  },
+  {
+    "start": 592.5249999999999,
+    "end": 594.9374999999999,
+    "text": "light takes time to cross the water."
+  },
+  {
+    "start": 594.9374999999999,
+    "end": 597.4624999999999,
+    "text": "A signal arriving at Earth tonight was emitted in the"
+  },
+  {
+    "start": 597.4624999999999,
+    "end": 601.2249999999999,
+    "text": "past. Whether we detect it depends on its emission time,"
+  },
+  {
+    "start": 601.2249999999999,
+    "end": 605.2499999999999,
+    "text": "travel time, our observing schedule, and our sensitivity."
+  },
+  {
+    "start": 605.8499999999999,
+    "end": 608.7874999999999,
+    "text": "There may also be no overlap between the eras in which"
+  },
+  {
+    "start": 608.7874999999999,
+    "end": 612.2124999999999,
+    "text": "two civilizations operate compatible technology."
+  },
+  {
+    "start": 612.2124999999999,
+    "end": 615.6499999999999,
+    "text": "None of this establishes that civilizations are short-lived."
+  },
+  {
+    "start": 615.6499999999999,
+    "end": 619.2249999999999,
+    "text": "It shows why the duration of detectable activity matters."
+  },
+  {
+    "start": 619.2249999999999,
+    "end": 622.2874999999999,
+    "text": "We sometimes picture the galaxy's entire history as"
+  },
+  {
+    "start": 622.2874999999999,
+    "end": 625.7999999999998,
+    "text": "a crowded party whose guests must all be in the same room."
+  },
+  {
+    "start": 625.7999999999998,
+    "end": 629.5874999999999,
+    "text": "In reality, the invitations could be separated by millions"
+  },
+  {
+    "start": 629.5874999999999,
+    "end": 633.7249999999999,
+    "text": "of years. If we search for active signals, timing matters"
+  },
+  {
+    "start": 633.7249999999999,
+    "end": 634.7874999999999,
+    "text": "directly."
+  },
+  {
+    "start": 635.1999999999999,
+    "end": 638.4124999999999,
+    "text": "If we search for long-lived artifacts or environmental"
+  },
+  {
+    "start": 638.4124999999999,
+    "end": 642.0874999999999,
+    "text": "changes, we are asking a different question about how"
+  },
+  {
+    "start": 642.0874999999999,
+    "end": 646.5999999999999,
+    "text": "long a trace remains visible after its makers stop participating."
+  },
+  {
+    "start": 647.8249999999999,
+    "end": 650.925,
+    "text": "Radio searches do not consist of pointing a dish upward"
+  },
+  {
+    "start": 650.925,
+    "end": 654.0124999999999,
+    "text": "and waiting for any conceivable alien voice."
+  },
+  {
+    "start": 654.0124999999999,
+    "end": 657.8249999999999,
+    "text": "Researchers choose directions, frequency ranges, observing"
+  },
+  {
+    "start": 657.8249999999999,
+    "end": 661.15,
+    "text": "times, signal types, and thresholds for deciding what"
+  },
+  {
+    "start": 661.15,
+    "end": 662.7125,
+    "text": "deserves attention."
+  },
+  {
+    "start": 662.7125,
+    "end": 666.1374999999999,
+    "text": "A narrowband signal can be interesting because concentrating"
+  },
+  {
+    "start": 666.1374999999999,
+    "end": 669.8124999999999,
+    "text": "energy into a very small frequency range may distinguish"
+  },
+  {
+    "start": 669.8124999999999,
+    "end": 672.6999999999999,
+    "text": "a transmitter from many natural sources."
+  },
+  {
+    "start": 672.6999999999999,
+    "end": 675.4749999999999,
+    "text": "But the instrument must cover the relevant frequency at"
+  },
+  {
+    "start": 675.4749999999999,
+    "end": 678.2624999999999,
+    "text": "the relevant time with enough sensitivity."
+  },
+  {
+    "start": 678.7249999999999,
+    "end": 682.1374999999999,
+    "text": "Researchers may also account for changes in apparent frequency"
+  },
+  {
+    "start": 682.1374999999999,
+    "end": 684.1249999999999,
+    "text": "caused by relative motion."
+  },
+  {
+    "start": 684.1249999999999,
+    "end": 687.2124999999999,
+    "text": "Some surveys inspect many nearby stars."
+  },
+  {
+    "start": 687.2124999999999,
+    "end": 690.1499999999999,
+    "text": "Others examine particular regions or different kinds of"
+  },
+  {
+    "start": 690.1499999999999,
+    "end": 694.0999999999999,
+    "text": "targets. These choices are scientifically motivated, but"
+  },
+  {
+    "start": 694.0999999999999,
+    "end": 695.4875,
+    "text": "they are choices."
+  },
+  {
+    "start": 695.4875,
+    "end": 698.9374999999999,
+    "text": "A null result means that no qualifying signal was found"
+  },
+  {
+    "start": 698.9374999999999,
+    "end": 702.6249999999999,
+    "text": "within the tested conditions and the limits of the analysis."
+  },
+  {
+    "start": 702.6249999999999,
+    "end": 705.8374999999999,
+    "text": "It does not mean no signal existed anywhere."
+  },
+  {
+    "start": 706.3,
+    "end": 709.5749999999999,
+    "text": "This is how science gains ground without overclaiming:"
+  },
+  {
+    "start": 709.5749999999999,
+    "end": 713.0999999999999,
+    "text": "define a search, report its sensitivity and coverage,"
+  },
+  {
+    "start": 713.0999999999999,
+    "end": 716.2874999999999,
+    "text": "and let future work extend or revise it."
+  },
+  {
+    "start": 716.2874999999999,
+    "end": 719.9749999999999,
+    "text": "A receiver that misses one kind of signal has not necessarily"
+  },
+  {
+    "start": 719.9749999999999,
+    "end": 724.3499999999999,
+    "text": "failed. It may have answered a precise, narrower question."
+  },
+  {
+    "start": 725.5749999999999,
+    "end": 729.3249999999999,
+    "text": "A useful metaphor is a cosmic haystack with many dimensions."
+  },
+  {
+    "start": 729.3249999999999,
+    "end": 731.4124999999999,
+    "text": "One dimension is position."
+  },
+  {
+    "start": 731.4124999999999,
+    "end": 735.8,
+    "text": "Others include frequency, bandwidth, time, polarization,"
+  },
+  {
+    "start": 735.8,
+    "end": 739.1125,
+    "text": "transmitter strength, and the behavior of a signal."
+  },
+  {
+    "start": 739.1125,
+    "end": 741.4625,
+    "text": "How much of that haystack have we searched?"
+  },
+  {
+    "start": 741.4625,
+    "end": 744.2499999999999,
+    "text": "Researchers have tried to quantify this question, but"
+  },
+  {
+    "start": 744.2499999999999,
+    "end": 747.5624999999999,
+    "text": "any fraction depends on how the haystack is defined."
+  },
+  {
+    "start": 747.5624999999999,
+    "end": 751.0875,
+    "text": "There is no universal percentage representing every possible"
+  },
+  {
+    "start": 751.0875,
+    "end": 753.0374999999999,
+    "text": "technological phenomenon."
+  },
+  {
+    "start": 753.4999999999999,
+    "end": 756.6749999999998,
+    "text": "A study of radio search completeness cannot automatically"
+  },
+  {
+    "start": 756.6749999999998,
+    "end": 760.5999999999999,
+    "text": "describe searches for infrared waste heat or optical pulses."
+  },
+  {
+    "start": 760.5999999999999,
+    "end": 763.2249999999999,
+    "text": "The lesson is not a catchy tiny number."
+  },
+  {
+    "start": 763.2249999999999,
+    "end": 765.9249999999998,
+    "text": "It is that the search space is large and our coverage"
+  },
+  {
+    "start": 765.9249999999998,
+    "end": 769.8374999999999,
+    "text": "is uneven. Imagine sampling a small patch of ocean and"
+  },
+  {
+    "start": 769.8374999999999,
+    "end": 771.4374999999999,
+    "text": "finding no fish."
+  },
+  {
+    "start": 771.4374999999999,
+    "end": 774.1999999999999,
+    "text": "The result matters, but what it tells you depends on where"
+  },
+  {
+    "start": 774.1999999999999,
+    "end": 777.9999999999999,
+    "text": "you sampled, how deep, with what net, and what species"
+  },
+  {
+    "start": 777.9999999999999,
+    "end": 779.2374999999998,
+    "text": "you could catch."
+  },
+  {
+    "start": 779.6999999999999,
+    "end": 783.3625,
+    "text": "Likewise, repeated astronomical null results can rule"
+  },
+  {
+    "start": 783.3625,
+    "end": 787.425,
+    "text": "out particular populations of sufficiently powerful transmitters"
+  },
+  {
+    "start": 787.425,
+    "end": 789.3375,
+    "text": "under stated assumptions."
+  },
+  {
+    "start": 789.3375,
+    "end": 792.2125,
+    "text": "They do not let us announce that the universe has been"
+  },
+  {
+    "start": 792.2125,
+    "end": 794.1374999999999,
+    "text": "comprehensively checked."
+  },
+  {
+    "start": 794.1374999999999,
+    "end": 797.525,
+    "text": "The absence becomes informative when we say exactly what"
+  },
+  {
+    "start": 797.525,
+    "end": 798.925,
+    "text": "would have been visible."
+  },
+  {
+    "start": 799.9999999999999,
+    "end": 801.7249999999999,
+    "text": "Now reverse the telescope."
+  },
+  {
+    "start": 801.7249999999999,
+    "end": 803.4999999999999,
+    "text": "How conspicuous is Earth?"
+  },
+  {
+    "start": 803.4999999999999,
+    "end": 806.4874999999998,
+    "text": "Our planet has emitted artificial radio signals for more"
+  },
+  {
+    "start": 806.4874999999998,
+    "end": 809.4249999999998,
+    "text": "than a century, but it has not illuminated the galaxy"
+  },
+  {
+    "start": 809.4249999999998,
+    "end": 812.0124999999999,
+    "text": "with a uniformly readable broadcast."
+  },
+  {
+    "start": 812.0124999999999,
+    "end": 814.7749999999999,
+    "text": "Different emissions have different strengths, directions,"
+  },
+  {
+    "start": 814.7749999999999,
+    "end": 816.8749999999999,
+    "text": "frequencies, and schedules."
+  },
+  {
+    "start": 816.8749999999999,
+    "end": 820.4999999999999,
+    "text": "Some powerful radar transmissions are highly directional."
+  },
+  {
+    "start": 820.4999999999999,
+    "end": 823.7999999999998,
+    "text": "Ordinary leakage spreads and becomes difficult to distinguish"
+  },
+  {
+    "start": 823.7999999999998,
+    "end": 827.0624999999999,
+    "text": "at great distances, depending on the receiving instrument"
+  },
+  {
+    "start": 827.0624999999999,
+    "end": 828.2124999999999,
+    "text": "and the signal."
+  },
+  {
+    "start": 828.6249999999999,
+    "end": 831.7749999999999,
+    "text": "The expanding region reached by our oldest emissions is"
+  },
+  {
+    "start": 831.7749999999999,
+    "end": 835.1124999999998,
+    "text": "also not a solid shell of intelligible television."
+  },
+  {
+    "start": 835.1124999999998,
+    "end": 838.4374999999999,
+    "text": "A radio wave passing a location does not guarantee that"
+  },
+  {
+    "start": 838.4374999999999,
+    "end": 840.9374999999999,
+    "text": "anybody there can detect or decode it."
+  },
+  {
+    "start": 840.9374999999999,
+    "end": 844.2499999999999,
+    "text": "Deliberate interstellar messages are a separate category,"
+  },
+  {
+    "start": 844.2499999999999,
+    "end": 846.9999999999999,
+    "text": "with their own limited targets and histories."
+  },
+  {
+    "start": 846.9999999999999,
+    "end": 850.4124999999998,
+    "text": "There is no single, context-free distance beyond which"
+  },
+  {
+    "start": 850.4124999999998,
+    "end": 853.8999999999999,
+    "text": "Earth becomes invisible to every conceivable observer."
+  },
+  {
+    "start": 853.8999999999999,
+    "end": 857.0124999999998,
+    "text": "Claims about detectability need assumptions about both"
+  },
+  {
+    "start": 857.0124999999998,
+    "end": 859.1374999999998,
+    "text": "transmitter and receiver."
+  },
+  {
+    "start": 859.5749999999999,
+    "end": 862.925,
+    "text": "This should make us cautious about expecting another civilization"
+  },
+  {
+    "start": 862.925,
+    "end": 866.2499999999999,
+    "text": "to be obvious merely because it resembles us."
+  },
+  {
+    "start": 866.2499999999999,
+    "end": 869.0999999999999,
+    "text": "We could be looking at a technological world whose most"
+  },
+  {
+    "start": 869.0999999999999,
+    "end": 872.7499999999999,
+    "text": "detectable activities rarely point our way, while its"
+  },
+  {
+    "start": 872.7499999999999,
+    "end": 875.7249999999999,
+    "text": "everyday life remains hidden in the noise."
+  },
+  {
+    "start": 876.7999999999998,
+    "end": 880.3249999999998,
+    "text": "Imagine that our observatory's strange signal returns."
+  },
+  {
+    "start": 880.3249999999998,
+    "end": 883.3624999999998,
+    "text": "It has a sharp frequency structure and seems to move"
+  },
+  {
+    "start": 883.3624999999998,
+    "end": 884.8499999999998,
+    "text": "in an interesting way."
+  },
+  {
+    "start": 884.8499999999998,
+    "end": 887.3999999999999,
+    "text": "The team does not announce a civilization."
+  },
+  {
+    "start": 887.3999999999999,
+    "end": 890.2249999999998,
+    "text": "First, it asks whether the signal comes from the sky at"
+  },
+  {
+    "start": 890.2249999999998,
+    "end": 894.5249999999999,
+    "text": "all. Satellites, aircraft, ground equipment, electronics,"
+  },
+  {
+    "start": 894.5249999999999,
+    "end": 897.8499999999998,
+    "text": "and instrumental effects can create misleading patterns."
+  },
+  {
+    "start": 897.8499999999998,
+    "end": 900.6749999999998,
+    "text": "Researchers compare observations on the target with"
+  },
+  {
+    "start": 900.6749999999998,
+    "end": 902.5624999999999,
+    "text": "observations away from it."
+  },
+  {
+    "start": 902.5624999999999,
+    "end": 905.5749999999998,
+    "text": "They inspect the instrument and the local environment."
+  },
+  {
+    "start": 906.1749999999998,
+    "end": 909.2749999999999,
+    "text": "They ask whether another observatory can reproduce the"
+  },
+  {
+    "start": 909.2749999999999,
+    "end": 912.9499999999998,
+    "text": "result, whether the position behaves like a distant source,"
+  },
+  {
+    "start": 912.9499999999998,
+    "end": 916.2249999999998,
+    "text": "and whether the signal persists under further analysis."
+  },
+  {
+    "start": 916.2249999999998,
+    "end": 920.0499999999998,
+    "text": "An unexplained event is not automatically an extraterrestrial"
+  },
+  {
+    "start": 920.0499999999998,
+    "end": 923.9499999999998,
+    "text": "technology. A candidate can remain unresolved because"
+  },
+  {
+    "start": 923.9499999999998,
+    "end": 927.1624999999998,
+    "text": "the available data are insufficient, without becoming"
+  },
+  {
+    "start": 927.1624999999998,
+    "end": 930.1999999999998,
+    "text": "stronger evidence by remaining mysterious."
+  },
+  {
+    "start": 930.1999999999998,
+    "end": 933.6249999999998,
+    "text": "Nor does rejecting a candidate make the search pointless."
+  },
+  {
+    "start": 934.2749999999999,
+    "end": 937.3499999999999,
+    "text": "Learning how interference imitates a signal improves the"
+  },
+  {
+    "start": 937.3499999999999,
+    "end": 940.6624999999999,
+    "text": "next search. A convincing discovery would need a chain"
+  },
+  {
+    "start": 940.6624999999999,
+    "end": 944.4249999999998,
+    "text": "of evidence that survives serious efforts to find a mundane"
+  },
+  {
+    "start": 944.4249999999998,
+    "end": 948.7249999999999,
+    "text": "explanation. Our opening scene becomes extraordinary only"
+  },
+  {
+    "start": 948.7249999999999,
+    "end": 950.4624999999999,
+    "text": "when that chain holds."
+  },
+  {
+    "start": 950.4624999999999,
+    "end": 954.2999999999998,
+    "text": "A dramatic first impression is the beginning of the investigation,"
+  },
+  {
+    "start": 954.2999999999998,
+    "end": 956.0249999999999,
+    "text": "not its conclusion."
+  },
+  {
+    "start": 957.0749999999998,
+    "end": 960.2999999999998,
+    "text": "A technological signature does not have to be a greeting."
+  },
+  {
+    "start": 960.2999999999998,
+    "end": 964.2749999999997,
+    "text": "Researchers discuss optical pulses, unusual atmospheric"
+  },
+  {
+    "start": 964.2749999999997,
+    "end": 968.0499999999998,
+    "text": "compounds, industrial effects, and infrared emissions"
+  },
+  {
+    "start": 968.0499999999998,
+    "end": 970.5249999999997,
+    "text": "associated with energy use."
+  },
+  {
+    "start": 970.5249999999997,
+    "end": 973.7124999999997,
+    "text": "These are possibilities with different physical assumptions"
+  },
+  {
+    "start": 973.7124999999997,
+    "end": 975.7374999999998,
+    "text": "and practical limitations."
+  },
+  {
+    "start": 975.7374999999998,
+    "end": 979.3999999999997,
+    "text": "An atmosphere can contain a molecule for natural reasons,"
+  },
+  {
+    "start": 979.3999999999997,
+    "end": 982.2874999999998,
+    "text": "and retrieving an atmospheric spectrum from a distant"
+  },
+  {
+    "start": 982.2874999999998,
+    "end": 983.9374999999998,
+    "text": "planet is difficult."
+  },
+  {
+    "start": 984.3999999999997,
+    "end": 988.5249999999997,
+    "text": "An unusual light curve can arise from dust, stellar behavior,"
+  },
+  {
+    "start": 988.5249999999997,
+    "end": 990.9374999999998,
+    "text": "or other astrophysical causes."
+  },
+  {
+    "start": 990.9374999999998,
+    "end": 994.5999999999998,
+    "text": "Infrared excess can also have ordinary explanations."
+  },
+  {
+    "start": 994.5999999999998,
+    "end": 997.3499999999998,
+    "text": "The challenge resembles the one we faced in the Silurian"
+  },
+  {
+    "start": 997.3499999999998,
+    "end": 1001.5749999999997,
+    "text": "Hypothesis: an unusual trace needs context, competing"
+  },
+  {
+    "start": 1001.5749999999997,
+    "end": 1004.3374999999997,
+    "text": "explanations, and independent checks."
+  },
+  {
+    "start": 1004.3374999999997,
+    "end": 1007.1499999999997,
+    "text": "A hypothetical technology can be interesting to search"
+  },
+  {
+    "start": 1007.1499999999997,
+    "end": 1009.8624999999997,
+    "text": "for without being evidence that it exists."
+  },
+  {
+    "start": 1009.8624999999997,
+    "end": 1012.8249999999997,
+    "text": "The value of multiple methods is that they ask different"
+  },
+  {
+    "start": 1012.8249999999997,
+    "end": 1013.8874999999997,
+    "text": "questions."
+  },
+  {
+    "start": 1014.3499999999998,
+    "end": 1018.0624999999998,
+    "text": "A civilization that never sends a deliberate radio message"
+  },
+  {
+    "start": 1018.0624999999998,
+    "end": 1020.4374999999998,
+    "text": "could still alter its environment."
+  },
+  {
+    "start": 1020.4374999999998,
+    "end": 1023.3249999999998,
+    "text": "Another might produce little detectable change by our"
+  },
+  {
+    "start": 1023.3249999999998,
+    "end": 1027.2875,
+    "text": "methods. Broadening the search helps us avoid defining"
+  },
+  {
+    "start": 1027.2875,
+    "end": 1031.5249999999999,
+    "text": "every possible civilization as a louder copy of twentieth-century"
+  },
+  {
+    "start": 1031.5249999999999,
+    "end": 1034.8249999999998,
+    "text": "Earth. It does not remove the need to establish what a"
+  },
+  {
+    "start": 1034.8249999999998,
+    "end": 1037.4999999999998,
+    "text": "proposed signature actually means."
+  },
+  {
+    "start": 1038.6,
+    "end": 1042.8374999999999,
+    "text": "One famous idea imagines a civilization collecting a substantial"
+  },
+  {
+    "start": 1042.8374999999999,
+    "end": 1045.0124999999998,
+    "text": "fraction of its star's energy."
+  },
+  {
+    "start": 1045.0124999999998,
+    "end": 1048.4125,
+    "text": "Popular illustrations often show a rigid shell surrounding"
+  },
+  {
+    "start": 1048.4125,
+    "end": 1052.2124999999999,
+    "text": "the star. A more useful conceptual picture is a large"
+  },
+  {
+    "start": 1052.2124999999999,
+    "end": 1055.7749999999999,
+    "text": "population of orbiting collectors, although the engineering"
+  },
+  {
+    "start": 1055.7749999999999,
+    "end": 1058.9999999999998,
+    "text": "remains far beyond anything we can build."
+  },
+  {
+    "start": 1058.9999999999998,
+    "end": 1063.1499999999999,
+    "text": "Such a system is a hypothesis, not an observed structure."
+  },
+  {
+    "start": 1063.7499999999998,
+    "end": 1067.4125,
+    "text": "Energy use would still involve thermodynamics: energy"
+  },
+  {
+    "start": 1067.4125,
+    "end": 1070.9875,
+    "text": "ultimately leaves in some form, often discussed as waste"
+  },
+  {
+    "start": 1070.9875,
+    "end": 1073.2124999999999,
+    "text": "heat at infrared wavelengths."
+  },
+  {
+    "start": 1073.2124999999999,
+    "end": 1076.1125,
+    "text": "That gives astronomers a possible way to look for certain"
+  },
+  {
+    "start": 1076.1125,
+    "end": 1078.35,
+    "text": "kinds of large-scale activity."
+  },
+  {
+    "start": 1078.35,
+    "end": 1082.4999999999998,
+    "text": "But the temperature, geometry, fraction of starlight intercepted,"
+  },
+  {
+    "start": 1082.4999999999998,
+    "end": 1085.5749999999998,
+    "text": "and background environment affect what would be visible."
+  },
+  {
+    "start": 1085.5749999999998,
+    "end": 1089.85,
+    "text": "A dusty natural system can also glow strongly in infrared."
+  },
+  {
+    "start": 1090.4749999999997,
+    "end": 1094.0999999999997,
+    "text": "We cannot label every infrared-bright object a megastructure,"
+  },
+  {
+    "start": 1094.0999999999997,
+    "end": 1097.3749999999998,
+    "text": "and a null search for one design does not rule out all"
+  },
+  {
+    "start": 1097.3749999999998,
+    "end": 1099.1124999999997,
+    "text": "advanced societies."
+  },
+  {
+    "start": 1099.1124999999997,
+    "end": 1102.6999999999998,
+    "text": "The deeper point is useful even without giant construction."
+  },
+  {
+    "start": 1102.6999999999998,
+    "end": 1106.0749999999998,
+    "text": "A civilization's detectability may depend less on its"
+  },
+  {
+    "start": 1106.0749999999998,
+    "end": 1109.2249999999997,
+    "text": "desire to talk than on what its activities do to energy"
+  },
+  {
+    "start": 1109.2249999999997,
+    "end": 1112.3749999999998,
+    "text": "and matter. That shifts the search from listening for"
+  },
+  {
+    "start": 1112.3749999999998,
+    "end": 1115.7499999999998,
+    "text": "a sentence to examining a physical footprint."
+  },
+  {
+    "start": 1116.7999999999997,
+    "end": 1119.85,
+    "text": "At this point the original question returns with force."
+  },
+  {
+    "start": 1119.85,
+    "end": 1122.6749999999997,
+    "text": "If messages are hard to catch, why has nobody simply"
+  },
+  {
+    "start": 1122.6749999999997,
+    "end": 1126.0624999999998,
+    "text": "arrived? Interstellar travel is not prohibited by known"
+  },
+  {
+    "start": 1126.0624999999998,
+    "end": 1128.2499999999998,
+    "text": "physics at speeds below light."
+  },
+  {
+    "start": 1128.2499999999998,
+    "end": 1130.9374999999998,
+    "text": "It is, however, extraordinarily demanding."
+  },
+  {
+    "start": 1130.9374999999998,
+    "end": 1134.85,
+    "text": "A probe must obtain energy, survive its environment, navigate,"
+  },
+  {
+    "start": 1134.85,
+    "end": 1138.2499999999998,
+    "text": "communicate, and possibly slow down at its destination."
+  },
+  {
+    "start": 1138.2499999999998,
+    "end": 1140.3999999999999,
+    "text": "Dust and radiation matter."
+  },
+  {
+    "start": 1140.3999999999999,
+    "end": 1143.8249999999998,
+    "text": "At high speeds, even small particles can become serious"
+  },
+  {
+    "start": 1143.8249999999998,
+    "end": 1144.9125,
+    "text": "hazards."
+  },
+  {
+    "start": 1145.3749999999998,
+    "end": 1148.7874999999997,
+    "text": "A human crew adds life support, health, reproduction,"
+  },
+  {
+    "start": 1148.7874999999997,
+    "end": 1151.6874999999998,
+    "text": "maintenance, and social continuity to the problem."
+  },
+  {
+    "start": 1151.6874999999998,
+    "end": 1154.1874999999998,
+    "text": "None of these difficulties proves that a civilization"
+  },
+  {
+    "start": 1154.1874999999998,
+    "end": 1157.2249999999997,
+    "text": "with much more experience could never send anything."
+  },
+  {
+    "start": 1157.2249999999997,
+    "end": 1160.0999999999997,
+    "text": "They do mean that a sketch of a starship is not an engineering"
+  },
+  {
+    "start": 1160.0999999999997,
+    "end": 1163.6374999999998,
+    "text": "demonstration. We should distinguish several claims: a"
+  },
+  {
+    "start": 1163.6374999999998,
+    "end": 1166.7124999999999,
+    "text": "journey is physically allowed, a machine can practically"
+  },
+  {
+    "start": 1166.7124999999999,
+    "end": 1170.4249999999997,
+    "text": "survive it, a society can afford it, and that society"
+  },
+  {
+    "start": 1170.4249999999997,
+    "end": 1172.7624999999998,
+    "text": "chooses to launch it repeatedly."
+  },
+  {
+    "start": 1172.7624999999998,
+    "end": 1174.4374999999998,
+    "text": "Those are different steps."
+  },
+  {
+    "start": 1174.85,
+    "end": 1177.8374999999999,
+    "text": "The Fermi question becomes more interesting when we admit"
+  },
+  {
+    "start": 1177.8374999999999,
+    "end": 1182.425,
+    "text": "both sides: the gulf between stars is real, yet the galaxy"
+  },
+  {
+    "start": 1182.425,
+    "end": 1185.925,
+    "text": "has existed for far longer than any human technological"
+  },
+  {
+    "start": 1185.925,
+    "end": 1186.9999999999998,
+    "text": "project."
+  },
+  {
+    "start": 1188.0249999999999,
+    "end": 1190.8374999999999,
+    "text": "Consider a deliberately simplified model."
+  },
+  {
+    "start": 1190.8374999999999,
+    "end": 1193.9125,
+    "text": "Suppose probes or settlements can establish new launch"
+  },
+  {
+    "start": 1193.9125,
+    "end": 1197.4999999999998,
+    "text": "sites, and those sites eventually send missions onward."
+  },
+  {
+    "start": 1197.4999999999998,
+    "end": 1200.3124999999998,
+    "text": "Progress could occur through a chain of relatively local"
+  },
+  {
+    "start": 1200.3124999999998,
+    "end": 1203.5124999999998,
+    "text": "journeys rather than one ship crossing the galaxy in a"
+  },
+  {
+    "start": 1203.5124999999998,
+    "end": 1207.5124999999998,
+    "text": "single leap. In some models, even travel much slower than"
+  },
+  {
+    "start": 1207.5124999999998,
+    "end": 1210.6,
+    "text": "light can spread activity across large parts of the Milky"
+  },
+  {
+    "start": 1210.6,
+    "end": 1214.2124999999999,
+    "text": "Way on timescales short compared with its age."
+  },
+  {
+    "start": 1214.5999999999997,
+    "end": 1217.9374999999998,
+    "text": "But the answer depends on assumptions about speed, waiting"
+  },
+  {
+    "start": 1217.9374999999998,
+    "end": 1221.7999999999997,
+    "text": "times, suitable destinations, survival, and whether new"
+  },
+  {
+    "start": 1221.7999999999997,
+    "end": 1224.1124999999997,
+    "text": "sites actually keep expanding."
+  },
+  {
+    "start": 1224.1124999999997,
+    "end": 1226.7249999999997,
+    "text": "These models demonstrate possibilities."
+  },
+  {
+    "start": 1226.7249999999997,
+    "end": 1229.4999999999998,
+    "text": "They do not show that expansion must happen."
+  },
+  {
+    "start": 1229.4999999999998,
+    "end": 1233.0749999999998,
+    "text": "Stars also move, so the galaxy is not a fixed board of"
+  },
+  {
+    "start": 1233.0749999999998,
+    "end": 1236.8999999999996,
+    "text": "destinations. Researchers have explored how stellar motion"
+  },
+  {
+    "start": 1236.8999999999996,
+    "end": 1239.5874999999996,
+    "text": "and settlement behavior alter the result."
+  },
+  {
+    "start": 1240.0249999999996,
+    "end": 1243.4999999999998,
+    "text": "We should therefore be suspicious of both simple extremes:"
+  },
+  {
+    "start": 1243.4999999999998,
+    "end": 1247.4249999999997,
+    "text": "nobody could ever cross between stars, or one civilization"
+  },
+  {
+    "start": 1247.4249999999997,
+    "end": 1250.0874999999996,
+    "text": "must inevitably occupy everything."
+  },
+  {
+    "start": 1250.0874999999996,
+    "end": 1252.9749999999997,
+    "text": "The important tension survives between them."
+  },
+  {
+    "start": 1252.9749999999997,
+    "end": 1256.5624999999998,
+    "text": "If long-lived, expanding technological populations are"
+  },
+  {
+    "start": 1256.5624999999998,
+    "end": 1259.8874999999998,
+    "text": "common, we need to explain why their effects are not more"
+  },
+  {
+    "start": 1259.8874999999998,
+    "end": 1263.4499999999998,
+    "text": "obvious. The strength of that expectation depends on the"
+  },
+  {
+    "start": 1263.4499999999998,
+    "end": 1264.8999999999996,
+    "text": "model behind it."
+  },
+  {
+    "start": 1265.975,
+    "end": 1269.3625,
+    "text": "A civilization could reach multiple systems without occupying"
+  },
+  {
+    "start": 1269.3625,
+    "end": 1271.05,
+    "text": "every suitable place."
+  },
+  {
+    "start": 1271.05,
+    "end": 1273.6125,
+    "text": "Some destinations might be unattractive."
+  },
+  {
+    "start": 1273.6125,
+    "end": 1275.5124999999998,
+    "text": "Some outposts might fail."
+  },
+  {
+    "start": 1275.5124999999998,
+    "end": 1279.0375,
+    "text": "Expansion could slow, stop, or change character."
+  },
+  {
+    "start": 1279.0375,
+    "end": 1282.475,
+    "text": "A population's priorities could shift over long periods,"
+  },
+  {
+    "start": 1282.475,
+    "end": 1285.35,
+    "text": "and the conditions for settlement may be more restrictive"
+  },
+  {
+    "start": 1285.35,
+    "end": 1287.3125,
+    "text": "than a simple map assumes."
+  },
+  {
+    "start": 1287.3125,
+    "end": 1290.5625,
+    "text": "This creates possibilities for patchy habitation and long"
+  },
+  {
+    "start": 1290.5625,
+    "end": 1294.7375,
+    "text": "gaps. It also reveals a limit in arguments about universal"
+  },
+  {
+    "start": 1294.7375,
+    "end": 1296.3874999999998,
+    "text": "alien psychology."
+  },
+  {
+    "start": 1296.8249999999998,
+    "end": 1299.875,
+    "text": "We cannot prove that all civilizations want to expand"
+  },
+  {
+    "start": 1299.875,
+    "end": 1303.6,
+    "text": "forever. We also cannot solve the whole problem by declaring"
+  },
+  {
+    "start": 1303.6,
+    "end": 1305.6999999999998,
+    "text": "that none of them would ever try."
+  },
+  {
+    "start": 1305.6999999999998,
+    "end": 1308.6875,
+    "text": "If there are many independent civilizations over billions"
+  },
+  {
+    "start": 1308.6875,
+    "end": 1312.125,
+    "text": "of years, a claim about what every one of them chooses"
+  },
+  {
+    "start": 1312.125,
+    "end": 1314.4875,
+    "text": "becomes a very strong claim."
+  },
+  {
+    "start": 1314.4875,
+    "end": 1316.7749999999999,
+    "text": "Diversity cuts both ways."
+  },
+  {
+    "start": 1316.7749999999999,
+    "end": 1320.1625,
+    "text": "It weakens assumptions of inevitable conquest, and it"
+  },
+  {
+    "start": 1320.1625,
+    "end": 1324.125,
+    "text": "weakens explanations requiring perfect restraint everywhere."
+  },
+  {
+    "start": 1324.75,
+    "end": 1328.5125,
+    "text": "A scientifically useful model makes the behavior explicit"
+  },
+  {
+    "start": 1328.5125,
+    "end": 1331.7125,
+    "text": "and asks what observable distribution follows."
+  },
+  {
+    "start": 1331.7125,
+    "end": 1335.35,
+    "text": "An attractive story about wise societies staying home"
+  },
+  {
+    "start": 1335.35,
+    "end": 1338.975,
+    "text": "is still a story until we can connect it to evidence."
+  },
+  {
+    "start": 1338.975,
+    "end": 1342.375,
+    "text": "Human history can suggest questions, but it is a poor"
+  },
+  {
+    "start": 1342.375,
+    "end": 1345.425,
+    "text": "universal rulebook for unknown minds."
+  },
+  {
+    "start": 1346.45,
+    "end": 1349.925,
+    "text": "Perhaps a visitor arrived long ago, left a small machine,"
+  },
+  {
+    "start": 1349.925,
+    "end": 1351.3125,
+    "text": "and disappeared."
+  },
+  {
+    "start": 1351.3125,
+    "end": 1352.7375,
+    "text": "Can we rule that out?"
+  },
+  {
+    "start": 1352.7375,
+    "end": 1354.3375,
+    "text": "Not comprehensively."
+  },
+  {
+    "start": 1354.3375,
+    "end": 1357.9125,
+    "text": "Earth changes, artifacts can be small, and our inspection"
+  },
+  {
+    "start": 1357.9125,
+    "end": 1360.375,
+    "text": "of the solar system is incomplete."
+  },
+  {
+    "start": 1360.375,
+    "end": 1363.5625,
+    "text": "But this possibility must not be turned into a claim that"
+  },
+  {
+    "start": 1363.5625,
+    "end": 1367.9,
+    "text": "unusual rocks, human monuments, or ambiguous images are"
+  },
+  {
+    "start": 1367.9,
+    "end": 1369.4125,
+    "text": "alien equipment."
+  },
+  {
+    "start": 1369.85,
+    "end": 1373.525,
+    "text": "A proposed object needs material evidence, a reliable"
+  },
+  {
+    "start": 1373.525,
+    "end": 1377.0875,
+    "text": "context, and tests that distinguish technology from natural"
+  },
+  {
+    "start": 1377.0875,
+    "end": 1379.9,
+    "text": "formation or ordinary human activity."
+  },
+  {
+    "start": 1379.9,
+    "end": 1383.3,
+    "text": "Durable artifacts on some airless surfaces might survive"
+  },
+  {
+    "start": 1383.3,
+    "end": 1386.85,
+    "text": "under conditions very different from Earth's, though impacts,"
+  },
+  {
+    "start": 1386.85,
+    "end": 1390.3125,
+    "text": "radiation, and surface processes still matter."
+  },
+  {
+    "start": 1390.3125,
+    "end": 1393.8,
+    "text": "Researchers can discuss artifact searches without asserting"
+  },
+  {
+    "start": 1393.8,
+    "end": 1395.9875,
+    "text": "that an artifact has been found."
+  },
+  {
+    "start": 1395.9875,
+    "end": 1399.1875,
+    "text": "This is the direct bridge to our previous video."
+  },
+  {
+    "start": 1399.6000000000001,
+    "end": 1403.1375,
+    "text": "Preservation limits can hide traces, but they do not create"
+  },
+  {
+    "start": 1403.1375,
+    "end": 1404.7375000000002,
+    "text": "positive evidence."
+  },
+  {
+    "start": 1404.7375000000002,
+    "end": 1407.9250000000002,
+    "text": "A missing record cannot be filled with whichever civilization"
+  },
+  {
+    "start": 1407.9250000000002,
+    "end": 1410.075,
+    "text": "makes the most exciting picture."
+  },
+  {
+    "start": 1410.075,
+    "end": 1413.1875,
+    "text": "If an object were discovered, the strongest next step"
+  },
+  {
+    "start": 1413.1875,
+    "end": 1416.775,
+    "text": "would be careful measurement and independent investigation."
+  },
+  {
+    "start": 1416.775,
+    "end": 1420.8500000000001,
+    "text": "Until then, our illustrations of abandoned alien machines"
+  },
+  {
+    "start": 1420.8500000000001,
+    "end": 1424.8500000000001,
+    "text": "belong inside clearly marked imagination, not inside the"
+  },
+  {
+    "start": 1424.8500000000001,
+    "end": 1426.25,
+    "text": "evidence column."
+  },
+  {
+    "start": 1427.3,
+    "end": 1430.55,
+    "text": "The Great Filter names another way to organize the puzzle."
+  },
+  {
+    "start": 1430.55,
+    "end": 1433.925,
+    "text": "Between lifeless matter and a long-lived, widely detectable"
+  },
+  {
+    "start": 1433.925,
+    "end": 1437.375,
+    "text": "technological presence, there may be one or more exceptionally"
+  },
+  {
+    "start": 1437.375,
+    "end": 1439.0375000000001,
+    "text": "difficult transitions."
+  },
+  {
+    "start": 1439.0375000000001,
+    "end": 1442.0875,
+    "text": "Those transitions are called filters in the argument."
+  },
+  {
+    "start": 1442.0875,
+    "end": 1445.4,
+    "text": "The hard step might be the origin of life, the development"
+  },
+  {
+    "start": 1445.4,
+    "end": 1449.5,
+    "text": "of complex cells, the emergence of a technological species,"
+  },
+  {
+    "start": 1449.5,
+    "end": 1452.6375,
+    "text": "or the persistence of technological activity."
+  },
+  {
+    "start": 1452.6375,
+    "end": 1455.95,
+    "text": "There could be several hard steps rather than one dramatic"
+  },
+  {
+    "start": 1455.95,
+    "end": 1456.8375,
+    "text": "event."
+  },
+  {
+    "start": 1457.2749999999999,
+    "end": 1460.4375,
+    "text": "The framework is not a discovered physical barrier, and"
+  },
+  {
+    "start": 1460.4375,
+    "end": 1464.075,
+    "text": "it does not locate a known deadline in humanity's future."
+  },
+  {
+    "start": 1464.075,
+    "end": 1467.2124999999999,
+    "text": "Its emotional power comes from an uncertainty: have"
+  },
+  {
+    "start": 1467.2124999999999,
+    "end": 1470.725,
+    "text": "we already passed the hardest transitions, or are important"
+  },
+  {
+    "start": 1470.725,
+    "end": 1472.1875,
+    "text": "ones still ahead?"
+  },
+  {
+    "start": 1472.1875,
+    "end": 1475.8999999999999,
+    "text": "To answer, we would need evidence about how often transitions"
+  },
+  {
+    "start": 1475.8999999999999,
+    "end": 1479.5874999999999,
+    "text": "occur and what civilizations tend to do after them."
+  },
+  {
+    "start": 1479.5874999999999,
+    "end": 1482.7625,
+    "text": "Our single example cannot settle those rates."
+  },
+  {
+    "start": 1483.2250000000001,
+    "end": 1486.9625,
+    "text": "A filter is therefore a way of posing hypotheses, not"
+  },
+  {
+    "start": 1486.9625,
+    "end": 1490.9250000000002,
+    "text": "a verdict that every society eventually destroys itself."
+  },
+  {
+    "start": 1490.9250000000002,
+    "end": 1494.025,
+    "text": "The same quiet sky can be made to fit very different"
+  },
+  {
+    "start": 1494.025,
+    "end": 1496.9375000000002,
+    "text": "stories when the unknown probabilities are allowed to"
+  },
+  {
+    "start": 1496.9375000000002,
+    "end": 1500.825,
+    "text": "change. The job is to seek observations that separate"
+  },
+  {
+    "start": 1500.825,
+    "end": 1502.1000000000001,
+    "text": "those stories."
+  },
+  {
+    "start": 1503.1499999999999,
+    "end": 1506.8374999999999,
+    "text": "Suppose a crucial biological transition is extraordinarily"
+  },
+  {
+    "start": 1506.8374999999999,
+    "end": 1511.1,
+    "text": "rare. Perhaps simple life is widespread but complex cells"
+  },
+  {
+    "start": 1511.1,
+    "end": 1514.575,
+    "text": "are uncommon. Or perhaps even the first self-sustaining"
+  },
+  {
+    "start": 1514.575,
+    "end": 1518.6125,
+    "text": "evolutionary systems arise only under a narrow combination"
+  },
+  {
+    "start": 1518.6125,
+    "end": 1522.8125,
+    "text": "of conditions. Then the scarcity of detectable civilizations"
+  },
+  {
+    "start": 1522.8125,
+    "end": 1526.225,
+    "text": "might have little to do with technological self-destruction."
+  },
+  {
+    "start": 1526.225,
+    "end": 1529.0625,
+    "text": "We could have passed a difficult bottleneck long before"
+  },
+  {
+    "start": 1529.0625,
+    "end": 1530.6125,
+    "text": "humans existed."
+  },
+  {
+    "start": 1531.05,
+    "end": 1534.175,
+    "text": "This possibility is sometimes reassuring, but we should"
+  },
+  {
+    "start": 1534.175,
+    "end": 1536.6875,
+    "text": "not mistake reassurance for evidence."
+  },
+  {
+    "start": 1536.6875,
+    "end": 1540.1000000000001,
+    "text": "Earth's history can constrain sequences and timescales;"
+  },
+  {
+    "start": 1540.1000000000001,
+    "end": 1542.8500000000001,
+    "text": "it does not provide a sample of thousands of independent"
+  },
+  {
+    "start": 1542.8500000000001,
+    "end": 1546.575,
+    "text": "worlds. Even discovering microbes elsewhere would require"
+  },
+  {
+    "start": 1546.575,
+    "end": 1549.95,
+    "text": "interpretation. An independent origin would inform the"
+  },
+  {
+    "start": 1549.95,
+    "end": 1553.3125,
+    "text": "probability of life beginning, while a shared origin would"
+  },
+  {
+    "start": 1553.3125,
+    "end": 1555.25,
+    "text": "answer a different question."
+  },
+  {
+    "start": 1555.25,
+    "end": 1558.125,
+    "text": "Finding complex life would change another part of the"
+  },
+  {
+    "start": 1558.125,
+    "end": 1559.1875,
+    "text": "discussion."
+  },
+  {
+    "start": 1559.675,
+    "end": 1563.55,
+    "text": "No single discovery automatically locates every filter."
+  },
+  {
+    "start": 1563.55,
+    "end": 1566.8,
+    "text": "What matters is which transition the discovery actually"
+  },
+  {
+    "start": 1566.8,
+    "end": 1570.8249999999998,
+    "text": "demonstrates. This is why astrobiology and the search"
+  },
+  {
+    "start": 1570.8249999999998,
+    "end": 1574.0124999999998,
+    "text": "for technology belong in the same conversation."
+  },
+  {
+    "start": 1574.0124999999998,
+    "end": 1577.6625,
+    "text": "The smallest organism in an extraterrestrial sample could"
+  },
+  {
+    "start": 1577.6625,
+    "end": 1580.7499999999998,
+    "text": "tell us something about the silence of the sky that another"
+  },
+  {
+    "start": 1580.7499999999998,
+    "end": 1583.6999999999998,
+    "text": "century of speculative stories could not."
+  },
+  {
+    "start": 1584.7749999999999,
+    "end": 1588.475,
+    "text": "Now consider the darker possibility: technological societies"
+  },
+  {
+    "start": 1588.475,
+    "end": 1591.9374999999998,
+    "text": "emerge fairly often, but their detectable phases tend"
+  },
+  {
+    "start": 1591.9374999999998,
+    "end": 1596.3249999999998,
+    "text": "to be brief. Conflict, ecological disruption, dangerous"
+  },
+  {
+    "start": 1596.3249999999998,
+    "end": 1600.0749999999998,
+    "text": "technologies, or other failures might limit persistence."
+  },
+  {
+    "start": 1600.0749999999998,
+    "end": 1603.725,
+    "text": "These are serious subjects, yet the Fermi paradox does"
+  },
+  {
+    "start": 1603.725,
+    "end": 1607.1499999999999,
+    "text": "not give us a measured extinction rate for civilizations."
+  },
+  {
+    "start": 1607.1499999999999,
+    "end": 1610.4374999999998,
+    "text": "We have not observed a population of alien societies"
+  },
+  {
+    "start": 1610.4374999999998,
+    "end": 1611.9125,
+    "text": "rise and fall."
+  },
+  {
+    "start": 1612.3499999999997,
+    "end": 1615.1124999999997,
+    "text": "We also need to distinguish the end of a broadcasting"
+  },
+  {
+    "start": 1615.1124999999997,
+    "end": 1618.5124999999998,
+    "text": "phase, the collapse of an institution, and the extinction"
+  },
+  {
+    "start": 1618.5124999999998,
+    "end": 1622.3999999999999,
+    "text": "of a species. A quieter civilization is not necessarily"
+  },
+  {
+    "start": 1622.3999999999999,
+    "end": 1626.7499999999998,
+    "text": "a dead one. A surviving society might change its infrastructure,"
+  },
+  {
+    "start": 1626.7499999999998,
+    "end": 1630.4124999999997,
+    "text": "reduce emissions, or become difficult to detect in ways"
+  },
+  {
+    "start": 1630.4124999999997,
+    "end": 1632.6124999999997,
+    "text": "unrelated to catastrophe."
+  },
+  {
+    "start": 1632.6124999999997,
+    "end": 1635.8249999999998,
+    "text": "The future-filter idea can motivate responsible thinking"
+  },
+  {
+    "start": 1635.8249999999998,
+    "end": 1639.4999999999998,
+    "text": "about risks, but it cannot supply a date or a percentage"
+  },
+  {
+    "start": 1639.4999999999998,
+    "end": 1641.1374999999998,
+    "text": "for humanity's fate."
+  },
+  {
+    "start": 1641.6,
+    "end": 1644.725,
+    "text": "Our choices still need to be evaluated using the evidence"
+  },
+  {
+    "start": 1644.725,
+    "end": 1647.1374999999998,
+    "text": "available for particular dangers."
+  },
+  {
+    "start": 1647.1374999999998,
+    "end": 1650.1875,
+    "text": "The sky is not a substitute for that work."
+  },
+  {
+    "start": 1650.1875,
+    "end": 1653.5749999999998,
+    "text": "An unresolved astronomical question should make us humble"
+  },
+  {
+    "start": 1653.5749999999998,
+    "end": 1657.375,
+    "text": "about our predictions, not give speculative doom the authority"
+  },
+  {
+    "start": 1657.375,
+    "end": 1658.875,
+    "text": "of an observation."
+  },
+  {
+    "start": 1659.9499999999998,
+    "end": 1663.5624999999998,
+    "text": "Another family of explanations concerns motivation."
+  },
+  {
+    "start": 1663.5624999999998,
+    "end": 1667.5499999999997,
+    "text": "Perhaps civilizations are uninterested in strangers, communicate"
+  },
+  {
+    "start": 1667.5499999999997,
+    "end": 1671.6499999999999,
+    "text": "within private networks, or prefer observation to contact."
+  },
+  {
+    "start": 1671.6499999999999,
+    "end": 1676.2999999999997,
+    "text": "The so-called zoo hypothesis imagines deliberate noninterference."
+  },
+  {
+    "start": 1676.2999999999997,
+    "end": 1679.6,
+    "text": "The dark forest story imagines that revealing one's"
+  },
+  {
+    "start": 1679.6,
+    "end": 1681.6749999999997,
+    "text": "location is dangerous."
+  },
+  {
+    "start": 1681.6749999999997,
+    "end": 1684.1499999999999,
+    "text": "Both can generate compelling fiction."
+  },
+  {
+    "start": 1684.1499999999999,
+    "end": 1687.4624999999999,
+    "text": "Neither is an established description of the galaxy."
+  },
+  {
+    "start": 1687.9249999999997,
+    "end": 1691.2249999999997,
+    "text": "A story requiring every independent civilization to follow"
+  },
+  {
+    "start": 1691.2249999999997,
+    "end": 1695.4499999999998,
+    "text": "the same rule, across enormous distances and times, faces"
+  },
+  {
+    "start": 1695.4499999999998,
+    "end": 1697.3374999999996,
+    "text": "a coordination problem."
+  },
+  {
+    "start": 1697.3374999999996,
+    "end": 1700.6499999999996,
+    "text": "Even if secrecy were common, could every transmitter,"
+  },
+  {
+    "start": 1700.6499999999996,
+    "end": 1704.0374999999997,
+    "text": "machine, faction, and accident remain hidden?"
+  },
+  {
+    "start": 1704.0374999999997,
+    "end": 1707.2999999999997,
+    "text": "Conversely, we should not assume that advanced beings"
+  },
+  {
+    "start": 1707.2999999999997,
+    "end": 1710.9749999999997,
+    "text": "share our curiosity or our wish for public conversation."
+  },
+  {
+    "start": 1710.9749999999997,
+    "end": 1714.5874999999996,
+    "text": "The honest boundary is that alien preferences are largely"
+  },
+  {
+    "start": 1714.5874999999996,
+    "end": 1715.7124999999996,
+    "text": "unknown."
+  },
+  {
+    "start": 1716.1499999999996,
+    "end": 1718.8999999999996,
+    "text": "We can study the consequences of different assumptions,"
+  },
+  {
+    "start": 1718.8999999999996,
+    "end": 1722.3249999999998,
+    "text": "but we cannot read a motive directly from a null detection."
+  },
+  {
+    "start": 1722.3249999999998,
+    "end": 1726.6749999999997,
+    "text": "Silence could reflect rarity, distance, timing, engineering,"
+  },
+  {
+    "start": 1726.6749999999997,
+    "end": 1728.8999999999996,
+    "text": "behavior, or our instruments."
+  },
+  {
+    "start": 1728.8999999999996,
+    "end": 1732.0249999999996,
+    "text": "It is tempting to choose the most cinematic explanation"
+  },
+  {
+    "start": 1732.0249999999996,
+    "end": 1734.0124999999998,
+    "text": "and call the problem solved."
+  },
+  {
+    "start": 1734.0124999999998,
+    "end": 1737.2124999999996,
+    "text": "A scientific explanation needs more than the ability to"
+  },
+  {
+    "start": 1737.2124999999996,
+    "end": 1739.0749999999998,
+    "text": "fit what we have not seen."
+  },
+  {
+    "start": 1739.0749999999998,
+    "end": 1742.3749999999998,
+    "text": "It needs some way to earn support over its alternatives."
+  },
+  {
+    "start": 1743.5749999999998,
+    "end": 1746.8374999999999,
+    "text": "What if the galaxy is quiet because many potential civilizations"
+  },
+  {
+    "start": 1746.8374999999999,
+    "end": 1748.425,
+    "text": "have not appeared yet?"
+  },
+  {
+    "start": 1748.425,
+    "end": 1751.7375,
+    "text": "Some stars live far longer than the Sun, giving the future"
+  },
+  {
+    "start": 1751.7375,
+    "end": 1754.1999999999998,
+    "text": "enormous possible stretches of time."
+  },
+  {
+    "start": 1754.1999999999998,
+    "end": 1757.2875,
+    "text": "But longevity does not guarantee habitability."
+  },
+  {
+    "start": 1757.2875,
+    "end": 1760.9125,
+    "text": "Small, long-lived stars can present challenges involving"
+  },
+  {
+    "start": 1760.9125,
+    "end": 1765.35,
+    "text": "activity, radiation, planetary atmospheres, and orbital"
+  },
+  {
+    "start": 1765.35,
+    "end": 1768.6999999999998,
+    "text": "conditions. We do not yet know how these factors combine"
+  },
+  {
+    "start": 1768.6999999999998,
+    "end": 1772.3249999999998,
+    "text": "to determine the long-term prospects for life and technology."
+  },
+  {
+    "start": 1772.9249999999997,
+    "end": 1776.0375,
+    "text": "Being early is therefore a hypothesis that depends on"
+  },
+  {
+    "start": 1776.0375,
+    "end": 1780.2999999999997,
+    "text": "models of habitable environments, biological transitions,"
+  },
+  {
+    "start": 1780.2999999999997,
+    "end": 1782.3749999999998,
+    "text": "and the history of the universe."
+  },
+  {
+    "start": 1782.3749999999998,
+    "end": 1785.2374999999997,
+    "text": "It is not a conclusion obtained just by noticing that"
+  },
+  {
+    "start": 1785.2374999999997,
+    "end": 1787.3749999999998,
+    "text": "some stars burn slowly."
+  },
+  {
+    "start": 1787.3749999999998,
+    "end": 1790.1,
+    "text": "We should also separate the age of the whole universe"
+  },
+  {
+    "start": 1790.1,
+    "end": 1793.2875,
+    "text": "from the ages and environments of individual planetary"
+  },
+  {
+    "start": 1793.2875,
+    "end": 1796.9249999999997,
+    "text": "systems. Different worlds get different starting conditions"
+  },
+  {
+    "start": 1796.9249999999997,
+    "end": 1798.3624999999997,
+    "text": "and opportunities."
+  },
+  {
+    "start": 1798.7749999999999,
+    "end": 1801.9999999999998,
+    "text": "The possibility is fascinating because it changes the"
+  },
+  {
+    "start": 1801.9999999999998,
+    "end": 1804.3374999999999,
+    "text": "emotional direction of the question."
+  },
+  {
+    "start": 1804.3374999999999,
+    "end": 1807.7999999999997,
+    "text": "Instead of asking why the party has ended, we ask whether"
+  },
+  {
+    "start": 1807.7999999999997,
+    "end": 1809.9249999999997,
+    "text": "many guests have not arrived."
+  },
+  {
+    "start": 1809.9249999999997,
+    "end": 1813.2624999999998,
+    "text": "But an appealing change of mood is not a measurement."
+  },
+  {
+    "start": 1813.2624999999998,
+    "end": 1816.0499999999997,
+    "text": "The evidence still has to decide how much weight that"
+  },
+  {
+    "start": 1816.0499999999997,
+    "end": 1817.8999999999999,
+    "text": "possibility deserves."
+  },
+  {
+    "start": 1818.975,
+    "end": 1821.3,
+    "text": "Imagine three future discoveries."
+  },
+  {
+    "start": 1821.3,
+    "end": 1825.0874999999999,
+    "text": "First, researchers identify a convincing biological signal"
+  },
+  {
+    "start": 1825.0874999999999,
+    "end": 1826.425,
+    "text": "on another planet."
+  },
+  {
+    "start": 1826.425,
+    "end": 1829.6,
+    "text": "They would still need to test nonbiological explanations,"
+  },
+  {
+    "start": 1829.6,
+    "end": 1832.4624999999999,
+    "text": "but a robust result could transform estimates of how"
+  },
+  {
+    "start": 1832.4624999999999,
+    "end": 1834.25,
+    "text": "widespread life is."
+  },
+  {
+    "start": 1834.25,
+    "end": 1837.7749999999999,
+    "text": "Second, a narrowband transmission is repeatedly detected"
+  },
+  {
+    "start": 1837.7749999999999,
+    "end": 1841.8249999999998,
+    "text": "from a celestial source, independently verified, and shown"
+  },
+  {
+    "start": 1841.8249999999998,
+    "end": 1844.8125,
+    "text": "to resist natural and human explanations."
+  },
+  {
+    "start": 1844.8125,
+    "end": 1847.6499999999999,
+    "text": "That would change the technological question far more"
+  },
+  {
+    "start": 1847.6499999999999,
+    "end": 1848.7124999999999,
+    "text": "directly."
+  },
+  {
+    "start": 1849.175,
+    "end": 1852.625,
+    "text": "Third, a well-characterized artifact is found with properties"
+  },
+  {
+    "start": 1852.625,
+    "end": 1856.1125,
+    "text": "and context that establish an origin beyond known human"
+  },
+  {
+    "start": 1856.1125,
+    "end": 1858.5874999999999,
+    "text": "activity and natural formation."
+  },
+  {
+    "start": 1858.5874999999999,
+    "end": 1861.725,
+    "text": "Each discovery would answer a different part of the problem."
+  },
+  {
+    "start": 1861.725,
+    "end": 1865.0125,
+    "text": "We should not promise that one spectrum, one strange"
+  },
+  {
+    "start": 1865.0125,
+    "end": 1869.0249999999999,
+    "text": "image, or one exciting night will finish the investigation."
+  },
+  {
+    "start": 1869.0249999999999,
+    "end": 1872.675,
+    "text": "Evidence can arrive gradually, through repeated measurements"
+  },
+  {
+    "start": 1872.675,
+    "end": 1874.6375,
+    "text": "and competing analyses."
+  },
+  {
+    "start": 1875.0749999999998,
+    "end": 1878.5249999999999,
+    "text": "Equally, null results can improve the argument when surveys"
+  },
+  {
+    "start": 1878.5249999999999,
+    "end": 1882.1125,
+    "text": "become more sensitive or cover more of a clearly defined"
+  },
+  {
+    "start": 1882.1125,
+    "end": 1883.8374999999999,
+    "text": "target population."
+  },
+  {
+    "start": 1883.8374999999999,
+    "end": 1887.3125,
+    "text": "Progress does not require a spectacular announcement every"
+  },
+  {
+    "start": 1887.3125,
+    "end": 1891.0749999999998,
+    "text": "year. It requires a clearer account of what was tested,"
+  },
+  {
+    "start": 1891.0749999999998,
+    "end": 1894.05,
+    "text": "what would have been detected, and which possibilities"
+  },
+  {
+    "start": 1894.05,
+    "end": 1896.175,
+    "text": "remain open after the test."
+  },
+  {
+    "start": 1897.2,
+    "end": 1900.3875,
+    "text": "The practical response to uncertainty is not to listen"
+  },
+  {
+    "start": 1900.3875,
+    "end": 1902.8375,
+    "text": "forever in exactly the same way."
+  },
+  {
+    "start": 1902.8375,
+    "end": 1906.4125,
+    "text": "Researchers can expand sky coverage, observe across more"
+  },
+  {
+    "start": 1906.4125,
+    "end": 1910.3125,
+    "text": "frequencies, revisit targets, improve sensitivity, and"
+  },
+  {
+    "start": 1910.3125,
+    "end": 1913.5,
+    "text": "develop methods for finding different signal behaviors."
+  },
+  {
+    "start": 1913.5,
+    "end": 1916.9625,
+    "text": "Optical and infrared searches can examine possibilities"
+  },
+  {
+    "start": 1916.9625,
+    "end": 1919.3375,
+    "text": "radio surveys do not test."
+  },
+  {
+    "start": 1919.3375,
+    "end": 1922.525,
+    "text": "Atmospheric studies can investigate biosignatures and"
+  },
+  {
+    "start": 1922.525,
+    "end": 1926.0,
+    "text": "proposed industrial signatures, with strong attention"
+  },
+  {
+    "start": 1926.0,
+    "end": 1927.6625,
+    "text": "to false positives."
+  },
+  {
+    "start": 1928.125,
+    "end": 1932.175,
+    "text": "Better catalogs help identify useful targets, while transparent"
+  },
+  {
+    "start": 1932.175,
+    "end": 1935.55,
+    "text": "analysis and independent checks make results easier to"
+  },
+  {
+    "start": 1935.55,
+    "end": 1939.6125,
+    "text": "assess. No instrument eliminates every uncertainty."
+  },
+  {
+    "start": 1939.6125,
+    "end": 1942.55,
+    "text": "More data can reveal more interference as well as more"
+  },
+  {
+    "start": 1942.55,
+    "end": 1946.6625,
+    "text": "astrophysics. But a systematic search turns a vague question"
+  },
+  {
+    "start": 1946.6625,
+    "end": 1949.625,
+    "text": "into a collection of questions that can be answered."
+  },
+  {
+    "start": 1949.625,
+    "end": 1953.3,
+    "text": "It also gives people something useful to do with curiosity."
+  },
+  {
+    "start": 1953.925,
+    "end": 1957.45,
+    "text": "Instead of treating every unexplained light as a revelation,"
+  },
+  {
+    "start": 1957.45,
+    "end": 1960.3,
+    "text": "we can ask what observation would discriminate among"
+  },
+  {
+    "start": 1960.3,
+    "end": 1963.9624999999999,
+    "text": "explanations. Instead of treating every null result as"
+  },
+  {
+    "start": 1963.9624999999999,
+    "end": 1967.375,
+    "text": "failure, we can ask which part of the search space became"
+  },
+  {
+    "start": 1967.375,
+    "end": 1969.0125,
+    "text": "better constrained."
+  },
+  {
+    "start": 1969.0125,
+    "end": 1972.125,
+    "text": "The night sky is not becoming less mysterious because"
+  },
+  {
+    "start": 1972.125,
+    "end": 1975.8374999999999,
+    "text": "we measure it. Its mysteries become more precise, and"
+  },
+  {
+    "start": 1975.8374999999999,
+    "end": 1978.375,
+    "text": "therefore more accessible to discovery."
+  },
+  {
+    "start": 1979.45,
+    "end": 1982.1375,
+    "text": "Return to the observatory from the beginning."
+  },
+  {
+    "start": 1982.1375,
+    "end": 1984.7125,
+    "text": "The team checks its remarkable signal."
+  },
+  {
+    "start": 1984.7125,
+    "end": 1987.55,
+    "text": "In our imagined example, a second instrument does not"
+  },
+  {
+    "start": 1987.55,
+    "end": 1991.3125,
+    "text": "confirm an astronomical source, and the pattern is eventually"
+  },
+  {
+    "start": 1991.3125,
+    "end": 1993.1125,
+    "text": "traced to interference."
+  },
+  {
+    "start": 1993.1125,
+    "end": 1995.15,
+    "text": "There is disappointment, of course."
+  },
+  {
+    "start": 1995.15,
+    "end": 1997.7250000000001,
+    "text": "But the telescope has still done its job."
+  },
+  {
+    "start": 1997.7250000000001,
+    "end": 2000.9625,
+    "text": "It produced a candidate, the researchers tested it, and"
+  },
+  {
+    "start": 2000.9625,
+    "end": 2004.1125,
+    "text": "an attractive explanation lost to a better one."
+  },
+  {
+    "start": 2004.6000000000001,
+    "end": 2007.9875,
+    "text": "Now imagine the alternative: independent observatories"
+  },
+  {
+    "start": 2007.9875,
+    "end": 2011.5375000000001,
+    "text": "keep finding the same celestial source, the evidence survives"
+  },
+  {
+    "start": 2011.5375000000001,
+    "end": 2015.375,
+    "text": "scrutiny, and the ordinary explanations fail under increasingly"
+  },
+  {
+    "start": 2015.375,
+    "end": 2019.0375000000001,
+    "text": "precise tests. The correct response would be neither instant"
+  },
+  {
+    "start": 2019.0375000000001,
+    "end": 2022.8,
+    "text": "certainty about alien intentions nor automatic dismissal."
+  },
+  {
+    "start": 2022.8,
+    "end": 2025.6000000000001,
+    "text": "It would be a carefully communicated discovery with"
+  },
+  {
+    "start": 2025.6000000000001,
+    "end": 2027.1625000000001,
+    "text": "explicit limits."
+  },
+  {
+    "start": 2027.1625000000001,
+    "end": 2030.05,
+    "text": "A signal might establish technology without telling us"
+  },
+  {
+    "start": 2030.05,
+    "end": 2034.0,
+    "text": "the senders' biology, politics, population, or present"
+  },
+  {
+    "start": 2034.0,
+    "end": 2035.0625,
+    "text": "condition."
+  },
+  {
+    "start": 2035.4750000000001,
+    "end": 2038.3625000000002,
+    "text": "If the source is distant, we would be learning about its"
+  },
+  {
+    "start": 2038.3625000000002,
+    "end": 2042.4,
+    "text": "past. Contact begins with evidence, not with a complete"
+  },
+  {
+    "start": 2042.4,
+    "end": 2045.9250000000002,
+    "text": "biography. This is why the standard matters before the"
+  },
+  {
+    "start": 2045.9250000000002,
+    "end": 2049.725,
+    "text": "discovery. The more extraordinary the possibility feels,"
+  },
+  {
+    "start": 2049.725,
+    "end": 2052.7125,
+    "text": "the more valuable a patient method becomes."
+  },
+  {
+    "start": 2052.7125,
+    "end": 2056.25,
+    "text": "We want an answer we can trust after the excitement fades."
+  },
+  {
+    "start": 2057.5,
+    "end": 2059.025,
+    "text": "So, where is everybody?"
+  },
+  {
+    "start": 2059.025,
+    "end": 2061.9,
+    "text": "We do not know whether there is anybody else to find."
+  },
+  {
+    "start": 2061.9,
+    "end": 2063.85,
+    "text": "We know that planets are common."
+  },
+  {
+    "start": 2063.85,
+    "end": 2067.1,
+    "text": "We know that life and technology arose at least once."
+  },
+  {
+    "start": 2067.1,
+    "end": 2069.975,
+    "text": "We know that our searches have not produced verified evidence"
+  },
+  {
+    "start": 2069.975,
+    "end": 2073.2125,
+    "text": "of an extraterrestrial technological civilization, and"
+  },
+  {
+    "start": 2073.2125,
+    "end": 2076.125,
+    "text": "that those searches cover only particular parts of a much"
+  },
+  {
+    "start": 2076.125,
+    "end": 2078.4,
+    "text": "larger set of possibilities."
+  },
+  {
+    "start": 2078.4,
+    "end": 2082.625,
+    "text": "Rarity, timing, distance, behavior, and survival remain"
+  },
+  {
+    "start": 2082.625,
+    "end": 2086.1375,
+    "text": "live questions rather than a solved list of causes."
+  },
+  {
+    "start": 2086.5499999999997,
+    "end": 2089.75,
+    "text": "The Fermi paradox is powerful because it exposes how much"
+  },
+  {
+    "start": 2089.75,
+    "end": 2091.6875,
+    "text": "can hide inside an assumption."
+  },
+  {
+    "start": 2091.6875,
+    "end": 2094.75,
+    "text": "A crowded galaxy is not guaranteed by a large number of"
+  },
+  {
+    "start": 2094.75,
+    "end": 2098.4874999999997,
+    "text": "stars. An empty galaxy is not established by an incomplete"
+  },
+  {
+    "start": 2098.4874999999997,
+    "end": 2102.575,
+    "text": "search. Between those claims lies a real scientific program:"
+  },
+  {
+    "start": 2102.575,
+    "end": 2106.45,
+    "text": "learn how worlds work, look for life, search for technology,"
+  },
+  {
+    "start": 2106.45,
+    "end": 2108.8125,
+    "text": "and report what the evidence permits."
+  },
+  {
+    "start": 2108.8125,
+    "end": 2112.15,
+    "text": "Tonight, the chair beside the telescope is still empty."
+  },
+  {
+    "start": 2112.15,
+    "end": 2115.2125,
+    "text": "That is not proof that nobody will ever sit across from"
+  },
+  {
+    "start": 2115.2125,
+    "end": 2115.9375,
+    "text": "us."
+  },
+  {
+    "start": 2116.35,
+    "end": 2119.875,
+    "text": "It is a reminder that we have only begun to ask the question"
+  },
+  {
+    "start": 2119.875,
+    "end": 2122.275,
+    "text": "in ways the universe can answer."
+  }
+]

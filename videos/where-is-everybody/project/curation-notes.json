@@ -1,0 +1,21 @@
+[
+  {
+    "shot_index": 251,
+    "excluded": {
+      "sheet": "18",
+      "cell": 9
+    },
+    "replacement": {
+      "sheet": "30",
+      "cell": 5
+    },
+    "reason": "The generated hypothetical artifact resembled a human Mesoamerican temple. Despite its thought bubble and question mark, it could misleadingly suggest alien origins for a human monument. Replaced with an ordinary natural mineral comparison; human builders remain explicitly depicted elsewhere."
+  },
+  {
+    "type": "framing",
+    "scope": "all selected panels",
+    "reason": "Uniform quarter-height crops exposed contact-sheet separators in some irregularly spaced rows. Replaced with measured separator positions, 6-pixel source inset, aspect-preserving scale and fixed center crop. No timing or narration change.",
+    "data_file": "grid-crops.json",
+    "method": "Measured coherent horizontal image transitions across all three columns as well as white separator lines; manually inspected representative sources and resulting video frames. Fixed 6-pixel inset, aspect-preserving scale, no timing or audio change."
+  }
+]

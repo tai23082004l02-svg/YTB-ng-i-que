@@ -1,0 +1,682 @@
+{
+  "00": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      482,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      799,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "01": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      482,
+      966,
+      1448
+    ],
+    "y_edges": [
+      0,
+      270,
+      540,
+      806,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "02": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "03": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      795,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "04": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "05": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      518,
+      776,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "06": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      785,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "07": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      801,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "08": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      481,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      268,
+      537,
+      801,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "09": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      531,
+      780,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "10": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      533,
+      792,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "11": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      482,
+      966,
+      1448
+    ],
+    "y_edges": [
+      0,
+      269,
+      534,
+      782,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "12": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "13": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      255,
+      504,
+      770,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "14": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      482,
+      966,
+      1448
+    ],
+    "y_edges": [
+      0,
+      270,
+      541,
+      783,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "15": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      797,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "16": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      513,
+      747,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "17": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "18": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "19": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      515,
+      760,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "20": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "21": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "22": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "23": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      249,
+      484,
+      726,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "24": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      966,
+      1448
+    ],
+    "y_edges": [
+      0,
+      267,
+      524,
+      765,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "25": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      794,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "26": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      532,
+      780,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "27": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "28": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "29": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      783,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "30": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      482,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      271,
+      542,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "31": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      485,
+      966,
+      1448
+    ],
+    "y_edges": [
+      0,
+      270,
+      534,
+      797,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "32": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      964,
+      1448
+    ],
+    "y_edges": [
+      0,
+      270,
+      536,
+      766,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  },
+  "33": {
+    "width": 1448,
+    "height": 1086,
+    "x_edges": [
+      0,
+      483,
+      965,
+      1448
+    ],
+    "y_edges": [
+      0,
+      272,
+      543,
+      814,
+      1086
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "coherent row transitions across the three columns, white separators where present, representative visual confirmation"
+  }
+}

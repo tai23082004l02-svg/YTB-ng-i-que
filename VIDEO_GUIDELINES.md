@@ -26,6 +26,7 @@
 - Tăng mật độ bằng hình mới có nội dung khác, không dùng nhiều mức phóng/cắt của cùng một hình để thay cho việc tạo thêm minh họa.
 - Chuyển thẳng giữa các hình; không thêm hiệu ứng chuyển cảnh gây giật hoặc phân tán.
 - Giữ hình đầy khung, không méo tỷ lệ; khi cắt hình phải bảo toàn nhân vật và chi tiết quan trọng.
+- Khi dùng ảnh nhiều ô, kiểm tra ranh giới thực tế: hàng/cột AI có thể không chia đều. Cắt bỏ đường chia ô, scale giữ tỷ lệ và kiểm tra khung xuất; không chỉ chia kích thước ảnh cho số hàng/cột rồi mặc định đúng.
 - Mốc tham chiếu: **48 hình khác nhau trong khoảng 4 phút 12 giây**, mỗi hình khoảng 4,6–5,8 giây. Với độ dài khác, ước lượng số hình bằng thời lượng tính theo giây chia cho khoảng 5, rồi điều chỉnh theo lời kể.
 
 ## 4. Lời đọc và phụ đề
@@ -48,6 +49,8 @@
 - Không tự đăng video lên YouTube nếu chưa được yêu cầu.
 
 ## Video tham chiếu
+
+- [Where Is Everybody? — 35:23, 377 hình, Nghịch lý Fermi](videos/where-is-everybody/README.md)
 
 - [Before Us — 30:08, 322 hình, Silurian Hypothesis](videos/before-us/README.md)
 

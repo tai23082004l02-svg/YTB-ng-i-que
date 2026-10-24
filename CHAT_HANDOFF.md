@@ -36,6 +36,7 @@
 | [The Last Humans](videos/the-last-humans/README.md) | **24:45**, 20 phần, **268 hình dùng**, 480 đoạn phụ đề | Mẫu video dài được người dùng đánh giá tốt. Có đủ nguồn ảnh và dữ liệu dựng trong GitHub. |
 | [Could We Survive?](videos/could-we-survive/README.md) | **34:30**, 28 phần, **371 hình dùng**, 681 đoạn phụ đề | Năm đại tuyệt chủng và giả định sinh tồn hiện đại; có ảnh nguồn, ghi chú khoa học và bộ đăng YouTube. |
 | [Before Us / Silurian Hypothesis](videos/before-us/README.md) | **30:08**, 24 phần, **322 hình dùng**, 566 đoạn phụ đề | Câu hỏi về khả năng phát hiện, không tuyên bố có nền văn minh công nghiệp tiền nhân loại. Có đủ nguồn và bộ đăng. |
+| [Where Is Everybody? / Fermi Paradox](videos/where-is-everybody/README.md) | **35:23**, 28 phần, **377 hình dùng**, 683 đoạn phụ đề | Chuyển sang chủ đề vũ trụ; phạm vi SETI, mô hình lan rộng, Bộ lọc lớn và giới hạn suy luận. |
 
 Tên tiếng Anh video dài: **Earth Once Had Many Human Species. Why Are We the Only Ones Left?**
 
@@ -46,7 +47,12 @@ https://raw.githubusercontent.com/tai23082004l02-svg/YTB-ng-i-que/afd41171e9b38c
 
 ## 4. Tệp nào chứa gì?
 
-**Bản mới nhất:** [videos/before-us/](videos/before-us/README.md), chủ đề Silurian Hypothesis; 30:08, 24 phần, 28 bộ ảnh nguồn (336 ô, 322 dùng), 566 cue. Kokoro `am_michael` speed 1.07, **không chỉnh tempo bổ sung**. Cân âm lượng riêng theo số đo của bản này; xem validation-summary.json.
+**Bản mới nhất:** [videos/where-is-everybody/](videos/where-is-everybody/README.md), Nghịch lý Fermi. **35:23**, 28 phần, 34 bộ ảnh (408 ô, 377 dùng), 683 cue. Giọng `am_michael`, speed 1.07, không tempo bổ sung. Chủ đề do người dùng chốt sau khi mở rộng kênh sang vũ trụ.
+
+Không coi sự im lặng là một cuộc tìm kiếm toàn diện hoặc bằng chứng vũ trụ trống rỗng. Drake là khung giả định; Bộ lọc lớn không phải định luật hay ngày tận thế được dự báo. Zoo/dark forest là suy đoán. Câu chuyện tín hiệu mở đầu/cuối là hư cấu. Đọc SOURCES.md và project/curation-notes.json: cảnh 251 đã bỏ sheet-18 ô 9 có hình giống đền Mesoamerica, thay bằng khoáng vật ở sheet-30 ô 5. Chương cuối dùng bộ 33; đọc shots.json, không đoán từ số bộ. Đọc grid-crops.json khi dựng lại: hàng/cột thực tế không luôn chia đều, phải bỏ đường chia ô và giữ tỷ lệ hình.
+
+
+**Bản trước:** [videos/before-us/](videos/before-us/README.md), chủ đề Silurian Hypothesis; 30:08, 24 phần, 28 bộ ảnh nguồn (336 ô, 322 dùng), 566 cue. Kokoro `am_michael` speed 1.07, **không chỉnh tempo bổ sung**. Cân âm lượng riêng theo số đo của bản này; xem validation-summary.json.
 
 Không biến giả thuyết thành tuyên bố phát hiện. PETM là sự kiện tự nhiên dùng để so sánh, không là bằng chứng công nghiệp. Thành phố trong bong bóng chỉ là ý tưởng. Đọc project/curation-notes.json: sheet-16 ô 2 chứa trilobite sống sai niên đại PETM đã bị loại; cảnh 217 dùng sheet-24 ô 4. Không đưa ô sai vào lại khi dựng.
 
