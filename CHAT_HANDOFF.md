@@ -132,3 +132,7 @@ MP4 dài hiện tại dưới giới hạn 100 MiB/tệp của GitHub. Khi push,
 Trong môi trường cũ, Git HTTPS qua xác thực có sẵn đã đọc và push được kho này; không cần xin token chỉ vì không thấy biến `GH_TOKEN`. Chat mới cần kiểm tra khả năng thực tế của công cụ và môi trường đang dùng.
 
 Tài liệu giúp khôi phục bối cảnh từ kho, **không tự truyền lịch sử chat hoặc công cụ sang chatbot mới**. Hãy đọc tệp thật, kiểm tra những gì hiện có và làm theo yêu cầu hiện tại của người dùng.
+
+## Nhận diện kênh
+
+Người dùng đã chọn tên **The Long Wonder**, handle hiển thị trong ảnh Studio là **@TheLongWonder**. Bộ avatar và banner được thiết kế tại [branding/the-long-wonder/](branding/the-long-wonder/README.md): xanh đêm, vàng kem, teal; tagline “Deep time. Distant worlds. Human questions.” Avatar 800×800 PNG, banner 2560×1440 JPG, chữ trong vùng an toàn giữa. Chưa tự cập nhật trên YouTube.
