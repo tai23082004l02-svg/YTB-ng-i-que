@@ -1,0 +1,25 @@
+{
+  "id": "05",
+  "title": "Her Mother Was Neanderthal. Her Father Was Denisovan.",
+  "status": "passed",
+  "duration_seconds": 60.333333,
+  "runtime_mmss": "1:00",
+  "narration_words": 133,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": 48000,
+  "audio_bitrate": "130212",
+  "integrated_loudness_lufs": -16.85,
+  "true_peak_dbtp": -2.29,
+  "loudness_range_lu": 2.0,
+  "shots": 21,
+  "subtitle_cues": 32,
+  "full_decode_exit_code": 0,
+  "mp4_bytes": 3049696,
+  "sha256": "8e487a83fc80a830c747ba584382ee8e6905cf08b129549ed23650a4eda8ee88"
+}

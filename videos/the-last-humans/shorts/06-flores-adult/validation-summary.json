@@ -1,0 +1,25 @@
+{
+  "id": "06",
+  "title": "An Adult Human Just 3½ Feet Tall",
+  "status": "passed",
+  "duration_seconds": 59.708333,
+  "runtime_mmss": "1:00",
+  "narration_words": 133,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": 48000,
+  "audio_bitrate": "131678",
+  "integrated_loudness_lufs": -16.5,
+  "true_peak_dbtp": -2.27,
+  "loudness_range_lu": 2.3,
+  "shots": 21,
+  "subtitle_cues": 31,
+  "full_decode_exit_code": 0,
+  "mp4_bytes": 3609786,
+  "sha256": "0f746116457d5444748665420a15205c52bedd08e95d795ab55583cbff5182e6"
+}

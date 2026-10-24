@@ -46,3 +46,7 @@ Những nhóm này không phải tất cả đều sống cùng lúc, ở cùng 
 Kịch bản và hình được tạo mới; lời đọc được tổng hợp bằng Kokoro. Không dùng nhạc của bên thứ ba. Trợ lý đã chuẩn bị bộ đăng và bàn giao trên GitHub; người dùng tự thao tác đăng YouTube. Chưa có URL YouTube được cung cấp trong dự án.
 
 ![Thumbnail](thumbnail.jpg)
+
+## 12 Shorts từ video này
+
+Đã hoàn thành **12 Shorts dọc9:16**, khoảng57–64giây/tập, lời dẫn và Kokoro tiếng Anh Mỹ riêng, tổng12:12,252cảnh. [Xem/tải từng tập](shorts/README.md) · [Tải trọn bộ12video và thông tin đăng](shorts/all-12-shorts.zip). Bản phim dài phía trên giữ nguyên.

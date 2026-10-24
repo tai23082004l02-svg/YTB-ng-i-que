@@ -1,0 +1,233 @@
+[
+  {
+    "sheet": "10",
+    "cell": 0,
+    "scene": "Modern Tibetan woman hiker in ordinary jacket and backpack at mountain plateau",
+    "kind": "simple",
+    "episode": "11",
+    "start": 0.0,
+    "end": 2.2083333333333335,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "16",
+    "cell": 7,
+    "scene": "Modern Tibetan woman hiker on plateau in ordinary jacket",
+    "kind": "simple",
+    "episode": "11",
+    "start": 2.2083333333333335,
+    "end": 4.333333333333333,
+    "frames": 51,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "16",
+    "cell": 2,
+    "scene": "A modern family photograph in ordinary room",
+    "kind": "simple",
+    "episode": "11",
+    "start": 4.333333333333333,
+    "end": 6.666666666666667,
+    "frames": 56,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "10",
+    "cell": 1,
+    "scene": "A distant high plateau village under mountains, contemporary not ancient",
+    "kind": "simple",
+    "episode": "11",
+    "start": 6.666666666666667,
+    "end": 9.083333333333334,
+    "frames": 58,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "10",
+    "cell": 3,
+    "scene": "A highlighted DNA region beside mountain outline, no sequence letters",
+    "kind": "explanation",
+    "episode": "11",
+    "start": 9.083333333333334,
+    "end": 13.208333333333334,
+    "frames": 99,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "16",
+    "cell": 9,
+    "scene": "Highlighted DNA region beside mountain, no sequence lettering",
+    "kind": "explanation",
+    "episode": "11",
+    "start": 13.208333333333334,
+    "end": 17.333333333333332,
+    "frames": 99,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "10",
+    "cell": 4,
+    "scene": "An ancient Denisovan-related ADULT in blue wrap as separate artistic vignette",
+    "kind": "simple",
+    "episode": "11",
+    "start": 17.333333333333332,
+    "end": 19.5,
+    "frames": 52,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "16",
+    "cell": 10,
+    "scene": "Ancient Denisovan-related adult in separate historical vignette",
+    "kind": "simple",
+    "episode": "11",
+    "start": 19.5,
+    "end": 21.708333333333332,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "10",
+    "cell": 6,
+    "scene": "Modern geneticist examines concept diagram",
+    "kind": "simple",
+    "episode": "11",
+    "start": 21.708333333333332,
+    "end": 23.916666666666668,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "10",
+    "cell": 7,
+    "scene": "Several genes and environment act together, no one-gene superpower",
+    "kind": "explanation",
+    "episode": "11",
+    "start": 23.916666666666668,
+    "end": 28.041666666666668,
+    "frames": 99,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "10",
+    "cell": 8,
+    "scene": "Same modern hiker walks carefully on established trail",
+    "kind": "simple",
+    "episode": "11",
+    "start": 28.041666666666668,
+    "end": 30.625,
+    "frames": 62,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "10",
+    "cell": 9,
+    "scene": "Evidence for inherited region distinguished from unknown full donor history",
+    "kind": "explanation",
+    "episode": "11",
+    "start": 30.625,
+    "end": 34.75,
+    "frames": 99,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "10",
+    "cell": 10,
+    "scene": "A specimen and incomplete ancient record on lab desk",
+    "kind": "simple",
+    "episode": "11",
+    "start": 34.75,
+    "end": 36.958333333333336,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "10",
+    "cell": 11,
+    "scene": "DNA evidence cannot recover private memories, conceptual notebook separate from molecules",
+    "kind": "explanation",
+    "episode": "11",
+    "start": 36.958333333333336,
+    "end": 41.333333333333336,
+    "frames": 105,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "10",
+    "cell": 12,
+    "scene": "A contemporary plateau family in everyday clothing, no ancestry percentages",
+    "kind": "simple",
+    "episode": "11",
+    "start": 41.333333333333336,
+    "end": 43.375,
+    "frames": 49,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "16",
+    "cell": 15,
+    "scene": "Distinct ancient branches can contribute ancestry before disappearing",
+    "kind": "explanation",
+    "episode": "11",
+    "start": 43.375,
+    "end": 47.5,
+    "frames": 99,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "10",
+    "cell": 13,
+    "scene": "Useful inherited variant persists through distinct generations",
+    "kind": "explanation",
+    "episode": "11",
+    "start": 47.5,
+    "end": 51.5,
+    "frames": 96,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "16",
+    "cell": 11,
+    "scene": "Inherited variant does not reveal a complete personal biography",
+    "kind": "explanation",
+    "episode": "11",
+    "start": 51.5,
+    "end": 55.5,
+    "frames": 96,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "10",
+    "cell": 14,
+    "scene": "Close modern hiker looks toward distant mountains",
+    "kind": "simple",
+    "episode": "11",
+    "start": 55.5,
+    "end": 57.5,
+    "frames": 48,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "10",
+    "cell": 15,
+    "scene": "A qualitative ancestry strand alongside living mountain landscape",
+    "kind": "simple",
+    "episode": "11",
+    "start": 57.5,
+    "end": 59.5,
+    "frames": 48,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "16",
+    "cell": 4,
+    "scene": "A scientist studies qualitative genetic variation",
+    "kind": "simple",
+    "episode": "11",
+    "start": 59.5,
+    "end": 61.5,
+    "frames": 48,
+    "near_caption_boundary": false
+  }
+]

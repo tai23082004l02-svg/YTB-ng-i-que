@@ -1,0 +1,25 @@
+{
+  "id": "09",
+  "title": "Did We Kill the Other Humans?",
+  "status": "passed",
+  "duration_seconds": 63.333333,
+  "runtime_mmss": "1:03",
+  "narration_words": 135,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": 48000,
+  "audio_bitrate": "130457",
+  "integrated_loudness_lufs": -16.94,
+  "true_peak_dbtp": -3.8,
+  "loudness_range_lu": 2.2,
+  "shots": 22,
+  "subtitle_cues": 33,
+  "full_decode_exit_code": 0,
+  "mp4_bytes": 3790192,
+  "sha256": "8c2bf342e40404c83f8c74778c9e5eadba14fff8c715b54d18537b4f4948972d"
+}

@@ -1,0 +1,233 @@
+[
+  {
+    "sheet": "04",
+    "cell": 0,
+    "scene": "Hypothetical Neanderthal mother in rust wrap, mature face",
+    "kind": "simple",
+    "episode": "05",
+    "start": 0.0,
+    "end": 2.0416666666666665,
+    "frames": 49,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "14",
+    "cell": 5,
+    "scene": "Hypothetical Neanderthal mother in rust wrap, adult not verified portrait",
+    "kind": "simple",
+    "episode": "05",
+    "start": 2.0416666666666665,
+    "end": 4.583333333333333,
+    "frames": 61,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "04",
+    "cell": 1,
+    "scene": "Hypothetical Denisovan father in slate-blue wrap, mature face",
+    "kind": "simple",
+    "episode": "05",
+    "start": 4.583333333333333,
+    "end": 6.666666666666667,
+    "frames": 50,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "14",
+    "cell": 6,
+    "scene": "Hypothetical Denisovan father in blue wrap, adult not verified portrait",
+    "kind": "simple",
+    "episode": "05",
+    "start": 6.666666666666667,
+    "end": 9.0,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "04",
+    "cell": 2,
+    "scene": "A young female individual in ochre wrap, artistic reconstruction not verified portrait",
+    "kind": "simple",
+    "episode": "05",
+    "start": 9.0,
+    "end": 11.333333333333334,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "14",
+    "cell": 10,
+    "scene": "A young female individual in ochre wrap, artistic reconstruction",
+    "kind": "simple",
+    "episode": "05",
+    "start": 11.333333333333334,
+    "end": 13.708333333333334,
+    "frames": 57,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "04",
+    "cell": 3,
+    "scene": "Small bone fragment on neutral specimen tray",
+    "kind": "simple",
+    "episode": "05",
+    "start": 13.708333333333334,
+    "end": 15.708333333333334,
+    "frames": 48,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "04",
+    "cell": 4,
+    "scene": "Mother and father represented by separate colored circles linked to one child circle, no hierarchies",
+    "kind": "explanation",
+    "episode": "05",
+    "start": 15.708333333333334,
+    "end": 19.958333333333332,
+    "frames": 102,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "04",
+    "cell": 5,
+    "scene": "A researcher studies qualitative parentage matching diagram",
+    "kind": "simple",
+    "episode": "05",
+    "start": 19.958333333333332,
+    "end": 22.333333333333332,
+    "frames": 57,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "14",
+    "cell": 8,
+    "scene": "A researcher studies parentage diagram with colored circles",
+    "kind": "simple",
+    "episode": "05",
+    "start": 22.333333333333332,
+    "end": 24.5,
+    "frames": 52,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "04",
+    "cell": 6,
+    "scene": "First-generation parents to child in one step, distinct from many-generation mixture",
+    "kind": "explanation",
+    "episode": "05",
+    "start": 24.5,
+    "end": 29.0,
+    "frames": 108,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "14",
+    "cell": 4,
+    "scene": "One parent-child generation compared with many-generation ancestry, no evolution ladder",
+    "kind": "explanation",
+    "episode": "05",
+    "start": 29.0,
+    "end": 33.25,
+    "frames": 102,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "14",
+    "cell": 9,
+    "scene": "Two distinct parental branches connect to one child node",
+    "kind": "explanation",
+    "episode": "05",
+    "start": 33.25,
+    "end": 37.5,
+    "frames": 102,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "04",
+    "cell": 7,
+    "scene": "A modern scientist compares archived genetic results, no fake data text",
+    "kind": "simple",
+    "episode": "05",
+    "start": 37.5,
+    "end": 39.666666666666664,
+    "frames": 52,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "04",
+    "cell": 8,
+    "scene": "Bone evidence and imagined family portrait as separate categories",
+    "kind": "explanation",
+    "episode": "05",
+    "start": 39.666666666666664,
+    "end": 43.916666666666664,
+    "frames": 102,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "04",
+    "cell": 9,
+    "scene": "Closed blank notebook beside cave sample, unknown personal history",
+    "kind": "simple",
+    "episode": "05",
+    "start": 43.916666666666664,
+    "end": 46.25,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "04",
+    "cell": 10,
+    "scene": "Hypothetical mother father and adolescent together, respectful fully clothed, all three clearly visible",
+    "kind": "simple",
+    "episode": "05",
+    "start": 46.25,
+    "end": 48.583333333333336,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "04",
+    "cell": 11,
+    "scene": "Two genetic branch paths connect through one family node",
+    "kind": "explanation",
+    "episode": "05",
+    "start": 48.583333333333336,
+    "end": 52.833333333333336,
+    "frames": 102,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "04",
+    "cell": 12,
+    "scene": "Two ancient communities far apart in separate vignettes, not a war or romance claim",
+    "kind": "simple",
+    "episode": "05",
+    "start": 52.833333333333336,
+    "end": 55.166666666666664,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "04",
+    "cell": 14,
+    "scene": "A researcher carefully handles fossil tray",
+    "kind": "simple",
+    "episode": "05",
+    "start": 55.166666666666664,
+    "end": 57.5,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "04",
+    "cell": 15,
+    "scene": "Warm conceptual three hands of parents and younger individual, no documentary claim",
+    "kind": "simple",
+    "episode": "05",
+    "start": 57.5,
+    "end": 60.333333333333336,
+    "frames": 68,
+    "near_caption_boundary": false
+  }
+]

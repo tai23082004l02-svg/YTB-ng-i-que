@@ -1,0 +1,26 @@
+{
+  "id": "03",
+  "title": "Neanderthals Weren’t Stupid",
+  "channel": "The Long Wonder",
+  "language": "en-US",
+  "category": "Education",
+  "category_id": "27",
+  "duration_seconds": 60.791666666666664,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "narration_voice": "Kokoro am_michael",
+  "tts_speed": 1.07,
+  "additional_tempo_factor": 1.0,
+  "scenes": 21,
+  "subtitle_cues": 32,
+  "suggested_release_position": 4,
+  "status": "prepared for owner upload; not published or scheduled",
+  "source_urls": [
+    "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis"
+  ],
+  "evidence_limit": "Anatomy and brain size do not provide a fossil IQ ranking.",
+  "related_video": "Owner may select the uploaded full The Last Humans video using the Related video feature when available; no YouTube URL was supplied."
+}

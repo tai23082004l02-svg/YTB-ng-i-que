@@ -1,0 +1,25 @@
+{
+  "id": "03",
+  "title": "Neanderthals Weren’t Stupid",
+  "status": "passed",
+  "duration_seconds": 60.791667,
+  "runtime_mmss": "1:01",
+  "narration_words": 127,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": 48000,
+  "audio_bitrate": "130494",
+  "integrated_loudness_lufs": -16.51,
+  "true_peak_dbtp": -3.2,
+  "loudness_range_lu": 2.5,
+  "shots": 21,
+  "subtitle_cues": 32,
+  "full_decode_exit_code": 0,
+  "mp4_bytes": 3569686,
+  "sha256": "bd59961ca23c4d97510809d0c22573ac24e89176bc68da70b846a6880d6fab0a"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "07",
+  "title": "This Human Lineage Lasted Over a Million Years",
+  "status": "passed",
+  "duration_seconds": 56.916667,
+  "runtime_mmss": "0:57",
+  "narration_words": 142,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": 48000,
+  "audio_bitrate": "130621",
+  "integrated_loudness_lufs": -16.95,
+  "true_peak_dbtp": -3.79,
+  "loudness_range_lu": 1.8,
+  "shots": 20,
+  "subtitle_cues": 29,
+  "full_decode_exit_code": 0,
+  "mp4_bytes": 3252041,
+  "sha256": "825152784efab9425b6535bed27ef6deb130a2e26a566494b2e49a238dcec0e2"
+}

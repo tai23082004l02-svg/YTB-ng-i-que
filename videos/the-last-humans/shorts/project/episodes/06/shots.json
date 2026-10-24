@@ -1,0 +1,233 @@
+[
+  {
+    "sheet": "05",
+    "cell": 0,
+    "scene": "A very small MATURE ADULT Flores woman with adult facial lines and gray temple strand in olive wrap, never child-like",
+    "kind": "simple",
+    "episode": "06",
+    "start": 0.0,
+    "end": 2.2916666666666665,
+    "frames": 55,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "15",
+    "cell": 0,
+    "scene": "Small mature Flores ADULT woman with lined face and gray temple strand by tropical cave",
+    "kind": "simple",
+    "episode": "06",
+    "start": 2.2916666666666665,
+    "end": 4.5,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "15",
+    "cell": 6,
+    "scene": "Small mature Flores ADULT carries basket near ferns",
+    "kind": "simple",
+    "episode": "06",
+    "start": 4.5,
+    "end": 6.958333333333333,
+    "frames": 59,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "05",
+    "cell": 1,
+    "scene": "Same small mature adult holds stone tool beside tropical cave",
+    "kind": "simple",
+    "episode": "06",
+    "start": 6.958333333333333,
+    "end": 9.166666666666666,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "15",
+    "cell": 1,
+    "scene": "Same mature small adult holds useful stone tool",
+    "kind": "simple",
+    "episode": "06",
+    "start": 9.166666666666666,
+    "end": 11.375,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "15",
+    "cell": 11,
+    "scene": "A long layered geological outcrop with small tools",
+    "kind": "simple",
+    "episode": "06",
+    "start": 11.375,
+    "end": 13.791666666666666,
+    "frames": 58,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "05",
+    "cell": 2,
+    "scene": "Small mature adult and taller ADULT sapiens shown separately neutrally at equal ground level, no child comparison",
+    "kind": "explanation",
+    "episode": "06",
+    "start": 13.791666666666666,
+    "end": 17.791666666666668,
+    "frames": 96,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "05",
+    "cell": 3,
+    "scene": "Close mature adult face with lined eyes and confident expression",
+    "kind": "simple",
+    "episode": "06",
+    "start": 17.791666666666668,
+    "end": 20.0,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "05",
+    "cell": 4,
+    "scene": "A tropical Flores-like island coast",
+    "kind": "simple",
+    "episode": "06",
+    "start": 20.0,
+    "end": 22.208333333333332,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "05",
+    "cell": 5,
+    "scene": "Adult Flores woman knaps stone on work surface",
+    "kind": "simple",
+    "episode": "06",
+    "start": 22.208333333333332,
+    "end": 24.416666666666668,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "05",
+    "cell": 6,
+    "scene": "Close useful stone tools beside fragmentary fossils in separate trays",
+    "kind": "simple",
+    "episode": "06",
+    "start": 24.416666666666668,
+    "end": 26.833333333333332,
+    "frames": 58,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "05",
+    "cell": 7,
+    "scene": "Adult skeleton traits treated as anatomical clues, not baby growth diagram",
+    "kind": "explanation",
+    "episode": "06",
+    "start": 26.833333333333332,
+    "end": 30.958333333333332,
+    "frames": 99,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "15",
+    "cell": 2,
+    "scene": "Adult body traits and childhood are different categories, use adult skeleton and growing sapling without child portrait",
+    "kind": "explanation",
+    "episode": "06",
+    "start": 30.958333333333332,
+    "end": 35.083333333333336,
+    "frames": 99,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "05",
+    "cell": 9,
+    "scene": "Archaeologist brushes cave sediment carefully",
+    "kind": "simple",
+    "episode": "06",
+    "start": 35.083333333333336,
+    "end": 37.291666666666664,
+    "frames": 53,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "05",
+    "cell": 10,
+    "scene": "Fossil evidence and later tool evidence on separate layers without exact date text",
+    "kind": "explanation",
+    "episode": "06",
+    "start": 37.291666666666664,
+    "end": 41.541666666666664,
+    "frames": 102,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "15",
+    "cell": 4,
+    "scene": "Fossil date and tool date are distinct evidence layers",
+    "kind": "explanation",
+    "episode": "06",
+    "start": 41.541666666666664,
+    "end": 45.666666666666664,
+    "frames": 99,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "05",
+    "cell": 11,
+    "scene": "Empty limestone cave with tropical ferns",
+    "kind": "simple",
+    "episode": "06",
+    "start": 45.666666666666664,
+    "end": 47.708333333333336,
+    "frames": 49,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "05",
+    "cell": 12,
+    "scene": "Youngest discovered fossil differs from final living individual, separate specimen and footprints icons",
+    "kind": "explanation",
+    "episode": "06",
+    "start": 47.708333333333336,
+    "end": 51.708333333333336,
+    "frames": 96,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "15",
+    "cell": 7,
+    "scene": "Last discovered fossil not proven last surviving population, different trace endpoints",
+    "kind": "explanation",
+    "episode": "06",
+    "start": 51.708333333333336,
+    "end": 55.708333333333336,
+    "frames": 96,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "05",
+    "cell": 13,
+    "scene": "Small ADULT carries plant basket along rocky island path",
+    "kind": "simple",
+    "episode": "06",
+    "start": 55.708333333333336,
+    "end": 57.708333333333336,
+    "frames": 48,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "05",
+    "cell": 15,
+    "scene": "Quiet island shoreline with fading footprints, unresolved ending",
+    "kind": "simple",
+    "episode": "06",
+    "start": 57.708333333333336,
+    "end": 59.708333333333336,
+    "frames": 48,
+    "near_caption_boundary": false
+  }
+]

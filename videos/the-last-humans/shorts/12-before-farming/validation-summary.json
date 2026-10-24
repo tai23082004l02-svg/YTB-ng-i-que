@@ -1,0 +1,25 @@
+{
+  "id": "12",
+  "title": "Farming Didn’t Make Us the Last Humans",
+  "status": "passed",
+  "duration_seconds": 62.666667,
+  "runtime_mmss": "1:03",
+  "narration_words": 140,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": 48000,
+  "audio_bitrate": "131162",
+  "integrated_loudness_lufs": -16.5,
+  "true_peak_dbtp": -3.12,
+  "loudness_range_lu": 1.8,
+  "shots": 22,
+  "subtitle_cues": 34,
+  "full_decode_exit_code": 0,
+  "mp4_bytes": 3780484,
+  "sha256": "eca68c244227d3047f8eeec8134072a8e77971f61408ba5c437f454ff5b72ab9"
+}

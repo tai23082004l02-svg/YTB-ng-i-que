@@ -1,0 +1,233 @@
+[
+  {
+    "sheet": "03",
+    "cell": 0,
+    "scene": "Tiny finger bone fragment alone on scale-free neutral tray",
+    "kind": "simple",
+    "episode": "04",
+    "start": 0.0,
+    "end": 2.0,
+    "frames": 48,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "14",
+    "cell": 0,
+    "scene": "Tiny finger bone fragment in gloved hand",
+    "kind": "simple",
+    "episode": "04",
+    "start": 2.0,
+    "end": 4.458333333333333,
+    "frames": 59,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "14",
+    "cell": 2,
+    "scene": "A tooth and bone fragment in separate trays",
+    "kind": "simple",
+    "episode": "04",
+    "start": 4.458333333333333,
+    "end": 6.791666666666667,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "03",
+    "cell": 1,
+    "scene": "A gloved researcher studies ancient fragment",
+    "kind": "simple",
+    "episode": "04",
+    "start": 6.791666666666667,
+    "end": 9.125,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "03",
+    "cell": 2,
+    "scene": "Small bone connects to qualitative DNA pattern, not fake sequence letters",
+    "kind": "explanation",
+    "episode": "04",
+    "start": 9.125,
+    "end": 13.375,
+    "frames": 102,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "14",
+    "cell": 1,
+    "scene": "Bone evidence linked to qualitative genetic pattern",
+    "kind": "explanation",
+    "episode": "04",
+    "start": 13.375,
+    "end": 17.625,
+    "frames": 102,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "03",
+    "cell": 3,
+    "scene": "Researcher works in clean ancient DNA laboratory",
+    "kind": "simple",
+    "episode": "04",
+    "start": 17.625,
+    "end": 19.958333333333332,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "03",
+    "cell": 4,
+    "scene": "Siberian cave entrance among rugged mountains",
+    "kind": "simple",
+    "episode": "04",
+    "start": 19.958333333333332,
+    "end": 22.291666666666668,
+    "frames": 56,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "03",
+    "cell": 5,
+    "scene": "Two distinct genetic patterns compared without ranking",
+    "kind": "explanation",
+    "episode": "04",
+    "start": 22.291666666666668,
+    "end": 26.708333333333332,
+    "frames": 106,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "14",
+    "cell": 12,
+    "scene": "Personal biography remains unknown despite genetic parentage",
+    "kind": "explanation",
+    "episode": "04",
+    "start": 26.708333333333332,
+    "end": 30.958333333333332,
+    "frames": 102,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "03",
+    "cell": 6,
+    "scene": "A tooth and fragment in separate research trays",
+    "kind": "simple",
+    "episode": "04",
+    "start": 30.958333333333332,
+    "end": 33.291666666666664,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "03",
+    "cell": 7,
+    "scene": "A scientist compares several lines of evidence",
+    "kind": "simple",
+    "episode": "04",
+    "start": 33.291666666666664,
+    "end": 35.625,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "03",
+    "cell": 8,
+    "scene": "One cave location separated from broader Asian habitats conceptually",
+    "kind": "explanation",
+    "episode": "04",
+    "start": 35.625,
+    "end": 40.25,
+    "frames": 111,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "03",
+    "cell": 9,
+    "scene": "A reconstructed Denisovan adult in blue-gray wrap, explicitly artistic",
+    "kind": "simple",
+    "episode": "04",
+    "start": 40.25,
+    "end": 42.958333333333336,
+    "frames": 65,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "03",
+    "cell": 10,
+    "scene": "Facial reconstruction sits in separate thought bubble from actual bone",
+    "kind": "explanation",
+    "episode": "04",
+    "start": 42.958333333333336,
+    "end": 47.208333333333336,
+    "frames": 102,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "03",
+    "cell": 11,
+    "scene": "Modern person in ordinary clothing far from cave in separate vignette",
+    "kind": "simple",
+    "episode": "04",
+    "start": 47.208333333333336,
+    "end": 49.541666666666664,
+    "frames": 56,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "03",
+    "cell": 12,
+    "scene": "Ancestry fragments travel through generations without marching evolution silhouettes",
+    "kind": "explanation",
+    "episode": "04",
+    "start": 49.541666666666664,
+    "end": 53.791666666666664,
+    "frames": 102,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "03",
+    "cell": 13,
+    "scene": "A researcher holds blank research notebook beside specimen",
+    "kind": "simple",
+    "episode": "04",
+    "start": 53.791666666666664,
+    "end": 56.208333333333336,
+    "frames": 58,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "14",
+    "cell": 3,
+    "scene": "A modern researcher holds plain sample vial",
+    "kind": "simple",
+    "episode": "04",
+    "start": 56.208333333333336,
+    "end": 58.291666666666664,
+    "frames": 50,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "03",
+    "cell": 14,
+    "scene": "A modern laboratory microscope and protected sample",
+    "kind": "simple",
+    "episode": "04",
+    "start": 58.291666666666664,
+    "end": 60.291666666666664,
+    "frames": 48,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "03",
+    "cell": 15,
+    "scene": "A small fossil beside broad branching tree silhouette",
+    "kind": "simple",
+    "episode": "04",
+    "start": 60.291666666666664,
+    "end": 62.291666666666664,
+    "frames": 48,
+    "near_caption_boundary": false
+  }
+]

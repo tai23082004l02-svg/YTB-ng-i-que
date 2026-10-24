@@ -1,0 +1,11 @@
+{
+  "id": "11",
+  "duration_seconds": 61.5,
+  "native_duration_seconds": 61.5,
+  "shots": 21,
+  "simple_shots": 13,
+  "explanatory_shots": 8,
+  "mean_scene_seconds": 2.9285714285714284,
+  "subtitle_cues": 30,
+  "cuts_near_caption_boundaries": 7
+}

@@ -52,7 +52,15 @@ https://raw.githubusercontent.com/tai23082004l02-svg/YTB-ng-i-que/afd41171e9b38c
 
 ## 4. Tệp nào chứa gì?
 
-**Bản mới nhất:** [videos/without-us/](videos/without-us/README.md), **Without Us / If Humans Disappeared Tomorrow, What Would Survive?**, **46:26**, 32 phần, 46 tấm 4×4 (736 ô,695 dùng),878 cue. Kokoro am_michael speed 1.07,không tempo thêm. Trung bình4,008 giây/cảnh;446 cảnh đơn giản 3–4 giây,249 cảnh giải thích 5–6 giây.
+## Bộ Shorts The Last Humans đã hoàn thành
+
+[12 Shorts](videos/the-last-humans/shorts/README.md), dọc720×1280,24fps, giọng Kokoro am_michael1.07 riêng cho từng tập; không atempo. Khoảng57–64giây/tập, tổng12:12,252cảnh từ19tấm4×4portrait(304ô),379cue. [ZIP gồm toàn bộ12MP4 và thông tin đăng](videos/the-last-humans/shorts/all-12-shorts.zip). Parent MP4 giữ nguyên.
+
+Shorts dùng nhịp đã được người dùng chấp nhận: đơn giản2–3giây, giải thích 4–5 giây. Mặc định video dài vẫn khoảng4giây/cảnh. Phụ đề46 px, marginbottom250 px/right110 px để chừa giao diện. Ảnh dọc được bố trí mới theo tham chiếu hình phim dài; không tuyên bố cắt bản ngang mà vẫn bảo toàn mọi người.
+
+Đọc SOURCES.md, project/art-direction.json và curation-notes.json trong thư mục shorts. 16ô loại gồm sơ đồ dễ suy diễn Flores introgression/quan hệ cha mẹ không có bằng chứng. Chỉ số tấm của shorts khác bộ ảnh parent. Thứ tự đăng gợi ý05,06,10,03,04,01,02,07,08,09,11,12; chủ kênh tự đăng và tự chọn Related video khi đã có bản dài trên YouTube. Không có URL YouTube được cung cấp.
+
+**Bản mới nhất:** [videos/without-us/](videos/without-us/README.md), **Without Us / If Humans Disappeared Tomorrow, What Would Survive?**, **46:26**, 32 phần, 46 tấm 4×4 (736 ô,695 dùng),878 cue. Kokoro am_michael speed 1.07, không tempo thêm. Trung bình4,008 giây/cảnh;446 cảnh đơn giản 3–4 giây,249 cảnh giải thích 5–6 giây.
 
 Đọc SOURCES.md, project/story-bible.json, claim-checks.json và curation-notes.json. Toàn bộ người biến mất; không để người sống/ảnh phản chiếu/phi hành gia xuất hiện trong cảnh. Scout/Juniper chỉ ngày đầu và đoạn cuối quay lại ngày đầu; không cho thú nuôi sống nhiều thế kỷ. Không mốc sập toàn cầu chính xác, không mọi lò phản ứng cùng nổ, không suy diễn động vật Chernobyl đồng nghĩa phóng xạ vô hại.5 ô loại:07/12,34/12,29/5,41/11,31/10; xem curation để giữ thay thế. Hình Mặt Trăng không có vệt sao băng như khí quyển Trái Đất; không có voi ma mút trở lại tương lai.
 

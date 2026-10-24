@@ -54,6 +54,15 @@
 - Trong câu trả lời bàn giao, ưu tiên liên kết GitHub có thể truy cập, vì người dùng không xem được liên kết tệp cục bộ. Dùng liên kết theo commit khi cần tránh tải nhầm bản cũ do cache.
 - Không tự đăng video lên YouTube nếu chưa được yêu cầu.
 
+## Shorts được chốt trong bộ The Last Humans
+
+- Khung dọc9:16,720×1280; lời dẫn tự đứng riêng và giọng Kokoro riêng từng tập. Bộ đầu khoảng57–64giây/tập; không ép nhanh lời đọc để đạt nhịp hình.
+- Cảnh đơn giản 2–3 giây; giải thích cần quan sát4–5giây. Đây là nhịp Shorts, không thay mặc định khoảng4giây của video dài.
+- Giữ hình tĩnh, không zoom/pan/rung, không header/bộ đếm; phụ đề lớn viền tối ở vùng dưới, chừa giao diện điện thoại, không dải đen cố định.
+- Với cảnh nhóm/sơ đồ từ bản ngang, bố trí lại dọc để giữ đủ người và ý nghĩa; ghi rõ hình mới dùng nguồn cũ làm tham chiếu. Không lấy sơ đồ AI như một cây phát sinh đã đo đạc.
+- Mỗi tập có MP4, ảnh bìa, kịch bản, SRT, tiêu đề, mô tả, tags, bình luận ghim; bộ chung có ZIP và CSV thứ tự gợi ý. Không tự đăng/lên lịch hoặc bịa URL bản dài.
+- Mẫu: [12 Shorts The Last Humans](videos/the-last-humans/shorts/README.md).
+
 ## Video tham chiếu
 
 - [Without Us — 46:26,695 hình; thế giới vắng người và kết quả phụ thuộc điều kiện](videos/without-us/README.md)

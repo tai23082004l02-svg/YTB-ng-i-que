@@ -1,0 +1,26 @@
+{
+  "id": "05",
+  "title": "Her Mother Was Neanderthal. Her Father Was Denisovan.",
+  "channel": "The Long Wonder",
+  "language": "en-US",
+  "category": "Education",
+  "category_id": "27",
+  "duration_seconds": 60.333333333333336,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "narration_voice": "Kokoro am_michael",
+  "tts_speed": 1.07,
+  "additional_tempo_factor": 1.0,
+  "scenes": 21,
+  "subtitle_cues": 32,
+  "suggested_release_position": 1,
+  "status": "prepared for owner upload; not published or scheduled",
+  "source_urls": [
+    "https://www.nature.com/articles/s41586-018-0455-x"
+  ],
+  "evidence_limit": "Parentage is inferred from DNA. Faces, clothes, and family scenes are imagined reconstructions, not recovered portraits or a known biography.",
+  "related_video": "Owner may select the uploaded full The Last Humans video using the Related video feature when available; no YouTube URL was supplied."
+}

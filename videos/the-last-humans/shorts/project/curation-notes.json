@@ -1,0 +1,114 @@
+[
+  {
+    "sheet": "00",
+    "cell": 4,
+    "reason": "Portraits at internal branch nodes imply unsupported species parentage.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "00",
+    "cell": 11,
+    "reason": "Flores-like portraits linked to modern people imply unestablished introgression.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "01",
+    "cell": 5,
+    "reason": "Crosslinks involving a Flores-like portrait could imply unsupported admixture.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "01",
+    "cell": 11,
+    "reason": "Modern-looking internal node could imply modern humans were ancestors of all other depicted branches.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "01",
+    "cell": 13,
+    "reason": "Crosslinks involving identified archaic portraits can be mistaken for an established exact phylogeny.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "04",
+    "cell": 13,
+    "reason": "Many parental branches converge on one young individual, obscuring the specific two-parent finding.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "05",
+    "cell": 8,
+    "reason": "Unspecified island-fauna tableau adds an unverified tortoise association.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "05",
+    "cell": 14,
+    "reason": "Neanderthal/Denisovan portraits are drawn as ancestors of Flores and modern humans without evidence.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "10",
+    "cell": 2,
+    "reason": "Bonded blue gas nodes can be mistaken for a literal oxygen molecule structure.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "10",
+    "cell": 5,
+    "reason": "Multiple archaic parent portraits feeding modern individuals could imply direct first-generation parentage rather than population history.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "09",
+    "cell": 8,
+    "reason": "Three portrait branches converge on one modern individual, making population ancestry resemble literal three-parent descent.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "09",
+    "cell": 13,
+    "reason": "Portrait network and extinct marker obscure the distinction between population mixture and literal parentage.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "12",
+    "cell": 2,
+    "reason": "Colored paths involving Flores-like portraits could imply unsupported genetic exchange.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "14",
+    "cell": 7,
+    "reason": "Bone-to-face arrow can imply a confidently recovered Denisovan likeness.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "14",
+    "cell": 14,
+    "reason": "Regional vignettes mix reconstructions and modern clothing in a purported archaic-population diagram.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  },
+  {
+    "sheet": "17",
+    "cell": 7,
+    "reason": "A modern hiker appears in a visual intended for prehistoric regional encounters.",
+    "excluded_from_final": true,
+    "source_retained_for_provenance": true
+  }
+]

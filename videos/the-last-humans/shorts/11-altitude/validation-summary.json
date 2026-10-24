@@ -1,0 +1,25 @@
+{
+  "id": "11",
+  "title": "An Ancient Human Inheritance Helps at High Altitude",
+  "status": "passed",
+  "duration_seconds": 61.5,
+  "runtime_mmss": "1:02",
+  "narration_words": 137,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": 48000,
+  "audio_bitrate": "131089",
+  "integrated_loudness_lufs": -16.5,
+  "true_peak_dbtp": -4.64,
+  "loudness_range_lu": 2.5,
+  "shots": 21,
+  "subtitle_cues": 30,
+  "full_decode_exit_code": 0,
+  "mp4_bytes": 3279996,
+  "sha256": "add568abafaab9e2ab903f999b09b3458cc0b9d24d2ba99332b2f8ca8ade43be"
+}

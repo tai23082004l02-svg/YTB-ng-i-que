@@ -1,0 +1,441 @@
+{
+  "status": "passed",
+  "shorts": 12,
+  "total_duration_seconds": 731.483334,
+  "min_duration_seconds": 56.916667,
+  "max_duration_seconds": 64.4,
+  "narration_words": 1599,
+  "source_sheets": 19,
+  "source_grid": "4 columns x4 rows, each cell portrait9:16",
+  "generated_portrait_panels": 304,
+  "selected_unique_panels": 252,
+  "simple_scenes": 165,
+  "explanatory_scenes": 87,
+  "simple_range_seconds": [
+    2.0,
+    2.8333333333333335
+  ],
+  "explanatory_range_seconds": [
+    4.0,
+    4.666666666666667
+  ],
+  "mean_scene_seconds": 2.902711642857143,
+  "subtitle_cues": 379,
+  "excluded_source_panels": [
+    {
+      "sheet": "00",
+      "cell": 4,
+      "reason": "Portraits at internal branch nodes imply unsupported species parentage.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "00",
+      "cell": 11,
+      "reason": "Flores-like portraits linked to modern people imply unestablished introgression.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "01",
+      "cell": 5,
+      "reason": "Crosslinks involving a Flores-like portrait could imply unsupported admixture.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "01",
+      "cell": 11,
+      "reason": "Modern-looking internal node could imply modern humans were ancestors of all other depicted branches.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "01",
+      "cell": 13,
+      "reason": "Crosslinks involving identified archaic portraits can be mistaken for an established exact phylogeny.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "04",
+      "cell": 13,
+      "reason": "Many parental branches converge on one young individual, obscuring the specific two-parent finding.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "05",
+      "cell": 8,
+      "reason": "Unspecified island-fauna tableau adds an unverified tortoise association.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "05",
+      "cell": 14,
+      "reason": "Neanderthal/Denisovan portraits are drawn as ancestors of Flores and modern humans without evidence.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "10",
+      "cell": 2,
+      "reason": "Bonded blue gas nodes can be mistaken for a literal oxygen molecule structure.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "10",
+      "cell": 5,
+      "reason": "Multiple archaic parent portraits feeding modern individuals could imply direct first-generation parentage rather than population history.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "09",
+      "cell": 8,
+      "reason": "Three portrait branches converge on one modern individual, making population ancestry resemble literal three-parent descent.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "09",
+      "cell": 13,
+      "reason": "Portrait network and extinct marker obscure the distinction between population mixture and literal parentage.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "12",
+      "cell": 2,
+      "reason": "Colored paths involving Flores-like portraits could imply unsupported genetic exchange.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "14",
+      "cell": 7,
+      "reason": "Bone-to-face arrow can imply a confidently recovered Denisovan likeness.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "14",
+      "cell": 14,
+      "reason": "Regional vignettes mix reconstructions and modern clothing in a purported archaic-population diagram.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    },
+    {
+      "sheet": "17",
+      "cell": 7,
+      "reason": "A modern hiker appears in a visual intended for prehistoric regional encounters.",
+      "excluded_from_final": true,
+      "source_retained_for_provenance": true
+    }
+  ],
+  "episodes": [
+    {
+      "id": "01",
+      "title": "We Weren’t Always the Only Humans",
+      "status": "passed",
+      "duration_seconds": 58.958333,
+      "runtime_mmss": "0:59",
+      "narration_words": 130,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "130536",
+      "integrated_loudness_lufs": -16.91,
+      "true_peak_dbtp": -3.81,
+      "loudness_range_lu": 2.1,
+      "shots": 20,
+      "subtitle_cues": 31,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3302605,
+      "sha256": "b70a8aa641fa64792c02f024b30a2b806d2147b3b9abbe560bc282814cbcdca5"
+    },
+    {
+      "id": "02",
+      "title": "Human Evolution Was Never a Straight Line",
+      "status": "passed",
+      "duration_seconds": 57.041667,
+      "runtime_mmss": "0:57",
+      "narration_words": 131,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "130516",
+      "integrated_loudness_lufs": -16.48,
+      "true_peak_dbtp": -2.08,
+      "loudness_range_lu": 2.9,
+      "shots": 20,
+      "subtitle_cues": 31,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3406747,
+      "sha256": "4b768a37a9e45384ac453c576d390d9b6c493a0d3dc8d27795a37187af5a012b"
+    },
+    {
+      "id": "03",
+      "title": "Neanderthals Weren’t Stupid",
+      "status": "passed",
+      "duration_seconds": 60.791667,
+      "runtime_mmss": "1:01",
+      "narration_words": 127,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "130494",
+      "integrated_loudness_lufs": -16.51,
+      "true_peak_dbtp": -3.2,
+      "loudness_range_lu": 2.5,
+      "shots": 21,
+      "subtitle_cues": 32,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3569686,
+      "sha256": "bd59961ca23c4d97510809d0c22573ac24e89176bc68da70b846a6880d6fab0a"
+    },
+    {
+      "id": "04",
+      "title": "A Tiny Bone Revealed a Hidden Human Lineage",
+      "status": "passed",
+      "duration_seconds": 62.291667,
+      "runtime_mmss": "1:02",
+      "narration_words": 125,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "130598",
+      "integrated_loudness_lufs": -17.0,
+      "true_peak_dbtp": -1.77,
+      "loudness_range_lu": 2.4,
+      "shots": 21,
+      "subtitle_cues": 31,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 2784210,
+      "sha256": "c0606c9b97ed0e791124eafb2cd19b03ada8523f59083b9a4e3e11aeee8151af"
+    },
+    {
+      "id": "05",
+      "title": "Her Mother Was Neanderthal. Her Father Was Denisovan.",
+      "status": "passed",
+      "duration_seconds": 60.333333,
+      "runtime_mmss": "1:00",
+      "narration_words": 133,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "130212",
+      "integrated_loudness_lufs": -16.85,
+      "true_peak_dbtp": -2.29,
+      "loudness_range_lu": 2.0,
+      "shots": 21,
+      "subtitle_cues": 32,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3049696,
+      "sha256": "8e487a83fc80a830c747ba584382ee8e6905cf08b129549ed23650a4eda8ee88"
+    },
+    {
+      "id": "06",
+      "title": "An Adult Human Just 3½ Feet Tall",
+      "status": "passed",
+      "duration_seconds": 59.708333,
+      "runtime_mmss": "1:00",
+      "narration_words": 133,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "131678",
+      "integrated_loudness_lufs": -16.5,
+      "true_peak_dbtp": -2.27,
+      "loudness_range_lu": 2.3,
+      "shots": 21,
+      "subtitle_cues": 31,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3609786,
+      "sha256": "0f746116457d5444748665420a15205c52bedd08e95d795ab55583cbff5182e6"
+    },
+    {
+      "id": "07",
+      "title": "This Human Lineage Lasted Over a Million Years",
+      "status": "passed",
+      "duration_seconds": 56.916667,
+      "runtime_mmss": "0:57",
+      "narration_words": 142,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "130621",
+      "integrated_loudness_lufs": -16.95,
+      "true_peak_dbtp": -3.79,
+      "loudness_range_lu": 1.8,
+      "shots": 20,
+      "subtitle_cues": 29,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3252041,
+      "sha256": "825152784efab9425b6535bed27ef6deb130a2e26a566494b2e49a238dcec0e2"
+    },
+    {
+      "id": "08",
+      "title": "Being Smart Wasn’t Enough to Survive",
+      "status": "passed",
+      "duration_seconds": 63.541667,
+      "runtime_mmss": "1:04",
+      "narration_words": 135,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "130127",
+      "integrated_loudness_lufs": -16.93,
+      "true_peak_dbtp": -3.39,
+      "loudness_range_lu": 2.6,
+      "shots": 22,
+      "subtitle_cues": 33,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3781750,
+      "sha256": "1f1e963c478909d81816ab10ef1777c7f4f1b321341e73874ec26833f01a468c"
+    },
+    {
+      "id": "09",
+      "title": "Did We Kill the Other Humans?",
+      "status": "passed",
+      "duration_seconds": 63.333333,
+      "runtime_mmss": "1:03",
+      "narration_words": 135,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "130457",
+      "integrated_loudness_lufs": -16.94,
+      "true_peak_dbtp": -3.8,
+      "loudness_range_lu": 2.2,
+      "shots": 22,
+      "subtitle_cues": 33,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3790192,
+      "sha256": "8c2bf342e40404c83f8c74778c9e5eadba14fff8c715b54d18537b4f4948972d"
+    },
+    {
+      "id": "10",
+      "title": "You May Carry Neanderthal DNA",
+      "status": "passed",
+      "duration_seconds": 64.4,
+      "runtime_mmss": "1:04",
+      "narration_words": 131,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "130224",
+      "integrated_loudness_lufs": -16.94,
+      "true_peak_dbtp": -2.16,
+      "loudness_range_lu": 2.1,
+      "shots": 21,
+      "subtitle_cues": 32,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3387889,
+      "sha256": "eb238be37e045e8c1500208466712306033a4e74748b4dc3e0a82f19560cdc5f"
+    },
+    {
+      "id": "11",
+      "title": "An Ancient Human Inheritance Helps at High Altitude",
+      "status": "passed",
+      "duration_seconds": 61.5,
+      "runtime_mmss": "1:02",
+      "narration_words": 137,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "131089",
+      "integrated_loudness_lufs": -16.5,
+      "true_peak_dbtp": -4.64,
+      "loudness_range_lu": 2.5,
+      "shots": 21,
+      "subtitle_cues": 30,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3279996,
+      "sha256": "add568abafaab9e2ab903f999b09b3458cc0b9d24d2ba99332b2f8ca8ade43be"
+    },
+    {
+      "id": "12",
+      "title": "Farming Didn’t Make Us the Last Humans",
+      "status": "passed",
+      "duration_seconds": 62.666667,
+      "runtime_mmss": "1:03",
+      "narration_words": 140,
+      "resolution": [
+        720,
+        1280
+      ],
+      "fps": 24,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate_hz": 48000,
+      "audio_bitrate": "131162",
+      "integrated_loudness_lufs": -16.5,
+      "true_peak_dbtp": -3.12,
+      "loudness_range_lu": 1.8,
+      "shots": 22,
+      "subtitle_cues": 34,
+      "full_decode_exit_code": 0,
+      "mp4_bytes": 3780484,
+      "sha256": "eca68c244227d3047f8eeec8134072a8e77971f61408ba5c437f454ff5b72ab9"
+    }
+  ],
+  "review_scope": "Full automated decode and final MP4 audio/stream/timing/text checks for all12; source-board review, all covers and sampled interior frames. Not exhaustive manual watching/listening."
+}

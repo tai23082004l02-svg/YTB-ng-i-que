@@ -1,0 +1,25 @@
+{
+  "id": "04",
+  "title": "A Tiny Bone Revealed a Hidden Human Lineage",
+  "status": "passed",
+  "duration_seconds": 62.291667,
+  "runtime_mmss": "1:02",
+  "narration_words": 125,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": 48000,
+  "audio_bitrate": "130598",
+  "integrated_loudness_lufs": -17.0,
+  "true_peak_dbtp": -1.77,
+  "loudness_range_lu": 2.4,
+  "shots": 21,
+  "subtitle_cues": 31,
+  "full_decode_exit_code": 0,
+  "mp4_bytes": 2784210,
+  "sha256": "c0606c9b97ed0e791124eafb2cd19b03ada8523f59083b9a4e3e11aeee8151af"
+}

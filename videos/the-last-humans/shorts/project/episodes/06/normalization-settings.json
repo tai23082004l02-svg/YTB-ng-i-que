@@ -1,0 +1,65 @@
+{
+  "source_measurement": {
+    "input_i": "-27.35",
+    "input_tp": "-4.11",
+    "input_lra": "4.00",
+    "input_thresh": "-37.73",
+    "output_i": "-17.86",
+    "output_tp": "-3.20",
+    "output_lra": "2.50",
+    "output_thresh": "-28.26",
+    "normalization_type": "dynamic",
+    "target_offset": "1.86"
+  },
+  "filter": "loudnorm=I=-16:TP=-3.2:LRA=9:measured_I=-27.35:measured_TP=-4.11:measured_LRA=4.00:measured_thresh=-37.73:offset=1.86:linear=false,aresample=192000,alimiter=limit=0.3349654392:level=false:latency=1,volume=3.945dB,aresample=48000",
+  "oversampling_hz": 192000,
+  "limiter_dbfs": -9.5,
+  "latency_compensated": true,
+  "post_limiter_gain_db": 3.945000000000001,
+  "aac_nominal_bitrate": "128k",
+  "final_encoded_measurement": {
+    "input_i": "-16.50",
+    "input_tp": "-2.27",
+    "input_lra": "2.60",
+    "input_thresh": "-26.93",
+    "output_i": "-16.00",
+    "output_tp": "-3.20",
+    "output_lra": "1.70",
+    "output_thresh": "-26.45",
+    "normalization_type": "dynamic",
+    "target_offset": "0.00"
+  },
+  "attempts": [
+    {
+      "integrated_lufs": -17.05,
+      "true_peak_dbtp": -0.5,
+      "limiter_dbfs": -5,
+      "post_limiter_gain_db": 0.8
+    },
+    {
+      "integrated_lufs": -17.5,
+      "true_peak_dbtp": -1.81,
+      "limiter_dbfs": -6.5,
+      "post_limiter_gain_db": 1.0750000000000004
+    },
+    {
+      "integrated_lufs": -17.86,
+      "true_peak_dbtp": -2.84,
+      "limiter_dbfs": -8.0,
+      "post_limiter_gain_db": 1.5750000000000004
+    },
+    {
+      "integrated_lufs": -18.19,
+      "true_peak_dbtp": -3.72,
+      "limiter_dbfs": -9.5,
+      "post_limiter_gain_db": 2.255
+    },
+    {
+      "integrated_lufs": -16.5,
+      "true_peak_dbtp": -2.27,
+      "limiter_dbfs": -9.5,
+      "post_limiter_gain_db": 3.945000000000001
+    }
+  ],
+  "note": "Own source measurements, no atempo; single-generation final AAC from original WAV. Not a preset for other narration."
+}

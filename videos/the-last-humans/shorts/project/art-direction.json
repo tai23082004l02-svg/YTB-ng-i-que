@@ -1,0 +1,31 @@
+{
+  "format": "portrait9:16 cells;4columns x4rows in a portrait sheet",
+  "source_sheets": 19,
+  "panels_generated": 304,
+  "panels_selected": 252,
+  "reference_parent_assets": [
+    "../../project/assets/sheet-05.png",
+    "../../project/assets/sheet-08.png",
+    "../../project/assets/sheet-09.png",
+    "../../project/assets/sheet-17.png"
+  ],
+  "reference_use": "Viewed parent art used for style/characters only; new portrait scenes, not literal reuse of parent panel diagrams or parent voice.",
+  "no_exact_phylogeny_claim": true,
+  "ancestry_limit": "No unestablished Flores introgression or species-parentage diagram; Denisova11 two-parent example is distinguished from population ancestry.",
+  "Flores": "Small mature adult, facial lines/gray temples, not a child.",
+  "captions": {
+    "canvas": [
+      720,
+      1280
+    ],
+    "font": "DejaVu Sans bold",
+    "size_px": 46,
+    "outline_px": 3,
+    "shadow_px": 1,
+    "left_margin_px": 42,
+    "right_margin_px": 110,
+    "bottom_margin_px": 250
+  },
+  "video_camera": "static;no zoom pan shake or top counters",
+  "parent_film_unchanged": true
+}

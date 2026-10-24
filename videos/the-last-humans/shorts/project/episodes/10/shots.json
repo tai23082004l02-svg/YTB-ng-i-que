@@ -1,0 +1,233 @@
+[
+  {
+    "sheet": "09",
+    "cell": 0,
+    "scene": "Modern person in ordinary clothing looks thoughtfully at family photograph",
+    "kind": "simple",
+    "episode": "10",
+    "start": 0.0,
+    "end": 2.1666666666666665,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 1,
+    "scene": "DNA strand with a few differently colored segments, qualitative not exact percentage graphic",
+    "kind": "explanation",
+    "episode": "10",
+    "start": 2.1666666666666665,
+    "end": 6.25,
+    "frames": 98,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 2,
+    "scene": "Neanderthal adult in fur wrap as separate ancestral vignette",
+    "kind": "simple",
+    "episode": "10",
+    "start": 6.25,
+    "end": 8.416666666666666,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 3,
+    "scene": "A diverse group of modern adults standing equally",
+    "kind": "simple",
+    "episode": "10",
+    "start": 8.416666666666666,
+    "end": 10.583333333333334,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "16",
+    "cell": 0,
+    "scene": "Modern diverse adults in everyday clothing at equal level",
+    "kind": "simple",
+    "episode": "10",
+    "start": 10.583333333333334,
+    "end": 12.75,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 4,
+    "scene": "Ancestry fragments pass through several distinct generation nodes, no evolution ladder",
+    "kind": "explanation",
+    "episode": "10",
+    "start": 12.75,
+    "end": 16.958333333333332,
+    "frames": 101,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "16",
+    "cell": 1,
+    "scene": "Qualitative ancestry fragments survive in later DNA, no fixed percent claim",
+    "kind": "explanation",
+    "episode": "10",
+    "start": 16.958333333333332,
+    "end": 21.333333333333332,
+    "frames": 105,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "09",
+    "cell": 5,
+    "scene": "Ancient migration and later connections between broad regions, schematic not exact route map",
+    "kind": "explanation",
+    "episode": "10",
+    "start": 21.333333333333332,
+    "end": 25.541666666666668,
+    "frames": 101,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "16",
+    "cell": 5,
+    "scene": "Later migrations complicate simple geographic division",
+    "kind": "explanation",
+    "episode": "10",
+    "start": 25.541666666666668,
+    "end": 29.625,
+    "frames": 98,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 6,
+    "scene": "A modern African family in everyday city setting, no ancestry ranking",
+    "kind": "simple",
+    "episode": "10",
+    "start": 29.625,
+    "end": 32.166666666666664,
+    "frames": 61,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "16",
+    "cell": 8,
+    "scene": "Many genes environment and population history are linked factors",
+    "kind": "explanation",
+    "episode": "10",
+    "start": 32.166666666666664,
+    "end": 36.25,
+    "frames": 98,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "16",
+    "cell": 6,
+    "scene": "Modern African family in everyday urban setting",
+    "kind": "simple",
+    "episode": "10",
+    "start": 36.25,
+    "end": 38.416666666666664,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 7,
+    "scene": "A modern family outside Africa in ordinary setting, equal respect",
+    "kind": "simple",
+    "episode": "10",
+    "start": 38.416666666666664,
+    "end": 40.416666666666664,
+    "frames": 48,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 9,
+    "scene": "A scientist compares genetic samples in modern lab",
+    "kind": "simple",
+    "episode": "10",
+    "start": 40.416666666666664,
+    "end": 42.416666666666664,
+    "frames": 48,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 10,
+    "scene": "All living people as one modern species group, no ethnic labels or hierarchy",
+    "kind": "explanation",
+    "episode": "10",
+    "start": 42.416666666666664,
+    "end": 46.416666666666664,
+    "frames": 96,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "16",
+    "cell": 13,
+    "scene": "All living populations are Homo sapiens, equal modern people icons",
+    "kind": "explanation",
+    "episode": "10",
+    "start": 46.416666666666664,
+    "end": 50.416666666666664,
+    "frames": 96,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 11,
+    "scene": "Ancestry percentage separated from intelligence or personal worth icons, no rankings",
+    "kind": "explanation",
+    "episode": "10",
+    "start": 50.416666666666664,
+    "end": 54.416666666666664,
+    "frames": 96,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "16",
+    "cell": 3,
+    "scene": "Ancestry and human worth are separate concepts, no scores or rankings",
+    "kind": "explanation",
+    "episode": "10",
+    "start": 54.416666666666664,
+    "end": 58.416666666666664,
+    "frames": 96,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 12,
+    "scene": "A shared modern meal among varied people",
+    "kind": "simple",
+    "episode": "10",
+    "start": 58.416666666666664,
+    "end": 60.416666666666664,
+    "frames": 48,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 14,
+    "scene": "Close hands hold old family photograph with no readable text",
+    "kind": "simple",
+    "episode": "10",
+    "start": 60.416666666666664,
+    "end": 62.416666666666664,
+    "frames": 48,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "09",
+    "cell": 15,
+    "scene": "A living family tree with several intertwined roots",
+    "kind": "simple",
+    "episode": "10",
+    "start": 62.416666666666664,
+    "end": 64.41666666666667,
+    "frames": 48,
+    "near_caption_boundary": false
+  }
+]

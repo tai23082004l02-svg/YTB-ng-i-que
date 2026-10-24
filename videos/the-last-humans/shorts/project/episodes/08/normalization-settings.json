@@ -1,0 +1,41 @@
+{
+  "source_measurement": {
+    "input_i": "-27.42",
+    "input_tp": "-3.85",
+    "input_lra": "2.70",
+    "input_thresh": "-37.79",
+    "output_i": "-17.87",
+    "output_tp": "-3.20",
+    "output_lra": "2.70",
+    "output_thresh": "-28.25",
+    "normalization_type": "dynamic",
+    "target_offset": "1.87"
+  },
+  "filter": "loudnorm=I=-16:TP=-3.2:LRA=9:measured_I=-27.42:measured_TP=-3.85:measured_LRA=2.70:measured_thresh=-37.79:offset=1.87:linear=false,aresample=192000,alimiter=limit=0.5623413252:level=false:latency=1,volume=0.800dB,aresample=48000",
+  "oversampling_hz": 192000,
+  "limiter_dbfs": -5,
+  "latency_compensated": true,
+  "post_limiter_gain_db": 0.8,
+  "aac_nominal_bitrate": "128k",
+  "final_encoded_measurement": {
+    "input_i": "-16.93",
+    "input_tp": "-3.39",
+    "input_lra": "2.60",
+    "input_thresh": "-27.29",
+    "output_i": "-16.06",
+    "output_tp": "-3.20",
+    "output_lra": "2.60",
+    "output_thresh": "-26.43",
+    "normalization_type": "dynamic",
+    "target_offset": "0.06"
+  },
+  "attempts": [
+    {
+      "integrated_lufs": -16.93,
+      "true_peak_dbtp": -3.39,
+      "limiter_dbfs": -5,
+      "post_limiter_gain_db": 0.8
+    }
+  ],
+  "note": "Own source measurements, no atempo; single-generation final AAC from original WAV. Not a preset for other narration."
+}

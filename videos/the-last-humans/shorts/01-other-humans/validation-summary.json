@@ -1,0 +1,25 @@
+{
+  "id": "01",
+  "title": "We Weren’t Always the Only Humans",
+  "status": "passed",
+  "duration_seconds": 58.958333,
+  "runtime_mmss": "0:59",
+  "narration_words": 130,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": 48000,
+  "audio_bitrate": "130536",
+  "integrated_loudness_lufs": -16.91,
+  "true_peak_dbtp": -3.81,
+  "loudness_range_lu": 2.1,
+  "shots": 20,
+  "subtitle_cues": 31,
+  "full_decode_exit_code": 0,
+  "mp4_bytes": 3302605,
+  "sha256": "b70a8aa641fa64792c02f024b30a2b806d2147b3b9abbe560bc282814cbcdca5"
+}

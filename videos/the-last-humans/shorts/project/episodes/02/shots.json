@@ -1,0 +1,222 @@
+[
+  {
+    "sheet": "01",
+    "cell": 0,
+    "scene": "A living tree with many branching limbs, no ladder or marching figures",
+    "kind": "simple",
+    "episode": "02",
+    "start": 0.0,
+    "end": 2.375,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "12",
+    "cell": 15,
+    "scene": "A scientist studies incomplete branching sketch without lettering",
+    "kind": "simple",
+    "episode": "02",
+    "start": 2.375,
+    "end": 4.75,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "01",
+    "cell": 1,
+    "scene": "Different ancient populations split into two distinct valleys",
+    "kind": "explanation",
+    "episode": "02",
+    "start": 4.75,
+    "end": 9.041666666666666,
+    "frames": 103,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "01",
+    "cell": 2,
+    "scene": "An archaeologist considers several fossil fragments",
+    "kind": "simple",
+    "episode": "02",
+    "start": 9.041666666666666,
+    "end": 11.416666666666666,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "12",
+    "cell": 10,
+    "scene": "Several possible explanations remain open, no verdict symbols",
+    "kind": "explanation",
+    "episode": "02",
+    "start": 11.416666666666666,
+    "end": 15.708333333333334,
+    "frames": 103,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "12",
+    "cell": 1,
+    "scene": "A fossil fragment under gentle research lamp",
+    "kind": "simple",
+    "episode": "02",
+    "start": 15.708333333333334,
+    "end": 17.958333333333332,
+    "frames": 54,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "01",
+    "cell": 3,
+    "scene": "One branch ends while others continue, no superior main trunk at top",
+    "kind": "explanation",
+    "episode": "02",
+    "start": 17.958333333333332,
+    "end": 22.25,
+    "frames": 103,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "01",
+    "cell": 4,
+    "scene": "Two ancient groups in separate environments, separate vignettes",
+    "kind": "simple",
+    "episode": "02",
+    "start": 22.25,
+    "end": 24.625,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "01",
+    "cell": 6,
+    "scene": "A modern chimpanzee in natural forest, no transformation",
+    "kind": "simple",
+    "episode": "02",
+    "start": 24.625,
+    "end": 26.958333333333332,
+    "frames": 56,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "01",
+    "cell": 7,
+    "scene": "A modern person walks through park, not ape becoming human",
+    "kind": "simple",
+    "episode": "02",
+    "start": 26.958333333333332,
+    "end": 29.458333333333332,
+    "frames": 60,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "12",
+    "cell": 4,
+    "scene": "Modern researcher compares bone and sediment evidence",
+    "kind": "simple",
+    "episode": "02",
+    "start": 29.458333333333332,
+    "end": 31.541666666666668,
+    "frames": 50,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "01",
+    "cell": 8,
+    "scene": "Human and chimp represented at equal endpoints of branching shared ancestor, no ladder",
+    "kind": "explanation",
+    "episode": "02",
+    "start": 31.541666666666668,
+    "end": 35.833333333333336,
+    "frames": 103,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "01",
+    "cell": 9,
+    "scene": "Close branching roots underground",
+    "kind": "simple",
+    "episode": "02",
+    "start": 35.833333333333336,
+    "end": 38.458333333333336,
+    "frames": 63,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "12",
+    "cell": 7,
+    "scene": "Scientific categories and partial evidence shown as separate trays",
+    "kind": "explanation",
+    "episode": "02",
+    "start": 38.458333333333336,
+    "end": 42.666666666666664,
+    "frames": 101,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "12",
+    "cell": 9,
+    "scene": "A sapiens adult gathers wild roots",
+    "kind": "simple",
+    "episode": "02",
+    "start": 42.666666666666664,
+    "end": 45.041666666666664,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "01",
+    "cell": 10,
+    "scene": "An ancient adult studies unfamiliar route",
+    "kind": "simple",
+    "episode": "02",
+    "start": 45.041666666666664,
+    "end": 47.625,
+    "frames": 62,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "01",
+    "cell": 12,
+    "scene": "A family teaches child a practical skill",
+    "kind": "simple",
+    "episode": "02",
+    "start": 47.625,
+    "end": 49.625,
+    "frames": 48,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "12",
+    "cell": 11,
+    "scene": "An empty cave entrance at dusk",
+    "kind": "simple",
+    "episode": "02",
+    "start": 49.625,
+    "end": 51.916666666666664,
+    "frames": 55,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "01",
+    "cell": 14,
+    "scene": "Different fossil shapes viewed neutrally without ranking",
+    "kind": "simple",
+    "episode": "02",
+    "start": 51.916666666666664,
+    "end": 54.291666666666664,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "01",
+    "cell": 15,
+    "scene": "Final broad branching canopy with no figure at summit",
+    "kind": "simple",
+    "episode": "02",
+    "start": 54.291666666666664,
+    "end": 57.041666666666664,
+    "frames": 66,
+    "near_caption_boundary": false
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "sheet": "00",
+    "cell": 0,
+    "scene": "Close thoughtful sapiens adult at dusk, rust scarf, olive wrap",
+    "kind": "simple",
+    "episode": "01",
+    "start": 0.0,
+    "end": 2.625,
+    "frames": 63,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "00",
+    "cell": 1,
+    "scene": "A Neanderthal adult in fur wrap by cold woodland shelter",
+    "kind": "simple",
+    "episode": "01",
+    "start": 2.625,
+    "end": 5.0,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "00",
+    "cell": 2,
+    "scene": "An artistic Denisovan adult in blue wrap by Asian mountain cave",
+    "kind": "simple",
+    "episode": "01",
+    "start": 5.0,
+    "end": 7.333333333333333,
+    "frames": 56,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "00",
+    "cell": 3,
+    "scene": "A small mature Flores adult in olive wrap by tropical cave, clearly adult facial features",
+    "kind": "simple",
+    "episode": "01",
+    "start": 7.333333333333333,
+    "end": 9.708333333333334,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "00",
+    "cell": 5,
+    "scene": "A sapiens foraging family with three distinct ages",
+    "kind": "simple",
+    "episode": "01",
+    "start": 9.708333333333334,
+    "end": 12.416666666666666,
+    "frames": 65,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "00",
+    "cell": 6,
+    "scene": "Separate distant habitats, no all-species campfire reunion",
+    "kind": "explanation",
+    "episode": "01",
+    "start": 12.416666666666666,
+    "end": 16.708333333333332,
+    "frames": 103,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "00",
+    "cell": 7,
+    "scene": "Close two differently shaped stone tools on ground",
+    "kind": "simple",
+    "episode": "01",
+    "start": 16.708333333333332,
+    "end": 19.25,
+    "frames": 61,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "12",
+    "cell": 3,
+    "scene": "Close stone tool beside human handprint",
+    "kind": "simple",
+    "episode": "01",
+    "start": 19.25,
+    "end": 21.625,
+    "frames": 57,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "00",
+    "cell": 8,
+    "scene": "Two distant campfires separated by mountain and water",
+    "kind": "simple",
+    "episode": "01",
+    "start": 21.625,
+    "end": 24.041666666666668,
+    "frames": 58,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "12",
+    "cell": 6,
+    "scene": "Two distant campfires separated by mountains",
+    "kind": "simple",
+    "episode": "01",
+    "start": 24.041666666666668,
+    "end": 26.416666666666668,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "00",
+    "cell": 9,
+    "scene": "Approximate overlapping time ribbons without written dates or aligned endpoints",
+    "kind": "explanation",
+    "episode": "01",
+    "start": 26.416666666666668,
+    "end": 30.708333333333332,
+    "frames": 103,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "12",
+    "cell": 5,
+    "scene": "Same time does not mean same place, separate camp vignettes",
+    "kind": "explanation",
+    "episode": "01",
+    "start": 30.708333333333332,
+    "end": 35.0,
+    "frames": 103,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "00",
+    "cell": 10,
+    "scene": "A fossil fragment beside small DNA icon",
+    "kind": "simple",
+    "episode": "01",
+    "start": 35.0,
+    "end": 37.375,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "00",
+    "cell": 12,
+    "scene": "A diverse modern pair in ordinary clothing, equal respect",
+    "kind": "simple",
+    "episode": "01",
+    "start": 37.375,
+    "end": 39.75,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "00",
+    "cell": 13,
+    "scene": "A modern family shares meal in home",
+    "kind": "simple",
+    "episode": "01",
+    "start": 39.75,
+    "end": 42.125,
+    "frames": 57,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "00",
+    "cell": 14,
+    "scene": "Living modern people represented as one equal species group without rankings",
+    "kind": "explanation",
+    "episode": "01",
+    "start": 42.125,
+    "end": 46.75,
+    "frames": 111,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "12",
+    "cell": 0,
+    "scene": "Different human branches share ancestry without ranking",
+    "kind": "explanation",
+    "episode": "01",
+    "start": 46.75,
+    "end": 50.958333333333336,
+    "frames": 101,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "12",
+    "cell": 14,
+    "scene": "Long history is not a human ranking",
+    "kind": "explanation",
+    "episode": "01",
+    "start": 50.958333333333336,
+    "end": 54.958333333333336,
+    "frames": 96,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "00",
+    "cell": 15,
+    "scene": "Quiet close prehistoric handprint beside living tree",
+    "kind": "simple",
+    "episode": "01",
+    "start": 54.958333333333336,
+    "end": 56.958333333333336,
+    "frames": 48,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "12",
+    "cell": 8,
+    "scene": "Living tree roots with intertwined paths",
+    "kind": "simple",
+    "episode": "01",
+    "start": 56.958333333333336,
+    "end": 58.958333333333336,
+    "frames": 48,
+    "near_caption_boundary": false
+  }
+]

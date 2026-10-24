@@ -1,0 +1,233 @@
+[
+  {
+    "sheet": "02",
+    "cell": 0,
+    "scene": "Respectful close Neanderthal face with brow and calm alert eyes",
+    "kind": "simple",
+    "episode": "03",
+    "start": 0.0,
+    "end": 2.3333333333333335,
+    "frames": 56,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "02",
+    "cell": 1,
+    "scene": "Neanderthal adult selects flint at riverbank",
+    "kind": "simple",
+    "episode": "03",
+    "start": 2.3333333333333335,
+    "end": 4.791666666666667,
+    "frames": 59,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "02",
+    "cell": 2,
+    "scene": "Close hands inspect suitable stone",
+    "kind": "simple",
+    "episode": "03",
+    "start": 4.791666666666667,
+    "end": 7.25,
+    "frames": 59,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "13",
+    "cell": 9,
+    "scene": "Two communities exchange useful stone",
+    "kind": "simple",
+    "episode": "03",
+    "start": 7.25,
+    "end": 9.708333333333334,
+    "frames": 59,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "13",
+    "cell": 14,
+    "scene": "Close useful binding on stone point",
+    "kind": "simple",
+    "episode": "03",
+    "start": 9.708333333333334,
+    "end": 12.291666666666666,
+    "frames": 62,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "02",
+    "cell": 3,
+    "scene": "Neanderthal knaps core with careful single frozen action",
+    "kind": "simple",
+    "episode": "03",
+    "start": 12.291666666666666,
+    "end": 15.125,
+    "frames": 68,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "02",
+    "cell": 4,
+    "scene": "Close useful shaped flint edge",
+    "kind": "simple",
+    "episode": "03",
+    "start": 15.125,
+    "end": 17.208333333333332,
+    "frames": 50,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "02",
+    "cell": 5,
+    "scene": "Neanderthal adult binds stone point to wooden shaft",
+    "kind": "simple",
+    "episode": "03",
+    "start": 17.208333333333332,
+    "end": 19.666666666666668,
+    "frames": 59,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "02",
+    "cell": 6,
+    "scene": "A Neanderthal woman tends small safe fire",
+    "kind": "simple",
+    "episode": "03",
+    "start": 19.666666666666668,
+    "end": 22.5,
+    "frames": 68,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "13",
+    "cell": 1,
+    "scene": "Neanderthal adult tends safe fire at shelter",
+    "kind": "simple",
+    "episode": "03",
+    "start": 22.5,
+    "end": 24.875,
+    "frames": 57,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "02",
+    "cell": 7,
+    "scene": "Neanderthal group tracks distant deer without violence",
+    "kind": "simple",
+    "episode": "03",
+    "start": 24.875,
+    "end": 27.333333333333332,
+    "frames": 59,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "02",
+    "cell": 8,
+    "scene": "Neanderthal woman gathers varied plants, no edible identification instruction",
+    "kind": "simple",
+    "episode": "03",
+    "start": 27.333333333333332,
+    "end": 30.166666666666668,
+    "frames": 68,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "02",
+    "cell": 9,
+    "scene": "Neanderthal adult collects shellfish on rocky shore",
+    "kind": "simple",
+    "episode": "03",
+    "start": 30.166666666666668,
+    "end": 32.791666666666664,
+    "frames": 63,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "02",
+    "cell": 10,
+    "scene": "Tools fire and varied food linked to learned skills, not intelligence ranking",
+    "kind": "explanation",
+    "episode": "03",
+    "start": 32.791666666666664,
+    "end": 37.208333333333336,
+    "frames": 106,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "13",
+    "cell": 4,
+    "scene": "Tools fire food and social ties as distinct needs",
+    "kind": "explanation",
+    "episode": "03",
+    "start": 37.208333333333336,
+    "end": 41.375,
+    "frames": 100,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "13",
+    "cell": 2,
+    "scene": "Learned skill passes between distinct people, no scores",
+    "kind": "explanation",
+    "episode": "03",
+    "start": 41.375,
+    "end": 45.708333333333336,
+    "frames": 104,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "02",
+    "cell": 11,
+    "scene": "Different brain/skull shapes without score or size superiority",
+    "kind": "explanation",
+    "episode": "03",
+    "start": 45.708333333333336,
+    "end": 50.375,
+    "frames": 112,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "02",
+    "cell": 12,
+    "scene": "An experienced Neanderthal elder surveys winter landscape",
+    "kind": "simple",
+    "episode": "03",
+    "start": 50.375,
+    "end": 52.791666666666664,
+    "frames": 58,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "02",
+    "cell": 13,
+    "scene": "Two adults teach young adult stoneworking, fully clothed",
+    "kind": "simple",
+    "episode": "03",
+    "start": 52.791666666666664,
+    "end": 54.791666666666664,
+    "frames": 48,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "02",
+    "cell": 14,
+    "scene": "Population environment and contact as distinct possible factors",
+    "kind": "explanation",
+    "episode": "03",
+    "start": 54.791666666666664,
+    "end": 58.791666666666664,
+    "frames": 96,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "02",
+    "cell": 15,
+    "scene": "Neanderthal family shares food at shelter",
+    "kind": "simple",
+    "episode": "03",
+    "start": 58.791666666666664,
+    "end": 60.791666666666664,
+    "frames": 48,
+    "near_caption_boundary": false
+  }
+]

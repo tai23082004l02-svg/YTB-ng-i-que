@@ -1,0 +1,222 @@
+[
+  {
+    "sheet": "06",
+    "cell": 0,
+    "scene": "Mature lean Homo erectus adult with ochre wrap in warm open landscape",
+    "kind": "simple",
+    "episode": "07",
+    "start": 0.0,
+    "end": 2.0,
+    "frames": 48,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "15",
+    "cell": 8,
+    "scene": "A lean mature erectus adult in ochre wrap makes handaxe",
+    "kind": "simple",
+    "episode": "07",
+    "start": 2.0,
+    "end": 4.166666666666667,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 1,
+    "scene": "A group of erectus adults and child walk across savanna, fully clothed",
+    "kind": "simple",
+    "episode": "07",
+    "start": 4.166666666666667,
+    "end": 6.333333333333333,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 2,
+    "scene": "Very long qualitative time ribbon across many landscapes, no exact numerical ticks",
+    "kind": "explanation",
+    "episode": "07",
+    "start": 6.333333333333333,
+    "end": 10.416666666666666,
+    "frames": 98,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 3,
+    "scene": "Close carefully shaped handaxe",
+    "kind": "simple",
+    "episode": "07",
+    "start": 10.416666666666666,
+    "end": 12.458333333333334,
+    "frames": 49,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "06",
+    "cell": 4,
+    "scene": "Homo erectus adult makes useful stone tool",
+    "kind": "simple",
+    "episode": "07",
+    "start": 12.458333333333334,
+    "end": 14.625,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 5,
+    "scene": "Fossils grouped in alternative classification trays, no fake species list",
+    "kind": "explanation",
+    "episode": "07",
+    "start": 14.625,
+    "end": 18.708333333333332,
+    "frames": 98,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "15",
+    "cell": 12,
+    "scene": "Classification can alter fossil grouping, separate neutral trays",
+    "kind": "explanation",
+    "episode": "07",
+    "start": 18.708333333333332,
+    "end": 22.791666666666668,
+    "frames": 98,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 6,
+    "scene": "A sequence of distinct landscapes shown as separate stacked vignettes, not marching human upgrades",
+    "kind": "simple",
+    "episode": "07",
+    "start": 22.791666666666668,
+    "end": 25.083333333333332,
+    "frames": 55,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "06",
+    "cell": 7,
+    "scene": "Erectus family finds water near riverbank",
+    "kind": "simple",
+    "episode": "07",
+    "start": 25.083333333333332,
+    "end": 27.5,
+    "frames": 58,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "15",
+    "cell": 9,
+    "scene": "An erectus family by warm riverbank",
+    "kind": "simple",
+    "episode": "07",
+    "start": 27.5,
+    "end": 29.666666666666668,
+    "frames": 52,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "06",
+    "cell": 8,
+    "scene": "A parent shelters clothed child beside temporary camp",
+    "kind": "simple",
+    "episode": "07",
+    "start": 29.666666666666668,
+    "end": 31.833333333333332,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 9,
+    "scene": "Many generations represented as equal separate family nodes, not ladder",
+    "kind": "explanation",
+    "episode": "07",
+    "start": 31.833333333333332,
+    "end": 35.916666666666664,
+    "frames": 98,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "15",
+    "cell": 10,
+    "scene": "Many generation nodes spread across long interval, no ladder",
+    "kind": "explanation",
+    "episode": "07",
+    "start": 35.916666666666664,
+    "end": 40.0,
+    "frames": 98,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 10,
+    "scene": "An elder teaches young adult tool skill",
+    "kind": "simple",
+    "episode": "07",
+    "start": 40.0,
+    "end": 42.458333333333336,
+    "frames": 59,
+    "near_caption_boundary": true
+  },
+  {
+    "sheet": "06",
+    "cell": 11,
+    "scene": "An archaeologist studies old sediment layers",
+    "kind": "simple",
+    "episode": "07",
+    "start": 42.458333333333336,
+    "end": 44.625,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 12,
+    "scene": "Present absence separated from past persistence, no failed-model ranking",
+    "kind": "explanation",
+    "episode": "07",
+    "start": 44.625,
+    "end": 48.708333333333336,
+    "frames": 98,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 13,
+    "scene": "Empty old camp with tools near ashes",
+    "kind": "simple",
+    "episode": "07",
+    "start": 48.708333333333336,
+    "end": 50.875,
+    "frames": 52,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 14,
+    "scene": "Several human branches with long unequal spans and no podium",
+    "kind": "explanation",
+    "episode": "07",
+    "start": 50.875,
+    "end": 54.916666666666664,
+    "frames": 97,
+    "near_caption_boundary": false
+  },
+  {
+    "sheet": "06",
+    "cell": 15,
+    "scene": "Living branching tree viewed from ordinary ground level",
+    "kind": "simple",
+    "episode": "07",
+    "start": 54.916666666666664,
+    "end": 56.916666666666664,
+    "frames": 48,
+    "near_caption_boundary": false
+  }
+]

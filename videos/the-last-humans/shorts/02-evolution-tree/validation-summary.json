@@ -1,0 +1,25 @@
+{
+  "id": "02",
+  "title": "Human Evolution Was Never a Straight Line",
+  "status": "passed",
+  "duration_seconds": 57.041667,
+  "runtime_mmss": "0:57",
+  "narration_words": 131,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": 48000,
+  "audio_bitrate": "130516",
+  "integrated_loudness_lufs": -16.48,
+  "true_peak_dbtp": -2.08,
+  "loudness_range_lu": 2.9,
+  "shots": 20,
+  "subtitle_cues": 31,
+  "full_decode_exit_code": 0,
+  "mp4_bytes": 3406747,
+  "sha256": "4b768a37a9e45384ac453c576d390d9b6c493a0d3dc8d27795a37187af5a012b"
+}

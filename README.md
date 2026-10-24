@@ -2,7 +2,8 @@
 
 Sản xuất video kiến thức bằng tiếng Anh Mỹ, minh họa hoạt hình 2D và lời đọc Kokoro.
 
-- **[Video mới: Without Us — 46 phút 26 giây, 695 cảnh](videos/without-us/README.md)**
+- **[12 Shorts The Last Humans — dọc9:16,252cảnh, có bộ tải chung](videos/the-last-humans/shorts/README.md)**
+- **[Video dài mới nhất: Without Us — 46 phút 26 giây, 695 cảnh](videos/without-us/README.md)**
 - [The Last Blue Day — 44 phút 24 giây](videos/the-last-blue-day/README.md)
 - [Born Between Stars — 39 phút 38 giây](videos/born-between-stars/README.md)
 - [If the Universe Is So Old, Where Is Everybody? — 35 phút 23 giây](videos/where-is-everybody/README.md)
