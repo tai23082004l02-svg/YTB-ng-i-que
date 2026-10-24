@@ -39,6 +39,7 @@
 | [Where Is Everybody? / Fermi Paradox](videos/where-is-everybody/README.md) | **35:23**, 28 phần, **377 hình dùng**, 683 đoạn phụ đề | Chuyển sang chủ đề vũ trụ; phạm vi SETI, mô hình lan rộng, Bộ lọc lớn và giới hạn suy luận. |
 | [Born Between Stars](videos/born-between-stars/README.md) | **39:38**, 32 phần, **594 hình dùng**, 767 đoạn phụ đề | Bản đầu áp dụng nhịp mới: trung bình khoảng 4 giây; cảnh đơn giản 3–4 giây, giải thích 5–6 giây. Chuyện tàu nhiều thế hệ là hư cấu. |
 | [The Last Blue Day](videos/the-last-blue-day/README.md) | **44:24**, 32 phần, **654 hình dùng**, 838 đoạn phụ đề | Mặt Trời sáng dần, tương lai sinh quyển, oxy và đại dương; phân biệt các mô hình và các mốc khác nhau. |
+| [Without Us](videos/without-us/README.md) | **46:26**, 32 phần, **695 hình dùng**,878 đoạn phụ đề | Giả định tất cả con người biến mất; phân biệt suy giảm hạ tầng, cơ hội phục hồi và di sản kéo dài. |
 
 Tên tiếng Anh video dài: **Earth Once Had Many Human Species. Why Are We the Only Ones Left?**
 
@@ -51,7 +52,11 @@ https://raw.githubusercontent.com/tai23082004l02-svg/YTB-ng-i-que/afd41171e9b38c
 
 ## 4. Tệp nào chứa gì?
 
-**Bản mới nhất:** [videos/the-last-blue-day/](videos/the-last-blue-day/README.md), **The Last Blue Day / Earth Will Become Uninhabitable Before the Sun Dies**, **44:24**, 32 phần, 45 tấm 4×4 (720 ô, 654 dùng), 838 cue. Kokoro am_michael speed1.07, không tempo thêm. Trung bình 4,073 giây/cảnh; 374 cảnh đơn giản 3–4 giây, 280 cảnh giải thích 5–6 giây.
+**Bản mới nhất:** [videos/without-us/](videos/without-us/README.md), **Without Us / If Humans Disappeared Tomorrow, What Would Survive?**, **46:26**, 32 phần, 46 tấm 4×4 (736 ô,695 dùng),878 cue. Kokoro am_michael speed 1.07,không tempo thêm. Trung bình4,008 giây/cảnh;446 cảnh đơn giản 3–4 giây,249 cảnh giải thích 5–6 giây.
+
+Đọc SOURCES.md, project/story-bible.json, claim-checks.json và curation-notes.json. Toàn bộ người biến mất; không để người sống/ảnh phản chiếu/phi hành gia xuất hiện trong cảnh. Scout/Juniper chỉ ngày đầu và đoạn cuối quay lại ngày đầu; không cho thú nuôi sống nhiều thế kỷ. Không mốc sập toàn cầu chính xác, không mọi lò phản ứng cùng nổ, không suy diễn động vật Chernobyl đồng nghĩa phóng xạ vô hại.5 ô loại:07/12,34/12,29/5,41/11,31/10; xem curation để giữ thay thế. Hình Mặt Trăng không có vệt sao băng như khí quyển Trái Đất; không có voi ma mút trở lại tương lai.
+
+**Bản trước:** [videos/the-last-blue-day/](videos/the-last-blue-day/README.md), **The Last Blue Day / Earth Will Become Uninhabitable Before the Sun Dies**, **44:24**, 32 phần, 45 tấm 4×4 (720 ô, 654 dùng), 838 cue. Kokoro am_michael speed1.07, không tempo thêm. Trung bình 4,073 giây/cảnh; 374 cảnh đơn giản 3–4 giây, 280 cảnh giải thích 5–6 giây.
 
 Đọc SOURCES.md, project/claim-checks.json và project/curation-notes.json trước khi sửa. Mốc oxy ~1,08±0,14 tỷ năm dùng ngưỡng >1% mức oxy hiện tại, không phải 1% thể tích hoặc ngưỡng hít thở; nghiên cứu thực vật ~1,6–1,86 tỷ năm là mô hình khác. Không ghép thành một lịch chính xác. ~5 tỷ năm là mốc rộng giai đoạn sao khổng lồ, ~7,6 tỷ năm là kết quả nuốt Trái Đất trong một mô hình cụ thể. Mara là người dẫn chuyện hiện đại, không sống qua hàng tỷ năm. Cảnh tương lai/công nghệ cứu hành tinh là giả định.
 

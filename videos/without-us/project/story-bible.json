@@ -1,0 +1,17 @@
+{
+  "channel":"The Long Wonder",
+  "film":"Without Us",
+  "title":"If Humans Disappeared Tomorrow, What Would Survive?",
+  "format":"Original conditional illustrated documentary, not real event footage or one worldwide forecast",
+  "humans":"All absent after initial moment. No living people, faces, silhouettes, reflected people, bodies, astronauts or repair crews in generated scene plans.",
+  "Riverton":"Fictional composite American town; red-brick corner cafe with faded ochre awning without lettering. Intact early, gradually changed later according to hypothetical local conditions.",
+  "Scout":{"appearance":"medium tan dog, white chest, triangular floppy ears, blue collar","era":"first days/opening day only, including explicit ending rewind","gate":"already open in chosen yard example, not magically opened later","fate":"unknown; not guaranteed to survive or establish feral lineage"},
+  "Juniper":{"appearance":"black-and-white cat, green eyes","era":"early days only; later uncollared free-ranging cats are distinct animals"},
+  "later_animals":"No blue-collared centuries-old Scout; feral populations where present are different individuals/generations. No mammoths or extinct-species resurrection.",
+  "ending":"Explicit return to opening day and conditional real-world reflection; not pet surviving entire chronology.",
+  "time":"Qualitative minutes/days/seasons/years/centuries/deep-time mechanisms; different regional paths, no exact universal global-failure timer.",
+  "nuclear":"Ordinary cooling steam not magical green radiation; diagrams schematic, no operational certification or weapon explosion.",
+  "Moon":"Airless surface; no atmospheric meteor trails. Only existing craters or local non-glowing ballistic impact ejecta in curated scenes.",
+  "art":"Static hand-drawn 2D stills, straight cuts, no pan zoom shake, no top header/counter; captions below without permanent black band. Source sheets 4×4, not native high-resolution individual art.",
+  "thumbnail":"WITHOUT US, deer on overgrown Riverton-like street much later than opening day."
+}

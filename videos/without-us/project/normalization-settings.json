@@ -1,0 +1,29 @@
+{
+  "source_measurement": {
+    "input_i": "-27.36",
+    "input_tp": "-2.36",
+    "input_lra": "3.40",
+    "input_thresh": "-37.74",
+    "output_i": "-17.70",
+    "output_tp": "-3.00",
+    "output_lra": "2.40",
+    "output_thresh": "-28.08",
+    "normalization_type": "dynamic",
+    "target_offset": "1.70"
+  },
+  "filter": "loudnorm=I=-16:TP=-3.0:LRA=9:measured_I=-27.36:measured_TP=-2.36:measured_LRA=3.40:measured_thresh=-37.74:offset=1.70:linear=false,aresample=192000,alimiter=limit=0.562341325:level=false:latency=1,volume=0.8dB,aresample=48000",
+  "post_normalization_limiter": {
+    "oversampling_hz": 192000,
+    "limit_dbfs": -5,
+    "automatic_makeup_gain": false,
+    "latency_compensation": true,
+    "post_limiter_gain_db": 0.8,
+    "reason": "Final 64k AAC reconstruction exceeded the project true-peak ceiling; control transients from original WAV before final encode, then remeasure."
+  },
+  "final_gain_basis": {
+    "previous_final_integrated_lufs": -17.33,
+    "previous_final_true_peak_dbtp": -2.44,
+    "additional_gain_db": 0.5,
+    "reason": "Measured codec output has sufficient peak headroom; bring integrated voice level inside target range, then remeasure."
+  }
+}

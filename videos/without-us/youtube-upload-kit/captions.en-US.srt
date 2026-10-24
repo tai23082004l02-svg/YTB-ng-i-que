@@ -1,0 +1,3511 @@
+1
+00:00:00,350 --> 00:00:02,825
+Tomorrow morning, your alarm will ring.
+
+2
+00:00:02,825 --> 00:00:04,525
+Your phone will light up.
+
+3
+00:00:04,525 --> 00:00:07,175
+Somewhere, a dog will wait beside a door.
+
+4
+00:00:07,175 --> 00:00:08,812
+But nobody will come.
+
+5
+00:00:08,812 --> 00:00:11,625
+The dog does not know about civilization.
+
+6
+00:00:11,625 --> 00:00:14,850
+He knows the footsteps that usually follow the alarm,
+
+7
+00:00:14,850 --> 00:00:18,000
+the hand that fills his bowl, and the sound of a key turning
+
+8
+00:00:18,000 --> 00:00:19,050
+in a lock.
+
+9
+00:00:19,500 --> 00:00:23,350
+Outside, a traffic signal changes for an empty intersection.
+
+10
+00:00:23,350 --> 00:00:25,475
+A refrigerator keeps humming.
+
+11
+00:00:25,475 --> 00:00:27,588
+Water waits inside pipes.
+
+12
+00:00:27,588 --> 00:00:30,838
+From a distance, the city still looks inhabited.
+
+13
+00:00:30,838 --> 00:00:34,050
+The difference is that every task requiring a person has
+
+14
+00:00:34,050 --> 00:00:36,550
+just lost the person who performs it.
+
+15
+00:00:37,025 --> 00:00:40,775
+Imagine that all human beings disappear at the same moment.
+
+16
+00:00:40,775 --> 00:00:43,350
+What happens to the world we leave running?
+
+17
+00:00:43,350 --> 00:00:45,125
+Which systems stop first?
+
+18
+00:00:45,125 --> 00:00:46,700
+Which animals suffer?
+
+19
+00:00:46,700 --> 00:00:48,600
+Which landscapes recover?
+
+20
+00:00:48,600 --> 00:00:51,537
+And which traces of us could remain after our tallest
+
+21
+00:00:51,537 --> 00:00:54,275
+buildings have become difficult to recognize?
+
+22
+00:00:54,725 --> 00:00:56,575
+This is a thought experiment.
+
+23
+00:00:56,575 --> 00:01:00,738
+We will not invent a disease, a war, or a magical ecological
+
+24
+00:01:00,738 --> 00:01:04,838
+cure. We are removing humanity from the scene and following
+
+25
+00:01:04,838 --> 00:01:07,938
+the consequences of an ordinary world that has suddenly
+
+26
+00:01:07,938 --> 00:01:11,988
+lost its most demanding inhabitants, and its largest maintenance
+
+27
+00:01:11,988 --> 00:01:12,850
+crew.
+
+28
+00:01:13,875 --> 00:01:16,762
+For this experiment, everything except people begins where
+
+29
+00:01:16,762 --> 00:01:19,188
+it was. Animals remain.
+
+30
+00:01:19,188 --> 00:01:23,300
+Plants remain. The atmosphere, the weather, the fuel inside
+
+31
+00:01:23,300 --> 00:01:27,250
+machines, and the conditions inside every building remain.
+
+32
+00:01:27,250 --> 00:01:30,962
+There are no bodies left behind, and no surviving rescue
+
+33
+00:01:30,962 --> 00:01:32,775
+team arrives later.
+
+34
+00:01:33,250 --> 00:01:35,262
+That last detail matters.
+
+35
+00:01:35,262 --> 00:01:38,350
+A normal disaster is followed by decisions.
+
+36
+00:01:38,350 --> 00:01:42,225
+Someone closes a valve, brings water to an animal, repairs
+
+37
+00:01:42,225 --> 00:01:44,875
+a line, or redirects a river.
+
+38
+00:01:44,875 --> 00:01:48,300
+Here, even when a machine handles the initial disturbance
+
+39
+00:01:48,300 --> 00:01:51,350
+successfully, no one comes to prepare it for the next
+
+40
+00:01:51,350 --> 00:01:52,100
+one.
+
+41
+00:01:52,550 --> 00:01:55,637
+There is also no single worldwide schedule.
+
+42
+00:01:55,637 --> 00:02:00,525
+A dry stone town, a humid coastal city, an isolated solar
+
+43
+00:02:00,525 --> 00:02:04,000
+installation, and a neighborhood supplied from a gravity-fed
+
+44
+00:02:04,000 --> 00:02:07,038
+reservoir begin with different advantages.
+
+45
+00:02:07,038 --> 00:02:10,400
+The season of our disappearance changes what follows.
+
+46
+00:02:10,825 --> 00:02:14,038
+Our fictional town, Riverton, and the dog we will call
+
+47
+00:02:14,038 --> 00:02:16,888
+Scout help make some possibilities visible.
+
+48
+00:02:16,888 --> 00:02:20,362
+They are illustrative examples, not forecasts for a real
+
+49
+00:02:20,362 --> 00:02:22,512
+pet or a particular address.
+
+50
+00:02:22,512 --> 00:02:25,625
+As we move forward, the intervals will widen from minutes
+
+51
+00:02:25,625 --> 00:02:28,888
+to seasons, then decades and centuries.
+
+52
+00:02:28,888 --> 00:02:32,325
+Those are windows for understanding processes, rather
+
+53
+00:02:32,325 --> 00:02:35,475
+than appointments in a universal calendar of collapse.
+
+54
+00:02:36,675 --> 00:02:39,975
+During the first minutes, the most immediate changes involve
+
+55
+00:02:39,975 --> 00:02:41,837
+objects already moving.
+
+56
+00:02:41,837 --> 00:02:44,812
+A vehicle does not stop carrying momentum because its
+
+57
+00:02:44,812 --> 00:02:49,325
+driver is gone. Some cars would leave the road or collide.
+
+58
+00:02:49,325 --> 00:02:52,775
+Others would stop through braking systems, obstacles,
+
+59
+00:02:52,775 --> 00:02:55,375
+or the conditions they happened to be in.
+
+60
+00:02:55,800 --> 00:02:58,925
+Trains have different control and protection systems.
+
+61
+00:02:58,925 --> 00:03:01,700
+Some would be brought to a stop automatically.
+
+62
+00:03:01,700 --> 00:03:04,938
+Ships could continue moving under existing settings.
+
+63
+00:03:04,938 --> 00:03:08,750
+Aircraft on autopilot might continue for a time, but fuel,
+
+64
+00:03:08,750 --> 00:03:11,900
+terrain, weather, and the need for a safe landing would
+
+65
+00:03:11,900 --> 00:03:16,475
+still exist. No single outcome applies to every machine.
+
+66
+00:03:17,100 --> 00:03:20,750
+These would be scattered physical events, not one coordinated
+
+67
+00:03:20,750 --> 00:03:23,212
+explosion sweeping around the Earth.
+
+68
+00:03:23,212 --> 00:03:26,500
+Many parked vehicles and stationary machines would simply
+
+69
+00:03:26,500 --> 00:03:28,262
+remain where they were.
+
+70
+00:03:28,262 --> 00:03:31,762
+A quiet suburban driveway could look almost unchanged
+
+71
+00:03:31,762 --> 00:03:35,512
+while a nearby transportation corridor experiences serious
+
+72
+00:03:35,512 --> 00:03:36,500
+damage.
+
+73
+00:03:36,925 --> 00:03:39,725
+The important distinction is between a system carrying
+
+74
+00:03:39,725 --> 00:03:43,012
+out a limited automatic function and a system able to
+
+75
+00:03:43,012 --> 00:03:45,262
+manage its entire future.
+
+76
+00:03:45,262 --> 00:03:49,012
+Keeping a heading, stopping a train, or opening a door
+
+77
+00:03:49,012 --> 00:03:52,712
+is one task. Dealing with every consequence after that
+
+78
+00:03:52,712 --> 00:03:56,825
+task is finished requires a much larger kind of support.
+
+79
+00:03:58,000 --> 00:04:01,225
+For a while, our empty world would keep sending reminders
+
+80
+00:04:01,225 --> 00:04:03,512
+to people who no longer exist.
+
+81
+00:04:03,512 --> 00:04:05,087
+Timers would run.
+
+82
+00:04:05,087 --> 00:04:07,638
+Computers would execute instructions.
+
+83
+00:04:07,638 --> 00:04:11,212
+An irrigation controller might water an empty lawn.
+
+84
+00:04:11,212 --> 00:04:15,050
+A server might continue handling requests from other machines.
+
+85
+00:04:15,700 --> 00:04:18,925
+Much of modern life is already automatic at the level
+
+86
+00:04:18,925 --> 00:04:20,738
+of individual actions.
+
+87
+00:04:20,738 --> 00:04:24,212
+That can make the first silence strangely deceptive.
+
+88
+00:04:24,212 --> 00:04:27,400
+The absence of visible workers does not mean the system
+
+89
+00:04:27,400 --> 00:04:29,600
+was ever independent of them.
+
+90
+00:04:30,075 --> 00:04:33,762
+Automation needs electricity, working sensors, suitable
+
+91
+00:04:33,762 --> 00:04:36,775
+inputs, and machinery that remains within its operating
+
+92
+00:04:36,775 --> 00:04:40,600
+limits. A program can respond to conditions it was designed
+
+93
+00:04:40,600 --> 00:04:44,850
+to handle. A failed bearing, a flooded room, a missing
+
+94
+00:04:44,850 --> 00:04:48,662
+supply, or an unfamiliar combination of faults can move
+
+95
+00:04:48,662 --> 00:04:51,250
+the problem outside those conditions.
+
+96
+00:04:51,700 --> 00:04:55,025
+Even an advanced control system cannot make a replacement
+
+97
+00:04:55,025 --> 00:04:58,475
+part appear simply because it recognizes that the part
+
+98
+00:04:58,475 --> 00:05:02,675
+is needed. Our experiment does not assume a hidden civilization
+
+99
+00:05:02,675 --> 00:05:06,125
+of self-maintaining robots waiting to take over.
+
+100
+00:05:06,550 --> 00:05:09,875
+The world would contain islands of continued function.
+
+101
+00:05:09,875 --> 00:05:12,825
+Their duration would depend on their design and starting
+
+102
+00:05:12,825 --> 00:05:16,350
+condition. Each one would be spending the reliability,
+
+103
+00:05:16,350 --> 00:05:19,875
+stored energy, and preparation accumulated before we
+
+104
+00:05:19,875 --> 00:05:23,687
+disappeared. Some would use that inheritance quickly.
+
+105
+00:05:23,687 --> 00:05:25,625
+Others would last longer.
+
+106
+00:05:26,700 --> 00:05:29,762
+Electricity is an ongoing balancing act.
+
+107
+00:05:29,762 --> 00:05:33,325
+In a working grid, supply must match demand closely enough
+
+108
+00:05:33,325 --> 00:05:35,738
+to maintain stable operation.
+
+109
+00:05:35,738 --> 00:05:38,775
+Human disappearance would change both, but it would not
+
+110
+00:05:38,775 --> 00:05:40,838
+reduce demand to zero.
+
+111
+00:05:40,838 --> 00:05:44,725
+Refrigerators, lights, pumps, and many industrial loads
+
+112
+00:05:44,725 --> 00:05:46,375
+would still be connected.
+
+113
+00:05:46,825 --> 00:05:50,075
+Automatic controls and protective equipment would respond
+
+114
+00:05:50,075 --> 00:05:51,525
+to disturbances.
+
+115
+00:05:51,525 --> 00:05:54,175
+Some generators could reduce output.
+
+116
+00:05:54,175 --> 00:05:56,638
+Some parts of a network could disconnect.
+
+117
+00:05:56,638 --> 00:05:59,350
+A regional failure could spread through interconnected
+
+118
+00:05:59,350 --> 00:06:03,000
+equipment, while another region follows a different path.
+
+119
+00:06:03,625 --> 00:06:07,562
+Over time, fuel delivery, equipment faults, weather, and
+
+120
+00:06:07,562 --> 00:06:10,850
+the loss of maintenance would create further difficulties.
+
+121
+00:06:10,850 --> 00:06:13,237
+The resulting map would be patchy.
+
+122
+00:06:13,237 --> 00:06:16,400
+There is no sound basis for announcing one exact hour
+
+123
+00:06:16,400 --> 00:06:18,875
+when every lamp on Earth goes out.
+
+124
+00:06:19,375 --> 00:06:22,650
+Wind and sunlight would continue supplying energy.
+
+125
+00:06:22,650 --> 00:06:25,725
+But a renewable resource is only one part of a functioning
+
+126
+00:06:25,725 --> 00:06:30,425
+power system. Panels, turbines, batteries, inverters,
+
+127
+00:06:30,425 --> 00:06:34,000
+protective controls, and connections still have limits.
+
+128
+00:06:34,000 --> 00:06:37,575
+Some isolated installations could continue useful work
+
+129
+00:06:37,575 --> 00:06:40,925
+after a larger grid has failed; others could stop much
+
+130
+00:06:40,925 --> 00:06:41,850
+sooner.
+
+131
+00:06:42,275 --> 00:06:45,925
+From an airplane, if anyone remained to fly one, the night
+
+132
+00:06:45,925 --> 00:06:49,000
+would gradually reveal a world of different electrical
+
+133
+00:06:49,000 --> 00:06:52,512
+histories. Darkness would arrive through many separate
+
+134
+00:06:52,512 --> 00:06:56,300
+failures, rather than a single switch being thrown.
+
+135
+00:06:57,375 --> 00:07:00,450
+A household can lose electricity and still have water
+
+136
+00:07:00,450 --> 00:07:03,188
+at the tap, depending on its supply.
+
+137
+00:07:03,188 --> 00:07:06,650
+Stored water at elevation can move under gravity.
+
+138
+00:07:06,650 --> 00:07:10,275
+Reservoirs, tanks, and pressure already in a system may
+
+139
+00:07:10,275 --> 00:07:12,275
+provide some continuity.
+
+140
+00:07:12,750 --> 00:07:15,588
+Other communities rely heavily on pumping.
+
+141
+00:07:15,588 --> 00:07:18,950
+Treatment plants need functioning equipment and supplies.
+
+142
+00:07:18,950 --> 00:07:22,175
+Water quality depends on more than whether a pipe still
+
+143
+00:07:22,175 --> 00:07:26,550
+contains water. Wastewater has its own collection, pumping,
+
+144
+00:07:26,550 --> 00:07:28,300
+and treatment requirements.
+
+145
+00:07:28,725 --> 00:07:31,675
+The Environmental Protection Agency's guidance for real
+
+146
+00:07:31,675 --> 00:07:35,700
+water utilities describes how power loss can disrupt treatment,
+
+147
+00:07:35,700 --> 00:07:40,350
+affect distribution, and cause sewage overflows or backups.
+
+148
+00:07:40,350 --> 00:07:44,250
+Backup generators can help, but their fuel, condition,
+
+149
+00:07:44,250 --> 00:07:47,850
+and maintenance are part of the same chain of dependencies.
+
+150
+00:07:48,475 --> 00:07:52,213
+In our empty world, no one organizes the next delivery
+
+151
+00:07:52,213 --> 00:07:54,662
+or responds to a failed pump.
+
+152
+00:07:54,662 --> 00:07:57,713
+A neighborhood could have diminishing pressure while another
+
+153
+00:07:57,713 --> 00:08:00,288
+still receives gravity-fed flow.
+
+154
+00:08:00,288 --> 00:08:04,000
+A damaged pipe could release water without anyone isolating
+
+155
+00:08:04,000 --> 00:08:04,925
+the leak.
+
+156
+00:08:05,400 --> 00:08:08,850
+Inside Scout's house, the most important water system
+
+157
+00:08:08,850 --> 00:08:10,350
+is much smaller.
+
+158
+00:08:10,350 --> 00:08:13,275
+His bowl contains whatever it contained when the last
+
+159
+00:08:13,275 --> 00:08:14,787
+person vanished.
+
+160
+00:08:14,787 --> 00:08:18,325
+The continuing existence of rivers and reservoirs somewhere
+
+161
+00:08:18,325 --> 00:08:22,050
+outside does not guarantee that a confined animal can
+
+162
+00:08:22,050 --> 00:08:23,275
+reach a drink.
+
+163
+00:08:24,325 --> 00:08:28,775
+Under some cities, remaining dry is a job performed continuously.
+
+164
+00:08:28,775 --> 00:08:30,525
+Groundwater seeps.
+
+165
+00:08:30,525 --> 00:08:32,838
+Rain enters. Pipes leak.
+
+166
+00:08:32,838 --> 00:08:35,775
+Pumps move water away from places that would otherwise
+
+167
+00:08:35,775 --> 00:08:37,025
+accumulate it.
+
+168
+00:08:37,450 --> 00:08:41,375
+If those pumps stop, the outcome depends on local geology,
+
+169
+00:08:41,375 --> 00:08:45,488
+elevations, drainage routes, and the next rainfall.
+
+170
+00:08:45,488 --> 00:08:48,925
+A tunnel beneath the water table is not in the same situation
+
+171
+00:08:48,925 --> 00:08:52,988
+as an elevated rail line or a station with effective gravity
+
+172
+00:08:52,988 --> 00:08:54,075
+drainage.
+
+173
+00:08:54,575 --> 00:08:58,375
+Water could gather in vulnerable basements, service chambers,
+
+174
+00:08:58,375 --> 00:08:59,912
+and low tunnels.
+
+175
+00:08:59,912 --> 00:09:03,100
+Electrical equipment might fail before a space becomes
+
+176
+00:09:03,100 --> 00:09:04,813
+dramatically flooded.
+
+177
+00:09:04,813 --> 00:09:08,138
+Corrosion and contaminated water would create additional
+
+178
+00:09:08,138 --> 00:09:10,475
+changes as time passes.
+
+179
+00:09:10,925 --> 00:09:14,088
+The familiar image of every subway filling to its ceiling
+
+180
+00:09:14,088 --> 00:09:17,150
+on the same day gives the wrong impression.
+
+181
+00:09:17,150 --> 00:09:20,400
+Flooding is a physical process with local pathways and
+
+182
+00:09:20,400 --> 00:09:21,650
+different rates.
+
+183
+00:09:21,650 --> 00:09:25,025
+Some underground structures could stay relatively dry.
+
+184
+00:09:25,025 --> 00:09:28,100
+Others could become hidden channels or pools beneath
+
+185
+00:09:28,100 --> 00:09:29,175
+the streets.
+
+186
+00:09:29,625 --> 00:09:33,375
+Above them, a pedestrian entrance might still look ordinary.
+
+187
+00:09:33,375 --> 00:09:37,088
+A handrail, a stairwell, a dark opening.
+
+188
+00:09:37,088 --> 00:09:39,838
+The city would be changing from the inside as well as
+
+189
+00:09:39,838 --> 00:09:43,212
+the outside, and the absence of maintenance could remain
+
+190
+00:09:43,212 --> 00:09:46,300
+invisible from the surface until much later.
+
+191
+00:09:47,350 --> 00:09:48,700
+Return to Scout.
+
+192
+00:09:48,700 --> 00:09:51,562
+He is a fictional dog in one possible house, during the
+
+193
+00:09:51,562 --> 00:09:55,550
+first days. His chances depend on details that usually
+
+194
+00:09:55,550 --> 00:09:58,475
+seem trivial. Is there accessible water?
+
+195
+00:09:58,475 --> 00:10:00,075
+Is the door secure?
+
+196
+00:10:00,075 --> 00:10:02,188
+Was a yard gate already open?
+
+197
+00:10:02,188 --> 00:10:03,925
+What is the weather doing?
+
+198
+00:10:04,350 --> 00:10:07,850
+For a pet sealed inside an apartment, abundant wildlife
+
+199
+00:10:07,850 --> 00:10:10,562
+beyond the wall offers no solution.
+
+200
+00:10:10,562 --> 00:10:13,875
+Many confined animals would face severe suffering without
+
+201
+00:10:13,875 --> 00:10:18,338
+food, water, ventilation, or suitable temperatures.
+
+202
+00:10:18,338 --> 00:10:21,775
+Aquariums, cages, kennels, and homes contain different
+
+203
+00:10:21,775 --> 00:10:23,350
+kinds of dependence.
+
+204
+00:10:23,825 --> 00:10:27,000
+Other animals would already have access outdoors.
+
+205
+00:10:27,000 --> 00:10:29,375
+Some could find water and food.
+
+206
+00:10:29,375 --> 00:10:33,150
+Survival would still depend on health, behavior, breed,
+
+207
+00:10:33,150 --> 00:10:35,888
+predators, disease, and chance.
+
+208
+00:10:35,888 --> 00:10:39,225
+An animal escaping does not guarantee that it establishes
+
+209
+00:10:39,225 --> 00:10:41,225
+a successful population.
+
+210
+00:10:41,700 --> 00:10:45,275
+In our chosen branch of the story, Scout can enter a yard
+
+211
+00:10:45,275 --> 00:10:47,600
+with a gate that was already open.
+
+212
+00:10:47,600 --> 00:10:50,625
+He drinks from a basin and pauses at the street.
+
+213
+00:10:50,625 --> 00:10:53,425
+We can imagine that moment without pretending we know
+
+214
+00:10:53,425 --> 00:10:55,000
+the rest of his life.
+
+215
+00:10:55,425 --> 00:10:59,150
+When we jump forward by decades, we will leave him behind.
+
+216
+00:10:59,150 --> 00:11:02,825
+The later dogs and cats, where populations persist,
+
+217
+00:11:02,825 --> 00:11:06,038
+would be different animals and later generations.
+
+218
+00:11:06,038 --> 00:11:09,750
+A familiar collar cannot carry one pet through centuries.
+
+219
+00:11:10,975 --> 00:11:14,725
+A farm is a living system organized around repeated human
+
+220
+00:11:14,725 --> 00:11:18,212
+intervention. Gates separate animals from feed.
+
+221
+00:11:18,212 --> 00:11:20,100
+Pumps supply troughs.
+
+222
+00:11:20,100 --> 00:11:23,425
+Breeding has favored traits useful in particular managed
+
+223
+00:11:23,425 --> 00:11:27,375
+environments, not necessarily traits that make independent
+
+224
+00:11:27,375 --> 00:11:28,950
+survival easy.
+
+225
+00:11:29,425 --> 00:11:33,300
+Animals in open pasture near accessible water would face
+
+226
+00:11:33,300 --> 00:11:37,050
+a different situation from animals inside secure confinement
+
+227
+00:11:37,050 --> 00:11:41,288
+buildings. Some fences or doors might already be open
+
+228
+00:11:41,288 --> 00:11:45,150
+or damaged. Others could remain effective barriers long
+
+229
+00:11:45,150 --> 00:11:47,625
+after the people who built them were gone.
+
+230
+00:11:48,050 --> 00:11:51,525
+It would be misleading to show every cow, chicken, pig,
+
+231
+00:11:51,525 --> 00:11:55,188
+and sheep calmly walking into a new wild paradise.
+
+232
+00:11:55,188 --> 00:11:58,412
+Many would be trapped or unable to meet their needs.
+
+233
+00:11:58,412 --> 00:12:02,100
+Others might survive the first disruption but face disease,
+
+234
+00:12:02,100 --> 00:12:05,500
+weather, competition, and predation afterward.
+
+235
+00:12:05,975 --> 00:12:09,500
+Certain domestic animals can form feral populations under
+
+236
+00:12:09,500 --> 00:12:11,162
+suitable conditions.
+
+237
+00:12:11,162 --> 00:12:14,638
+Existing feral pigs and goats demonstrate that this is
+
+238
+00:12:14,638 --> 00:12:18,288
+possible. They also demonstrate that surviving without
+
+239
+00:12:18,288 --> 00:12:21,875
+daily human care can create serious problems for other
+
+240
+00:12:21,875 --> 00:12:23,000
+species.
+
+241
+00:12:23,450 --> 00:12:26,188
+The disappearance of farming would therefore have several
+
+242
+00:12:26,188 --> 00:12:27,725
+endings at once.
+
+243
+00:12:27,725 --> 00:12:31,525
+It would end deliberate care, reproduction, harvesting,
+
+244
+00:12:31,525 --> 00:12:33,375
+and confinement management.
+
+245
+00:12:33,375 --> 00:12:36,550
+It would create opportunities for some escapees.
+
+246
+00:12:36,550 --> 00:12:39,800
+And it would expose the costs of biological arrangements
+
+247
+00:12:39,800 --> 00:12:42,050
+that could not continue without us.
+
+248
+00:12:43,100 --> 00:12:45,962
+There is food everywhere in the human world, but much
+
+249
+00:12:45,962 --> 00:12:49,062
+of it is stored under conditions that need attention.
+
+250
+00:12:49,062 --> 00:12:51,388
+Refrigeration slows spoilage.
+
+251
+00:12:51,388 --> 00:12:53,362
+Packaging limits access.
+
+252
+00:12:53,362 --> 00:12:57,075
+Dry storage works only while it remains sufficiently dry
+
+253
+00:12:57,075 --> 00:12:58,300
+and protected.
+
+254
+00:12:58,750 --> 00:13:02,438
+As cooling fails and buildings deteriorate, bacteria,
+
+255
+00:13:02,438 --> 00:13:06,250
+fungi, insects, rodents, and scavengers would gain different
+
+256
+00:13:06,250 --> 00:13:09,788
+opportunities. Some food would remain sealed.
+
+257
+00:13:09,788 --> 00:13:11,725
+Some would spoil quickly.
+
+258
+00:13:11,725 --> 00:13:14,825
+Some would become accessible only after a container or
+
+259
+00:13:14,825 --> 00:13:16,425
+wall is damaged.
+
+260
+00:13:16,900 --> 00:13:20,425
+An empty grocery store could briefly concentrate resources
+
+261
+00:13:20,425 --> 00:13:22,588
+for organisms able to enter it.
+
+262
+00:13:22,588 --> 00:13:25,300
+A grain spill might support rodents.
+
+263
+00:13:25,300 --> 00:13:28,825
+Fallen fruit could feed insects and other animals.
+
+264
+00:13:28,825 --> 00:13:32,312
+None of this means our stored food becomes an everlasting
+
+265
+00:13:32,312 --> 00:13:35,325
+foundation for a replacement ecosystem.
+
+266
+00:13:35,800 --> 00:13:39,625
+Those supplies would be consumed, decomposed, dispersed,
+
+267
+00:13:39,625 --> 00:13:41,738
+or rendered inaccessible.
+
+268
+00:13:41,738 --> 00:13:44,800
+Populations that expanded during the initial abundance
+
+269
+00:13:44,800 --> 00:13:46,862
+could later face a shortage.
+
+270
+00:13:46,862 --> 00:13:50,325
+The pulse would differ with season, temperature, moisture,
+
+271
+00:13:50,325 --> 00:13:52,425
+and the kinds of food present.
+
+272
+00:13:52,875 --> 00:13:55,900
+This is a recurring pattern in the world without us.
+
+273
+00:13:55,900 --> 00:13:58,550
+Something that looks like a permanent feature turns out
+
+274
+00:13:58,550 --> 00:13:59,912
+to have been a flow.
+
+275
+00:13:59,912 --> 00:14:02,588
+The full shelf depended on restocking.
+
+276
+00:14:02,588 --> 00:14:05,062
+The cold room depended on power.
+
+277
+00:14:05,062 --> 00:14:08,475
+Abundance was a process that people kept renewing.
+
+278
+00:14:09,525 --> 00:14:13,037
+At an industrial facility, stopping production can reduce
+
+279
+00:14:13,037 --> 00:14:15,588
+some dangers while creating others.
+
+280
+00:14:15,588 --> 00:14:19,900
+Many systems have shutdown procedures and automatic protections.
+
+281
+00:14:19,900 --> 00:14:23,050
+Those protections would still operate if their required
+
+282
+00:14:23,050 --> 00:14:25,650
+conditions and equipment were available.
+
+283
+00:14:26,050 --> 00:14:30,225
+But stored chemicals, fuels, pressurized systems, cooling
+
+284
+00:14:30,225 --> 00:14:33,312
+needs, and containment structures would remain.
+
+285
+00:14:33,312 --> 00:14:37,338
+A site designed to shut down safely for an attended emergency
+
+286
+00:14:37,338 --> 00:14:41,625
+is not automatically designed to remain unattended indefinitely.
+
+287
+00:14:42,250 --> 00:14:45,250
+Some facilities could settle into a relatively stable
+
+288
+00:14:45,250 --> 00:14:49,562
+condition. Others could experience leaks, fires, or more
+
+289
+00:14:49,562 --> 00:14:51,538
+severe local accidents.
+
+290
+00:14:51,538 --> 00:14:55,300
+Weather, flooding, corrosion, materials, and the configuration
+
+291
+00:14:55,300 --> 00:14:58,425
+at the moment of disappearance would affect the result.
+
+292
+00:14:59,025 --> 00:15:02,075
+We should not turn uncertainty into a picture of every
+
+293
+00:15:02,075 --> 00:15:05,662
+refinery and chemical plant exploding at once.
+
+294
+00:15:05,662 --> 00:15:08,725
+Nor should we assume the end of production makes existing
+
+295
+00:15:08,725 --> 00:15:10,688
+contamination harmless.
+
+296
+00:15:10,688 --> 00:15:13,612
+A stopped source and a clean environment are different
+
+297
+00:15:13,612 --> 00:15:14,800
+achievements.
+
+298
+00:15:15,300 --> 00:15:18,525
+Water could move pollutants away from an abandoned site.
+
+299
+00:15:18,525 --> 00:15:21,125
+Soil and sediments could store them.
+
+300
+00:15:21,125 --> 00:15:24,300
+Later floods or erosion could redistribute some of those
+
+301
+00:15:24,300 --> 00:15:25,887
+materials again.
+
+302
+00:15:25,887 --> 00:15:29,500
+In places, green vegetation might eventually cover an
+
+303
+00:15:29,500 --> 00:15:33,175
+industrial landscape while chemical problems remain below
+
+304
+00:15:33,175 --> 00:15:33,800
+it.
+
+305
+00:15:34,225 --> 00:15:36,262
+The world would become quieter.
+
+306
+00:15:36,262 --> 00:15:39,238
+That would make certain hazards less visible, without
+
+307
+00:15:39,238 --> 00:15:41,700
+necessarily making them disappear.
+
+308
+00:15:42,800 --> 00:15:45,962
+Nuclear power is often the point where an empty-world
+
+309
+00:15:45,962 --> 00:15:49,838
+story becomes an unsupported disaster montage.
+
+310
+00:15:49,838 --> 00:15:52,450
+The real distinction is more interesting.
+
+311
+00:15:52,450 --> 00:15:56,375
+Stopping the self-sustaining chain reaction does not immediately
+
+312
+00:15:56,375 --> 00:15:59,662
+eliminate the heat produced by radioactive decay in the
+
+313
+00:15:59,662 --> 00:16:00,600
+fuel.
+
+314
+00:16:01,075 --> 00:16:04,137
+Reactors have protection systems intended to respond to
+
+315
+00:16:04,137 --> 00:16:05,900
+dangerous conditions.
+
+316
+00:16:05,900 --> 00:16:09,875
+But the removal of residual heat still matters after shutdown.
+
+317
+00:16:09,875 --> 00:16:13,762
+Depending on the design and situation, electricity,
+
+318
+00:16:13,762 --> 00:16:18,000
+water supplies, backup equipment, passive processes, and
+
+319
+00:16:18,000 --> 00:16:21,000
+available reserves can all play roles.
+
+320
+00:16:21,450 --> 00:16:24,200
+Spent fuel requires another distinction.
+
+321
+00:16:24,200 --> 00:16:28,050
+Fuel stored in a water pool and fuel that has cooled sufficiently
+
+322
+00:16:28,050 --> 00:16:31,562
+for a suitable dry storage system are not in identical
+
+323
+00:16:31,562 --> 00:16:35,450
+circumstances. Dry casks can reject heat through passive
+
+324
+00:16:35,450 --> 00:16:38,662
+mechanisms rather than relying on the same arrangement
+
+325
+00:16:38,662 --> 00:16:41,012
+as an actively managed pool.
+
+326
+00:16:41,012 --> 00:16:44,212
+They are engineered systems with their own limits, not
+
+327
+00:16:44,212 --> 00:16:46,950
+objects immune to all future damage.
+
+328
+00:16:47,400 --> 00:16:50,887
+Without people, some sites could eventually suffer serious
+
+329
+00:16:50,887 --> 00:16:53,387
+cooling or containment failures.
+
+330
+00:16:53,387 --> 00:16:55,775
+The severity and timing would differ.
+
+331
+00:16:55,775 --> 00:16:59,050
+We cannot calculate a universal outcome from the words
+
+332
+00:16:59,050 --> 00:17:00,875
+nuclear plant alone.
+
+333
+00:17:01,350 --> 00:17:04,750
+A severe reactor accident is also not a nuclear weapon
+
+334
+00:17:04,750 --> 00:17:08,250
+detonation. Mushroom clouds are a poor substitute for
+
+335
+00:17:08,250 --> 00:17:13,225
+explaining heat, cooling, barriers, and radioactive releases.
+
+336
+00:17:13,225 --> 00:17:17,000
+The defensible story is one of conditional local hazards,
+
+337
+00:17:17,000 --> 00:17:20,362
+not a guaranteed synchronized nuclear destruction of
+
+338
+00:17:20,362 --> 00:17:21,225
+Earth.
+
+339
+00:17:22,225 --> 00:17:25,900
+People start fires, suppress fires, change vegetation,
+
+340
+00:17:25,900 --> 00:17:28,062
+and build things that can burn.
+
+341
+00:17:28,062 --> 00:17:31,725
+Remove people, and all four parts of that history matter.
+
+342
+00:17:32,375 --> 00:17:36,175
+Some ongoing activities would stop producing new ignitions.
+
+343
+00:17:36,175 --> 00:17:38,975
+Other unattended equipment or accidents could still
+
+344
+00:17:38,975 --> 00:17:41,625
+start fires during the early period.
+
+345
+00:17:41,625 --> 00:17:43,438
+Lightning would continue.
+
+346
+00:17:43,438 --> 00:17:47,850
+Fuel, wind, rainfall, humidity, and the arrangement of
+
+347
+00:17:47,850 --> 00:17:50,888
+vegetation would help determine whether a spark becomes
+
+348
+00:17:50,888 --> 00:17:52,350
+a spreading fire.
+
+349
+00:17:52,800 --> 00:17:56,312
+There is no reason every abandoned city must burn.
+
+350
+00:17:56,312 --> 00:18:00,575
+A wet region, a dry grassland, and a town surrounded by
+
+351
+00:18:00,575 --> 00:18:03,850
+flammable vegetation would have different risks.
+
+352
+00:18:03,850 --> 00:18:07,338
+Buildings and landscapes also carry the legacy of earlier
+
+353
+00:18:07,338 --> 00:18:09,100
+human land management.
+
+354
+00:18:09,575 --> 00:18:13,762
+Fire can release nutrients, open space, and support species
+
+355
+00:18:13,762 --> 00:18:16,575
+adapted to particular fire regimes.
+
+356
+00:18:16,575 --> 00:18:19,638
+It can also destroy habitat or become damaging when its
+
+357
+00:18:19,638 --> 00:18:23,338
+frequency, intensity, or setting changes.
+
+358
+00:18:23,338 --> 00:18:26,800
+Calling every fire cleansing would erase those differences.
+
+359
+00:18:27,400 --> 00:18:30,550
+Over years and seasons, an unattended landscape could
+
+360
+00:18:30,550 --> 00:18:34,825
+become a mosaic: surviving structures, burned patches,
+
+361
+00:18:34,825 --> 00:18:38,288
+new growth, and areas altered in other ways.
+
+362
+00:18:38,288 --> 00:18:41,325
+Even an apparently natural process would be unfolding
+
+363
+00:18:41,325 --> 00:18:45,825
+across fuel patterns, roads, and ecosystems partly shaped
+
+364
+00:18:45,825 --> 00:18:49,350
+by human decisions made before the silence began.
+
+365
+00:18:50,400 --> 00:18:53,138
+Grass would not need to conquer a city from beyond its
+
+366
+00:18:53,138 --> 00:18:58,425
+borders. Cities already contain seeds, soil, roots, spores,
+
+367
+00:18:58,425 --> 00:19:02,312
+trees, lawns, gardens, and organisms living inside small
+
+368
+00:19:02,312 --> 00:19:03,225
+gaps.
+
+369
+00:19:03,675 --> 00:19:07,075
+Without mowing and weeding, suitable patches could change
+
+370
+00:19:07,075 --> 00:19:09,163
+during the first growing season.
+
+371
+00:19:09,163 --> 00:19:12,425
+Existing cracks could hold moisture and sediment.
+
+372
+00:19:12,425 --> 00:19:14,888
+Leaves could accumulate in gutters.
+
+373
+00:19:14,888 --> 00:19:18,225
+Plants able to use those conditions would gain space where
+
+374
+00:19:18,225 --> 00:19:20,725
+people had repeatedly removed them.
+
+375
+00:19:21,200 --> 00:19:24,875
+A seed does not turn intact asphalt into deep forest soil
+
+376
+00:19:24,875 --> 00:19:29,675
+overnight. Establishment depends on light, water, nutrients,
+
+377
+00:19:29,675 --> 00:19:33,200
+substrate, climate, and the species available.
+
+378
+00:19:33,200 --> 00:19:36,688
+Roots can exploit and enlarge openings over time, while
+
+379
+00:19:36,688 --> 00:19:40,175
+weather and other processes create additional damage.
+
+380
+00:19:40,625 --> 00:19:44,575
+The first changes might be modest: a taller lawn, flowers
+
+381
+00:19:44,575 --> 00:19:47,812
+along a curb, moss on a shaded wall.
+
+382
+00:19:47,812 --> 00:19:51,075
+A dry parking lot could stay bare much longer than a damp
+
+383
+00:19:51,075 --> 00:19:52,400
+garden beside it.
+
+384
+00:19:52,400 --> 00:19:56,125
+If disappearance happens just before winter, growth follows
+
+385
+00:19:56,125 --> 00:19:58,225
+a different immediate schedule.
+
+386
+00:19:58,725 --> 00:20:01,712
+Riverton's cafe would still be recognizable.
+
+387
+00:20:01,712 --> 00:20:05,075
+The ochre awning, brick corner, and empty tables would
+
+388
+00:20:05,075 --> 00:20:08,588
+remain. Small plants at the edges would reveal something
+
+389
+00:20:08,588 --> 00:20:10,125
+important, though.
+
+390
+00:20:10,125 --> 00:20:13,525
+Much of our familiar neatness was an action being repeated,
+
+391
+00:20:13,525 --> 00:20:16,575
+rather than a condition that maintained itself.
+
+392
+00:20:17,625 --> 00:20:20,538
+A building's first major enemy is often a failure of the
+
+393
+00:20:20,538 --> 00:20:23,050
+envelope that keeps weather outside.
+
+394
+00:20:23,050 --> 00:20:27,175
+Roof coverings, flashing, gutters, paint, windows, and
+
+395
+00:20:27,175 --> 00:20:28,738
+seals work together.
+
+396
+00:20:28,738 --> 00:20:31,400
+They also need inspection and repair.
+
+397
+00:20:31,875 --> 00:20:35,500
+A small leak can move water into a place where it remains.
+
+398
+00:20:35,500 --> 00:20:39,500
+Susceptible wood can decay under suitable moisture conditions.
+
+399
+00:20:39,500 --> 00:20:41,550
+Fasteners can corrode.
+
+400
+00:20:41,550 --> 00:20:44,700
+Water entering a crack can contribute to damage through
+
+401
+00:20:44,700 --> 00:20:48,225
+repeated freezing and thawing in climates where that occurs.
+
+402
+00:20:48,825 --> 00:20:51,800
+A storm-damaged roof can expose rooms that were never
+
+403
+00:20:51,800 --> 00:20:54,400
+built for prolonged outdoor conditions.
+
+404
+00:20:54,400 --> 00:20:58,950
+Wind, rain, organisms, and sunlight then gain access to
+
+405
+00:20:58,950 --> 00:21:02,675
+more surfaces. Damage can create the conditions for further
+
+406
+00:21:02,675 --> 00:21:03,650
+damage.
+
+407
+00:21:04,075 --> 00:21:07,112
+But a humid coast is not a sheltered desert.
+
+408
+00:21:07,112 --> 00:21:10,900
+Different materials, building details, foundations, and
+
+409
+00:21:10,900 --> 00:21:14,350
+weather histories produce different rates of deterioration.
+
+410
+00:21:14,350 --> 00:21:17,550
+A house with a failed roof could change quickly while
+
+411
+00:21:17,550 --> 00:21:20,000
+another remains standing nearby.
+
+412
+00:21:20,450 --> 00:21:24,000
+The point is not that every home has a predetermined demolition
+
+413
+00:21:24,000 --> 00:21:27,637
+date. It is that the ordinary boundary between indoors
+
+414
+00:21:27,637 --> 00:21:30,062
+and outdoors has been maintained.
+
+415
+00:21:30,062 --> 00:21:34,175
+When that boundary fails, the building becomes a new environment,
+
+416
+00:21:34,175 --> 00:21:38,262
+available to water, plants, animals, and processes its
+
+417
+00:21:38,262 --> 00:21:40,550
+occupants had worked to exclude.
+
+418
+00:21:41,600 --> 00:21:45,300
+Steel can look permanent because it carries enormous loads.
+
+419
+00:21:45,300 --> 00:21:48,375
+Its durability still depends on its environment and
+
+420
+00:21:48,375 --> 00:21:52,175
+protection. Water and oxygen can support corrosion where
+
+421
+00:21:52,175 --> 00:21:55,450
+conditions allow it, and salts can make some exposures
+
+422
+00:21:55,450 --> 00:21:57,275
+particularly damaging.
+
+423
+00:21:57,775 --> 00:22:01,625
+Reinforced concrete introduces a hidden relationship.
+
+424
+00:22:01,625 --> 00:22:04,862
+Steel bars help concrete structures resist forces the
+
+425
+00:22:04,862 --> 00:22:07,362
+concrete alone handles poorly.
+
+426
+00:22:07,362 --> 00:22:10,550
+The surrounding material normally provides protection,
+
+427
+00:22:10,550 --> 00:22:13,837
+but that protection can be compromised by cracking,
+
+428
+00:22:13,837 --> 00:22:17,750
+chemical changes, and the entry of aggressive substances.
+
+429
+00:22:18,350 --> 00:22:21,887
+As reinforcing steel corrodes, the products can occupy
+
+430
+00:22:21,887 --> 00:22:25,600
+more volume. That can help crack or detach the concrete
+
+431
+00:22:25,600 --> 00:22:28,962
+around it, exposing additional material.
+
+432
+00:22:28,962 --> 00:22:32,337
+The result is a feedback between the damaged protection
+
+433
+00:22:32,337 --> 00:22:34,725
+and the steel it was supposed to protect.
+
+434
+00:22:35,175 --> 00:22:37,237
+The rate is highly variable.
+
+435
+00:22:37,237 --> 00:22:40,500
+A dry, sheltered component and a wet coastal connection
+
+436
+00:22:40,500 --> 00:22:42,887
+do not share a universal clock.
+
+437
+00:22:42,887 --> 00:22:46,887
+Initial quality, coatings, design, drainage, and existing
+
+438
+00:22:46,887 --> 00:22:48,250
+damage matter.
+
+439
+00:22:48,700 --> 00:22:51,925
+Over decades and longer, corrosion would be one of several
+
+440
+00:22:51,925 --> 00:22:54,350
+processes changing our structures.
+
+441
+00:22:54,350 --> 00:22:57,725
+It would not arrive as a single visible wave.
+
+442
+00:22:57,725 --> 00:23:01,525
+Some damage would remain inside a wall or connection until
+
+443
+00:23:01,525 --> 00:23:05,150
+the loss of material or support became important enough
+
+444
+00:23:05,150 --> 00:23:07,475
+to change the structure's behavior.
+
+445
+00:23:08,575 --> 00:23:11,950
+Now imagine looking across Riverton after many years.
+
+446
+00:23:11,950 --> 00:23:13,825
+Some windows are missing.
+
+447
+00:23:13,825 --> 00:23:16,037
+Water has entered some roofs.
+
+448
+00:23:16,037 --> 00:23:19,300
+Vegetation occupies places that have collected suitable
+
+449
+00:23:19,300 --> 00:23:23,375
+soil. Other buildings still look surprisingly intact.
+
+450
+00:23:23,850 --> 00:23:27,500
+A tower does not fall simply because its lobby is empty.
+
+451
+00:23:27,500 --> 00:23:30,900
+Its structural system can continue carrying loads.
+
+452
+00:23:30,900 --> 00:23:34,312
+But connections, exterior components, foundations, and
+
+453
+00:23:34,312 --> 00:23:36,412
+drainage can deteriorate.
+
+454
+00:23:36,412 --> 00:23:40,337
+Storms, fire, flooding, and local failures can accelerate
+
+455
+00:23:40,337 --> 00:23:41,500
+the changes.
+
+456
+00:23:41,950 --> 00:23:45,900
+A bridge faces its own combination of exposure and design.
+
+457
+00:23:45,900 --> 00:23:49,162
+Some spans or piers might persist after other parts
+
+458
+00:23:49,162 --> 00:23:53,762
+fail. A surviving stone arch could outlast a nearby lightweight
+
+459
+00:23:53,762 --> 00:23:57,587
+roof. A tall structure might retain its overall shape
+
+460
+00:23:57,587 --> 00:24:01,150
+while losing many of the surfaces that once made it usable.
+
+461
+00:24:01,750 --> 00:24:05,212
+We cannot assign one date when every skyscraper collapses
+
+462
+00:24:05,212 --> 00:24:07,937
+or every bridge drops into its river.
+
+463
+00:24:07,937 --> 00:24:11,275
+The useful question is what removes protection, weakens
+
+464
+00:24:11,275 --> 00:24:15,425
+a component, changes a load path, or undermines support
+
+465
+00:24:15,425 --> 00:24:17,200
+at that particular site.
+
+466
+00:24:17,650 --> 00:24:20,725
+The skyline would become a patchwork of different structural
+
+467
+00:24:20,725 --> 00:24:24,487
+histories. Familiar shapes could survive long after their
+
+468
+00:24:24,487 --> 00:24:26,537
+practical functions ended.
+
+469
+00:24:26,537 --> 00:24:29,775
+Eventually, parts of the city would be better understood
+
+470
+00:24:29,775 --> 00:24:33,725
+as habitat and geology in progress than as buildings waiting
+
+471
+00:24:33,725 --> 00:24:35,850
+for their occupants to return.
+
+472
+00:24:36,925 --> 00:24:40,187
+A river would continue receiving rain and sediment whether
+
+473
+00:24:40,187 --> 00:24:43,475
+anyone maintained the structures across it or not.
+
+474
+00:24:43,475 --> 00:24:47,800
+Dams, spillways, gates, levees, and drainage works would
+
+475
+00:24:47,800 --> 00:24:50,625
+enter a new relationship with those flows.
+
+476
+00:24:51,100 --> 00:24:54,512
+Some barriers might remain effective for a long time.
+
+477
+00:24:54,512 --> 00:24:58,975
+Others could be overtopped, eroded, undermined, or breached.
+
+478
+00:24:58,975 --> 00:25:02,450
+Sediment accumulation and flood conditions would matter,
+
+479
+00:25:02,450 --> 00:25:05,125
+as would the construction and condition of the structure
+
+480
+00:25:05,125 --> 00:25:07,000
+when human care ended.
+
+481
+00:25:07,425 --> 00:25:10,312
+The consequences would extend downstream.
+
+482
+00:25:10,312 --> 00:25:14,125
+Releasing stored sediment could alter channels and habitats.
+
+483
+00:25:14,125 --> 00:25:17,637
+In some places, reconnecting river sections could allow
+
+484
+00:25:17,637 --> 00:25:21,062
+fish and other organisms to move more freely.
+
+485
+00:25:21,062 --> 00:25:24,900
+In others, sudden changes or remobilized contaminants
+
+486
+00:25:24,900 --> 00:25:26,475
+could cause harm.
+
+487
+00:25:26,925 --> 00:25:30,150
+The river does not necessarily return to one pristine
+
+488
+00:25:30,150 --> 00:25:31,825
+historical course.
+
+489
+00:25:31,825 --> 00:25:35,400
+Landscapes have been altered, species have moved, and
+
+490
+00:25:35,400 --> 00:25:38,612
+sediment may contain materials that were not present before
+
+491
+00:25:38,612 --> 00:25:40,425
+industrial activity.
+
+492
+00:25:40,850 --> 00:25:44,700
+Picture a former reservoir developing new exposed ground
+
+493
+00:25:44,700 --> 00:25:47,600
+while a different reservoir persists behind its unattended
+
+494
+00:25:47,600 --> 00:25:51,750
+barrier. Elsewhere, beavers might create their own smaller
+
+495
+00:25:51,750 --> 00:25:55,125
+obstructions. The future drainage network would be made
+
+496
+00:25:55,125 --> 00:25:59,012
+by terrain, weather, surviving infrastructure, and living
+
+497
+00:25:59,012 --> 00:26:00,725
+organisms together.
+
+498
+00:26:00,725 --> 00:26:03,625
+Water would regain some freedoms while still following
+
+499
+00:26:03,625 --> 00:26:06,025
+parts of the landscape we had reshaped.
+
+500
+00:26:07,050 --> 00:26:11,125
+The disappearance of agriculture would end planting, harvesting,
+
+501
+00:26:11,125 --> 00:26:14,950
+irrigation management, fertilizing, and many forms of
+
+502
+00:26:14,950 --> 00:26:18,900
+disturbance. What replaces a field depends on what remains
+
+503
+00:26:18,900 --> 00:26:20,275
+in and around it.
+
+504
+00:26:20,750 --> 00:26:24,800
+Seeds in the soil, nearby vegetation, grazing animals,
+
+505
+00:26:24,800 --> 00:26:28,500
+water availability, soil chemistry, and climate would
+
+506
+00:26:28,500 --> 00:26:30,462
+shape the next communities.
+
+507
+00:26:30,462 --> 00:26:34,100
+A moist field near woodland might develop shrubs and trees.
+
+508
+00:26:34,100 --> 00:26:38,350
+A dry region might remain grassland or sparse vegetation.
+
+509
+00:26:38,350 --> 00:26:41,425
+Some low land could become wetter if drainage systems
+
+510
+00:26:41,425 --> 00:26:42,675
+stop working.
+
+511
+00:26:43,125 --> 00:26:45,750
+Orchards would have a different starting point from annual
+
+512
+00:26:45,750 --> 00:26:49,437
+crop fields. Irrigated land would change differently from
+
+513
+00:26:49,437 --> 00:26:51,725
+land supplied by rainfall.
+
+514
+00:26:51,725 --> 00:26:55,575
+Some altered soils, ditches, embankments, and nutrient
+
+515
+00:26:55,575 --> 00:26:59,025
+legacies could influence the landscape long after crop
+
+516
+00:26:59,025 --> 00:27:00,475
+production stops.
+
+517
+00:27:00,925 --> 00:27:04,125
+This would be ecological succession, but succession does
+
+518
+00:27:04,125 --> 00:27:07,012
+not mean every place climbs the same ladder toward the
+
+519
+00:27:07,012 --> 00:27:11,525
+same forest. Disturbance, fire, grazing, and changing
+
+520
+00:27:11,525 --> 00:27:13,625
+climate can redirect the route.
+
+521
+00:27:14,050 --> 00:27:17,425
+From above, the old field boundaries might remain visible
+
+522
+00:27:17,425 --> 00:27:19,137
+after the crops are gone.
+
+523
+00:27:19,137 --> 00:27:22,287
+A line of trees could follow a former fence.
+
+524
+00:27:22,287 --> 00:27:24,812
+A wet strip could mark an old ditch.
+
+525
+00:27:24,812 --> 00:27:27,887
+Human land use would continue shaping the pattern of a
+
+526
+00:27:27,887 --> 00:27:31,300
+landscape that no longer had anyone farming it.
+
+527
+00:27:32,400 --> 00:27:35,712
+Many wild animals would benefit from reduced hunting,
+
+528
+00:27:35,712 --> 00:27:39,637
+traffic, fishing, noise, and other disturbances.
+
+529
+00:27:39,637 --> 00:27:43,125
+Abandoned roads and buildings could become routes, shelters,
+
+530
+00:27:43,125 --> 00:27:44,750
+or nesting spaces.
+
+531
+00:27:44,750 --> 00:27:48,225
+Where habitat and surviving populations allow it, some
+
+532
+00:27:48,225 --> 00:27:50,075
+animals could expand.
+
+533
+00:27:50,500 --> 00:27:54,012
+But seeing wildlife in a human exclusion area does not
+
+534
+00:27:54,012 --> 00:27:57,800
+prove that every environmental hazard there is harmless.
+
+535
+00:27:57,800 --> 00:28:00,825
+Studies of places such as the Chernobyl region have
+
+536
+00:28:00,825 --> 00:28:04,662
+reported abundant populations of some large animals.
+
+537
+00:28:04,662 --> 00:28:08,275
+That evidence concerns particular places, species, and
+
+538
+00:28:08,275 --> 00:28:11,737
+measurements. It does not establish that radiation has
+
+539
+00:28:11,737 --> 00:28:15,662
+no biological effects, or that a contaminated area is
+
+540
+00:28:15,662 --> 00:28:17,725
+healthy in every respect.
+
+541
+00:28:18,200 --> 00:28:21,412
+Our imagined empty world would remove some pressures while
+
+542
+00:28:21,412 --> 00:28:24,762
+leaving others. A deer walking through a street tells
+
+543
+00:28:24,762 --> 00:28:27,075
+us that the deer can reach the street.
+
+544
+00:28:27,075 --> 00:28:31,875
+It does not by itself measure reproduction, disease, contamination,
+
+545
+00:28:31,875 --> 00:28:34,925
+or the condition of all the species nearby.
+
+546
+00:28:35,375 --> 00:28:38,450
+Recovery would also depend on connections to existing
+
+547
+00:28:38,450 --> 00:28:43,000
+populations. An animal cannot recolonize a place if no
+
+548
+00:28:43,000 --> 00:28:45,275
+population remains to reach it.
+
+549
+00:28:45,700 --> 00:28:49,187
+The emotional image of a fox passing an empty garden is
+
+550
+00:28:49,187 --> 00:28:53,225
+powerful. We can keep that image while asking better questions
+
+551
+00:28:53,225 --> 00:28:57,100
+about what is recovering, what remains damaged, and which
+
+552
+00:28:57,100 --> 00:29:00,350
+organisms never received the same opportunity.
+
+553
+00:29:01,425 --> 00:29:05,012
+Some survivors would carry domestication and human introductions
+
+554
+00:29:05,012 --> 00:29:07,025
+into the next ecosystem.
+
+555
+00:29:07,025 --> 00:29:11,600
+Pigs, goats, cats, and other animals already form free-living
+
+556
+00:29:11,600 --> 00:29:13,962
+populations in many places.
+
+557
+00:29:13,962 --> 00:29:17,112
+Their ability to persist does not guarantee that their
+
+558
+00:29:17,112 --> 00:29:18,600
+neighbors benefit.
+
+559
+00:29:19,075 --> 00:29:23,350
+Feral pigs can disturb soil, damage vegetation, and affect
+
+560
+00:29:23,350 --> 00:29:26,937
+other animals. Introduced predators can be especially
+
+561
+00:29:26,937 --> 00:29:30,575
+dangerous to native species that did not evolve with them,
+
+562
+00:29:30,575 --> 00:29:33,062
+including some island birds.
+
+563
+00:29:33,062 --> 00:29:36,225
+Escaped plants can continue spreading as well.
+
+564
+00:29:36,650 --> 00:29:39,950
+At the same time, conservation programs would lose the
+
+565
+00:29:39,950 --> 00:29:43,950
+people maintaining fences, controlling invasive species,
+
+566
+00:29:43,950 --> 00:29:48,000
+protecting nests, or supporting small populations.
+
+567
+00:29:48,000 --> 00:29:51,400
+Some species we have harmed also depend on current human
+
+568
+00:29:51,400 --> 00:29:53,900
+efforts to prevent further losses.
+
+569
+00:29:54,350 --> 00:29:56,562
+That creates a difficult truth.
+
+570
+00:29:56,562 --> 00:30:00,025
+Removing humanity would not rewind every introduction,
+
+571
+00:30:00,025 --> 00:30:04,000
+restore every food web, and return each species to an
+
+572
+00:30:04,000 --> 00:30:06,262
+earlier geographic range.
+
+573
+00:30:06,262 --> 00:30:09,950
+The biological starting conditions have already been changed.
+
+574
+00:30:10,625 --> 00:30:14,612
+Later free-ranging dogs or cats, where they persist, would
+
+575
+00:30:14,612 --> 00:30:18,375
+face selection and ecological pressures over generations.
+
+576
+00:30:18,375 --> 00:30:22,112
+They would not be Scout and his companions living indefinitely
+
+577
+00:30:22,112 --> 00:30:23,737
+in a greener city.
+
+578
+00:30:23,737 --> 00:30:27,012
+The future would contain new relationships among surviving
+
+579
+00:30:27,012 --> 00:30:30,875
+organisms, including relationships that remain destructive
+
+580
+00:30:30,875 --> 00:30:32,950
+for vulnerable native life.
+
+581
+00:30:34,000 --> 00:30:37,300
+At sea, industrial fishing would stop when its machines
+
+582
+00:30:37,300 --> 00:30:40,362
+and vessels could no longer continue their work.
+
+583
+00:30:40,362 --> 00:30:42,500
+Harvesting pressure would fall.
+
+584
+00:30:42,500 --> 00:30:45,825
+Some populations could gain an opportunity to recover,
+
+585
+00:30:45,825 --> 00:30:49,825
+depending on their numbers, habitats, reproductive biology,
+
+586
+00:30:49,825 --> 00:30:51,300
+and other pressures.
+
+587
+00:30:51,750 --> 00:30:54,925
+The boats would not take all their consequences with them.
+
+588
+00:30:54,925 --> 00:30:58,662
+Lost nets and other fishing gear can continue entangling
+
+589
+00:30:58,662 --> 00:31:01,962
+or affecting marine life after fishing has stopped.
+
+590
+00:31:01,962 --> 00:31:05,725
+Plastics, damaged habitats, and contaminants would remain
+
+591
+00:31:05,725 --> 00:31:07,250
+in different forms.
+
+592
+00:31:07,675 --> 00:31:11,350
+The ocean would also retain heat and chemical changes.
+
+593
+00:31:11,350 --> 00:31:14,775
+Coral reefs would not instantly become healthy because
+
+594
+00:31:14,775 --> 00:31:17,012
+no one was left to visit them.
+
+595
+00:31:17,012 --> 00:31:20,812
+Existing warming and acidification would continue affecting
+
+596
+00:31:20,812 --> 00:31:24,312
+organisms on timescales that differ from the sudden end
+
+597
+00:31:24,312 --> 00:31:25,650
+of a fishing trip.
+
+598
+00:31:26,125 --> 00:31:29,600
+Reduced ship traffic could change noise and disturbance.
+
+599
+00:31:29,600 --> 00:31:32,625
+Some coastal areas could become quieter.
+
+600
+00:31:32,625 --> 00:31:35,800
+Ports and offshore structures would weather, and some
+
+601
+00:31:35,800 --> 00:31:38,787
+submerged structures could provide habitat while still
+
+602
+00:31:38,787 --> 00:31:40,525
+carrying other risks.
+
+603
+00:31:40,975 --> 00:31:44,325
+The future sea would therefore contain genuine possibilities
+
+604
+00:31:44,325 --> 00:31:48,000
+for recovery and reasons that recovery could be incomplete.
+
+605
+00:31:48,000 --> 00:31:51,000
+The end of direct extraction is important.
+
+606
+00:31:51,000 --> 00:31:54,625
+It is one change among several, unfolding in an ocean
+
+607
+00:31:54,625 --> 00:31:58,612
+whose currents, food webs, temperature, and chemistry
+
+608
+00:31:58,612 --> 00:32:01,525
+carry memories of the world we left behind.
+
+609
+00:32:02,550 --> 00:32:06,012
+If people disappear, most new human emissions eventually
+
+610
+00:32:06,012 --> 00:32:10,400
+stop. But existing carbon dioxide does not leave the atmosphere
+
+611
+00:32:10,400 --> 00:32:12,912
+the moment its producers are gone.
+
+612
+00:32:12,912 --> 00:32:18,150
+Carbon continues moving among air, ocean, soils, vegetation,
+
+613
+00:32:18,150 --> 00:32:21,300
+and other reservoirs on different timescales.
+
+614
+00:32:21,750 --> 00:32:24,450
+Stopping emissions is also different from immediately
+
+615
+00:32:24,450 --> 00:32:27,625
+reversing the temperature rise already produced.
+
+616
+00:32:27,625 --> 00:32:31,000
+NASA's explanation of a zero-emissions future describes
+
+617
+00:32:31,000 --> 00:32:34,000
+warming leveling off while temperatures remain elevated
+
+618
+00:32:34,000 --> 00:32:35,587
+for a long time.
+
+619
+00:32:35,587 --> 00:32:38,912
+Our abrupt disappearance adds complications, including
+
+620
+00:32:38,912 --> 00:32:43,050
+changes in short-lived pollutants, aerosols, land use,
+
+621
+00:32:43,050 --> 00:32:45,775
+fires, and unmanaged systems.
+
+622
+00:32:46,225 --> 00:32:49,137
+We do not need an exact temperature curve to understand
+
+623
+00:32:49,137 --> 00:32:50,562
+the central point.
+
+624
+00:32:50,562 --> 00:32:54,400
+A world without ongoing human industry does not instantly
+
+625
+00:32:54,400 --> 00:32:57,125
+reset to its preindustrial climate.
+
+626
+00:32:57,125 --> 00:33:01,237
+Ocean heat, ice, and sea level can continue responding
+
+627
+00:33:01,237 --> 00:33:03,775
+long after the initiating changes.
+
+628
+00:33:04,250 --> 00:33:07,900
+Vegetation might expand in some places while other regions
+
+629
+00:33:07,900 --> 00:33:10,925
+experience difficult climatic conditions.
+
+630
+00:33:10,925 --> 00:33:15,075
+More green on a satellite image would not by itself demonstrate
+
+631
+00:33:15,075 --> 00:33:18,650
+that every earlier climate effect has been undone.
+
+632
+00:33:19,075 --> 00:33:22,825
+The atmosphere is a record with an active chemistry, rather
+
+633
+00:33:22,825 --> 00:33:26,200
+than a screen that goes blank when its operators leave.
+
+634
+00:33:26,200 --> 00:33:28,912
+Our influence would continue through the state of the
+
+635
+00:33:28,912 --> 00:33:32,587
+system, even after the activities that produced that state
+
+636
+00:33:32,587 --> 00:33:33,650
+had ended.
+
+637
+00:33:34,700 --> 00:33:38,087
+A species that has become extinct cannot recolonize an
+
+638
+00:33:38,087 --> 00:33:41,450
+empty city. Removing the pressure that helped destroy
+
+639
+00:33:41,450 --> 00:33:44,975
+it does not supply a surviving population, a breeding
+
+640
+00:33:44,975 --> 00:33:48,675
+pair, or a complete ecological relationship.
+
+641
+00:33:49,100 --> 00:33:52,262
+For threatened species that remain, the consequences of
+
+642
+00:33:52,262 --> 00:33:54,325
+human absence would differ.
+
+643
+00:33:54,325 --> 00:33:57,687
+Some could benefit greatly from reduced disturbance.
+
+644
+00:33:57,687 --> 00:34:01,150
+Others could lose captive breeding, habitat management,
+
+645
+00:34:01,150 --> 00:34:04,650
+invasive-species control, or protection from threats
+
+646
+00:34:04,650 --> 00:34:06,500
+that continue without us.
+
+647
+00:34:06,975 --> 00:34:09,837
+Seed banks and other collections would inherit the same
+
+648
+00:34:09,837 --> 00:34:12,512
+problem as the rest of our infrastructure.
+
+649
+00:34:12,512 --> 00:34:16,175
+Their contents depend on storage conditions, equipment,
+
+650
+00:34:16,175 --> 00:34:20,100
+access, and the ability to use what has been preserved.
+
+651
+00:34:20,100 --> 00:34:23,925
+A packet inside a building is not automatically a future
+
+652
+00:34:23,925 --> 00:34:27,300
+population growing in a suitable ecosystem.
+
+653
+00:34:27,750 --> 00:34:31,000
+Over long periods, evolution would continue among the
+
+654
+00:34:31,000 --> 00:34:35,275
+survivors. That can produce new forms and relationships.
+
+655
+00:34:35,275 --> 00:34:39,000
+It does not recreate an exact vanished species simply
+
+656
+00:34:39,000 --> 00:34:42,075
+because a space in the food web has opened.
+
+657
+00:34:42,525 --> 00:34:45,562
+The world could become richer in some places while remaining
+
+658
+00:34:45,562 --> 00:34:47,737
+permanently poorer in others.
+
+659
+00:34:47,737 --> 00:34:51,487
+Recovery and irreversible loss can coexist.
+
+660
+00:34:51,487 --> 00:34:54,987
+A truthful story of nature after humanity needs room for
+
+661
+00:34:54,987 --> 00:34:59,475
+both, rather than measuring success only by how much vegetation
+
+662
+00:34:59,475 --> 00:35:01,075
+covers the ruins.
+
+663
+00:35:02,150 --> 00:35:05,075
+Centuries later, Riverton would have lost much of the
+
+664
+00:35:05,075 --> 00:35:07,112
+appearance that made it a city.
+
+665
+00:35:07,112 --> 00:35:11,175
+Exactly how much depends on climate, construction, storms,
+
+666
+00:35:11,175 --> 00:35:14,900
+fires, rivers, and the lives that established themselves
+
+667
+00:35:14,900 --> 00:35:15,675
+there.
+
+668
+00:35:16,125 --> 00:35:19,162
+A former street could contain accumulated sediment and
+
+669
+00:35:19,162 --> 00:35:22,100
+enough soil to support mature vegetation.
+
+670
+00:35:22,100 --> 00:35:24,275
+Low areas might become wet.
+
+671
+00:35:24,275 --> 00:35:28,325
+Standing walls, bridge piers, arches, and foundations
+
+672
+00:35:28,325 --> 00:35:32,175
+could create sheltered spaces and unusual habitats.
+
+673
+00:35:32,650 --> 00:35:35,850
+In a dry city, parts of the built environment might remain
+
+674
+00:35:35,850 --> 00:35:38,287
+more exposed and recognizable.
+
+675
+00:35:38,287 --> 00:35:41,650
+In a wet region, vegetation and moisture could conceal
+
+676
+00:35:41,650 --> 00:35:43,925
+and alter them much more quickly.
+
+677
+00:35:43,925 --> 00:35:47,462
+Some places would become mixtures of woodland, grass,
+
+678
+00:35:47,462 --> 00:35:51,075
+wetlands, bare ground, and structural remains.
+
+679
+00:35:51,500 --> 00:35:55,100
+The old cafe's red brick corner might still be recognizable
+
+680
+00:35:55,100 --> 00:35:58,862
+from the right angle, or only a portion might remain.
+
+681
+00:35:58,862 --> 00:36:02,150
+The awning would not be a promise, and the empty tables
+
+682
+00:36:02,150 --> 00:36:04,500
+would not wait intact forever.
+
+683
+00:36:04,950 --> 00:36:08,562
+There are no people returning for our camera, and no centuries-old
+
+684
+00:36:08,562 --> 00:36:10,712
+pet waiting beneath the trees.
+
+685
+00:36:10,712 --> 00:36:14,225
+What continues is the site itself: a piece of terrain
+
+686
+00:36:14,225 --> 00:36:18,075
+whose drainage, materials, soil, and habitat have been
+
+687
+00:36:18,075 --> 00:36:21,037
+changed by the city that once occupied it.
+
+688
+00:36:21,037 --> 00:36:23,900
+The city would survive partly through the conditions it
+
+689
+00:36:23,900 --> 00:36:25,525
+left for something else.
+
+690
+00:36:26,625 --> 00:36:30,025
+Move forward again, and the large recognizable object
+
+691
+00:36:30,025 --> 00:36:33,775
+becomes less important than the circumstances of preservation.
+
+692
+00:36:33,775 --> 00:36:38,500
+Stone, ceramic, glass, metal, wood, and concrete do
+
+693
+00:36:38,500 --> 00:36:41,900
+not respond identically to exposure or burial.
+
+694
+00:36:42,375 --> 00:36:45,325
+A sheltered dry structure might preserve details that
+
+695
+00:36:45,325 --> 00:36:47,212
+a wet surface loses.
+
+696
+00:36:47,212 --> 00:36:51,037
+A broken object buried in sediment might remain detectable
+
+697
+00:36:51,037 --> 00:36:53,712
+after the building that contained it has disappeared from
+
+698
+00:36:53,712 --> 00:36:58,700
+view. Foundations, mines, earthworks, and altered terrain
+
+699
+00:36:58,700 --> 00:37:01,475
+could leave traces with different lifetimes.
+
+700
+00:37:01,925 --> 00:37:05,450
+There is no scientifically justified moment when one thousand
+
+701
+00:37:05,450 --> 00:37:09,000
+years pass and every sign of us is erased.
+
+702
+00:37:09,000 --> 00:37:12,250
+Nor can we promise that a particular famous monument will
+
+703
+00:37:12,250 --> 00:37:15,100
+keep its current appearance for a fixed interval without
+
+704
+00:37:15,100 --> 00:37:16,175
+maintenance.
+
+705
+00:37:16,650 --> 00:37:19,712
+A surviving fragment also tells a different story from
+
+706
+00:37:19,712 --> 00:37:21,262
+a functioning object.
+
+707
+00:37:21,262 --> 00:37:24,638
+A bridge pier can remain after the crossing is lost.
+
+708
+00:37:24,638 --> 00:37:28,275
+A ceramic shard can outlast its recognizable household
+
+709
+00:37:28,275 --> 00:37:32,500
+context. A low ridge in a field can preserve the geometry
+
+710
+00:37:32,500 --> 00:37:34,750
+of an earlier human decision.
+
+711
+00:37:35,200 --> 00:37:38,912
+The future landscape would contain an uneven archive.
+
+712
+00:37:38,912 --> 00:37:41,525
+Exposure would destroy some evidence.
+
+713
+00:37:41,525 --> 00:37:43,362
+Burial would protect some.
+
+714
+00:37:43,362 --> 00:37:47,362
+Erosion could reveal an object much later, or remove the
+
+715
+00:37:47,362 --> 00:37:50,812
+surrounding record before any imagined observer had the
+
+716
+00:37:50,812 --> 00:37:52,675
+opportunity to find it.
+
+717
+00:37:53,725 --> 00:37:57,150
+Our civilization has recorded more information than any
+
+718
+00:37:57,150 --> 00:37:59,287
+earlier human society.
+
+719
+00:37:59,287 --> 00:38:01,987
+That does not make the information independent of the
+
+720
+00:38:01,987 --> 00:38:04,700
+systems that preserve and interpret it.
+
+721
+00:38:05,175 --> 00:38:09,025
+A digital file needs a storage medium, a compatible reader,
+
+722
+00:38:09,025 --> 00:38:12,612
+usable power, and an understanding of the format.
+
+723
+00:38:12,612 --> 00:38:16,200
+A functioning archive also depends on copying, checking,
+
+724
+00:38:16,200 --> 00:38:19,025
+repairing, and updating its materials.
+
+725
+00:38:19,025 --> 00:38:22,650
+When those activities stop, physical survival and practical
+
+726
+00:38:22,650 --> 00:38:24,950
+readability begin to diverge.
+
+727
+00:38:25,375 --> 00:38:27,675
+Paper has different vulnerabilities.
+
+728
+00:38:27,675 --> 00:38:31,625
+Moisture, organisms, fire, and light can damage it.
+
+729
+00:38:31,625 --> 00:38:35,275
+Dry, sheltered conditions can preserve material much better
+
+730
+00:38:35,275 --> 00:38:37,675
+than an exposed or flooded room.
+
+731
+00:38:37,675 --> 00:38:40,937
+Neither books nor electronics share a single expiration
+
+732
+00:38:40,937 --> 00:38:41,725
+date.
+
+733
+00:38:42,200 --> 00:38:46,025
+A stone inscription may endure as a physical surface while
+
+734
+00:38:46,025 --> 00:38:50,400
+the language or context needed to understand it is unavailable.
+
+735
+00:38:50,400 --> 00:38:54,450
+A device might remain recognizable as an artifact without
+
+736
+00:38:54,450 --> 00:38:57,225
+being capable of displaying its contents.
+
+737
+00:38:57,675 --> 00:39:00,762
+We are not assuming an artificial intelligence will keep
+
+738
+00:39:00,762 --> 00:39:03,437
+every library alive indefinitely.
+
+739
+00:39:03,437 --> 00:39:06,375
+That would be a different thought experiment, requiring
+
+740
+00:39:06,375 --> 00:39:08,600
+a maintenance system of its own.
+
+741
+00:39:08,600 --> 00:39:12,375
+Here, the archive gradually becomes a collection of surviving
+
+742
+00:39:12,375 --> 00:39:16,625
+materials without librarians, technicians, or readers.
+
+743
+00:39:16,625 --> 00:39:19,337
+More of our knowledge could disappear than the persistence
+
+744
+00:39:19,337 --> 00:39:21,425
+of our objects would suggest.
+
+745
+00:39:22,500 --> 00:39:25,312
+A plastic bottle can stop looking like a bottle without
+
+746
+00:39:25,312 --> 00:39:28,137
+every part of its material disappearing.
+
+747
+00:39:28,137 --> 00:39:32,300
+Sunlight, mechanical wear, water, and other processes
+
+748
+00:39:32,300 --> 00:39:35,550
+can break some plastics into smaller fragments.
+
+749
+00:39:35,550 --> 00:39:38,950
+Fragmentation and complete chemical breakdown are different
+
+750
+00:39:38,950 --> 00:39:40,050
+outcomes.
+
+751
+00:39:40,525 --> 00:39:44,600
+NOAA describes how plastic debris can become microplastics
+
+752
+00:39:44,600 --> 00:39:46,537
+that are difficult to remove.
+
+753
+00:39:46,537 --> 00:39:49,300
+That supports concern about persistence.
+
+754
+00:39:49,300 --> 00:39:52,850
+It does not justify promising that every plastic object
+
+755
+00:39:52,850 --> 00:39:56,862
+remains intact forever, or assigning one lifetime to all
+
+756
+00:39:56,862 --> 00:39:58,900
+polymers in all settings.
+
+757
+00:39:59,375 --> 00:40:02,712
+Industrial materials and pollutants can also move between
+
+758
+00:40:02,712 --> 00:40:06,637
+soil, water, organisms, and sediments.
+
+759
+00:40:06,637 --> 00:40:10,100
+A former factory site might become green while retaining
+
+760
+00:40:10,100 --> 00:40:13,475
+an unusual chemical history beneath the plants.
+
+761
+00:40:13,950 --> 00:40:17,137
+Some markers would change chemically or disperse.
+
+762
+00:40:17,137 --> 00:40:19,887
+Others could be concentrated or buried.
+
+763
+00:40:19,887 --> 00:40:22,800
+Their detectability would depend on the material, its
+
+764
+00:40:22,800 --> 00:40:26,100
+surroundings, and the scale at which someone looked.
+
+765
+00:40:26,575 --> 00:40:30,212
+This is one reason the longest-lasting signature of humanity
+
+766
+00:40:30,212 --> 00:40:33,212
+might be difficult to see in a panoramic view.
+
+767
+00:40:33,212 --> 00:40:35,262
+A skyline is dramatic.
+
+768
+00:40:35,262 --> 00:40:37,987
+A changed sediment layer can be subtle.
+
+769
+00:40:37,987 --> 00:40:41,475
+The more enduring legacy could be a mixture of small fragments
+
+770
+00:40:41,475 --> 00:40:44,825
+and altered chemistry, rather than a perfectly preserved
+
+771
+00:40:44,825 --> 00:40:47,525
+city waiting beneath a future forest.
+
+772
+00:40:48,575 --> 00:40:51,900
+Over much longer times, even a large civilization would
+
+773
+00:40:51,900 --> 00:40:54,600
+not leave a complete physical archive.
+
+774
+00:40:54,600 --> 00:40:59,400
+Burial, erosion, chemical change, tectonics, and the rarity
+
+775
+00:40:59,400 --> 00:41:02,775
+of suitable preservation would filter what remains.
+
+776
+00:41:03,225 --> 00:41:07,000
+The Silurian Hypothesis paper by Schmidt and Frank examines
+
+777
+00:41:07,000 --> 00:41:10,025
+what industrial activity might leave in the geological
+
+778
+00:41:10,025 --> 00:41:14,125
+record. Its useful lesson here is about detectability.
+
+779
+00:41:14,125 --> 00:41:17,962
+Industrial signatures can involve chemistry and biological
+
+780
+00:41:17,962 --> 00:41:22,175
+change, not only recognizable machines or monuments.
+
+781
+00:41:22,650 --> 00:41:26,187
+A future layer containing an unusual signal would still
+
+782
+00:41:26,187 --> 00:41:28,075
+need interpretation.
+
+783
+00:41:28,075 --> 00:41:31,687
+Some natural processes can produce changes that resemble
+
+784
+00:41:31,687 --> 00:41:34,187
+parts of an industrial signature.
+
+785
+00:41:34,187 --> 00:41:37,212
+Evidence would have to be considered together rather than
+
+786
+00:41:37,212 --> 00:41:41,025
+treating one unusual measurement as proof of a city.
+
+787
+00:41:41,475 --> 00:41:45,062
+Our fictional future investigator is only a way of asking
+
+788
+00:41:45,062 --> 00:41:48,112
+the question. We are not predicting who will exist to
+
+789
+00:41:48,112 --> 00:41:51,962
+excavate the record, or claiming every skyscraper becomes
+
+790
+00:41:51,962 --> 00:41:54,975
+a neatly shaped fossil inside a cliff.
+
+791
+00:41:55,450 --> 00:41:58,600
+Most of our objects would lose their original form.
+
+792
+00:41:58,600 --> 00:42:01,937
+Some traces could survive in selected settings.
+
+793
+00:42:01,937 --> 00:42:05,650
+The absence of an obvious ruin would not by itself prove
+
+794
+00:42:05,650 --> 00:42:07,537
+that nothing had happened there.
+
+795
+00:42:07,537 --> 00:42:11,000
+A place can forget its appearance while retaining a difficult,
+
+796
+00:42:11,000 --> 00:42:13,550
+incomplete record of its history.
+
+797
+00:42:14,625 --> 00:42:17,700
+Some of our artifacts would remain outside the environments
+
+798
+00:42:17,700 --> 00:42:19,975
+that destroy buildings on Earth.
+
+799
+00:42:19,975 --> 00:42:24,225
+But space does not provide one universal kind of permanence.
+
+800
+00:42:24,875 --> 00:42:28,200
+Low Earth orbit still contains enough atmospheric material
+
+801
+00:42:28,200 --> 00:42:30,650
+for drag to affect many objects.
+
+802
+00:42:30,650 --> 00:42:34,050
+Without active control or reboosting, some orbits would
+
+803
+00:42:34,050 --> 00:42:38,475
+decay. Higher orbits can persist much longer, while collisions
+
+804
+00:42:38,475 --> 00:42:41,462
+and other perturbations complicate the picture.
+
+805
+00:42:41,462 --> 00:42:45,062
+The disappearance of a radio signal is not the same event
+
+806
+00:42:45,062 --> 00:42:48,125
+as the disappearance of the spacecraft that produced it.
+
+807
+00:42:48,725 --> 00:42:51,987
+On the Moon, there is no Earth-like rain or wind to weather
+
+808
+00:42:51,987 --> 00:42:54,512
+an abandoned lander or footprint.
+
+809
+00:42:54,512 --> 00:42:58,887
+Yet impacts, radiation, thermal changes, and the movement
+
+810
+00:42:58,887 --> 00:43:02,050
+of fine material can still alter surfaces.
+
+811
+00:43:02,050 --> 00:43:05,500
+We should not call a lunar bootprint eternally unchanged.
+
+812
+00:43:06,100 --> 00:43:09,375
+Farther away, small probes could continue along their
+
+813
+00:43:09,375 --> 00:43:13,087
+trajectories after their power systems and communications
+
+814
+00:43:13,087 --> 00:43:17,125
+fail. Physical travel could outlast anyone's ability to
+
+815
+00:43:17,125 --> 00:43:18,650
+receive a message.
+
+816
+00:43:19,100 --> 00:43:22,837
+That creates a strange possibility: delicate-looking objects
+
+817
+00:43:22,837 --> 00:43:26,512
+sent beyond Earth could retain recognizable form while
+
+818
+00:43:26,512 --> 00:43:30,075
+enormous terrestrial structures have been heavily altered.
+
+819
+00:43:30,075 --> 00:43:34,137
+Even then, an artifact and an understood message remain
+
+820
+00:43:34,137 --> 00:43:36,112
+different kinds of survival.
+
+821
+00:43:36,112 --> 00:43:39,150
+The universe might keep the object without keeping a reader
+
+822
+00:43:39,150 --> 00:43:40,525
+for its story.
+
+823
+00:43:41,600 --> 00:43:45,150
+After watching the world continue without us, it is tempting
+
+824
+00:43:45,150 --> 00:43:48,800
+to conclude that humanity was only a disturbance.
+
+825
+00:43:48,800 --> 00:43:51,962
+Some of our activities have caused profound harm.
+
+826
+00:43:51,962 --> 00:43:55,825
+Their end could allow meaningful ecological recovery.
+
+827
+00:43:56,250 --> 00:44:00,512
+But human activity also includes restoring habitats, protecting
+
+828
+00:44:00,512 --> 00:44:04,212
+vulnerable species, keeping invasive predators away from
+
+829
+00:44:04,212 --> 00:44:07,825
+nesting birds, and maintaining the conditions for animals
+
+830
+00:44:07,825 --> 00:44:09,912
+we have made dependent on us.
+
+831
+00:44:09,912 --> 00:44:12,275
+Those activities would end too.
+
+832
+00:44:12,725 --> 00:44:16,275
+The same is true inside our homes and communities.
+
+833
+00:44:16,275 --> 00:44:20,650
+Clean water, reliable food, shelter, medical care, and
+
+834
+00:44:20,650 --> 00:44:24,125
+preserved knowledge are sustained through repeated tasks.
+
+835
+00:44:24,125 --> 00:44:26,737
+They can look like permanent features because someone
+
+836
+00:44:26,737 --> 00:44:28,250
+keeps doing the work.
+
+837
+00:44:28,700 --> 00:44:32,350
+Our thought experiment reveals both sides of that influence.
+
+838
+00:44:32,350 --> 00:44:35,775
+It shows pressures that other organisms could escape.
+
+839
+00:44:35,775 --> 00:44:39,112
+It also shows obligations that would be abandoned and
+
+840
+00:44:39,112 --> 00:44:41,437
+consequences that would remain.
+
+841
+00:44:41,437 --> 00:44:44,725
+A world with no people would not become a moral verdict
+
+842
+00:44:44,725 --> 00:44:46,550
+delivered by a forest.
+
+843
+00:44:46,975 --> 00:44:49,875
+For the people watching now, the useful question is what
+
+844
+00:44:49,875 --> 00:44:52,200
+kind of presence we can maintain.
+
+845
+00:44:52,200 --> 00:44:54,250
+Which damage can we reduce?
+
+846
+00:44:54,250 --> 00:44:56,950
+Which vulnerable lives can we support?
+
+847
+00:44:56,950 --> 00:44:59,525
+Which systems should become more resilient?
+
+848
+00:44:59,525 --> 00:45:02,325
+We do not have to disappear to change the effects of being
+
+849
+00:45:02,325 --> 00:45:03,075
+here.
+
+850
+00:45:04,125 --> 00:45:06,125
+Return to the opening morning.
+
+851
+00:45:06,125 --> 00:45:08,950
+We are moving back to the beginning of the thought experiment,
+
+852
+00:45:08,950 --> 00:45:11,937
+not finding Scout alive after centuries.
+
+853
+00:45:11,937 --> 00:45:14,050
+The mug is still on the counter.
+
+854
+00:45:14,050 --> 00:45:16,012
+The clock still has power.
+
+855
+00:45:16,012 --> 00:45:19,250
+The dog is still listening for a familiar step.
+
+856
+00:45:19,725 --> 00:45:22,412
+Ahead of that moment are many different futures.
+
+857
+00:45:22,412 --> 00:45:25,450
+Machines will spend their stored reliability.
+
+858
+00:45:25,450 --> 00:45:28,887
+Structures will become habitats, fragments, or changes
+
+859
+00:45:28,887 --> 00:45:32,012
+in the ground. Some species will flourish.
+
+860
+00:45:32,012 --> 00:45:34,487
+Others will lose their last support.
+
+861
+00:45:34,487 --> 00:45:37,900
+The atmosphere and sediments will carry consequences long
+
+862
+00:45:37,900 --> 00:45:40,075
+after a room has gone quiet.
+
+863
+00:45:40,525 --> 00:45:42,987
+Earth would continue without humanity.
+
+864
+00:45:42,987 --> 00:45:46,450
+That does not mean every human influence would end, or
+
+865
+00:45:46,450 --> 00:45:49,038
+that every form of life would benefit.
+
+866
+00:45:49,038 --> 00:45:51,000
+Our absence would be an event.
+
+867
+00:45:51,000 --> 00:45:54,725
+Its consequences would be a long, uneven history.
+
+868
+00:45:55,150 --> 00:45:58,312
+Perhaps the most revealing thing about this imagined world
+
+869
+00:45:58,312 --> 00:46:01,700
+is how much of ordinary life turns out to be renewed rather
+
+870
+00:46:01,700 --> 00:46:04,312
+than permanent. The full bowl.
+
+871
+00:46:04,312 --> 00:46:05,700
+The repaired roof.
+
+872
+00:46:05,700 --> 00:46:07,075
+The protected nest.
+
+873
+00:46:07,075 --> 00:46:08,475
+The copied book.
+
+874
+00:46:08,900 --> 00:46:12,100
+Tomorrow, in the real world, the alarm can still be followed
+
+875
+00:46:12,100 --> 00:46:15,250
+by footsteps. There is still someone here to notice what
+
+876
+00:46:15,250 --> 00:46:18,587
+needs care, and to decide whether to provide it.
+
+877
+00:46:18,587 --> 00:46:22,250
+That is a smaller image than a forest swallowing a city.
+
+878
+00:46:22,250 --> 00:46:24,950
+It may also be the more important one.

@@ -1,0 +1,62 @@
+[
+  {
+    "source_sheet": "07",
+    "source_cell": 12,
+    "replacement_sheet": "44",
+    "replacement_cell": 0,
+    "reason": "Generated green checks and red crosses imply a universal survival ranking of breeds or species. Replace with neutral shared care requirements and varied animals, without guaranteed survival verdicts.",
+    "shot_index": 162,
+    "start": 648.8333333333334,
+    "end": 654.2083333333334,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "34",
+    "source_cell": 12,
+    "replacement_sheet": "44",
+    "replacement_cell": 1,
+    "reason": "Generated green checks and red crosses imply a universal survival ranking of breeds or species. Replace with neutral shared care requirements and varied animals, without guaranteed survival verdicts.",
+    "shot_index": 163,
+    "start": 654.2083333333334,
+    "end": 659.5833333333334,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "29",
+    "source_cell": 5,
+    "replacement_sheet": "45",
+    "replacement_cell": 0,
+    "reason": "Incoming luminous meteor-like streaks over the airless Moon could imply an Earth-like atmospheric meteor phenomenon. Replace with existing crater/regolith comparison.",
+    "shot_index": 638,
+    "start": 2557.125,
+    "end": 2562.125,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "41",
+    "source_cell": 11,
+    "replacement_sheet": "45",
+    "replacement_cell": 2,
+    "reason": "Lunar impact panel includes fiery incoming trails. Replace with only local non-glowing ballistic dust ejecta at an impact crater; no atmospheric meteor streaks.",
+    "shot_index": 639,
+    "start": 2562.125,
+    "end": 2567.125,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "31",
+    "source_cell": 10,
+    "replacement_sheet": "45",
+    "replacement_cell": 1,
+    "reason": "A mammoth in the future-Earth diagram could imply an extinct species returns after people disappear. Replace with a living modern deer/tree and foundation diagram.",
+    "shot_index": 687,
+    "start": 2754.125,
+    "end": 2759.7916666666665,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  }
+]

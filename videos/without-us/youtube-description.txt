@@ -1,0 +1,67 @@
+TITLE
+If Humans Disappeared Tomorrow, What Would Survive?
+
+DESCRIPTION
+Tomorrow morning, your alarm will ring. Your phone will light up. Somewhere, a dog will wait beside a door. But nobody will come.
+
+What if every human disappeared at the same moment, while animals, plants, weather, buildings, and machines remained? Follow an original illustrated thought experiment from the first minutes to growing seasons, decades, centuries, and the distant traces of our civilization.
+
+Electric grids, water systems, pets, livestock, industrial hazards, forests, oceans, archives, and objects in space would all have different futures. Nature could recover in some ways while pollution, introduced species, climate change, and irreversible losses continued to matter.
+
+This is not a prediction of a real event or one exact global collapse schedule. Riverton and Scout are fictional examples. Scout appears only during the opening-day/first-days story and an explicit return to that opening—not as a pet surviving centuries. No cause for the disappearance, surviving people, or autonomous caretaker civilization is assumed.
+
+CHAPTERS
+00:00 Tomorrow morning, nobody comes
+01:13 The rules of an empty world
+02:36 Motion does not disappear with us
+03:57 Automation is borrowed time
+05:26 There is no global light switch
+06:57 The water inside the walls
+08:23 The city beneath the city
+09:47 A door can decide an animal's future
+11:10 Domestication leaves obligations
+12:42 The brief feast in our cupboards
+14:09 Industry does not have one ending
+15:42 A stopped reactor still produces heat
+17:21 Fire will follow the weather
+18:50 The first growing season
+20:17 A house is an agreement with water
+21:41 What rust can do inside concrete
+23:08 The skyline loses its certainty
+24:36 Rivers meet the barriers we left
+26:06 The fields do not all become forests
+27:31 The return of wildlife is complicated
+29:01 Feral is not the same as native
+30:33 The sea after the fleets
+32:02 The climate does not forget overnight
+33:34 Some losses cannot walk back in
+35:01 Centuries in Riverton
+36:26 A thousand years is not one eraser
+37:53 Information loses its readers
+39:22 Small fragments, long legacies
+40:48 The geological record chooses badly
+42:14 Above the rain and the roots
+43:41 The work that made the ordinary possible
+45:03 The sound after the alarm
+
+SOURCES & SCIENTIFIC LIMITS
+https://github.com/tai23082004l02-svg/YTB-ng-i-que/blob/main/videos/without-us/SOURCES.md
+
+U.S. EIA — How electric grids work:
+https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php
+
+National Park Service — Preservation of Historic Concrete:
+https://www.nps.gov/orgs/1739/upload/preservation-brief-15-concrete.pdf
+
+Deryabina et al. — Mammal abundance at Chernobyl; not proof radiation is harmless:
+https://doi.org/10.1016/j.cub.2015.08.017
+
+NASA — The climate does not instantly reset when emissions stop:
+https://science.nasa.gov/climate-change/faq/is-it-too-late-to-prevent-climate-change/
+
+PRODUCTION NOTE
+An original science documentary by The Long Wonder, with AI-generated 2D illustrations and synthetic English narration. Empty-world scenes are hypothetical illustrations, not footage of an actual disappearance or disaster. Infrastructure diagrams are conceptual, not engineering forecasts or measured data.
+
+Deep time. Distant worlds. Human questions.
+
+#WhatIf #Nature #ScienceDocumentary

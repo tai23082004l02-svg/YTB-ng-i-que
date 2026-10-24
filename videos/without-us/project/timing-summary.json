@@ -1,0 +1,24 @@
+{
+  "source_duration_seconds": 2785.65,
+  "final_duration_seconds": 2785.65,
+  "additional_tempo_factor": 1.0,
+  "tts_speed": 1.07,
+  "illustrations_used": 695,
+  "illustrations_generated": 736,
+  "mean_shot_seconds": 4.008129496402878,
+  "min_shot_seconds": 3.0,
+  "max_shot_seconds": 6.0,
+  "simple_shots": 446,
+  "explanatory_shots": 249,
+  "cuts_near_caption_boundaries": 170,
+  "simple_range_seconds": [
+    3.0,
+    4.0
+  ],
+  "explanation_range_seconds": [
+    5.0,
+    6.0
+  ],
+  "source_sheets": 46,
+  "curation_alternative_sheets": 2
+}

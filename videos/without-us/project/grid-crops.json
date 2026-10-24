@@ -1,0 +1,1428 @@
+{
+  "00": {
+    "width": 1672,
+    "height": 940,
+    "x_edges": [
+      0,
+      417,
+      835,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      235,
+      470,
+      695,
+      940
+    ],
+    "x_strength": [
+      66.88,
+      65.1,
+      81.58
+    ],
+    "y_strength": [
+      74.25,
+      60.11,
+      84.57
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "01": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      416,
+      835,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      239,
+      469,
+      699,
+      941
+    ],
+    "x_strength": [
+      99.08,
+      76.73,
+      62.96
+    ],
+    "y_strength": [
+      108.6,
+      68.38,
+      79.03
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "02": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      835,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      240,
+      465,
+      686,
+      941
+    ],
+    "x_strength": [
+      117.08,
+      137.0,
+      108.51
+    ],
+    "y_strength": [
+      127.63,
+      133.61,
+      76.97
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "03": {
+    "width": 1672,
+    "height": 940,
+    "x_edges": [
+      0,
+      419,
+      837,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      235,
+      471,
+      704,
+      940
+    ],
+    "x_strength": [
+      61.47,
+      88.12,
+      76.72
+    ],
+    "y_strength": [
+      60.3,
+      142.18,
+      89.09
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "04": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      417,
+      837,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      471,
+      704,
+      941
+    ],
+    "x_strength": [
+      100.11,
+      89.49,
+      78.42
+    ],
+    "y_strength": [
+      86.22,
+      48.74,
+      72.02
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "05": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      417,
+      835,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      236,
+      471,
+      707,
+      941
+    ],
+    "x_strength": [
+      63.46,
+      78.83,
+      67.85
+    ],
+    "y_strength": [
+      100.11,
+      75.32,
+      125.35
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "06": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      420,
+      834,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      233,
+      472,
+      702,
+      941
+    ],
+    "x_strength": [
+      71.18,
+      69.9,
+      66.91
+    ],
+    "y_strength": [
+      50.62,
+      60.94,
+      62.37
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "07": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      417,
+      835,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      242,
+      471,
+      700,
+      941
+    ],
+    "x_strength": [
+      97.62,
+      77.22,
+      88.19
+    ],
+    "y_strength": [
+      79.56,
+      86.67,
+      66.1
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "08": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      418,
+      835,
+      1259,
+      1672
+    ],
+    "y_edges": [
+      0,
+      236,
+      470,
+      690,
+      941
+    ],
+    "x_strength": [
+      101.88,
+      84.98,
+      84.87
+    ],
+    "y_strength": [
+      100.41,
+      97.34,
+      118.38
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "09": {
+    "width": 1672,
+    "height": 940,
+    "x_edges": [
+      0,
+      416,
+      834,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      234,
+      471,
+      701,
+      940
+    ],
+    "x_strength": [
+      79.36,
+      132.6,
+      87.03
+    ],
+    "y_strength": [
+      77.48,
+      86.14,
+      101.96
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "10": {
+    "width": 1672,
+    "height": 940,
+    "x_edges": [
+      0,
+      420,
+      838,
+      1252,
+      1672
+    ],
+    "y_edges": [
+      0,
+      234,
+      471,
+      706,
+      940
+    ],
+    "x_strength": [
+      72.27,
+      84.69,
+      76.25
+    ],
+    "y_strength": [
+      91.53,
+      69.37,
+      110.73
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "11": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      837,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      235,
+      471,
+      706,
+      941
+    ],
+    "x_strength": [
+      106.04,
+      123.31,
+      115.69
+    ],
+    "y_strength": [
+      105.77,
+      77.51,
+      132.55
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "12": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      416,
+      837,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      235,
+      471,
+      707,
+      941
+    ],
+    "x_strength": [
+      77.69,
+      90.05,
+      94.19
+    ],
+    "y_strength": [
+      116.1,
+      101.74,
+      102.29
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "13": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      420,
+      837,
+      1252,
+      1672
+    ],
+    "y_edges": [
+      0,
+      235,
+      472,
+      698,
+      941
+    ],
+    "x_strength": [
+      83.14,
+      83.16,
+      95.33
+    ],
+    "y_strength": [
+      118.09,
+      91.6,
+      78.91
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "14": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      416,
+      837,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      468,
+      703,
+      941
+    ],
+    "x_strength": [
+      55.03,
+      81.8,
+      82.27
+    ],
+    "y_strength": [
+      81.97,
+      75.16,
+      64.07
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "15": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      835,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      233,
+      468,
+      709,
+      941
+    ],
+    "x_strength": [
+      118.75,
+      93.83,
+      100.68
+    ],
+    "y_strength": [
+      110.29,
+      66.32,
+      128.88
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "16": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      835,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      235,
+      470,
+      705,
+      941
+    ],
+    "x_strength": [
+      123.54,
+      139.77,
+      59.52
+    ],
+    "y_strength": [
+      92.0,
+      99.38,
+      114.77
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "17": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      416,
+      837,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      472,
+      706,
+      941
+    ],
+    "x_strength": [
+      70.28,
+      56.77,
+      81.14
+    ],
+    "y_strength": [
+      84.1,
+      121.89,
+      134.42
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "18": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      416,
+      834,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      235,
+      471,
+      705,
+      941
+    ],
+    "x_strength": [
+      67.94,
+      80.33,
+      75.75
+    ],
+    "y_strength": [
+      98.8,
+      103.08,
+      92.36
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "19": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      835,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      471,
+      705,
+      941
+    ],
+    "x_strength": [
+      77.9,
+      79.78,
+      91.88
+    ],
+    "y_strength": [
+      78.9,
+      142.37,
+      114.04
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "20": {
+    "width": 1672,
+    "height": 940,
+    "x_edges": [
+      0,
+      420,
+      838,
+      1252,
+      1672
+    ],
+    "y_edges": [
+      0,
+      233,
+      471,
+      706,
+      940
+    ],
+    "x_strength": [
+      80.75,
+      72.13,
+      92.83
+    ],
+    "y_strength": [
+      75.16,
+      116.73,
+      132.74
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "21": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      416,
+      835,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      471,
+      706,
+      941
+    ],
+    "x_strength": [
+      75.98,
+      65.01,
+      121.05
+    ],
+    "y_strength": [
+      115.57,
+      96.86,
+      111.86
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "22": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      835,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      471,
+      705,
+      941
+    ],
+    "x_strength": [
+      100.19,
+      133.82,
+      113.53
+    ],
+    "y_strength": [
+      76.29,
+      111.19,
+      79.89
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "23": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      835,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      232,
+      462,
+      690,
+      941
+    ],
+    "x_strength": [
+      96.76,
+      112.25,
+      96.13
+    ],
+    "y_strength": [
+      78.37,
+      50.4,
+      43.31
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "24": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      837,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      236,
+      471,
+      706,
+      941
+    ],
+    "x_strength": [
+      70.21,
+      68.16,
+      69.27
+    ],
+    "y_strength": [
+      87.4,
+      63.2,
+      75.06
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "25": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      835,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      236,
+      471,
+      706,
+      941
+    ],
+    "x_strength": [
+      73.19,
+      66.23,
+      65.83
+    ],
+    "y_strength": [
+      130.28,
+      103.97,
+      98.49
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "26": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      417,
+      838,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      236,
+      468,
+      685,
+      941
+    ],
+    "x_strength": [
+      113.6,
+      97.25,
+      114.87
+    ],
+    "y_strength": [
+      112.73,
+      85.04,
+      93.23
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "27": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      837,
+      1252,
+      1672
+    ],
+    "y_edges": [
+      0,
+      236,
+      471,
+      706,
+      941
+    ],
+    "x_strength": [
+      90.04,
+      91.76,
+      76.32
+    ],
+    "y_strength": [
+      120.29,
+      111.8,
+      84.36
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "28": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      834,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      471,
+      706,
+      941
+    ],
+    "x_strength": [
+      86.08,
+      74.16,
+      90.75
+    ],
+    "y_strength": [
+      132.21,
+      73.95,
+      108.89
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "29": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      838,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      231,
+      468,
+      687,
+      941
+    ],
+    "x_strength": [
+      74.6,
+      39.19,
+      48.95
+    ],
+    "y_strength": [
+      82.42,
+      83.54,
+      44.94
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "30": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      837,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      238,
+      470,
+      704,
+      941
+    ],
+    "x_strength": [
+      78.87,
+      75.88,
+      76.79
+    ],
+    "y_strength": [
+      85.58,
+      87.36,
+      126.33
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "31": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      417,
+      835,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      471,
+      703,
+      941
+    ],
+    "x_strength": [
+      73.77,
+      63.08,
+      83.19
+    ],
+    "y_strength": [
+      101.5,
+      51.88,
+      46.43
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "32": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      421,
+      839,
+      1257,
+      1672
+    ],
+    "y_edges": [
+      0,
+      232,
+      467,
+      703,
+      941
+    ],
+    "x_strength": [
+      96.43,
+      107.17,
+      149.36
+    ],
+    "y_strength": [
+      126.33,
+      102.49,
+      123.25
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "33": {
+    "width": 1672,
+    "height": 940,
+    "x_edges": [
+      0,
+      420,
+      838,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      471,
+      702,
+      940
+    ],
+    "x_strength": [
+      91.6,
+      68.21,
+      57.5
+    ],
+    "y_strength": [
+      74.87,
+      89.19,
+      75.72
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "34": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      416,
+      837,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      238,
+      466,
+      699,
+      941
+    ],
+    "x_strength": [
+      64.45,
+      73.05,
+      86.06
+    ],
+    "y_strength": [
+      64.29,
+      57.78,
+      75.76
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "35": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      835,
+      1255,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      469,
+      702,
+      941
+    ],
+    "x_strength": [
+      122.23,
+      82.45,
+      125.33
+    ],
+    "y_strength": [
+      130.81,
+      117.55,
+      95.85
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "36": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      418,
+      834,
+      1252,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      471,
+      706,
+      941
+    ],
+    "x_strength": [
+      83.76,
+      99.26,
+      91.61
+    ],
+    "y_strength": [
+      75.2,
+      102.81,
+      119.69
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "37": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      416,
+      837,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      236,
+      471,
+      706,
+      941
+    ],
+    "x_strength": [
+      81.05,
+      72.04,
+      80.0
+    ],
+    "y_strength": [
+      128.29,
+      123.07,
+      114.19
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "38": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      415,
+      838,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      471,
+      706,
+      941
+    ],
+    "x_strength": [
+      67.32,
+      76.95,
+      99.47
+    ],
+    "y_strength": [
+      123.89,
+      95.03,
+      86.01
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "39": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      834,
+      1252,
+      1672
+    ],
+    "y_edges": [
+      0,
+      235,
+      471,
+      705,
+      941
+    ],
+    "x_strength": [
+      112.78,
+      72.64,
+      98.52
+    ],
+    "y_strength": [
+      72.24,
+      88.22,
+      79.68
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "40": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      835,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      237,
+      471,
+      694,
+      941
+    ],
+    "x_strength": [
+      83.29,
+      71.07,
+      84.41
+    ],
+    "y_strength": [
+      108.13,
+      106.92,
+      103.58
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "41": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      418,
+      837,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      236,
+      469,
+      704,
+      941
+    ],
+    "x_strength": [
+      57.98,
+      49.72,
+      72.58
+    ],
+    "y_strength": [
+      90.38,
+      42.75,
+      85.08
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "42": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      417,
+      838,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      234,
+      468,
+      704,
+      941
+    ],
+    "x_strength": [
+      109.21,
+      57.08,
+      70.73
+    ],
+    "y_strength": [
+      92.05,
+      75.97,
+      112.27
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "43": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      416,
+      837,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      234,
+      471,
+      704,
+      941
+    ],
+    "x_strength": [
+      53.03,
+      94.01,
+      105.53
+    ],
+    "y_strength": [
+      61.3,
+      104.5,
+      76.5
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "44": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      419,
+      835,
+      1256,
+      1672
+    ],
+    "y_edges": [
+      0,
+      249,
+      473,
+      695,
+      941
+    ],
+    "x_strength": [
+      131.18,
+      83.36,
+      82.16
+    ],
+    "y_strength": [
+      126.21,
+      144.37,
+      99.59
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  },
+  "45": {
+    "width": 1672,
+    "height": 941,
+    "x_edges": [
+      0,
+      417,
+      837,
+      1253,
+      1672
+    ],
+    "y_edges": [
+      0,
+      235,
+      470,
+      701,
+      941
+    ],
+    "x_strength": [
+      62.45,
+      64.95,
+      58.83
+    ],
+    "y_strength": [
+      93.07,
+      79.9,
+      60.39
+    ],
+    "inset_source_pixels": 6,
+    "scale": "preserve aspect, increase to cover 1280x720, fixed center crop",
+    "edge_method": "median coherent transitions across all four perpendicular cells; inspect low-confidence flags"
+  }
+}

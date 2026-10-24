@@ -1,0 +1,64 @@
+{
+  "status": "passed",
+  "duration_seconds": 2785.666667,
+  "runtime_rounded": "46:26",
+  "chapters": 32,
+  "narration_words_whitespace_count": 6271,
+  "video_codec": "h264",
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "audio_bitrate": "65120",
+  "integrated_loudness_lufs": -16.83,
+  "true_peak_dbtp": -2.3,
+  "loudness_range_lu": 2.3,
+  "full_decode_exit_code": 0,
+  "subtitle_cues": 878,
+  "selected_unique_illustrations": 695,
+  "generated_illustrations": 736,
+  "mean_scene_seconds": 4.008153477697841,
+  "simple_shots": 446,
+  "explanatory_shots": 249,
+  "simple_range_seconds": [
+    3.0,
+    4.0
+  ],
+  "explanation_range_seconds": [
+    5.0,
+    6.0
+  ],
+  "cuts_near_caption_boundaries": 170,
+  "framing": "measured four-by-four grid boundaries; 6-pixel source inset, aspect-preserving scale and fixed center crop",
+  "post_normalization_peak_control": "Own-source normalization,192kHz oversampled -5dBFS limiter with latency compensation,+0.8dB gain,48kHz single-generation64k AAC from original WAV; video copied. Gain selected from own prior final measurement.",
+  "visual_curation_changes": 5,
+  "excluded_panels": [
+    {
+      "sheet": "07",
+      "cell": 12
+    },
+    {
+      "sheet": "34",
+      "cell": 12
+    },
+    {
+      "sheet": "29",
+      "cell": 5
+    },
+    {
+      "sheet": "41",
+      "cell": 11
+    },
+    {
+      "sheet": "31",
+      "cell": 10
+    }
+  ],
+  "zip_crc": "passed",
+  "mp4_bytes": 100369236,
+  "sha256": "b430c3750f7ac87c9fd6cb86628c7a0e867adb33a9befaa8f7c7fe7498966c32",
+  "review_scope": "Full automated decode, timing and final-audio measurement; representative visual review and scientific visual curation. Not exhaustive human listening."
+}
