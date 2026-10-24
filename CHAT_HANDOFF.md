@@ -35,6 +35,7 @@
 | [Before the Alarm Clock](videos/before-the-alarm-clock/README.md) | Khoảng 4:12, bản cập nhật 2, 48 hình | Bản đã chốt cách bỏ header, tắt zoom và tăng mật độ hình. Không lấy bản đầu có zoom làm mẫu. |
 | [The Last Humans](videos/the-last-humans/README.md) | **24:45**, 20 phần, **268 hình dùng**, 480 đoạn phụ đề | Mẫu video dài được người dùng đánh giá tốt. Có đủ nguồn ảnh và dữ liệu dựng trong GitHub. |
 | [Could We Survive?](videos/could-we-survive/README.md) | **34:30**, 28 phần, **371 hình dùng**, 681 đoạn phụ đề | Năm đại tuyệt chủng và giả định sinh tồn hiện đại; có ảnh nguồn, ghi chú khoa học và bộ đăng YouTube. |
+| [Before Us / Silurian Hypothesis](videos/before-us/README.md) | **30:08**, 24 phần, **322 hình dùng**, 566 đoạn phụ đề | Câu hỏi về khả năng phát hiện, không tuyên bố có nền văn minh công nghiệp tiền nhân loại. Có đủ nguồn và bộ đăng. |
 
 Tên tiếng Anh video dài: **Earth Once Had Many Human Species. Why Are We the Only Ones Left?**
 
@@ -45,7 +46,12 @@ https://raw.githubusercontent.com/tai23082004l02-svg/YTB-ng-i-que/afd41171e9b38c
 
 ## 4. Tệp nào chứa gì?
 
-Bản mới nhất nằm trong [videos/could-we-survive/](videos/could-we-survive/README.md): video 34:30, 32 bộ ảnh nguồn (384 hình tạo ra, 371 hình dùng), dữ liệu dựng, nguồn tham khảo và bộ đăng ZIP. Giọng `am_michael`, TTS 1.07 và tempo bổ sung 1.041171498; nhịp kể cuối khoảng 143 từ/phút. Không áp dụng máy móc tốc độ hoặc số đo cân âm lượng này sang video khác.
+**Bản mới nhất:** [videos/before-us/](videos/before-us/README.md), chủ đề Silurian Hypothesis; 30:08, 24 phần, 28 bộ ảnh nguồn (336 ô, 322 dùng), 566 cue. Kokoro `am_michael` speed 1.07, **không chỉnh tempo bổ sung**. Cân âm lượng riêng theo số đo của bản này; xem validation-summary.json.
+
+Không biến giả thuyết thành tuyên bố phát hiện. PETM là sự kiện tự nhiên dùng để so sánh, không là bằng chứng công nghiệp. Thành phố trong bong bóng chỉ là ý tưởng. Đọc project/curation-notes.json: sheet-16 ô 2 chứa trilobite sống sai niên đại PETM đã bị loại; cảnh 217 dùng sheet-24 ô 4. Không đưa ô sai vào lại khi dựng.
+
+
+Bản trước nằm trong [videos/could-we-survive/](videos/could-we-survive/README.md): video 34:30, 32 bộ ảnh nguồn (384 hình tạo ra, 371 hình dùng), dữ liệu dựng, nguồn tham khảo và bộ đăng ZIP. Giọng `am_michael`, TTS 1.07 và tempo bổ sung 1.041171498; nhịp kể cuối khoảng 143 từ/phút. Không áp dụng máy móc tốc độ hoặc số đo cân âm lượng này sang video khác.
 
 Đọc `project/curation-notes.json` của bản này khi sửa: ô 4 của `sheet-15` có trilobite sống sai niên đại Trias và đã bị loại, thay bằng ô 5 của `sheet-29`. Giữ sự phân biệt giữa bằng chứng cổ đại và giả định hiện đại; không biến video thành một dự báo chắc chắn hoặc gán xác suất sống sót không có dữ liệu.
 

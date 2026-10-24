@@ -1,0 +1,51 @@
+If an industrial civilization existed millions of years before humans, what traces could survive—and would we recognize them?
+
+The Silurian Hypothesis is a scientific question about detectability, not an announcement that an ancient technological civilization has been discovered. This illustrated documentary follows the evidence from abandoned cities and sediment cores to carbon isotopes, synthetic materials, natural reactors, and geological false positives.
+
+We ask what might remain of us after deep time, why a strange chemical signal does not automatically prove industry, and what a convincing investigation would actually need. We also examine the PETM comparison and explain why preservation limits do not make every imagined history equally likely.
+
+CHAPTERS
+00:00 A Core From the Future
+01:07 What the Silurian Hypothesis Actually Asks
+02:20 Archaeology vs. Deep Time
+03:29 If Our Cities Were Abandoned
+04:42 Burial: Destruction and Preservation
+05:59 The Gaps in Earth’s Archive
+07:11 Could We Miss the Builders?
+08:27 Industry’s Wider Footprint
+09:44 Why There Is No Universal Thin Layer
+10:50 Carbon Isotopes as a Clue
+12:10 Nitrogen, Metals, and Sediments
+13:34 What Happens to Our Materials?
+14:54 Plastics and Contamination
+16:14 Radioactivity and Natural Reactors
+17:32 The Biological Record
+18:49 Following the Sample
+20:04 The PETM Comparison
+21:23 Natural False Positives
+22:43 What Stronger Evidence Would Need
+24:00 Possible Does Not Mean Probable
+25:14 The Smaller-Footprint Paradox
+26:32 Other Possible Archives
+27:48 Return to the Core
+28:59 What We Can Honestly Conclude
+
+SOURCES & EVIDENCE NOTES
+Full references, uncertainties, and illustration notes:
+https://github.com/tai23082004l02-svg/YTB-ng-i-que/blob/main/videos/before-us/SOURCES.md
+
+Schmidt & Frank — The Silurian Hypothesis (open 2018 preprint):
+https://arxiv.org/abs/1804.03748
+Journal DOI:
+https://doi.org/10.1017/S1473550418000095
+
+Waters et al. — The observed modern stratigraphic footprint:
+https://doi.org/10.1126/science.aad2622
+
+Zeebe, Ridgwell & Zachos — Carbon-release rates and the PETM:
+https://www.nature.com/articles/ngeo2681
+
+PRODUCTION NOTE
+Original English script with AI-generated 2D illustrations and synthetic narration. Future investigators, cities, cores, laboratories, and diagrams are storytelling or conceptual representations, not footage of a verified prehuman discovery. Imagined skylines are separate from actual evidence; no buried machine or skyscraper is presented as proof.
+
+#SilurianHypothesis #Geology #EarthHistory

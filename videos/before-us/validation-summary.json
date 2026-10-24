@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "duration_seconds": 1807.583333,
+  "runtime_rounded": "30:08",
+  "chapters": 24,
+  "video_codec": "h264",
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "integrated_loudness_lufs": -16.76,
+  "true_peak_dbtp": -1.79,
+  "loudness_range_lu": 2.3,
+  "full_decode_exit_code": 0,
+  "subtitle_cues": 566,
+  "selected_unique_illustrations": 322,
+  "generated_illustrations": 336,
+  "min_shot_seconds": 5.4583333333332575,
+  "max_shot_seconds": 5.875,
+  "known_anachronistic_panel_excluded": true,
+  "zip_crc": "passed",
+  "mp4_bytes": 77368725,
+  "sha256": "2116667ce2d6862fdad044a1fcd7bb3fc7949fb488d52779488feb4d2429f95b",
+  "review_scope": "Full automated decode and audio measurement; representative visual review, including corrected PETM panel. Not a claim of exhaustive human listening."
+}

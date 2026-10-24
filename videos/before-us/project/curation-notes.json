@@ -1,0 +1,14 @@
+[
+  {
+    "shot_index": 217,
+    "excluded": {
+      "sheet": "16",
+      "cell": 2
+    },
+    "replacement": {
+      "sheet": "24",
+      "cell": 4
+    },
+    "reason": "Generated PETM ocean illustration incorrectly included living trilobites/orthocone-like fauna. Replaced with a neutral river sediment scene; trilobites were extinct long before the PETM."
+  }
+]
