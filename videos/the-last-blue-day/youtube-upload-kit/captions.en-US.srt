@@ -1,0 +1,3351 @@
+1
+00:00:00,375 --> 00:00:03,175
+Imagine the last ordinary morning on Earth.
+
+2
+00:00:03,175 --> 00:00:05,138
+There is no asteroid in the sky.
+
+3
+00:00:05,138 --> 00:00:06,825
+No alien invasion.
+
+4
+00:00:06,825 --> 00:00:10,225
+The Sun rises exactly where people expect it to rise.
+
+5
+00:00:10,225 --> 00:00:13,388
+Somewhere, a door opens, and someone steps outside without
+
+6
+00:00:13,388 --> 00:00:15,112
+carrying their own air.
+
+7
+00:00:15,112 --> 00:00:16,938
+Perhaps they notice a bird.
+
+8
+00:00:16,938 --> 00:00:18,975
+Perhaps there are no birds left.
+
+9
+00:00:18,975 --> 00:00:21,662
+We cannot know what that morning would look like, or whether
+
+10
+00:00:21,662 --> 00:00:23,962
+anyone like us will be there to see it.
+
+11
+00:00:23,962 --> 00:00:27,362
+This is an imagined scene, not a prediction of a particular
+
+12
+00:00:27,362 --> 00:00:28,775
+future family.
+
+13
+00:00:29,175 --> 00:00:31,288
+But the question behind it is real.
+
+14
+00:00:31,288 --> 00:00:33,950
+How much longer can Earth remain a home?
+
+15
+00:00:33,950 --> 00:00:37,300
+The answer is not simply, until the Sun dies.
+
+16
+00:00:37,300 --> 00:00:41,350
+Our star does not need to explode to make this world uninhabitable.
+
+17
+00:00:41,350 --> 00:00:44,788
+It only needs to keep doing what it already does: turning
+
+18
+00:00:44,788 --> 00:00:48,475
+hydrogen into helium, and slowly changing as a result.
+
+19
+00:00:49,150 --> 00:00:52,175
+Long before a swollen red Sun reaches toward the inner
+
+20
+00:00:52,175 --> 00:00:55,262
+planets, Earth could lose the conditions that support
+
+21
+00:00:55,262 --> 00:00:57,312
+its familiar living world.
+
+22
+00:00:57,312 --> 00:01:01,325
+Forests, breathable air, oceans, and the last surviving
+
+23
+00:01:01,325 --> 00:01:05,488
+microbes do not necessarily share an expiration date.
+
+24
+00:01:05,488 --> 00:01:08,625
+Today, we are going to follow those different clocks,
+
+25
+00:01:08,625 --> 00:01:11,675
+and ask what it would actually mean to save a planet.
+
+26
+00:01:12,700 --> 00:01:15,712
+Before we travel forward, we need to decide what we are
+
+27
+00:01:15,712 --> 00:01:17,338
+trying to preserve.
+
+28
+00:01:17,338 --> 00:01:20,450
+An astronomer may call a planet potentially habitable
+
+29
+00:01:20,450 --> 00:01:23,800
+if conditions could allow liquid water at its surface.
+
+30
+00:01:23,800 --> 00:01:26,500
+That does not mean a person could walk there.
+
+31
+00:01:26,500 --> 00:01:30,512
+It does not guarantee oxygen, crops, healthy oceans, or
+
+32
+00:01:30,512 --> 00:01:31,725
+even life.
+
+33
+00:01:32,200 --> 00:01:34,575
+A world can be wet and deadly.
+
+34
+00:01:34,575 --> 00:01:37,962
+It can contain microbes while being completely inaccessible
+
+35
+00:01:37,962 --> 00:01:40,000
+to an unprotected human.
+
+36
+00:01:40,000 --> 00:01:43,262
+It can have a narrow band of tolerable weather while most
+
+37
+00:01:43,262 --> 00:01:45,275
+of its surface is hostile.
+
+38
+00:01:45,275 --> 00:01:48,750
+And a technological community might survive inside sealed
+
+39
+00:01:48,750 --> 00:01:52,225
+structures on a planet whose natural environment has already
+
+40
+00:01:52,225 --> 00:01:54,250
+become unsuitable for them.
+
+41
+00:01:54,725 --> 00:01:57,900
+So there are several questions hiding inside our title.
+
+42
+00:01:57,900 --> 00:02:01,137
+When does Earth stop supporting people outdoors?
+
+43
+00:02:01,137 --> 00:02:04,050
+When do complex ecosystems decline?
+
+44
+00:02:04,050 --> 00:02:07,238
+When does the atmosphere lose its abundant oxygen?
+
+45
+00:02:07,238 --> 00:02:09,275
+When do the oceans disappear?
+
+46
+00:02:09,275 --> 00:02:12,212
+When does the last habitable pocket vanish?
+
+47
+00:02:12,212 --> 00:02:15,300
+Finally, does the planet itself survive?
+
+48
+00:02:15,750 --> 00:02:19,300
+Those questions overlap, but they are not interchangeable.
+
+49
+00:02:19,300 --> 00:02:22,763
+Through this journey, watch what each proposed deadline
+
+50
+00:02:22,763 --> 00:02:24,338
+actually measures.
+
+51
+00:02:24,338 --> 00:02:28,288
+A number describing the future of land plants is not automatically
+
+52
+00:02:28,288 --> 00:02:32,050
+a countdown to the death of every organism on Earth.
+
+53
+00:02:33,100 --> 00:02:37,150
+The first clock is the one we live by: decades, centuries,
+
+54
+00:02:37,150 --> 00:02:40,050
+and the decisions of existing societies.
+
+55
+00:02:40,050 --> 00:02:44,300
+Human-caused warming, habitat destruction, and other environmental
+
+56
+00:02:44,300 --> 00:02:46,638
+pressures operate on that clock.
+
+57
+00:02:46,638 --> 00:02:50,200
+Their consequences matter now, without waiting for anything
+
+58
+00:02:50,200 --> 00:02:52,450
+dramatic to happen to the Sun.
+
+59
+00:02:52,875 --> 00:02:54,913
+The second clock is geological.
+
+60
+00:02:54,913 --> 00:02:56,338
+Continents move.
+
+61
+00:02:56,338 --> 00:02:58,488
+Mountains rise and erode.
+
+62
+00:02:58,488 --> 00:03:02,188
+Carbon passes between rock, ocean, atmosphere, and living
+
+63
+00:03:02,188 --> 00:03:06,050
+things. Over millions of years, those exchanges help shape
+
+64
+00:03:06,050 --> 00:03:09,175
+the climate and the resources available to life.
+
+65
+00:03:09,625 --> 00:03:12,212
+The third clock belongs to the star.
+
+66
+00:03:12,212 --> 00:03:15,625
+Over hundreds of millions and billions of years, the Sun
+
+67
+00:03:15,625 --> 00:03:19,288
+evolves. That changes the energy arriving at the top of
+
+68
+00:03:19,288 --> 00:03:22,738
+Earth's atmosphere, even if no one burns another lump
+
+69
+00:03:22,738 --> 00:03:23,800
+of coal.
+
+70
+00:03:24,250 --> 00:03:26,912
+We will spend much of this film on the second and third
+
+71
+00:03:26,912 --> 00:03:30,588
+clocks. That does not make the first one disappear.
+
+72
+00:03:30,588 --> 00:03:34,200
+Solar evolution is not the explanation for the rapid warming
+
+73
+00:03:34,200 --> 00:03:36,112
+people are causing today.
+
+74
+00:03:36,112 --> 00:03:40,425
+Nor does a distant natural limit make present damage unavoidable.
+
+75
+00:03:41,025 --> 00:03:44,200
+Think of a house on a coast that will eventually change.
+
+76
+00:03:44,200 --> 00:03:47,800
+Knowing the coastline has a long future does not mean
+
+77
+00:03:47,800 --> 00:03:51,050
+it is pointless to repair the roof this afternoon.
+
+78
+00:03:52,100 --> 00:03:55,162
+The Sun is not a ball of ordinary fire.
+
+79
+00:03:55,162 --> 00:03:57,588
+Fire needs chemical reactions.
+
+80
+00:03:57,588 --> 00:04:00,838
+The Sun's power comes mainly from nuclear fusion in its
+
+81
+00:04:00,838 --> 00:04:04,450
+core, where hydrogen is transformed into helium under
+
+82
+00:04:04,450 --> 00:04:06,600
+enormous pressure and temperature.
+
+83
+00:04:07,050 --> 00:04:09,288
+Gravity pulls the star inward.
+
+84
+00:04:09,288 --> 00:04:13,000
+The hot interior provides pressure that resists that compression.
+
+85
+00:04:13,000 --> 00:04:16,812
+The Sun we see is the result of a continually maintained
+
+86
+00:04:16,812 --> 00:04:20,850
+balance, rather than a solid object with a furnace installed
+
+87
+00:04:20,850 --> 00:04:21,975
+inside it.
+
+88
+00:04:22,425 --> 00:04:25,950
+As fusion proceeds, the composition of the core changes.
+
+89
+00:04:25,950 --> 00:04:27,800
+Helium accumulates.
+
+90
+00:04:27,800 --> 00:04:30,812
+The structure adjusts, and the core becomes hotter and
+
+91
+00:04:30,812 --> 00:04:34,488
+denser. For a star like ours during this long stage of
+
+92
+00:04:34,488 --> 00:04:38,675
+its life, those changes gradually increase its luminosity:
+
+93
+00:04:38,675 --> 00:04:41,850
+the total energy it radiates into space.
+
+94
+00:04:42,325 --> 00:04:44,537
+That is the counterintuitive part.
+
+95
+00:04:44,537 --> 00:04:47,575
+A star can become brighter while consuming the fuel that
+
+96
+00:04:47,575 --> 00:04:49,700
+will eventually transform it.
+
+97
+00:04:49,700 --> 00:04:52,550
+It does not simply dim like a flashlight with a dying
+
+98
+00:04:52,550 --> 00:04:53,525
+battery.
+
+99
+00:04:53,975 --> 00:04:57,400
+The changes are slow compared with a human lifetime.
+
+100
+00:04:57,400 --> 00:05:00,750
+They are powerful compared with the environmental tolerances
+
+101
+00:05:00,750 --> 00:05:04,250
+of a biosphere. Earth is living beside an engine that
+
+102
+00:05:04,250 --> 00:05:07,712
+is stable enough to make civilization possible, but not
+
+103
+00:05:07,712 --> 00:05:10,250
+permanently fixed at today's setting.
+
+104
+00:05:11,325 --> 00:05:15,025
+A useful rough scale is that the Sun's luminosity increases
+
+105
+00:05:15,025 --> 00:05:18,625
+by about ten percent over a billion years around its present
+
+106
+00:05:18,625 --> 00:05:22,912
+stage. Treat that as an approximation, not a universal
+
+107
+00:05:22,912 --> 00:05:25,425
+linear schedule stretching forever.
+
+108
+00:05:25,850 --> 00:05:28,025
+Ten percent may sound harmless.
+
+109
+00:05:28,025 --> 00:05:31,300
+It is not ten percent added to a thermometer reading.
+
+110
+00:05:31,300 --> 00:05:34,537
+It is a change in the incoming power available to warm
+
+111
+00:05:34,537 --> 00:05:36,212
+an entire planet.
+
+112
+00:05:36,212 --> 00:05:40,412
+Earth's response depends on clouds, ice, water vapor,
+
+113
+00:05:40,412 --> 00:05:44,075
+atmospheric gases, circulation, and the way its surface
+
+114
+00:05:44,075 --> 00:05:45,500
+reflects sunlight.
+
+115
+00:05:45,950 --> 00:05:49,000
+There is no single knob labeled temperature that follows
+
+116
+00:05:49,000 --> 00:05:52,050
+solar brightness in a perfectly straight line.
+
+117
+00:05:52,050 --> 00:05:54,487
+Some responses resist warming.
+
+118
+00:05:54,487 --> 00:05:56,150
+Others amplify it.
+
+119
+00:05:56,150 --> 00:06:00,125
+Some change gradually; others can reorganize the climate.
+
+120
+00:06:00,725 --> 00:06:04,000
+Picture a garden receiving more light every year, except
+
+121
+00:06:04,000 --> 00:06:06,737
+the years in this thought experiment are millions of years
+
+122
+00:06:06,737 --> 00:06:09,888
+long. The garden can adjust for a while.
+
+123
+00:06:09,888 --> 00:06:12,612
+Shade changes. Water moves.
+
+124
+00:06:12,612 --> 00:06:15,100
+Different species replace the old ones.
+
+125
+00:06:15,100 --> 00:06:18,562
+But adjustment does not guarantee that every useful condition
+
+126
+00:06:18,562 --> 00:06:20,475
+survives indefinitely.
+
+127
+00:06:20,900 --> 00:06:24,112
+The future is therefore not just a larger Sun drawn above
+
+128
+00:06:24,112 --> 00:06:25,712
+the same forests.
+
+129
+00:06:25,712 --> 00:06:29,112
+The forests, atmosphere, and oceans are participants in
+
+130
+00:06:29,112 --> 00:06:32,575
+the story. They change the way additional sunlight is
+
+131
+00:06:32,575 --> 00:06:35,225
+received, stored, and released.
+
+132
+00:06:36,250 --> 00:06:38,412
+There is a clue in Earth's past.
+
+133
+00:06:38,412 --> 00:06:41,550
+The young Sun was substantially dimmer than it is today,
+
+134
+00:06:41,550 --> 00:06:44,462
+yet Earth sustained liquid water during much of its
+
+135
+00:06:44,462 --> 00:06:48,325
+early history. This is often called the faint young Sun
+
+136
+00:06:48,325 --> 00:06:49,325
+problem.
+
+137
+00:06:49,800 --> 00:06:54,500
+Scientists investigate atmospheric greenhouse gases, clouds,
+
+138
+00:06:54,500 --> 00:06:57,925
+surface reflectivity, and other factors to understand
+
+139
+00:06:57,925 --> 00:07:00,112
+how the early climate worked.
+
+140
+00:07:00,112 --> 00:07:02,862
+The details remain an active subject.
+
+141
+00:07:02,862 --> 00:07:05,625
+The broad lesson is that Earth's temperature has never
+
+142
+00:07:05,625 --> 00:07:08,225
+depended on solar brightness alone.
+
+143
+00:07:08,675 --> 00:07:12,312
+A planet can compensate for a changing star if other parts
+
+144
+00:07:12,312 --> 00:07:15,462
+of its climate system change in the right direction.
+
+145
+00:07:15,462 --> 00:07:19,100
+In the past, a stronger greenhouse effect helped make
+
+146
+00:07:19,100 --> 00:07:22,650
+a dimmer Sun compatible with an ocean-bearing world.
+
+147
+00:07:23,075 --> 00:07:26,475
+But the fact that Earth adjusted before is not a promise
+
+148
+00:07:26,475 --> 00:07:29,112
+of unlimited adjustment in the future.
+
+149
+00:07:29,112 --> 00:07:32,712
+There is only so much carbon dioxide to remove before
+
+150
+00:07:32,712 --> 00:07:36,575
+photosynthetic organisms encounter a different problem.
+
+151
+00:07:36,575 --> 00:07:39,712
+There are only so many ways to rearrange clouds and
+
+152
+00:07:39,712 --> 00:07:42,875
+water while preserving the familiar biosphere.
+
+153
+00:07:43,350 --> 00:07:46,888
+Survival through earlier changes tells us that Earth is
+
+154
+00:07:46,888 --> 00:07:50,750
+dynamic. It does not tell us that Earth has an automatic
+
+155
+00:07:50,750 --> 00:07:54,325
+commitment to keep conditions comfortable for human beings.
+
+156
+00:07:55,525 --> 00:07:58,900
+Earth receives sunlight and sends energy back to space,
+
+157
+00:07:58,900 --> 00:08:01,737
+mainly as infrared radiation.
+
+158
+00:08:01,737 --> 00:08:05,887
+Over a sufficiently long average, a stable climate requires
+
+159
+00:08:05,887 --> 00:08:08,925
+incoming and outgoing energy to balance.
+
+160
+00:08:09,400 --> 00:08:12,950
+Some sunlight is reflected before it warms the surface.
+
+161
+00:08:12,950 --> 00:08:17,500
+Clouds, ice, and bright ground contribute to that reflectivity.
+
+162
+00:08:17,500 --> 00:08:19,825
+Much of the rest is absorbed.
+
+163
+00:08:19,825 --> 00:08:24,225
+Greenhouse gases interact with outgoing infrared radiation
+
+164
+00:08:24,225 --> 00:08:27,138
+and affect the temperatures needed to release energy back
+
+165
+00:08:27,138 --> 00:08:28,425
+into space.
+
+166
+00:08:28,875 --> 00:08:32,212
+This is why a shade and a blanket do different jobs.
+
+167
+00:08:32,212 --> 00:08:34,912
+A shade reduces incoming sunlight.
+
+168
+00:08:34,912 --> 00:08:37,150
+A blanket changes heat loss.
+
+169
+00:08:37,150 --> 00:08:40,462
+Both can alter temperature, but they are not interchangeable
+
+170
+00:08:40,462 --> 00:08:42,075
+pieces of equipment.
+
+171
+00:08:42,525 --> 00:08:46,287
+As the Sun brightens, Earth must reflect more, lose more
+
+172
+00:08:46,287 --> 00:08:49,787
+heat, or get warmer until its energy budget finds a new
+
+173
+00:08:49,787 --> 00:08:53,262
+balance. Which outcome occurs depends on the changing
+
+174
+00:08:53,262 --> 00:08:55,125
+atmosphere and surface.
+
+175
+00:08:55,575 --> 00:08:58,075
+The physics is straightforward enough to describe in a
+
+176
+00:08:58,075 --> 00:09:01,362
+few sentences. Predicting the response of a planet with
+
+177
+00:09:01,362 --> 00:09:05,887
+oceans, clouds, continents, chemistry, and life is much
+
+178
+00:09:05,887 --> 00:09:09,925
+harder. That gap between a clear mechanism and an uncertain
+
+179
+00:09:09,925 --> 00:09:13,725
+detailed future will appear again and again in our journey.
+
+180
+00:09:14,950 --> 00:09:16,650
+Now bring in the rocks.
+
+181
+00:09:16,650 --> 00:09:20,225
+Rainwater and carbon dioxide participate in reactions
+
+182
+00:09:20,225 --> 00:09:22,287
+that weather silicate minerals.
+
+183
+00:09:22,287 --> 00:09:25,612
+Dissolved products travel toward the ocean, and the wider
+
+184
+00:09:25,612 --> 00:09:29,375
+carbon cycle can transfer carbon into sediments and rock.
+
+185
+00:09:29,375 --> 00:09:33,287
+Volcanoes and processes inside Earth return carbon to
+
+186
+00:09:33,287 --> 00:09:34,725
+the surface system.
+
+187
+00:09:35,175 --> 00:09:38,600
+This is a simplified picture of a complicated network,
+
+188
+00:09:38,600 --> 00:09:42,162
+not a conveyor belt that removes every carbon atom on
+
+189
+00:09:42,162 --> 00:09:45,687
+schedule. But it helps explain an important long-term
+
+190
+00:09:45,687 --> 00:09:46,775
+feedback.
+
+191
+00:09:47,225 --> 00:09:50,862
+Under suitable conditions, a warmer, wetter climate can
+
+192
+00:09:50,862 --> 00:09:54,625
+speed up weathering and increase carbon dioxide removal.
+
+193
+00:09:54,625 --> 00:09:58,900
+Less atmospheric carbon dioxide weakens greenhouse warming,
+
+194
+00:09:58,900 --> 00:10:01,812
+resisting the initial temperature rise.
+
+195
+00:10:01,812 --> 00:10:05,400
+A cooler world can shift the balance in the opposite direction.
+
+196
+00:10:06,000 --> 00:10:09,700
+This feedback operates on geological timescales.
+
+197
+00:10:09,700 --> 00:10:12,900
+It is not fast enough to cancel the current human release
+
+198
+00:10:12,900 --> 00:10:16,925
+of greenhouse gases on the timetable that matters to today's
+
+199
+00:10:16,925 --> 00:10:18,125
+communities.
+
+200
+00:10:18,550 --> 00:10:20,137
+It also has limits.
+
+201
+00:10:20,137 --> 00:10:23,925
+Weathering depends on temperature, carbon dioxide, water,
+
+202
+00:10:23,925 --> 00:10:27,988
+exposed minerals, erosion, and biological activity.
+
+203
+00:10:27,988 --> 00:10:30,462
+Continents and mountain ranges matter.
+
+204
+00:10:30,462 --> 00:10:34,125
+The thermostat is made of a planet, not a precision instrument.
+
+205
+00:10:34,125 --> 00:10:37,687
+Its future behavior is one of the main reasons scientists
+
+206
+00:10:37,687 --> 00:10:40,500
+obtain different estimates for the lifetime of Earth's
+
+207
+00:10:40,500 --> 00:10:41,675
+biosphere.
+
+208
+00:10:42,725 --> 00:10:44,287
+Here is the twist.
+
+209
+00:10:44,287 --> 00:10:47,925
+Carbon dioxide can help make the present climate dangerously
+
+210
+00:10:47,925 --> 00:10:51,325
+warmer when its concentration rises rapidly.
+
+211
+00:10:51,325 --> 00:10:54,950
+But plants also need carbon dioxide as a raw material
+
+212
+00:10:54,950 --> 00:10:56,550
+for photosynthesis.
+
+213
+00:10:57,025 --> 00:10:59,737
+Those statements do not contradict each other.
+
+214
+00:10:59,737 --> 00:11:02,712
+A substance can be necessary for life and harmful when
+
+215
+00:11:02,712 --> 00:11:05,775
+its abundance changes the environment too much.
+
+216
+00:11:05,775 --> 00:11:07,487
+Water is necessary.
+
+217
+00:11:07,487 --> 00:11:10,125
+A flood can still destroy a field.
+
+218
+00:11:10,575 --> 00:11:14,112
+As the Sun brightens over geological time, the carbon
+
+219
+00:11:14,112 --> 00:11:18,075
+cycle may compensate by drawing atmospheric carbon dioxide
+
+220
+00:11:18,075 --> 00:11:22,125
+downward. In some models, that eventually becomes a crisis
+
+221
+00:11:22,125 --> 00:11:26,250
+for plants. The climate's attempt to limit warming reduces
+
+222
+00:11:26,250 --> 00:11:29,850
+the supply of an ingredient used to build living tissue.
+
+223
+00:11:30,500 --> 00:11:33,487
+Imagine a greenhouse where the lights become progressively
+
+224
+00:11:33,487 --> 00:11:37,650
+stronger while the carbon supply is progressively restricted.
+
+225
+00:11:37,650 --> 00:11:40,825
+The plants are not simply receiving a helpful increase
+
+226
+00:11:40,825 --> 00:11:45,125
+in sunshine. Their whole operating environment is changing.
+
+227
+00:11:45,725 --> 00:11:49,000
+This is one proposed route toward the decline of complex
+
+228
+00:11:49,000 --> 00:11:53,287
+land life: not an immediate firestorm, but a long tightening
+
+229
+00:11:53,287 --> 00:11:56,925
+of the conditions that allow primary producers to function.
+
+230
+00:11:56,925 --> 00:12:00,387
+To understand that possibility, we have to look beyond
+
+231
+00:12:00,387 --> 00:12:04,100
+the familiar image of a wilting forest and ask how different
+
+232
+00:12:04,100 --> 00:12:06,575
+plants actually obtain their carbon.
+
+233
+00:12:07,600 --> 00:12:10,975
+Plants have evolved different photosynthetic strategies.
+
+234
+00:12:10,975 --> 00:12:14,862
+Most familiar trees use a pathway called C three.
+
+235
+00:12:14,862 --> 00:12:18,112
+Other plants use a carbon-concentrating strategy called
+
+236
+00:12:18,112 --> 00:12:22,525
+C four, which can offer advantages in certain hot environments
+
+237
+00:12:22,525 --> 00:12:26,450
+and at relatively low carbon dioxide concentrations.
+
+238
+00:12:26,900 --> 00:12:29,950
+These categories are not a simple ranking from weak to
+
+239
+00:12:29,950 --> 00:12:34,425
+invincible. Water availability, nutrients, temperature,
+
+240
+00:12:34,425 --> 00:12:37,300
+and the costs of the mechanisms all matter.
+
+241
+00:12:37,300 --> 00:12:40,700
+Different species have their own limits, and ecosystems
+
+242
+00:12:40,700 --> 00:12:43,900
+depend on interactions among many organisms.
+
+243
+00:12:44,375 --> 00:12:47,750
+In a changing future, some vegetation could disappear
+
+244
+00:12:47,750 --> 00:12:49,812
+while other kinds persist.
+
+245
+00:12:49,812 --> 00:12:53,200
+A forest need not become a completely sterile desert in
+
+246
+00:12:53,200 --> 00:12:56,625
+one step. It might first become a different landscape,
+
+247
+00:12:56,625 --> 00:12:59,387
+supporting different animals and a different cycling
+
+248
+00:12:59,387 --> 00:13:00,500
+of carbon.
+
+249
+00:13:00,950 --> 00:13:03,562
+The same caution applies to the sea.
+
+250
+00:13:03,562 --> 00:13:07,400
+Marine photosynthesis has its own organisms, chemical
+
+251
+00:13:07,400 --> 00:13:09,462
+setting, and constraints.
+
+252
+00:13:09,462 --> 00:13:13,075
+The disappearance of familiar land plants would not automatically
+
+253
+00:13:13,075 --> 00:13:17,025
+switch off every source of biological production everywhere.
+
+254
+00:13:17,650 --> 00:13:20,925
+This is why a convincing account of Earth's future cannot
+
+255
+00:13:20,925 --> 00:13:24,362
+put one date over a dying tree and label it the end of
+
+256
+00:13:24,362 --> 00:13:28,000
+life. We need to know which organisms the calculation
+
+257
+00:13:28,000 --> 00:13:31,850
+represents, which environmental limits it includes, and
+
+258
+00:13:31,850 --> 00:13:34,350
+how the rest of the system responds.
+
+259
+00:13:35,425 --> 00:13:39,725
+Some earlier scenarios placed severe carbon dioxide starvation
+
+260
+00:13:39,725 --> 00:13:43,275
+for land plants around a billion years into the future.
+
+261
+00:13:43,275 --> 00:13:45,625
+But that is not the final word.
+
+262
+00:13:46,075 --> 00:13:49,550
+A study by Graham, Halevy, and Abbot, posted in twenty
+
+263
+00:13:49,550 --> 00:13:52,875
+twenty-four and accepted for publication, reexamined the
+
+264
+00:13:52,875 --> 00:13:56,950
+relationship between weathering, climate, and plant productivity.
+
+265
+00:13:56,950 --> 00:14:00,062
+Under some of their assumptions, the long decline in
+
+266
+00:14:00,062 --> 00:14:04,187
+carbon dioxide can slow and temporarily reverse.
+
+267
+00:14:04,187 --> 00:14:07,825
+Plants then avoid the earlier starvation scenario.
+
+268
+00:14:08,300 --> 00:14:11,612
+In those calculations, land plants can persist for roughly
+
+269
+00:14:11,612 --> 00:14:15,650
+one point six to one point eight six billion years, until
+
+270
+00:14:15,650 --> 00:14:19,150
+extreme temperatures stop photosynthesis instead.
+
+271
+00:14:19,150 --> 00:14:22,562
+Those are model results under particular assumptions.
+
+272
+00:14:22,562 --> 00:14:25,475
+They are not a newly discovered universal date for the
+
+273
+00:14:25,475 --> 00:14:26,600
+end of Earth.
+
+274
+00:14:27,025 --> 00:14:30,100
+The important change is not just a later number.
+
+275
+00:14:30,100 --> 00:14:33,175
+It is a different proposed failure mechanism.
+
+276
+00:14:33,175 --> 00:14:36,175
+Change how weathering responds to temperature and carbon
+
+277
+00:14:36,175 --> 00:14:39,687
+dioxide, and you can change both the deadline and the
+
+278
+00:14:39,687 --> 00:14:41,950
+reason the biosphere reaches it.
+
+279
+00:14:42,400 --> 00:14:44,537
+That is science doing its job.
+
+280
+00:14:44,537 --> 00:14:47,575
+A forecast about a coupled planetary system should be
+
+281
+00:14:47,575 --> 00:14:50,312
+revised when its assumptions improve.
+
+282
+00:14:50,312 --> 00:14:53,725
+The uncertainty belongs in the story, rather than hidden
+
+283
+00:14:53,725 --> 00:14:56,400
+behind a dramatic countdown clock.
+
+284
+00:14:57,450 --> 00:15:00,525
+There is another deadline that does not require the ocean
+
+285
+00:15:00,525 --> 00:15:04,850
+to boil away. Earth's oxygen-rich atmosphere is maintained
+
+286
+00:15:04,850 --> 00:15:09,325
+by biology interacting with geological and chemical processes.
+
+287
+00:15:09,325 --> 00:15:12,362
+It is not a permanent gift that the planet received
+
+288
+00:15:12,362 --> 00:15:14,250
+once and keeps forever.
+
+289
+00:15:14,725 --> 00:15:17,950
+In a twenty twenty-one study, Ozaki and Reinhard used
+
+290
+00:15:17,950 --> 00:15:21,950
+a coupled biogeochemistry and climate model to investigate
+
+291
+00:15:21,950 --> 00:15:25,262
+how long oxygen-rich conditions could persist.
+
+292
+00:15:25,262 --> 00:15:28,800
+Their reported mean was about one point zero eight billion
+
+293
+00:15:28,800 --> 00:15:32,537
+years, with a model spread of about zero point one four
+
+294
+00:15:32,537 --> 00:15:33,950
+billion years.
+
+295
+00:15:34,400 --> 00:15:37,862
+Their threshold was oxygen above one percent of the present
+
+296
+00:15:37,862 --> 00:15:39,450
+atmospheric level.
+
+297
+00:15:39,450 --> 00:15:40,975
+Notice the wording.
+
+298
+00:15:40,975 --> 00:15:44,425
+One percent of today's oxygen level is not an atmosphere
+
+299
+00:15:44,425 --> 00:15:48,375
+containing one percent oxygen by volume, and it is certainly
+
+300
+00:15:48,375 --> 00:15:50,675
+not breathable air for humans.
+
+301
+00:15:51,150 --> 00:15:54,625
+In their model, the major deoxygenation occurs before
+
+302
+00:15:54,625 --> 00:15:57,262
+extensive loss of surface water.
+
+303
+00:15:57,262 --> 00:16:00,425
+So a future observer might find an ocean-bearing Earth
+
+304
+00:16:00,425 --> 00:16:04,650
+whose atmosphere no longer supports animals like us outdoors.
+
+305
+00:16:05,275 --> 00:16:08,850
+This result and the newer plant calculations are not chapters
+
+306
+00:16:08,850 --> 00:16:11,037
+from one agreed simulation.
+
+307
+00:16:11,037 --> 00:16:13,850
+They use different assumptions and investigate different
+
+308
+00:16:13,850 --> 00:16:17,750
+outcomes. We cannot simply paste their dates onto one
+
+309
+00:16:17,750 --> 00:16:20,575
+perfectly synchronized future calendar.
+
+310
+00:16:21,600 --> 00:16:24,887
+For a person standing on the ground, oxygen is only part
+
+311
+00:16:24,887 --> 00:16:28,375
+of the problem. Breathing depends on its partial pressure,
+
+312
+00:16:28,375 --> 00:16:31,875
+which combines the oxygen fraction with the total atmospheric
+
+313
+00:16:31,875 --> 00:16:36,500
+pressure. Temperature, toxic gases, water, and food matter
+
+314
+00:16:36,500 --> 00:16:37,350
+too.
+
+315
+00:16:37,775 --> 00:16:41,200
+For the planet, atmospheric oxygen reflects a balance
+
+316
+00:16:41,200 --> 00:16:43,325
+between sources and sinks.
+
+317
+00:16:43,325 --> 00:16:47,475
+Photosynthesis produces oxygen, but respiration, decay,
+
+318
+00:16:47,475 --> 00:16:50,900
+and reactions with reduced materials consume it.
+
+319
+00:16:50,900 --> 00:16:54,087
+Long-term accumulation involves the fate of carbon and
+
+320
+00:16:54,087 --> 00:16:57,537
+other elements, including what becomes buried rather than
+
+321
+00:16:57,537 --> 00:16:59,425
+immediately recycled.
+
+322
+00:16:59,875 --> 00:17:03,325
+That means a reduction in the oxygen supply can interact
+
+323
+00:17:03,325 --> 00:17:05,762
+with continuing chemical demand.
+
+324
+00:17:05,762 --> 00:17:09,075
+The future atmosphere is not a sealed tank that stays
+
+325
+00:17:09,075 --> 00:17:11,825
+full until a final tree falls.
+
+326
+00:17:12,325 --> 00:17:16,012
+Lower oxygen would also change atmospheric chemistry and
+
+327
+00:17:16,012 --> 00:17:18,425
+the protective ozone environment.
+
+328
+00:17:18,425 --> 00:17:21,137
+Different organisms would face different combinations
+
+329
+00:17:21,137 --> 00:17:25,050
+of stress. Some microbes can live without oxygen.
+
+330
+00:17:25,050 --> 00:17:28,762
+Large oxygen-dependent animals cannot simply adopt the
+
+331
+00:17:28,762 --> 00:17:30,250
+same lifestyle.
+
+332
+00:17:30,725 --> 00:17:34,175
+A blue planet seen from space can therefore conceal a
+
+333
+00:17:34,175 --> 00:17:36,962
+profound biological transformation.
+
+334
+00:17:36,962 --> 00:17:40,262
+Even if water remains visible, the conditions that made
+
+335
+00:17:40,262 --> 00:17:43,487
+it home for our kind may already be gone.
+
+336
+00:17:43,487 --> 00:17:46,725
+Color alone does not tell us whether a world welcomes
+
+337
+00:17:46,725 --> 00:17:47,725
+a breath.
+
+338
+00:17:48,750 --> 00:17:52,200
+If primary production declines, the consequences spread
+
+339
+00:17:52,200 --> 00:17:53,775
+through food webs.
+
+340
+00:17:53,775 --> 00:17:58,137
+Leaves, seeds, algae, and microscopic producers support
+
+341
+00:17:58,137 --> 00:18:01,137
+organisms that support other organisms.
+
+342
+00:18:01,137 --> 00:18:04,137
+A predator does not need to be directly harmed by low
+
+343
+00:18:04,137 --> 00:18:08,300
+carbon dioxide to suffer when its prey loses a food source.
+
+344
+00:18:08,850 --> 00:18:11,225
+But the response would not be uniform.
+
+345
+00:18:11,225 --> 00:18:13,675
+Some food webs could reorganize.
+
+346
+00:18:13,675 --> 00:18:16,862
+Some habitats could retain productivity longer.
+
+347
+00:18:16,862 --> 00:18:20,350
+Extinction and adaptation would unfold across a changing
+
+348
+00:18:20,350 --> 00:18:24,525
+geography, rather than follow a single worldwide queue.
+
+349
+00:18:25,150 --> 00:18:28,387
+Think about the services a living landscape performs without
+
+350
+00:18:28,387 --> 00:18:30,837
+invoices or replacement parts.
+
+351
+00:18:30,837 --> 00:18:33,862
+Soil formation. Nutrient recycling.
+
+352
+00:18:33,862 --> 00:18:36,587
+Pollination. Water regulation.
+
+353
+00:18:36,587 --> 00:18:38,262
+The movement of carbon.
+
+354
+00:18:38,262 --> 00:18:41,562
+Relationships between organisms that have evolved together
+
+355
+00:18:41,562 --> 00:18:43,900
+over immense stretches of time.
+
+356
+00:18:44,375 --> 00:18:48,087
+A future technological society might produce food in controlled
+
+357
+00:18:48,087 --> 00:18:51,300
+environments. That could help preserve people.
+
+358
+00:18:51,300 --> 00:18:54,287
+It would not automatically replace an entire functioning
+
+359
+00:18:54,287 --> 00:18:59,250
+forest, including its fungi, insects, microbes, seasons,
+
+360
+00:18:59,250 --> 00:19:01,650
+and evolutionary possibilities.
+
+361
+00:19:02,100 --> 00:19:05,087
+The distinction matters when we ask whether humanity could
+
+362
+00:19:05,087 --> 00:19:07,812
+handle the loss of a habitable Earth.
+
+363
+00:19:07,812 --> 00:19:12,150
+Saving a population, saving selected species, and preserving
+
+364
+00:19:12,150 --> 00:19:16,225
+an open, self-sustaining biosphere are different projects.
+
+365
+00:19:16,225 --> 00:19:18,900
+We should not call one of them a complete substitute
+
+366
+00:19:18,900 --> 00:19:20,075
+for the others.
+
+367
+00:19:21,125 --> 00:19:24,175
+Any detailed illustration of Earth a billion years from
+
+368
+00:19:24,175 --> 00:19:25,937
+now is speculative.
+
+369
+00:19:25,937 --> 00:19:28,662
+Continents will not keep today's positions.
+
+370
+00:19:28,662 --> 00:19:32,725
+Coastlines, mountain ranges, ocean circulation, and the
+
+371
+00:19:32,725 --> 00:19:35,175
+distribution of rain will change.
+
+372
+00:19:35,625 --> 00:19:39,075
+That is important because climate is experienced locally.
+
+373
+00:19:39,075 --> 00:19:42,687
+A global average does not describe a shaded valley,
+
+374
+00:19:42,687 --> 00:19:46,487
+a humid coastline, a high plateau, and the center of a
+
+375
+00:19:46,487 --> 00:19:48,825
+dry continent equally well.
+
+376
+00:19:48,825 --> 00:19:52,175
+Geography can create refuges or remove them.
+
+377
+00:19:52,625 --> 00:19:55,837
+Our pictures of future landscapes are therefore examples
+
+378
+00:19:55,837 --> 00:20:00,475
+of processes: vegetation retreating, water becoming scarce,
+
+379
+00:20:00,475 --> 00:20:02,712
+communities using shelter.
+
+380
+00:20:02,712 --> 00:20:05,500
+They are not maps of where a particular country will be
+
+381
+00:20:05,500 --> 00:20:07,550
+safe in a particular year.
+
+382
+00:20:08,025 --> 00:20:11,337
+Even a familiar rule like move toward the poles can become
+
+383
+00:20:11,337 --> 00:20:16,475
+too simple. Seasonal light, available land, changing circulation,
+
+384
+00:20:16,475 --> 00:20:19,750
+water supplies, and the demands of different organisms
+
+385
+00:20:19,750 --> 00:20:21,087
+would all matter.
+
+386
+00:20:21,087 --> 00:20:25,450
+A refuge is a combination of conditions, not just a latitude.
+
+387
+00:20:26,075 --> 00:20:29,162
+The future Earth would not be today's world with a warmer
+
+388
+00:20:29,162 --> 00:20:33,100
+color filter. Its geography would be part of the mechanism
+
+389
+00:20:33,100 --> 00:20:35,437
+deciding where life could persist.
+
+390
+00:20:35,437 --> 00:20:38,712
+Trying to identify the last comfortable beach on a map
+
+391
+00:20:38,712 --> 00:20:42,250
+of the present would give a precision we do not possess.
+
+392
+00:20:43,475 --> 00:20:47,087
+Humans cool themselves partly by evaporating sweat.
+
+393
+00:20:47,087 --> 00:20:50,112
+That works only if the environment allows the body to
+
+394
+00:20:50,112 --> 00:20:52,262
+transfer enough heat outward.
+
+395
+00:20:52,262 --> 00:20:55,800
+High humidity can make evaporation less effective, even
+
+396
+00:20:55,800 --> 00:20:58,925
+before the air temperature reaches the body's internal
+
+397
+00:20:58,925 --> 00:20:59,975
+temperature.
+
+398
+00:21:00,450 --> 00:21:03,675
+Researchers use several measures to assess heat stress.
+
+399
+00:21:03,675 --> 00:21:06,600
+One is wet-bulb temperature, which reflects the combined
+
+400
+00:21:06,600 --> 00:21:08,725
+influence of heat and moisture.
+
+401
+00:21:08,725 --> 00:21:12,225
+There is no single universal cutoff that guarantees survival
+
+402
+00:21:12,225 --> 00:21:14,387
+below it or death above it.
+
+403
+00:21:14,387 --> 00:21:18,962
+Sunlight, airflow, clothing, activity, age, health, and
+
+404
+00:21:18,962 --> 00:21:21,650
+exposure duration change the outcome.
+
+405
+00:21:22,075 --> 00:21:25,562
+People can become dangerously overheated under conditions
+
+406
+00:21:25,562 --> 00:21:28,837
+well short of a famous theoretical limit.
+
+407
+00:21:28,837 --> 00:21:32,187
+A future story should not present one number as a magical
+
+408
+00:21:32,187 --> 00:21:35,200
+boundary around human habitability.
+
+409
+00:21:35,700 --> 00:21:38,825
+Nor is the only relevant question whether a healthy resting
+
+410
+00:21:38,825 --> 00:21:41,212
+adult can survive an afternoon.
+
+411
+00:21:41,212 --> 00:21:45,125
+Can crops grow? Can workers maintain the water system?
+
+412
+00:21:45,125 --> 00:21:48,675
+Does a power failure turn a home into an emergency?
+
+413
+00:21:48,675 --> 00:21:51,950
+Can a community support children, older people, and those
+
+414
+00:21:51,950 --> 00:21:53,150
+who are ill?
+
+415
+00:21:53,625 --> 00:21:57,075
+A landscape can become impractical for a society long
+
+416
+00:21:57,075 --> 00:22:01,300
+before every individual exposure is immediately fatal.
+
+417
+00:22:01,300 --> 00:22:05,387
+Habitability is about sustaining lives, not merely delaying
+
+418
+00:22:05,387 --> 00:22:07,375
+the moment a body fails.
+
+419
+00:22:08,425 --> 00:22:12,012
+As the planet warms, water vapor becomes increasingly
+
+420
+00:22:12,012 --> 00:22:15,662
+important. It is itself a greenhouse gas.
+
+421
+00:22:15,662 --> 00:22:19,200
+More evaporation can increase atmospheric water vapor,
+
+422
+00:22:19,200 --> 00:22:22,225
+amplifying warming under many conditions.
+
+423
+00:22:22,700 --> 00:22:26,000
+Normally, much of the atmosphere's water is kept low down
+
+424
+00:22:26,000 --> 00:22:29,662
+because rising air cools and water condenses.
+
+425
+00:22:29,662 --> 00:22:32,737
+The upper atmosphere is comparatively dry.
+
+426
+00:22:32,737 --> 00:22:35,600
+This helps limit the amount of water reaching regions
+
+427
+00:22:35,600 --> 00:22:39,125
+where sunlight can break its molecules apart and hydrogen
+
+428
+00:22:39,125 --> 00:22:40,800
+can escape to space.
+
+429
+00:22:41,275 --> 00:22:44,537
+In a moist greenhouse state, the upper atmosphere becomes
+
+430
+00:22:44,537 --> 00:22:46,312
+substantially wetter.
+
+431
+00:22:46,312 --> 00:22:49,662
+That can open a route toward major water loss over long
+
+432
+00:22:49,662 --> 00:22:53,562
+periods. A moist greenhouse is not the same thing as every
+
+433
+00:22:53,562 --> 00:22:56,100
+ocean instantly turning to steam.
+
+434
+00:22:56,575 --> 00:23:00,125
+A runaway greenhouse refers to a more severe energy-balance
+
+435
+00:23:00,125 --> 00:23:03,562
+problem, where additional warming cannot restore balance
+
+436
+00:23:03,562 --> 00:23:07,000
+through the usual increase in outgoing thermal radiation
+
+437
+00:23:07,000 --> 00:23:08,987
+across a relevant range.
+
+438
+00:23:08,987 --> 00:23:10,750
+The distinction matters.
+
+439
+00:23:10,750 --> 00:23:14,550
+Different models can reach moist conditions, severe heating,
+
+440
+00:23:14,550 --> 00:23:17,475
+or runaway behavior at different stages.
+
+441
+00:23:17,900 --> 00:23:21,475
+Clouds, circulation, and atmospheric assumptions affect
+
+442
+00:23:21,475 --> 00:23:24,800
+the thresholds. We can explain the mechanisms without
+
+443
+00:23:24,800 --> 00:23:28,225
+pretending that scientists have scheduled the first afternoon
+
+444
+00:23:28,225 --> 00:23:29,937
+of a moist greenhouse.
+
+445
+00:23:29,937 --> 00:23:33,812
+The process is physical; the exact timetable remains a
+
+446
+00:23:33,812 --> 00:23:35,275
+modeling problem.
+
+447
+00:23:36,325 --> 00:23:39,350
+A disappearing ocean sounds like a drain opening beneath
+
+448
+00:23:39,350 --> 00:23:43,300
+the seafloor. The long-term escape mechanism is different.
+
+449
+00:23:43,300 --> 00:23:45,637
+Water enters the atmosphere.
+
+450
+00:23:45,637 --> 00:23:49,212
+High-energy sunlight can break water molecules apart.
+
+451
+00:23:49,212 --> 00:23:53,125
+Hydrogen, being light, can escape more readily than oxygen.
+
+452
+00:23:53,750 --> 00:23:57,050
+Oxygen left behind can participate in reactions with the
+
+453
+00:23:57,050 --> 00:24:00,375
+surface and atmosphere, and some can be lost through other
+
+454
+00:24:00,375 --> 00:24:04,037
+processes. The final atmosphere depends on the balance
+
+455
+00:24:04,037 --> 00:24:05,562
+of those pathways.
+
+456
+00:24:05,562 --> 00:24:10,325
+You cannot infer a safe, oxygen-rich world simply by separating
+
+457
+00:24:10,325 --> 00:24:13,400
+the hydrogen from a global ocean on paper.
+
+458
+00:24:13,900 --> 00:24:17,087
+Water can shift between reservoirs before it is lost to
+
+459
+00:24:17,087 --> 00:24:22,225
+space. Ice, atmosphere, surface water, and minerals complicate
+
+460
+00:24:22,225 --> 00:24:26,250
+the accounting. The pace of escape also depends on conditions
+
+461
+00:24:26,250 --> 00:24:29,225
+in the upper atmosphere and the evolving star.
+
+462
+00:24:29,675 --> 00:24:32,900
+The key point is that a planet can lose water molecule
+
+463
+00:24:32,900 --> 00:24:36,200
+by molecule over immense spans of time.
+
+464
+00:24:36,200 --> 00:24:39,112
+It does not need an explosion that throws the sea into
+
+465
+00:24:39,112 --> 00:24:41,225
+space in a single wave.
+
+466
+00:24:41,675 --> 00:24:44,850
+This makes the story less like an action movie and more
+
+467
+00:24:44,850 --> 00:24:47,437
+like a long failure of retention.
+
+468
+00:24:47,437 --> 00:24:51,400
+A world that once kept an ocean eventually loses the conditions
+
+469
+00:24:51,400 --> 00:24:54,275
+that allowed it to remain a world of oceans.
+
+470
+00:24:55,375 --> 00:24:59,575
+Venus makes the danger easier to picture: a dense atmosphere,
+
+471
+00:24:59,575 --> 00:25:03,675
+enormous surface heat, and no Earth-like surface ocean.
+
+472
+00:25:03,675 --> 00:25:06,862
+It shows that a rocky planet near the Sun can have a
+
+473
+00:25:06,862 --> 00:25:09,400
+radically different climate from ours.
+
+474
+00:25:09,825 --> 00:25:13,037
+But Venus is not a verified photograph of Earth's exact
+
+475
+00:25:13,037 --> 00:25:18,300
+future. Its history, rotation, atmosphere, water inventory,
+
+476
+00:25:18,300 --> 00:25:22,150
+and interactions between interior and surface are different.
+
+477
+00:25:22,150 --> 00:25:25,650
+Scientists still investigate how much water Venus once
+
+478
+00:25:25,650 --> 00:25:28,450
+had and how its climate evolved.
+
+479
+00:25:28,925 --> 00:25:32,150
+Saying Earth will become exactly like Venus can hide more
+
+480
+00:25:32,150 --> 00:25:33,662
+than it explains.
+
+481
+00:25:33,662 --> 00:25:36,800
+Our future atmosphere would be shaped by its own carbon
+
+482
+00:25:36,800 --> 00:25:41,600
+reservoirs, water loss, geological activity, and the timing
+
+483
+00:25:41,600 --> 00:25:43,350
+of solar evolution.
+
+484
+00:25:43,350 --> 00:25:46,587
+We should not copy Venus's present pressure and composition
+
+485
+00:25:46,587 --> 00:25:49,800
+into a forecast without doing the calculation.
+
+486
+00:25:50,250 --> 00:25:54,275
+The useful comparison is a question about planetary stability.
+
+487
+00:25:54,275 --> 00:25:57,887
+What combinations of sunlight, atmosphere, and water
+
+488
+00:25:57,887 --> 00:25:59,862
+allow a temperate surface?
+
+489
+00:25:59,862 --> 00:26:02,500
+What pushes a world out of that regime?
+
+490
+00:26:02,500 --> 00:26:06,125
+Which changes can be reversed, and which remove resources
+
+491
+00:26:06,125 --> 00:26:07,950
+that are difficult to recover?
+
+492
+00:26:08,450 --> 00:26:12,000
+Venus reminds us that Earth-like size does not guarantee
+
+493
+00:26:12,000 --> 00:26:13,575
+an Earth-like home.
+
+494
+00:26:13,575 --> 00:26:16,700
+It does not give us a shortcut around the science of how
+
+495
+00:26:16,700 --> 00:26:18,850
+our own planet will change.
+
+496
+00:26:19,900 --> 00:26:23,637
+If complex surface ecosystems disappear, the story of
+
+497
+00:26:23,637 --> 00:26:25,337
+life may continue.
+
+498
+00:26:25,337 --> 00:26:29,050
+Microorganisms already inhabit environments far removed
+
+499
+00:26:29,050 --> 00:26:33,187
+from the conditions humans need: beneath the ground, inside
+
+500
+00:26:33,187 --> 00:26:36,750
+rocks, and around sources of chemical energy.
+
+501
+00:26:37,225 --> 00:26:40,237
+Some communities do not rely directly on sunlight in the
+
+502
+00:26:40,237 --> 00:26:42,525
+way a forest does.
+
+503
+00:26:42,525 --> 00:26:46,175
+Water, chemical gradients, suitable temperatures, and
+
+504
+00:26:46,175 --> 00:26:50,150
+access to energy can allow biological activity in places
+
+505
+00:26:50,150 --> 00:26:52,325
+that would appear barren from above.
+
+506
+00:26:52,775 --> 00:26:56,800
+That does not make the deep subsurface an unlimited sanctuary.
+
+507
+00:26:56,800 --> 00:26:58,925
+Heat can become excessive.
+
+508
+00:26:58,925 --> 00:27:02,800
+Water and useful chemical energy can become unavailable.
+
+509
+00:27:02,800 --> 00:27:06,887
+A microbial refuge must still satisfy the physical requirements
+
+510
+00:27:06,887 --> 00:27:08,950
+of the organisms living there.
+
+511
+00:27:09,400 --> 00:27:12,600
+We do not know which place would host Earth's final life,
+
+512
+00:27:12,600 --> 00:27:15,662
+or when its last population would disappear.
+
+513
+00:27:15,662 --> 00:27:19,250
+A tiny wet fracture in rock is a plausible kind of setting
+
+514
+00:27:19,250 --> 00:27:23,000
+to consider, not an identified future address.
+
+515
+00:27:23,475 --> 00:27:25,275
+Imagine the contrast.
+
+516
+00:27:25,275 --> 00:27:28,712
+The planet might no longer have trees, birds, or open-air
+
+517
+00:27:28,712 --> 00:27:32,412
+cities, yet still contain living chemistry behind a mineral
+
+518
+00:27:32,412 --> 00:27:36,500
+surface. From a human point of view, the world has ended.
+
+519
+00:27:36,500 --> 00:27:39,600
+From the point of view of life as a broader phenomenon,
+
+520
+00:27:39,600 --> 00:27:43,250
+a much smaller and stranger chapter remains open.
+
+521
+00:27:44,300 --> 00:27:47,637
+The phrase last day makes us imagine witnesses gathered
+
+522
+00:27:47,637 --> 00:27:52,250
+on a shoreline. But ecological endings are usually distributed.
+
+523
+00:27:52,250 --> 00:27:55,625
+The final member of one population may disappear while
+
+524
+00:27:55,625 --> 00:27:58,038
+another survives somewhere else.
+
+525
+00:27:58,038 --> 00:28:01,737
+A region can become hostile, recover temporarily, and
+
+526
+00:28:01,737 --> 00:28:03,375
+later fail again.
+
+527
+00:28:03,825 --> 00:28:07,837
+The last natural human habitat, the last forest, and the
+
+528
+00:28:07,837 --> 00:28:11,525
+last microbial community would not necessarily vanish
+
+529
+00:28:11,525 --> 00:28:15,637
+together. Some thresholds could be geologically abrupt
+
+530
+00:28:15,637 --> 00:28:18,825
+while still taking longer than the lifetime of any person
+
+531
+00:28:18,825 --> 00:28:20,450
+who watched the beginning.
+
+532
+00:28:20,900 --> 00:28:24,150
+If intelligent descendants exist, their interventions
+
+533
+00:28:24,150 --> 00:28:26,275
+could also change the sequence.
+
+534
+00:28:26,275 --> 00:28:29,775
+If they do not exist, there may be no observer to label
+
+535
+00:28:29,775 --> 00:28:33,237
+an ending. Nature does not issue a certificate when a
+
+536
+00:28:33,237 --> 00:28:37,200
+planet crosses from rich biosphere to scattered refuges.
+
+537
+00:28:37,825 --> 00:28:41,125
+So our imagined last ordinary morning is a way into the
+
+538
+00:28:41,125 --> 00:28:44,825
+question, not a claim that the future has one decisive
+
+539
+00:28:44,825 --> 00:28:46,450
+cinematic moment.
+
+540
+00:28:46,450 --> 00:28:49,425
+Much of what is precious could disappear through a succession
+
+541
+00:28:49,425 --> 00:28:51,325
+of smaller departures.
+
+542
+00:28:51,800 --> 00:28:53,737
+A song no longer heard.
+
+543
+00:28:53,737 --> 00:28:56,987
+A reproductive season that no longer succeeds.
+
+544
+00:28:56,987 --> 00:29:00,537
+A region where breathing outdoors becomes impossible.
+
+545
+00:29:00,537 --> 00:29:03,875
+The ending of a world can be made of many endings, each
+
+546
+00:29:03,875 --> 00:29:06,550
+complete for the lives that depended on it.
+
+547
+00:29:07,600 --> 00:29:10,775
+Eventually, the Sun will exhaust the hydrogen available
+
+548
+00:29:10,775 --> 00:29:13,225
+for sustained fusion in its core.
+
+549
+00:29:13,225 --> 00:29:15,887
+Its structure will change dramatically.
+
+550
+00:29:15,887 --> 00:29:19,187
+Hydrogen burning in a shell around the evolving core and
+
+551
+00:29:19,187 --> 00:29:22,850
+later stages of stellar evolution will transform it into
+
+552
+00:29:22,850 --> 00:29:24,275
+a giant star.
+
+553
+00:29:24,775 --> 00:29:28,137
+NASA describes the Sun as having roughly another five
+
+554
+00:29:28,137 --> 00:29:32,200
+billion years before entering its red giant future.
+
+555
+00:29:32,200 --> 00:29:35,837
+That is an approximate evolutionary milestone, not the
+
+556
+00:29:35,837 --> 00:29:40,162
+date of Earth's first habitability crisis, and not necessarily
+
+557
+00:29:40,162 --> 00:29:42,875
+the moment of maximum stellar size.
+
+558
+00:29:43,350 --> 00:29:46,900
+During the giant stages, the Sun's outer layers expand
+
+559
+00:29:46,900 --> 00:29:50,500
+enormously. Its surface can become cooler in temperature
+
+560
+00:29:50,500 --> 00:29:53,950
+while its total luminosity becomes much greater, because
+
+561
+00:29:53,950 --> 00:29:57,075
+the radiating surface is so much larger.
+
+562
+00:29:57,075 --> 00:29:59,100
+Redder does not mean safe.
+
+563
+00:29:59,575 --> 00:30:02,162
+Mercury and Venus face destruction.
+
+564
+00:30:02,162 --> 00:30:05,025
+The consequences for Earth depend on more than simply
+
+565
+00:30:05,025 --> 00:30:08,687
+drawing a large circle around today's solar system.
+
+566
+00:30:08,687 --> 00:30:13,225
+The Sun loses mass, planetary orbits respond, and tides
+
+567
+00:30:13,225 --> 00:30:15,675
+can exchange angular momentum.
+
+568
+00:30:16,100 --> 00:30:19,387
+By this stage, the familiar biosphere would already be
+
+569
+00:30:19,387 --> 00:30:23,175
+ancient history under ordinary natural evolution.
+
+570
+00:30:23,175 --> 00:30:26,012
+Waiting for the red giant is like dating the loss of a
+
+571
+00:30:26,012 --> 00:30:29,437
+house to the demolition of its foundations, after the
+
+572
+00:30:29,437 --> 00:30:34,375
+water, electricity, roof, and rooms have long since disappeared.
+
+573
+00:30:35,600 --> 00:30:39,512
+As the Sun loses mass, Earth's orbit can expand.
+
+574
+00:30:39,512 --> 00:30:41,700
+That sounds like an escape route.
+
+575
+00:30:41,700 --> 00:30:45,450
+But a giant star can also exert tidal effects that remove
+
+576
+00:30:45,450 --> 00:30:49,475
+orbital angular momentum, pulling a planet inward relative
+
+577
+00:30:49,475 --> 00:30:52,075
+to that expanding-star environment.
+
+578
+00:30:52,550 --> 00:30:56,187
+A widely cited calculation by Schroder and Smith found
+
+579
+00:30:56,187 --> 00:30:59,100
+that Earth would be engulfed near the tip of the red giant
+
+580
+00:30:59,100 --> 00:31:03,012
+branch, about seven point six billion years from now in
+
+581
+00:31:03,012 --> 00:31:07,187
+their model. Their result included stellar mass loss and
+
+582
+00:31:07,187 --> 00:31:08,850
+tidal interaction.
+
+583
+00:31:09,275 --> 00:31:12,875
+The precise outcome depends on difficult details of stellar
+
+584
+00:31:12,875 --> 00:31:15,462
+evolution and those interactions.
+
+585
+00:31:15,462 --> 00:31:19,375
+The safe conclusion is not that every calculation guarantees
+
+586
+00:31:19,375 --> 00:31:21,425
+the same final orbit.
+
+587
+00:31:21,425 --> 00:31:24,887
+It is that orbital expansion alone does not guarantee
+
+588
+00:31:24,887 --> 00:31:26,325
+Earth's survival.
+
+589
+00:31:26,775 --> 00:31:29,537
+And survival of the rock would not mean survival of the
+
+590
+00:31:29,537 --> 00:31:33,475
+home. A sterilized remnant on a changed orbit has not
+
+591
+00:31:33,475 --> 00:31:37,875
+preserved the forests, coastlines, atmospheric chemistry,
+
+592
+00:31:37,875 --> 00:31:40,750
+or living relationships that made Earth meaningful to
+
+593
+00:31:40,750 --> 00:31:41,550
+us.
+
+594
+00:31:42,000 --> 00:31:45,725
+There are two endings here: the loss of a habitable world,
+
+595
+00:31:45,725 --> 00:31:48,362
+and the possible destruction of the planet that once
+
+596
+00:31:48,362 --> 00:31:52,075
+carried it. Confusing those endings can make the remaining
+
+597
+00:31:52,075 --> 00:31:55,187
+lifetime of the biosphere appear much longer than the
+
+598
+00:31:55,187 --> 00:31:56,650
+science supports.
+
+599
+00:31:57,700 --> 00:32:00,662
+The Sun does not have enough mass to end its life as a
+
+600
+00:32:00,662 --> 00:32:02,537
+core-collapse supernova.
+
+601
+00:32:02,537 --> 00:32:06,075
+After its giant phases and the loss of outer material,
+
+602
+00:32:06,075 --> 00:32:10,012
+it is expected to leave a white dwarf: a compact stellar
+
+603
+00:32:10,012 --> 00:32:12,350
+remnant that gradually cools.
+
+604
+00:32:12,800 --> 00:32:15,762
+That object would be the remains of the star that powered
+
+605
+00:32:15,762 --> 00:32:17,775
+Earth's forests and weather.
+
+606
+00:32:17,775 --> 00:32:21,137
+It would not offer today's solar system a return to its
+
+607
+00:32:21,137 --> 00:32:22,687
+old arrangement.
+
+608
+00:32:22,687 --> 00:32:25,525
+The planets and smaller bodies would have experienced
+
+609
+00:32:25,525 --> 00:32:28,775
+a long, disruptive stellar transformation.
+
+610
+00:32:29,225 --> 00:32:32,212
+We do not need to settle every detail of the far-future
+
+611
+00:32:32,212 --> 00:32:34,837
+remnant to understand the central point.
+
+612
+00:32:34,837 --> 00:32:38,575
+Earth's natural period of rich surface habitability is
+
+613
+00:32:38,575 --> 00:32:41,562
+a chapter within a larger stellar history.
+
+614
+00:32:41,562 --> 00:32:43,875
+The Sun existed before people.
+
+615
+00:32:43,875 --> 00:32:47,050
+Its altered remnant could persist long after our planet's
+
+616
+00:32:47,050 --> 00:32:49,550
+familiar environment has vanished.
+
+617
+00:32:50,025 --> 00:32:53,725
+Looking that far ahead can make human history feel impossibly
+
+618
+00:32:53,725 --> 00:32:58,150
+small. But duration is not the only measure of significance.
+
+619
+00:32:58,150 --> 00:33:01,375
+A brief season can contain everything that matters to
+
+620
+00:33:01,375 --> 00:33:03,475
+the lives experiencing it.
+
+621
+00:33:03,900 --> 00:33:07,525
+The scientific question tells us how the stage changes.
+
+622
+00:33:07,525 --> 00:33:10,950
+It cannot decide for us what the existence of the performance
+
+623
+00:33:10,950 --> 00:33:11,950
+is worth.
+
+624
+00:33:13,025 --> 00:33:14,387
+Let us pull back.
+
+625
+00:33:14,387 --> 00:33:17,900
+Around a billion years is a useful scale in several studies
+
+626
+00:33:17,900 --> 00:33:21,737
+of future carbon limitation and atmospheric oxygen.
+
+627
+00:33:21,737 --> 00:33:25,125
+Other assumptions allow land plants to last substantially
+
+628
+00:33:25,125 --> 00:33:29,075
+longer, toward roughly one point six to one point eight
+
+629
+00:33:29,075 --> 00:33:32,200
+six billion years in the study we discussed.
+
+630
+00:33:32,650 --> 00:33:36,112
+The future timing of severe greenhouse transitions and
+
+631
+00:33:36,112 --> 00:33:40,500
+major water loss depends on climate modeling and atmospheric
+
+632
+00:33:40,500 --> 00:33:44,475
+assumptions. Those transitions do not have to coincide
+
+633
+00:33:44,475 --> 00:33:48,025
+with the first failure of human outdoor habitability.
+
+634
+00:33:48,500 --> 00:33:52,012
+Around five billion years is a broad scale for the Sun
+
+635
+00:33:52,012 --> 00:33:54,362
+moving toward its giant future.
+
+636
+00:33:54,362 --> 00:33:58,200
+A later maximum expansion and possible engulfment of Earth
+
+637
+00:33:58,200 --> 00:34:01,987
+belong to additional stages; the seven point six billion
+
+638
+00:34:01,987 --> 00:34:06,175
+year result is tied to a particular stellar calculation.
+
+639
+00:34:06,800 --> 00:34:10,050
+These are signposts from different investigations, not
+
+640
+00:34:10,050 --> 00:34:13,950
+consecutive appointments copied from one master simulation.
+
+641
+00:34:13,950 --> 00:34:17,312
+A billion years is also an enormous interval in which
+
+642
+00:34:17,312 --> 00:34:21,450
+continents, organisms, and any surviving technological
+
+643
+00:34:21,450 --> 00:34:23,375
+societies could change.
+
+644
+00:34:23,800 --> 00:34:26,837
+The uncertainty is not a reason to replace the story with
+
+645
+00:34:26,837 --> 00:34:31,262
+a shrug. The robust direction is clear: an evolving Sun
+
+646
+00:34:31,262 --> 00:34:34,575
+eventually makes a naturally Earth-like home impossible
+
+647
+00:34:34,575 --> 00:34:36,937
+at our planet's current situation.
+
+648
+00:34:36,937 --> 00:34:40,900
+What remains uncertain is the detailed route, its timing,
+
+649
+00:34:40,900 --> 00:34:43,812
+and any choices that future life might make along the
+
+650
+00:34:43,812 --> 00:34:44,675
+way.
+
+651
+00:34:45,750 --> 00:34:49,175
+Suppose a technological civilization survives long enough
+
+652
+00:34:49,175 --> 00:34:50,875
+to confront this problem.
+
+653
+00:34:50,875 --> 00:34:55,175
+Its first refuge might be local: sealed habitats, controlled
+
+654
+00:34:55,175 --> 00:34:59,525
+agriculture, managed air, and protected supplies of water.
+
+655
+00:35:00,125 --> 00:35:03,337
+We already operate limited life-support systems.
+
+656
+00:35:03,337 --> 00:35:06,775
+That does not mean we have demonstrated a closed civilization
+
+657
+00:35:06,775 --> 00:35:10,562
+that can reproduce, maintain its machinery, and preserve
+
+658
+00:35:10,562 --> 00:35:13,912
+ecological stability for geological time.
+
+659
+00:35:13,912 --> 00:35:18,725
+A habitat requires energy, materials, spare parts, knowledge,
+
+660
+00:35:18,725 --> 00:35:21,250
+and institutions that keep functioning.
+
+661
+00:35:21,675 --> 00:35:23,912
+It must also dump waste heat.
+
+662
+00:35:23,912 --> 00:35:26,875
+A cooling machine does not make heat disappear.
+
+663
+00:35:26,875 --> 00:35:29,825
+It transfers heat elsewhere while adding the energy used
+
+664
+00:35:29,825 --> 00:35:31,337
+to run the machine.
+
+665
+00:35:31,337 --> 00:35:35,000
+A steadily hotter environment makes that task harder.
+
+666
+00:35:35,450 --> 00:35:38,512
+Underground construction can help with some environmental
+
+667
+00:35:38,512 --> 00:35:42,325
+hazards. It does not grant immunity from the thermal state
+
+668
+00:35:42,325 --> 00:35:45,487
+of the surrounding rock, or from the need to move heat
+
+669
+00:35:45,487 --> 00:35:47,125
+to a suitable sink.
+
+670
+00:35:47,625 --> 00:35:51,225
+Sealed living could extend human survival beyond the loss
+
+671
+00:35:51,225 --> 00:35:53,600
+of comfortable outdoor conditions.
+
+672
+00:35:53,600 --> 00:35:56,212
+It would also change what home means.
+
+673
+00:35:56,212 --> 00:35:59,212
+The natural world outside would no longer provide its
+
+674
+00:35:59,212 --> 00:36:00,737
+services freely.
+
+675
+00:36:00,737 --> 00:36:03,687
+Every breath and meal would depend more visibly on an
+
+676
+00:36:03,687 --> 00:36:07,525
+engineered system, and on the people entrusted with maintaining
+
+677
+00:36:07,525 --> 00:36:08,150
+it.
+
+678
+00:36:09,200 --> 00:36:12,725
+Another idea is to reduce the sunlight Earth receives.
+
+679
+00:36:12,725 --> 00:36:16,737
+Proposals include space-based shades or many distributed
+
+680
+00:36:16,737 --> 00:36:20,525
+objects arranged to deflect a small fraction of incoming
+
+681
+00:36:20,525 --> 00:36:21,325
+light.
+
+682
+00:36:21,775 --> 00:36:24,837
+The physics of blocking light is not mysterious.
+
+683
+00:36:24,837 --> 00:36:27,987
+The engineering and governance of a planetary intervention
+
+684
+00:36:27,987 --> 00:36:29,487
+are another matter.
+
+685
+00:36:29,487 --> 00:36:33,425
+Construction, orbital behavior, maintenance, material
+
+686
+00:36:33,425 --> 00:36:36,962
+supply, unintended climate effects, and the ability to
+
+687
+00:36:36,962 --> 00:36:40,500
+stop or modify the system would all need attention.
+
+688
+00:36:40,975 --> 00:36:44,275
+A shade would also address only part of the problem.
+
+689
+00:36:44,275 --> 00:36:47,875
+Changing incoming radiation does not automatically restore
+
+690
+00:36:47,875 --> 00:36:52,425
+the correct carbon supply, oxygen balance, nutrient cycles,
+
+691
+00:36:52,425 --> 00:36:55,012
+or every regional ecosystem.
+
+692
+00:36:55,012 --> 00:36:58,625
+A planet has more than one environmental control.
+
+693
+00:36:59,125 --> 00:37:02,625
+No operating planetary sunshade currently demonstrates
+
+694
+00:37:02,625 --> 00:37:05,887
+that we can preserve a biosphere against a progressively
+
+695
+00:37:05,887 --> 00:37:09,450
+brighter star for hundreds of millions of years.
+
+696
+00:37:09,450 --> 00:37:13,375
+These are speculative options to analyze, not services
+
+697
+00:37:13,375 --> 00:37:16,625
+future generations are guaranteed to inherit.
+
+698
+00:37:17,075 --> 00:37:19,937
+Still, the distinction between impossible physics and
+
+699
+00:37:19,937 --> 00:37:22,500
+unproven engineering is useful.
+
+700
+00:37:22,500 --> 00:37:25,537
+We should not dismiss every intervention because it sounds
+
+701
+00:37:25,537 --> 00:37:29,275
+enormous. Nor should we treat a diagram with arrows as
+
+702
+00:37:29,275 --> 00:37:32,162
+evidence that the hard parts have been solved.
+
+703
+00:37:32,162 --> 00:37:35,600
+Saving a world requires more than identifying the direction
+
+704
+00:37:35,600 --> 00:37:37,675
+in which a control should move.
+
+705
+00:37:38,700 --> 00:37:42,300
+If the problem is too much sunlight, another thought experiment
+
+706
+00:37:42,300 --> 00:37:44,700
+is to move Earth farther from the Sun.
+
+707
+00:37:44,700 --> 00:37:48,187
+At greater distance, sunlight is spread over a larger
+
+708
+00:37:48,187 --> 00:37:49,125
+area.
+
+709
+00:37:49,550 --> 00:37:53,200
+For a simplified comparison, if solar luminosity rose
+
+710
+00:37:53,200 --> 00:37:56,950
+by ten percent, maintaining the same incoming flux would
+
+711
+00:37:56,950 --> 00:38:00,487
+require a distance larger by the square root of one point
+
+712
+00:38:00,487 --> 00:38:03,825
+one: roughly five percent farther out.
+
+713
+00:38:03,825 --> 00:38:07,537
+That calculation ignores the climate response and says
+
+714
+00:38:07,537 --> 00:38:10,275
+nothing about how to move a planet safely.
+
+715
+00:38:10,700 --> 00:38:13,612
+The orbital energy involved is immense.
+
+716
+00:38:13,612 --> 00:38:17,200
+Any scheme would have to account for momentum, the Moon,
+
+717
+00:38:17,200 --> 00:38:20,225
+the stability of other orbits, and the consequences
+
+718
+00:38:20,225 --> 00:38:24,125
+of an error. Proposals involving repeated gravitational
+
+719
+00:38:24,125 --> 00:38:27,712
+encounters are speculative studies, not a tested rescue
+
+720
+00:38:27,712 --> 00:38:28,675
+system.
+
+721
+00:38:29,125 --> 00:38:32,525
+Even a successful adjustment would buy time under particular
+
+722
+00:38:32,525 --> 00:38:36,725
+conditions. It would not halt stellar evolution or guarantee
+
+723
+00:38:36,725 --> 00:38:39,837
+the integrity of every part of the biosphere.
+
+724
+00:38:39,837 --> 00:38:43,575
+The giant phases would create a much larger and more complicated
+
+725
+00:38:43,575 --> 00:38:44,600
+problem.
+
+726
+00:38:45,075 --> 00:38:48,150
+This is a useful boundary for imagination.
+
+727
+00:38:48,150 --> 00:38:51,875
+We can calculate how an orbit affects incoming light.
+
+728
+00:38:51,875 --> 00:38:55,237
+We cannot jump from that equation to the claim that humanity
+
+729
+00:38:55,237 --> 00:38:58,537
+already possesses a practical plan to tow Earth away from
+
+730
+00:38:58,537 --> 00:38:59,675
+its future.
+
+731
+00:39:00,750 --> 00:39:04,287
+Migration offers a different answer: preserve the people
+
+732
+00:39:04,287 --> 00:39:07,887
+somewhere else. That might mean constructed habitats within
+
+733
+00:39:07,887 --> 00:39:11,675
+the solar system, or, much more speculatively, journeys
+
+734
+00:39:11,675 --> 00:39:13,175
+to other stars.
+
+735
+00:39:13,700 --> 00:39:16,425
+Mars is not a ready-made second Earth.
+
+736
+00:39:16,425 --> 00:39:19,837
+Neither is a moon simply because it contains ice.
+
+737
+00:39:19,837 --> 00:39:23,150
+A changing Sun could alter conditions farther out, but
+
+738
+00:39:23,150 --> 00:39:26,175
+a region receiving a more favorable amount of light is
+
+739
+00:39:26,175 --> 00:39:29,700
+not automatically supplied with breathable air, fertile
+
+740
+00:39:29,700 --> 00:39:33,175
+soil, or a stable environment for humans.
+
+741
+00:39:33,625 --> 00:39:37,825
+Interstellar travel adds distance, energy, radiation,
+
+742
+00:39:37,825 --> 00:39:40,362
+life-support, and social challenges.
+
+743
+00:39:40,362 --> 00:39:43,875
+A planet detected in a habitable zone is not a confirmed
+
+744
+00:39:43,875 --> 00:39:47,175
+destination where passengers can open a hatch and walk
+
+745
+00:39:47,175 --> 00:39:47,925
+out.
+
+746
+00:39:48,400 --> 00:39:51,737
+As in our previous generation-ship story, transporting
+
+747
+00:39:51,737 --> 00:39:55,175
+humans and preserving a living world are different tasks.
+
+748
+00:39:55,175 --> 00:39:57,262
+Seeds are not a forest.
+
+749
+00:39:57,262 --> 00:40:00,950
+A collection of frozen samples is not a functioning ocean.
+
+750
+00:40:00,950 --> 00:40:04,375
+Even an enormous habitat would represent choices about
+
+751
+00:40:04,375 --> 00:40:07,300
+what could be carried, supported, and allowed to keep
+
+752
+00:40:07,300 --> 00:40:08,375
+evolving.
+
+753
+00:40:08,875 --> 00:40:11,900
+Leaving could preserve a branch of Earth's story.
+
+754
+00:40:11,900 --> 00:40:15,137
+It would not make the loss of Earth inconsequential.
+
+755
+00:40:15,137 --> 00:40:18,625
+A new address can save lives while still leaving a home,
+
+756
+00:40:18,625 --> 00:40:20,850
+and much of its life, behind.
+
+757
+00:40:21,925 --> 00:40:25,450
+Imagine an archive prepared for a departure no one alive
+
+758
+00:40:25,450 --> 00:40:27,125
+today could witness.
+
+759
+00:40:27,125 --> 00:40:30,700
+It might contain genetic information, living cultures,
+
+760
+00:40:30,700 --> 00:40:34,950
+seeds, scientific records, and instructions for maintaining
+
+761
+00:40:34,950 --> 00:40:37,000
+the systems that support them.
+
+762
+00:40:37,425 --> 00:40:40,575
+But instructions are not enough without readers who understand
+
+763
+00:40:40,575 --> 00:40:44,350
+them, institutions that preserve them, and materials that
+
+764
+00:40:44,350 --> 00:40:46,225
+allow them to be used.
+
+765
+00:40:46,225 --> 00:40:49,775
+A library can survive physically while its practical meaning
+
+766
+00:40:49,775 --> 00:40:50,900
+is lost.
+
+767
+00:40:51,375 --> 00:40:54,612
+Some relationships are harder to store than individual
+
+768
+00:40:54,612 --> 00:40:59,275
+specimens. Organisms depend on partners, habitats, and
+
+769
+00:40:59,275 --> 00:41:01,337
+sequences of interaction.
+
+770
+00:41:01,337 --> 00:41:04,750
+Preserving representative pieces does not automatically
+
+771
+00:41:04,750 --> 00:41:08,375
+preserve the possibility of rebuilding the original whole.
+
+772
+00:41:09,000 --> 00:41:11,525
+Then there are the things that matter to people without
+
+773
+00:41:11,525 --> 00:41:14,150
+being necessary for basic survival.
+
+774
+00:41:14,150 --> 00:41:16,100
+Languages. Music.
+
+775
+00:41:16,100 --> 00:41:20,175
+Stories. Knowledge of what rain smelled like on soil.
+
+776
+00:41:20,175 --> 00:41:23,925
+Memories of living among organisms that no one designed.
+
+777
+00:41:24,550 --> 00:41:28,200
+Any future archive in this film is imagined, not a mission
+
+778
+00:41:28,200 --> 00:41:29,575
+under construction.
+
+779
+00:41:29,575 --> 00:41:33,375
+It asks a present question, though: when we say save humanity,
+
+780
+00:41:33,375 --> 00:41:37,075
+how much of the larger living world do we mean to include?
+
+781
+00:41:37,075 --> 00:41:40,412
+The answer changes the scale of the task, and the meaning
+
+782
+00:41:40,412 --> 00:41:41,675
+of success.
+
+783
+00:41:42,750 --> 00:41:46,125
+After a journey through billions of years, it is tempting
+
+784
+00:41:46,125 --> 00:41:49,537
+to feel that everything nearby has become trivial.
+
+785
+00:41:49,537 --> 00:41:52,275
+The opposite conclusion makes more sense.
+
+786
+00:41:52,725 --> 00:41:56,275
+The solar changes discussed here are slow on the timescale
+
+787
+00:41:56,275 --> 00:41:58,062
+of current societies.
+
+788
+00:41:58,062 --> 00:42:01,437
+The rapid warming people are causing now is primarily
+
+789
+00:42:01,437 --> 00:42:05,312
+driven by human greenhouse gas emissions, not by the Sun
+
+790
+00:42:05,312 --> 00:42:08,287
+quietly approaching a red giant phase.
+
+791
+00:42:08,287 --> 00:42:11,150
+Reducing that damage remains meaningful.
+
+792
+00:42:11,625 --> 00:42:14,825
+A world that will eventually lose its oceans can still
+
+793
+00:42:14,825 --> 00:42:17,337
+have an ocean worth protecting today.
+
+794
+00:42:17,337 --> 00:42:21,325
+A species with a finite future can still avoid unnecessary
+
+795
+00:42:21,325 --> 00:42:25,775
+extinction. Every generation lives inside a limited interval;
+
+796
+00:42:25,775 --> 00:42:28,500
+that has never made care irrelevant.
+
+797
+00:42:28,950 --> 00:42:32,575
+We also cannot assume that future technology will repair
+
+798
+00:42:32,575 --> 00:42:34,587
+whatever we choose to break.
+
+799
+00:42:34,587 --> 00:42:38,125
+The capabilities imagined in planetary rescue schemes
+
+800
+00:42:38,125 --> 00:42:39,887
+are not guarantees.
+
+801
+00:42:39,887 --> 00:42:43,775
+Keeping an existing biosphere healthy is a different proposition
+
+802
+00:42:43,775 --> 00:42:47,075
+from reconstructing one after its relationships have been
+
+803
+00:42:47,075 --> 00:42:48,100
+erased.
+
+804
+00:42:48,550 --> 00:42:51,687
+The long future gives us perspective on the home we already
+
+805
+00:42:51,687 --> 00:42:55,237
+have. It does not provide permission to neglect it.
+
+806
+00:42:55,237 --> 00:42:58,537
+Between the birth of a habitable world and its eventual
+
+807
+00:42:58,537 --> 00:43:01,950
+ending lies the only interval in which that particular
+
+808
+00:43:01,950 --> 00:43:04,350
+living world can be experienced.
+
+809
+00:43:05,400 --> 00:43:07,700
+Return to the shoreline from our opening.
+
+810
+00:43:07,700 --> 00:43:09,800
+It does not need to be the final day.
+
+811
+00:43:09,800 --> 00:43:11,612
+Perhaps it is simply today.
+
+812
+00:43:11,612 --> 00:43:14,687
+A person stands beside water under a star that is still
+
+813
+00:43:14,687 --> 00:43:16,687
+in the right stage of its life.
+
+814
+00:43:16,687 --> 00:43:19,900
+The air contains oxygen because life and geology have
+
+815
+00:43:19,900 --> 00:43:22,812
+made it so. Plants can obtain carbon.
+
+816
+00:43:22,812 --> 00:43:25,012
+Clouds move heat and water.
+
+817
+00:43:25,012 --> 00:43:28,325
+A planet-sized collection of processes keeps an ordinary
+
+818
+00:43:28,325 --> 00:43:29,600
+breath possible.
+
+819
+00:43:30,100 --> 00:43:31,825
+None of this is permanent.
+
+820
+00:43:31,825 --> 00:43:33,788
+None of it was arranged for us.
+
+821
+00:43:33,788 --> 00:43:36,587
+Yet here we are, able to understand at least part of the
+
+822
+00:43:36,587 --> 00:43:39,475
+machinery, and to ask what comes after.
+
+823
+00:43:39,925 --> 00:43:43,062
+Under natural stellar evolution, Earth will eventually
+
+824
+00:43:43,062 --> 00:43:46,550
+stop being the home we recognize, long before the Sun
+
+825
+00:43:46,550 --> 00:43:48,112
+completes its life.
+
+826
+00:43:48,112 --> 00:43:51,425
+The exact milestones remain uncertain, and they differ
+
+827
+00:43:51,425 --> 00:43:54,762
+for people, forests, oceans, and microbes.
+
+828
+00:43:54,762 --> 00:43:57,800
+A surviving civilization might change the route.
+
+829
+00:43:57,800 --> 00:43:59,900
+We do not know whether one will.
+
+830
+00:44:00,350 --> 00:44:03,250
+What we do know is that a home can be temporary without
+
+831
+00:44:03,250 --> 00:44:04,825
+being replaceable.
+
+832
+00:44:04,825 --> 00:44:08,175
+Earth is not valuable because it can last forever.
+
+833
+00:44:08,175 --> 00:44:11,925
+It is valuable because, for this extraordinary interval,
+
+834
+00:44:11,925 --> 00:44:15,450
+a living world exists here, and we are among the lives
+
+835
+00:44:15,450 --> 00:44:16,700
+it supports.
+
+836
+00:44:17,125 --> 00:44:18,925
+The Sun will keep changing.
+
+837
+00:44:18,925 --> 00:44:21,562
+Our part of the story is what we choose to do while the
+
+838
+00:44:21,562 --> 00:44:23,225
+world is still blue.

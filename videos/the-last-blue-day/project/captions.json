@@ -1,0 +1,4192 @@
+[
+  {
+    "start": 0.375,
+    "end": 3.175,
+    "text": "Imagine the last ordinary morning on Earth."
+  },
+  {
+    "start": 3.175,
+    "end": 5.1375,
+    "text": "There is no asteroid in the sky."
+  },
+  {
+    "start": 5.1375,
+    "end": 6.825,
+    "text": "No alien invasion."
+  },
+  {
+    "start": 6.825,
+    "end": 10.225,
+    "text": "The Sun rises exactly where people expect it to rise."
+  },
+  {
+    "start": 10.225,
+    "end": 13.3875,
+    "text": "Somewhere, a door opens, and someone steps outside without"
+  },
+  {
+    "start": 13.3875,
+    "end": 15.1125,
+    "text": "carrying their own air."
+  },
+  {
+    "start": 15.1125,
+    "end": 16.9375,
+    "text": "Perhaps they notice a bird."
+  },
+  {
+    "start": 16.9375,
+    "end": 18.975,
+    "text": "Perhaps there are no birds left."
+  },
+  {
+    "start": 18.975,
+    "end": 21.6625,
+    "text": "We cannot know what that morning would look like, or whether"
+  },
+  {
+    "start": 21.6625,
+    "end": 23.9625,
+    "text": "anyone like us will be there to see it."
+  },
+  {
+    "start": 23.9625,
+    "end": 27.3625,
+    "text": "This is an imagined scene, not a prediction of a particular"
+  },
+  {
+    "start": 27.3625,
+    "end": 28.775,
+    "text": "future family."
+  },
+  {
+    "start": 29.175,
+    "end": 31.2875,
+    "text": "But the question behind it is real."
+  },
+  {
+    "start": 31.2875,
+    "end": 33.95,
+    "text": "How much longer can Earth remain a home?"
+  },
+  {
+    "start": 33.95,
+    "end": 37.3,
+    "text": "The answer is not simply, until the Sun dies."
+  },
+  {
+    "start": 37.3,
+    "end": 41.35,
+    "text": "Our star does not need to explode to make this world uninhabitable."
+  },
+  {
+    "start": 41.35,
+    "end": 44.7875,
+    "text": "It only needs to keep doing what it already does: turning"
+  },
+  {
+    "start": 44.7875,
+    "end": 48.475,
+    "text": "hydrogen into helium, and slowly changing as a result."
+  },
+  {
+    "start": 49.15,
+    "end": 52.175,
+    "text": "Long before a swollen red Sun reaches toward the inner"
+  },
+  {
+    "start": 52.175,
+    "end": 55.2625,
+    "text": "planets, Earth could lose the conditions that support"
+  },
+  {
+    "start": 55.2625,
+    "end": 57.3125,
+    "text": "its familiar living world."
+  },
+  {
+    "start": 57.3125,
+    "end": 61.325,
+    "text": "Forests, breathable air, oceans, and the last surviving"
+  },
+  {
+    "start": 61.325,
+    "end": 65.4875,
+    "text": "microbes do not necessarily share an expiration date."
+  },
+  {
+    "start": 65.4875,
+    "end": 68.625,
+    "text": "Today, we are going to follow those different clocks,"
+  },
+  {
+    "start": 68.625,
+    "end": 71.675,
+    "text": "and ask what it would actually mean to save a planet."
+  },
+  {
+    "start": 72.7,
+    "end": 75.7125,
+    "text": "Before we travel forward, we need to decide what we are"
+  },
+  {
+    "start": 75.7125,
+    "end": 77.3375,
+    "text": "trying to preserve."
+  },
+  {
+    "start": 77.3375,
+    "end": 80.45,
+    "text": "An astronomer may call a planet potentially habitable"
+  },
+  {
+    "start": 80.45,
+    "end": 83.8,
+    "text": "if conditions could allow liquid water at its surface."
+  },
+  {
+    "start": 83.8,
+    "end": 86.5,
+    "text": "That does not mean a person could walk there."
+  },
+  {
+    "start": 86.5,
+    "end": 90.5125,
+    "text": "It does not guarantee oxygen, crops, healthy oceans, or"
+  },
+  {
+    "start": 90.5125,
+    "end": 91.725,
+    "text": "even life."
+  },
+  {
+    "start": 92.2,
+    "end": 94.575,
+    "text": "A world can be wet and deadly."
+  },
+  {
+    "start": 94.575,
+    "end": 97.9625,
+    "text": "It can contain microbes while being completely inaccessible"
+  },
+  {
+    "start": 97.9625,
+    "end": 100.0,
+    "text": "to an unprotected human."
+  },
+  {
+    "start": 100.0,
+    "end": 103.2625,
+    "text": "It can have a narrow band of tolerable weather while most"
+  },
+  {
+    "start": 103.2625,
+    "end": 105.275,
+    "text": "of its surface is hostile."
+  },
+  {
+    "start": 105.275,
+    "end": 108.75,
+    "text": "And a technological community might survive inside sealed"
+  },
+  {
+    "start": 108.75,
+    "end": 112.225,
+    "text": "structures on a planet whose natural environment has already"
+  },
+  {
+    "start": 112.225,
+    "end": 114.25,
+    "text": "become unsuitable for them."
+  },
+  {
+    "start": 114.725,
+    "end": 117.89999999999999,
+    "text": "So there are several questions hiding inside our title."
+  },
+  {
+    "start": 117.89999999999999,
+    "end": 121.13749999999999,
+    "text": "When does Earth stop supporting people outdoors?"
+  },
+  {
+    "start": 121.13749999999999,
+    "end": 124.05,
+    "text": "When do complex ecosystems decline?"
+  },
+  {
+    "start": 124.05,
+    "end": 127.2375,
+    "text": "When does the atmosphere lose its abundant oxygen?"
+  },
+  {
+    "start": 127.2375,
+    "end": 129.275,
+    "text": "When do the oceans disappear?"
+  },
+  {
+    "start": 129.275,
+    "end": 132.2125,
+    "text": "When does the last habitable pocket vanish?"
+  },
+  {
+    "start": 132.2125,
+    "end": 135.29999999999998,
+    "text": "Finally, does the planet itself survive?"
+  },
+  {
+    "start": 135.75,
+    "end": 139.3,
+    "text": "Those questions overlap, but they are not interchangeable."
+  },
+  {
+    "start": 139.3,
+    "end": 142.76250000000002,
+    "text": "Through this journey, watch what each proposed deadline"
+  },
+  {
+    "start": 142.76250000000002,
+    "end": 144.3375,
+    "text": "actually measures."
+  },
+  {
+    "start": 144.3375,
+    "end": 148.2875,
+    "text": "A number describing the future of land plants is not automatically"
+  },
+  {
+    "start": 148.2875,
+    "end": 152.05,
+    "text": "a countdown to the death of every organism on Earth."
+  },
+  {
+    "start": 153.1,
+    "end": 157.15,
+    "text": "The first clock is the one we live by: decades, centuries,"
+  },
+  {
+    "start": 157.15,
+    "end": 160.05,
+    "text": "and the decisions of existing societies."
+  },
+  {
+    "start": 160.05,
+    "end": 164.3,
+    "text": "Human-caused warming, habitat destruction, and other environmental"
+  },
+  {
+    "start": 164.3,
+    "end": 166.6375,
+    "text": "pressures operate on that clock."
+  },
+  {
+    "start": 166.6375,
+    "end": 170.2,
+    "text": "Their consequences matter now, without waiting for anything"
+  },
+  {
+    "start": 170.2,
+    "end": 172.45,
+    "text": "dramatic to happen to the Sun."
+  },
+  {
+    "start": 172.875,
+    "end": 174.91250000000002,
+    "text": "The second clock is geological."
+  },
+  {
+    "start": 174.91250000000002,
+    "end": 176.3375,
+    "text": "Continents move."
+  },
+  {
+    "start": 176.3375,
+    "end": 178.4875,
+    "text": "Mountains rise and erode."
+  },
+  {
+    "start": 178.4875,
+    "end": 182.1875,
+    "text": "Carbon passes between rock, ocean, atmosphere, and living"
+  },
+  {
+    "start": 182.1875,
+    "end": 186.05,
+    "text": "things. Over millions of years, those exchanges help shape"
+  },
+  {
+    "start": 186.05,
+    "end": 189.175,
+    "text": "the climate and the resources available to life."
+  },
+  {
+    "start": 189.625,
+    "end": 192.2125,
+    "text": "The third clock belongs to the star."
+  },
+  {
+    "start": 192.2125,
+    "end": 195.625,
+    "text": "Over hundreds of millions and billions of years, the Sun"
+  },
+  {
+    "start": 195.625,
+    "end": 199.2875,
+    "text": "evolves. That changes the energy arriving at the top of"
+  },
+  {
+    "start": 199.2875,
+    "end": 202.7375,
+    "text": "Earth's atmosphere, even if no one burns another lump"
+  },
+  {
+    "start": 202.7375,
+    "end": 203.8,
+    "text": "of coal."
+  },
+  {
+    "start": 204.25,
+    "end": 206.9125,
+    "text": "We will spend much of this film on the second and third"
+  },
+  {
+    "start": 206.9125,
+    "end": 210.5875,
+    "text": "clocks. That does not make the first one disappear."
+  },
+  {
+    "start": 210.5875,
+    "end": 214.20000000000002,
+    "text": "Solar evolution is not the explanation for the rapid warming"
+  },
+  {
+    "start": 214.20000000000002,
+    "end": 216.1125,
+    "text": "people are causing today."
+  },
+  {
+    "start": 216.1125,
+    "end": 220.425,
+    "text": "Nor does a distant natural limit make present damage unavoidable."
+  },
+  {
+    "start": 221.025,
+    "end": 224.20000000000002,
+    "text": "Think of a house on a coast that will eventually change."
+  },
+  {
+    "start": 224.20000000000002,
+    "end": 227.8,
+    "text": "Knowing the coastline has a long future does not mean"
+  },
+  {
+    "start": 227.8,
+    "end": 231.05,
+    "text": "it is pointless to repair the roof this afternoon."
+  },
+  {
+    "start": 232.1,
+    "end": 235.1625,
+    "text": "The Sun is not a ball of ordinary fire."
+  },
+  {
+    "start": 235.1625,
+    "end": 237.5875,
+    "text": "Fire needs chemical reactions."
+  },
+  {
+    "start": 237.5875,
+    "end": 240.8375,
+    "text": "The Sun's power comes mainly from nuclear fusion in its"
+  },
+  {
+    "start": 240.8375,
+    "end": 244.45,
+    "text": "core, where hydrogen is transformed into helium under"
+  },
+  {
+    "start": 244.45,
+    "end": 246.6,
+    "text": "enormous pressure and temperature."
+  },
+  {
+    "start": 247.04999999999998,
+    "end": 249.2875,
+    "text": "Gravity pulls the star inward."
+  },
+  {
+    "start": 249.2875,
+    "end": 253.0,
+    "text": "The hot interior provides pressure that resists that compression."
+  },
+  {
+    "start": 253.0,
+    "end": 256.8125,
+    "text": "The Sun we see is the result of a continually maintained"
+  },
+  {
+    "start": 256.8125,
+    "end": 260.84999999999997,
+    "text": "balance, rather than a solid object with a furnace installed"
+  },
+  {
+    "start": 260.84999999999997,
+    "end": 261.97499999999997,
+    "text": "inside it."
+  },
+  {
+    "start": 262.425,
+    "end": 265.95,
+    "text": "As fusion proceeds, the composition of the core changes."
+  },
+  {
+    "start": 265.95,
+    "end": 267.8,
+    "text": "Helium accumulates."
+  },
+  {
+    "start": 267.8,
+    "end": 270.8125,
+    "text": "The structure adjusts, and the core becomes hotter and"
+  },
+  {
+    "start": 270.8125,
+    "end": 274.4875,
+    "text": "denser. For a star like ours during this long stage of"
+  },
+  {
+    "start": 274.4875,
+    "end": 278.675,
+    "text": "its life, those changes gradually increase its luminosity:"
+  },
+  {
+    "start": 278.675,
+    "end": 281.84999999999997,
+    "text": "the total energy it radiates into space."
+  },
+  {
+    "start": 282.325,
+    "end": 284.53749999999997,
+    "text": "That is the counterintuitive part."
+  },
+  {
+    "start": 284.53749999999997,
+    "end": 287.575,
+    "text": "A star can become brighter while consuming the fuel that"
+  },
+  {
+    "start": 287.575,
+    "end": 289.7,
+    "text": "will eventually transform it."
+  },
+  {
+    "start": 289.7,
+    "end": 292.55,
+    "text": "It does not simply dim like a flashlight with a dying"
+  },
+  {
+    "start": 292.55,
+    "end": 293.525,
+    "text": "battery."
+  },
+  {
+    "start": 293.975,
+    "end": 297.4,
+    "text": "The changes are slow compared with a human lifetime."
+  },
+  {
+    "start": 297.4,
+    "end": 300.75,
+    "text": "They are powerful compared with the environmental tolerances"
+  },
+  {
+    "start": 300.75,
+    "end": 304.25,
+    "text": "of a biosphere. Earth is living beside an engine that"
+  },
+  {
+    "start": 304.25,
+    "end": 307.7125,
+    "text": "is stable enough to make civilization possible, but not"
+  },
+  {
+    "start": 307.7125,
+    "end": 310.25,
+    "text": "permanently fixed at today's setting."
+  },
+  {
+    "start": 311.325,
+    "end": 315.025,
+    "text": "A useful rough scale is that the Sun's luminosity increases"
+  },
+  {
+    "start": 315.025,
+    "end": 318.625,
+    "text": "by about ten percent over a billion years around its present"
+  },
+  {
+    "start": 318.625,
+    "end": 322.91249999999997,
+    "text": "stage. Treat that as an approximation, not a universal"
+  },
+  {
+    "start": 322.91249999999997,
+    "end": 325.425,
+    "text": "linear schedule stretching forever."
+  },
+  {
+    "start": 325.84999999999997,
+    "end": 328.025,
+    "text": "Ten percent may sound harmless."
+  },
+  {
+    "start": 328.025,
+    "end": 331.29999999999995,
+    "text": "It is not ten percent added to a thermometer reading."
+  },
+  {
+    "start": 331.29999999999995,
+    "end": 334.53749999999997,
+    "text": "It is a change in the incoming power available to warm"
+  },
+  {
+    "start": 334.53749999999997,
+    "end": 336.2125,
+    "text": "an entire planet."
+  },
+  {
+    "start": 336.2125,
+    "end": 340.41249999999997,
+    "text": "Earth's response depends on clouds, ice, water vapor,"
+  },
+  {
+    "start": 340.41249999999997,
+    "end": 344.075,
+    "text": "atmospheric gases, circulation, and the way its surface"
+  },
+  {
+    "start": 344.075,
+    "end": 345.5,
+    "text": "reflects sunlight."
+  },
+  {
+    "start": 345.95,
+    "end": 348.99999999999994,
+    "text": "There is no single knob labeled temperature that follows"
+  },
+  {
+    "start": 348.99999999999994,
+    "end": 352.04999999999995,
+    "text": "solar brightness in a perfectly straight line."
+  },
+  {
+    "start": 352.04999999999995,
+    "end": 354.48749999999995,
+    "text": "Some responses resist warming."
+  },
+  {
+    "start": 354.48749999999995,
+    "end": 356.15,
+    "text": "Others amplify it."
+  },
+  {
+    "start": 356.15,
+    "end": 360.12499999999994,
+    "text": "Some change gradually; others can reorganize the climate."
+  },
+  {
+    "start": 360.72499999999997,
+    "end": 364.0,
+    "text": "Picture a garden receiving more light every year, except"
+  },
+  {
+    "start": 364.0,
+    "end": 366.73749999999995,
+    "text": "the years in this thought experiment are millions of years"
+  },
+  {
+    "start": 366.73749999999995,
+    "end": 369.8875,
+    "text": "long. The garden can adjust for a while."
+  },
+  {
+    "start": 369.8875,
+    "end": 372.61249999999995,
+    "text": "Shade changes. Water moves."
+  },
+  {
+    "start": 372.61249999999995,
+    "end": 375.09999999999997,
+    "text": "Different species replace the old ones."
+  },
+  {
+    "start": 375.09999999999997,
+    "end": 378.5625,
+    "text": "But adjustment does not guarantee that every useful condition"
+  },
+  {
+    "start": 378.5625,
+    "end": 380.47499999999997,
+    "text": "survives indefinitely."
+  },
+  {
+    "start": 380.9,
+    "end": 384.1125,
+    "text": "The future is therefore not just a larger Sun drawn above"
+  },
+  {
+    "start": 384.1125,
+    "end": 385.7125,
+    "text": "the same forests."
+  },
+  {
+    "start": 385.7125,
+    "end": 389.1125,
+    "text": "The forests, atmosphere, and oceans are participants in"
+  },
+  {
+    "start": 389.1125,
+    "end": 392.575,
+    "text": "the story. They change the way additional sunlight is"
+  },
+  {
+    "start": 392.575,
+    "end": 395.22499999999997,
+    "text": "received, stored, and released."
+  },
+  {
+    "start": 396.24999999999994,
+    "end": 398.41249999999997,
+    "text": "There is a clue in Earth's past."
+  },
+  {
+    "start": 398.41249999999997,
+    "end": 401.54999999999995,
+    "text": "The young Sun was substantially dimmer than it is today,"
+  },
+  {
+    "start": 401.54999999999995,
+    "end": 404.4625,
+    "text": "yet Earth sustained liquid water during much of its"
+  },
+  {
+    "start": 404.4625,
+    "end": 408.32499999999993,
+    "text": "early history. This is often called the faint young Sun"
+  },
+  {
+    "start": 408.32499999999993,
+    "end": 409.32499999999993,
+    "text": "problem."
+  },
+  {
+    "start": 409.79999999999995,
+    "end": 414.49999999999994,
+    "text": "Scientists investigate atmospheric greenhouse gases, clouds,"
+  },
+  {
+    "start": 414.49999999999994,
+    "end": 417.92499999999995,
+    "text": "surface reflectivity, and other factors to understand"
+  },
+  {
+    "start": 417.92499999999995,
+    "end": 420.11249999999995,
+    "text": "how the early climate worked."
+  },
+  {
+    "start": 420.11249999999995,
+    "end": 422.86249999999995,
+    "text": "The details remain an active subject."
+  },
+  {
+    "start": 422.86249999999995,
+    "end": 425.62499999999994,
+    "text": "The broad lesson is that Earth's temperature has never"
+  },
+  {
+    "start": 425.62499999999994,
+    "end": 428.22499999999997,
+    "text": "depended on solar brightness alone."
+  },
+  {
+    "start": 428.67499999999995,
+    "end": 432.31249999999994,
+    "text": "A planet can compensate for a changing star if other parts"
+  },
+  {
+    "start": 432.31249999999994,
+    "end": 435.4624999999999,
+    "text": "of its climate system change in the right direction."
+  },
+  {
+    "start": 435.4624999999999,
+    "end": 439.0999999999999,
+    "text": "In the past, a stronger greenhouse effect helped make"
+  },
+  {
+    "start": 439.0999999999999,
+    "end": 442.6499999999999,
+    "text": "a dimmer Sun compatible with an ocean-bearing world."
+  },
+  {
+    "start": 443.07499999999993,
+    "end": 446.47499999999997,
+    "text": "But the fact that Earth adjusted before is not a promise"
+  },
+  {
+    "start": 446.47499999999997,
+    "end": 449.11249999999995,
+    "text": "of unlimited adjustment in the future."
+  },
+  {
+    "start": 449.11249999999995,
+    "end": 452.7124999999999,
+    "text": "There is only so much carbon dioxide to remove before"
+  },
+  {
+    "start": 452.7124999999999,
+    "end": 456.57499999999993,
+    "text": "photosynthetic organisms encounter a different problem."
+  },
+  {
+    "start": 456.57499999999993,
+    "end": 459.7124999999999,
+    "text": "There are only so many ways to rearrange clouds and"
+  },
+  {
+    "start": 459.7124999999999,
+    "end": 462.87499999999994,
+    "text": "water while preserving the familiar biosphere."
+  },
+  {
+    "start": 463.34999999999997,
+    "end": 466.8875,
+    "text": "Survival through earlier changes tells us that Earth is"
+  },
+  {
+    "start": 466.8875,
+    "end": 470.74999999999994,
+    "text": "dynamic. It does not tell us that Earth has an automatic"
+  },
+  {
+    "start": 470.74999999999994,
+    "end": 474.325,
+    "text": "commitment to keep conditions comfortable for human beings."
+  },
+  {
+    "start": 475.525,
+    "end": 478.9,
+    "text": "Earth receives sunlight and sends energy back to space,"
+  },
+  {
+    "start": 478.9,
+    "end": 481.73749999999995,
+    "text": "mainly as infrared radiation."
+  },
+  {
+    "start": 481.73749999999995,
+    "end": 485.88749999999993,
+    "text": "Over a sufficiently long average, a stable climate requires"
+  },
+  {
+    "start": 485.88749999999993,
+    "end": 488.92499999999995,
+    "text": "incoming and outgoing energy to balance."
+  },
+  {
+    "start": 489.4,
+    "end": 492.95,
+    "text": "Some sunlight is reflected before it warms the surface."
+  },
+  {
+    "start": 492.95,
+    "end": 497.5,
+    "text": "Clouds, ice, and bright ground contribute to that reflectivity."
+  },
+  {
+    "start": 497.5,
+    "end": 499.825,
+    "text": "Much of the rest is absorbed."
+  },
+  {
+    "start": 499.825,
+    "end": 504.22499999999997,
+    "text": "Greenhouse gases interact with outgoing infrared radiation"
+  },
+  {
+    "start": 504.22499999999997,
+    "end": 507.1375,
+    "text": "and affect the temperatures needed to release energy back"
+  },
+  {
+    "start": 507.1375,
+    "end": 508.42499999999995,
+    "text": "into space."
+  },
+  {
+    "start": 508.875,
+    "end": 512.2125,
+    "text": "This is why a shade and a blanket do different jobs."
+  },
+  {
+    "start": 512.2125,
+    "end": 514.9125,
+    "text": "A shade reduces incoming sunlight."
+  },
+  {
+    "start": 514.9125,
+    "end": 517.15,
+    "text": "A blanket changes heat loss."
+  },
+  {
+    "start": 517.15,
+    "end": 520.4625,
+    "text": "Both can alter temperature, but they are not interchangeable"
+  },
+  {
+    "start": 520.4625,
+    "end": 522.0749999999999,
+    "text": "pieces of equipment."
+  },
+  {
+    "start": 522.525,
+    "end": 526.2874999999999,
+    "text": "As the Sun brightens, Earth must reflect more, lose more"
+  },
+  {
+    "start": 526.2874999999999,
+    "end": 529.7874999999999,
+    "text": "heat, or get warmer until its energy budget finds a new"
+  },
+  {
+    "start": 529.7874999999999,
+    "end": 533.2624999999999,
+    "text": "balance. Which outcome occurs depends on the changing"
+  },
+  {
+    "start": 533.2624999999999,
+    "end": 535.125,
+    "text": "atmosphere and surface."
+  },
+  {
+    "start": 535.5749999999999,
+    "end": 538.0749999999999,
+    "text": "The physics is straightforward enough to describe in a"
+  },
+  {
+    "start": 538.0749999999999,
+    "end": 541.3625,
+    "text": "few sentences. Predicting the response of a planet with"
+  },
+  {
+    "start": 541.3625,
+    "end": 545.8874999999999,
+    "text": "oceans, clouds, continents, chemistry, and life is much"
+  },
+  {
+    "start": 545.8874999999999,
+    "end": 549.925,
+    "text": "harder. That gap between a clear mechanism and an uncertain"
+  },
+  {
+    "start": 549.925,
+    "end": 553.7249999999999,
+    "text": "detailed future will appear again and again in our journey."
+  },
+  {
+    "start": 554.9499999999999,
+    "end": 556.65,
+    "text": "Now bring in the rocks."
+  },
+  {
+    "start": 556.65,
+    "end": 560.2249999999999,
+    "text": "Rainwater and carbon dioxide participate in reactions"
+  },
+  {
+    "start": 560.2249999999999,
+    "end": 562.2874999999999,
+    "text": "that weather silicate minerals."
+  },
+  {
+    "start": 562.2874999999999,
+    "end": 565.6125,
+    "text": "Dissolved products travel toward the ocean, and the wider"
+  },
+  {
+    "start": 565.6125,
+    "end": 569.3749999999999,
+    "text": "carbon cycle can transfer carbon into sediments and rock."
+  },
+  {
+    "start": 569.3749999999999,
+    "end": 573.2874999999999,
+    "text": "Volcanoes and processes inside Earth return carbon to"
+  },
+  {
+    "start": 573.2874999999999,
+    "end": 574.7249999999999,
+    "text": "the surface system."
+  },
+  {
+    "start": 575.175,
+    "end": 578.5999999999999,
+    "text": "This is a simplified picture of a complicated network,"
+  },
+  {
+    "start": 578.5999999999999,
+    "end": 582.1624999999999,
+    "text": "not a conveyor belt that removes every carbon atom on"
+  },
+  {
+    "start": 582.1624999999999,
+    "end": 585.6874999999999,
+    "text": "schedule. But it helps explain an important long-term"
+  },
+  {
+    "start": 585.6874999999999,
+    "end": 586.775,
+    "text": "feedback."
+  },
+  {
+    "start": 587.2249999999999,
+    "end": 590.8624999999998,
+    "text": "Under suitable conditions, a warmer, wetter climate can"
+  },
+  {
+    "start": 590.8624999999998,
+    "end": 594.6249999999999,
+    "text": "speed up weathering and increase carbon dioxide removal."
+  },
+  {
+    "start": 594.6249999999999,
+    "end": 598.8999999999999,
+    "text": "Less atmospheric carbon dioxide weakens greenhouse warming,"
+  },
+  {
+    "start": 598.8999999999999,
+    "end": 601.8124999999999,
+    "text": "resisting the initial temperature rise."
+  },
+  {
+    "start": 601.8124999999999,
+    "end": 605.3999999999999,
+    "text": "A cooler world can shift the balance in the opposite direction."
+  },
+  {
+    "start": 606.0,
+    "end": 609.6999999999999,
+    "text": "This feedback operates on geological timescales."
+  },
+  {
+    "start": 609.6999999999999,
+    "end": 612.9,
+    "text": "It is not fast enough to cancel the current human release"
+  },
+  {
+    "start": 612.9,
+    "end": 616.925,
+    "text": "of greenhouse gases on the timetable that matters to today's"
+  },
+  {
+    "start": 616.925,
+    "end": 618.125,
+    "text": "communities."
+  },
+  {
+    "start": 618.55,
+    "end": 620.1374999999999,
+    "text": "It also has limits."
+  },
+  {
+    "start": 620.1374999999999,
+    "end": 623.925,
+    "text": "Weathering depends on temperature, carbon dioxide, water,"
+  },
+  {
+    "start": 623.925,
+    "end": 627.9875,
+    "text": "exposed minerals, erosion, and biological activity."
+  },
+  {
+    "start": 627.9875,
+    "end": 630.4624999999999,
+    "text": "Continents and mountain ranges matter."
+  },
+  {
+    "start": 630.4624999999999,
+    "end": 634.1249999999999,
+    "text": "The thermostat is made of a planet, not a precision instrument."
+  },
+  {
+    "start": 634.1249999999999,
+    "end": 637.6874999999999,
+    "text": "Its future behavior is one of the main reasons scientists"
+  },
+  {
+    "start": 637.6874999999999,
+    "end": 640.4999999999999,
+    "text": "obtain different estimates for the lifetime of Earth's"
+  },
+  {
+    "start": 640.4999999999999,
+    "end": 641.675,
+    "text": "biosphere."
+  },
+  {
+    "start": 642.7249999999999,
+    "end": 644.2874999999999,
+    "text": "Here is the twist."
+  },
+  {
+    "start": 644.2874999999999,
+    "end": 647.9249999999998,
+    "text": "Carbon dioxide can help make the present climate dangerously"
+  },
+  {
+    "start": 647.9249999999998,
+    "end": 651.3249999999999,
+    "text": "warmer when its concentration rises rapidly."
+  },
+  {
+    "start": 651.3249999999999,
+    "end": 654.9499999999999,
+    "text": "But plants also need carbon dioxide as a raw material"
+  },
+  {
+    "start": 654.9499999999999,
+    "end": 656.5499999999998,
+    "text": "for photosynthesis."
+  },
+  {
+    "start": 657.0249999999999,
+    "end": 659.7374999999998,
+    "text": "Those statements do not contradict each other."
+  },
+  {
+    "start": 659.7374999999998,
+    "end": 662.7124999999999,
+    "text": "A substance can be necessary for life and harmful when"
+  },
+  {
+    "start": 662.7124999999999,
+    "end": 665.7749999999999,
+    "text": "its abundance changes the environment too much."
+  },
+  {
+    "start": 665.7749999999999,
+    "end": 667.4874999999998,
+    "text": "Water is necessary."
+  },
+  {
+    "start": 667.4874999999998,
+    "end": 670.1249999999999,
+    "text": "A flood can still destroy a field."
+  },
+  {
+    "start": 670.5749999999999,
+    "end": 674.1125,
+    "text": "As the Sun brightens over geological time, the carbon"
+  },
+  {
+    "start": 674.1125,
+    "end": 678.0749999999999,
+    "text": "cycle may compensate by drawing atmospheric carbon dioxide"
+  },
+  {
+    "start": 678.0749999999999,
+    "end": 682.1249999999999,
+    "text": "downward. In some models, that eventually becomes a crisis"
+  },
+  {
+    "start": 682.1249999999999,
+    "end": 686.2499999999999,
+    "text": "for plants. The climate's attempt to limit warming reduces"
+  },
+  {
+    "start": 686.2499999999999,
+    "end": 689.8499999999999,
+    "text": "the supply of an ingredient used to build living tissue."
+  },
+  {
+    "start": 690.4999999999999,
+    "end": 693.4874999999998,
+    "text": "Imagine a greenhouse where the lights become progressively"
+  },
+  {
+    "start": 693.4874999999998,
+    "end": 697.6499999999999,
+    "text": "stronger while the carbon supply is progressively restricted."
+  },
+  {
+    "start": 697.6499999999999,
+    "end": 700.8249999999999,
+    "text": "The plants are not simply receiving a helpful increase"
+  },
+  {
+    "start": 700.8249999999999,
+    "end": 705.1249999999999,
+    "text": "in sunshine. Their whole operating environment is changing."
+  },
+  {
+    "start": 705.7249999999999,
+    "end": 708.9999999999999,
+    "text": "This is one proposed route toward the decline of complex"
+  },
+  {
+    "start": 708.9999999999999,
+    "end": 713.2874999999999,
+    "text": "land life: not an immediate firestorm, but a long tightening"
+  },
+  {
+    "start": 713.2874999999999,
+    "end": 716.9249999999998,
+    "text": "of the conditions that allow primary producers to function."
+  },
+  {
+    "start": 716.9249999999998,
+    "end": 720.3874999999999,
+    "text": "To understand that possibility, we have to look beyond"
+  },
+  {
+    "start": 720.3874999999999,
+    "end": 724.0999999999999,
+    "text": "the familiar image of a wilting forest and ask how different"
+  },
+  {
+    "start": 724.0999999999999,
+    "end": 726.5749999999999,
+    "text": "plants actually obtain their carbon."
+  },
+  {
+    "start": 727.5999999999999,
+    "end": 730.9749999999999,
+    "text": "Plants have evolved different photosynthetic strategies."
+  },
+  {
+    "start": 730.9749999999999,
+    "end": 734.8624999999998,
+    "text": "Most familiar trees use a pathway called C three."
+  },
+  {
+    "start": 734.8624999999998,
+    "end": 738.1124999999998,
+    "text": "Other plants use a carbon-concentrating strategy called"
+  },
+  {
+    "start": 738.1124999999998,
+    "end": 742.5249999999999,
+    "text": "C four, which can offer advantages in certain hot environments"
+  },
+  {
+    "start": 742.5249999999999,
+    "end": 746.4499999999998,
+    "text": "and at relatively low carbon dioxide concentrations."
+  },
+  {
+    "start": 746.8999999999999,
+    "end": 749.9499999999998,
+    "text": "These categories are not a simple ranking from weak to"
+  },
+  {
+    "start": 749.9499999999998,
+    "end": 754.4249999999998,
+    "text": "invincible. Water availability, nutrients, temperature,"
+  },
+  {
+    "start": 754.4249999999998,
+    "end": 757.2999999999998,
+    "text": "and the costs of the mechanisms all matter."
+  },
+  {
+    "start": 757.2999999999998,
+    "end": 760.6999999999998,
+    "text": "Different species have their own limits, and ecosystems"
+  },
+  {
+    "start": 760.6999999999998,
+    "end": 763.8999999999999,
+    "text": "depend on interactions among many organisms."
+  },
+  {
+    "start": 764.3749999999999,
+    "end": 767.7499999999999,
+    "text": "In a changing future, some vegetation could disappear"
+  },
+  {
+    "start": 767.7499999999999,
+    "end": 769.8124999999999,
+    "text": "while other kinds persist."
+  },
+  {
+    "start": 769.8124999999999,
+    "end": 773.1999999999999,
+    "text": "A forest need not become a completely sterile desert in"
+  },
+  {
+    "start": 773.1999999999999,
+    "end": 776.6249999999999,
+    "text": "one step. It might first become a different landscape,"
+  },
+  {
+    "start": 776.6249999999999,
+    "end": 779.3874999999999,
+    "text": "supporting different animals and a different cycling"
+  },
+  {
+    "start": 779.3874999999999,
+    "end": 780.4999999999999,
+    "text": "of carbon."
+  },
+  {
+    "start": 780.9499999999999,
+    "end": 783.5624999999999,
+    "text": "The same caution applies to the sea."
+  },
+  {
+    "start": 783.5624999999999,
+    "end": 787.3999999999999,
+    "text": "Marine photosynthesis has its own organisms, chemical"
+  },
+  {
+    "start": 787.3999999999999,
+    "end": 789.4624999999999,
+    "text": "setting, and constraints."
+  },
+  {
+    "start": 789.4624999999999,
+    "end": 793.0749999999999,
+    "text": "The disappearance of familiar land plants would not automatically"
+  },
+  {
+    "start": 793.0749999999999,
+    "end": 797.0249999999999,
+    "text": "switch off every source of biological production everywhere."
+  },
+  {
+    "start": 797.6499999999999,
+    "end": 800.9249999999998,
+    "text": "This is why a convincing account of Earth's future cannot"
+  },
+  {
+    "start": 800.9249999999998,
+    "end": 804.3624999999998,
+    "text": "put one date over a dying tree and label it the end of"
+  },
+  {
+    "start": 804.3624999999998,
+    "end": 807.9999999999999,
+    "text": "life. We need to know which organisms the calculation"
+  },
+  {
+    "start": 807.9999999999999,
+    "end": 811.8499999999999,
+    "text": "represents, which environmental limits it includes, and"
+  },
+  {
+    "start": 811.8499999999999,
+    "end": 814.3499999999999,
+    "text": "how the rest of the system responds."
+  },
+  {
+    "start": 815.4249999999998,
+    "end": 819.7249999999998,
+    "text": "Some earlier scenarios placed severe carbon dioxide starvation"
+  },
+  {
+    "start": 819.7249999999998,
+    "end": 823.2749999999999,
+    "text": "for land plants around a billion years into the future."
+  },
+  {
+    "start": 823.2749999999999,
+    "end": 825.6249999999999,
+    "text": "But that is not the final word."
+  },
+  {
+    "start": 826.0749999999998,
+    "end": 829.5499999999998,
+    "text": "A study by Graham, Halevy, and Abbot, posted in twenty"
+  },
+  {
+    "start": 829.5499999999998,
+    "end": 832.8749999999998,
+    "text": "twenty-four and accepted for publication, reexamined the"
+  },
+  {
+    "start": 832.8749999999998,
+    "end": 836.9499999999998,
+    "text": "relationship between weathering, climate, and plant productivity."
+  },
+  {
+    "start": 836.9499999999998,
+    "end": 840.0624999999998,
+    "text": "Under some of their assumptions, the long decline in"
+  },
+  {
+    "start": 840.0624999999998,
+    "end": 844.1874999999998,
+    "text": "carbon dioxide can slow and temporarily reverse."
+  },
+  {
+    "start": 844.1874999999998,
+    "end": 847.8249999999998,
+    "text": "Plants then avoid the earlier starvation scenario."
+  },
+  {
+    "start": 848.2999999999998,
+    "end": 851.6124999999998,
+    "text": "In those calculations, land plants can persist for roughly"
+  },
+  {
+    "start": 851.6124999999998,
+    "end": 855.6499999999999,
+    "text": "one point six to one point eight six billion years, until"
+  },
+  {
+    "start": 855.6499999999999,
+    "end": 859.1499999999999,
+    "text": "extreme temperatures stop photosynthesis instead."
+  },
+  {
+    "start": 859.1499999999999,
+    "end": 862.5624999999999,
+    "text": "Those are model results under particular assumptions."
+  },
+  {
+    "start": 862.5624999999999,
+    "end": 865.4749999999998,
+    "text": "They are not a newly discovered universal date for the"
+  },
+  {
+    "start": 865.4749999999998,
+    "end": 866.5999999999998,
+    "text": "end of Earth."
+  },
+  {
+    "start": 867.0249999999999,
+    "end": 870.0999999999998,
+    "text": "The important change is not just a later number."
+  },
+  {
+    "start": 870.0999999999998,
+    "end": 873.1749999999998,
+    "text": "It is a different proposed failure mechanism."
+  },
+  {
+    "start": 873.1749999999998,
+    "end": 876.1749999999998,
+    "text": "Change how weathering responds to temperature and carbon"
+  },
+  {
+    "start": 876.1749999999998,
+    "end": 879.6874999999998,
+    "text": "dioxide, and you can change both the deadline and the"
+  },
+  {
+    "start": 879.6874999999998,
+    "end": 881.9499999999998,
+    "text": "reason the biosphere reaches it."
+  },
+  {
+    "start": 882.3999999999999,
+    "end": 884.5374999999998,
+    "text": "That is science doing its job."
+  },
+  {
+    "start": 884.5374999999998,
+    "end": 887.5749999999998,
+    "text": "A forecast about a coupled planetary system should be"
+  },
+  {
+    "start": 887.5749999999998,
+    "end": 890.3124999999999,
+    "text": "revised when its assumptions improve."
+  },
+  {
+    "start": 890.3124999999999,
+    "end": 893.7249999999998,
+    "text": "The uncertainty belongs in the story, rather than hidden"
+  },
+  {
+    "start": 893.7249999999998,
+    "end": 896.3999999999999,
+    "text": "behind a dramatic countdown clock."
+  },
+  {
+    "start": 897.4499999999998,
+    "end": 900.5249999999997,
+    "text": "There is another deadline that does not require the ocean"
+  },
+  {
+    "start": 900.5249999999997,
+    "end": 904.8499999999998,
+    "text": "to boil away. Earth's oxygen-rich atmosphere is maintained"
+  },
+  {
+    "start": 904.8499999999998,
+    "end": 909.3249999999998,
+    "text": "by biology interacting with geological and chemical processes."
+  },
+  {
+    "start": 909.3249999999998,
+    "end": 912.3624999999998,
+    "text": "It is not a permanent gift that the planet received"
+  },
+  {
+    "start": 912.3624999999998,
+    "end": 914.2499999999998,
+    "text": "once and keeps forever."
+  },
+  {
+    "start": 914.7249999999998,
+    "end": 917.9499999999998,
+    "text": "In a twenty twenty-one study, Ozaki and Reinhard used"
+  },
+  {
+    "start": 917.9499999999998,
+    "end": 921.9499999999998,
+    "text": "a coupled biogeochemistry and climate model to investigate"
+  },
+  {
+    "start": 921.9499999999998,
+    "end": 925.2624999999998,
+    "text": "how long oxygen-rich conditions could persist."
+  },
+  {
+    "start": 925.2624999999998,
+    "end": 928.7999999999998,
+    "text": "Their reported mean was about one point zero eight billion"
+  },
+  {
+    "start": 928.7999999999998,
+    "end": 932.5374999999998,
+    "text": "years, with a model spread of about zero point one four"
+  },
+  {
+    "start": 932.5374999999998,
+    "end": 933.9499999999998,
+    "text": "billion years."
+  },
+  {
+    "start": 934.3999999999999,
+    "end": 937.8624999999998,
+    "text": "Their threshold was oxygen above one percent of the present"
+  },
+  {
+    "start": 937.8624999999998,
+    "end": 939.4499999999998,
+    "text": "atmospheric level."
+  },
+  {
+    "start": 939.4499999999998,
+    "end": 940.9749999999998,
+    "text": "Notice the wording."
+  },
+  {
+    "start": 940.9749999999998,
+    "end": 944.4249999999998,
+    "text": "One percent of today's oxygen level is not an atmosphere"
+  },
+  {
+    "start": 944.4249999999998,
+    "end": 948.3749999999999,
+    "text": "containing one percent oxygen by volume, and it is certainly"
+  },
+  {
+    "start": 948.3749999999999,
+    "end": 950.6749999999998,
+    "text": "not breathable air for humans."
+  },
+  {
+    "start": 951.1499999999997,
+    "end": 954.6249999999998,
+    "text": "In their model, the major deoxygenation occurs before"
+  },
+  {
+    "start": 954.6249999999998,
+    "end": 957.2624999999997,
+    "text": "extensive loss of surface water."
+  },
+  {
+    "start": 957.2624999999997,
+    "end": 960.4249999999997,
+    "text": "So a future observer might find an ocean-bearing Earth"
+  },
+  {
+    "start": 960.4249999999997,
+    "end": 964.6499999999997,
+    "text": "whose atmosphere no longer supports animals like us outdoors."
+  },
+  {
+    "start": 965.2749999999997,
+    "end": 968.8499999999998,
+    "text": "This result and the newer plant calculations are not chapters"
+  },
+  {
+    "start": 968.8499999999998,
+    "end": 971.0374999999998,
+    "text": "from one agreed simulation."
+  },
+  {
+    "start": 971.0374999999998,
+    "end": 973.8499999999998,
+    "text": "They use different assumptions and investigate different"
+  },
+  {
+    "start": 973.8499999999998,
+    "end": 977.7499999999998,
+    "text": "outcomes. We cannot simply paste their dates onto one"
+  },
+  {
+    "start": 977.7499999999998,
+    "end": 980.5749999999997,
+    "text": "perfectly synchronized future calendar."
+  },
+  {
+    "start": 981.5999999999998,
+    "end": 984.8874999999997,
+    "text": "For a person standing on the ground, oxygen is only part"
+  },
+  {
+    "start": 984.8874999999997,
+    "end": 988.3749999999998,
+    "text": "of the problem. Breathing depends on its partial pressure,"
+  },
+  {
+    "start": 988.3749999999998,
+    "end": 991.8749999999998,
+    "text": "which combines the oxygen fraction with the total atmospheric"
+  },
+  {
+    "start": 991.8749999999998,
+    "end": 996.4999999999998,
+    "text": "pressure. Temperature, toxic gases, water, and food matter"
+  },
+  {
+    "start": 996.4999999999998,
+    "end": 997.3499999999998,
+    "text": "too."
+  },
+  {
+    "start": 997.7749999999997,
+    "end": 1001.1999999999997,
+    "text": "For the planet, atmospheric oxygen reflects a balance"
+  },
+  {
+    "start": 1001.1999999999997,
+    "end": 1003.3249999999997,
+    "text": "between sources and sinks."
+  },
+  {
+    "start": 1003.3249999999997,
+    "end": 1007.4749999999997,
+    "text": "Photosynthesis produces oxygen, but respiration, decay,"
+  },
+  {
+    "start": 1007.4749999999997,
+    "end": 1010.8999999999997,
+    "text": "and reactions with reduced materials consume it."
+  },
+  {
+    "start": 1010.8999999999997,
+    "end": 1014.0874999999997,
+    "text": "Long-term accumulation involves the fate of carbon and"
+  },
+  {
+    "start": 1014.0874999999997,
+    "end": 1017.5374999999997,
+    "text": "other elements, including what becomes buried rather than"
+  },
+  {
+    "start": 1017.5374999999997,
+    "end": 1019.4249999999997,
+    "text": "immediately recycled."
+  },
+  {
+    "start": 1019.8749999999998,
+    "end": 1023.3249999999997,
+    "text": "That means a reduction in the oxygen supply can interact"
+  },
+  {
+    "start": 1023.3249999999997,
+    "end": 1025.7624999999998,
+    "text": "with continuing chemical demand."
+  },
+  {
+    "start": 1025.7624999999998,
+    "end": 1029.0749999999998,
+    "text": "The future atmosphere is not a sealed tank that stays"
+  },
+  {
+    "start": 1029.0749999999998,
+    "end": 1031.8249999999998,
+    "text": "full until a final tree falls."
+  },
+  {
+    "start": 1032.3249999999998,
+    "end": 1036.0124999999998,
+    "text": "Lower oxygen would also change atmospheric chemistry and"
+  },
+  {
+    "start": 1036.0124999999998,
+    "end": 1038.4249999999997,
+    "text": "the protective ozone environment."
+  },
+  {
+    "start": 1038.4249999999997,
+    "end": 1041.1374999999998,
+    "text": "Different organisms would face different combinations"
+  },
+  {
+    "start": 1041.1374999999998,
+    "end": 1045.0499999999997,
+    "text": "of stress. Some microbes can live without oxygen."
+  },
+  {
+    "start": 1045.0499999999997,
+    "end": 1048.7624999999998,
+    "text": "Large oxygen-dependent animals cannot simply adopt the"
+  },
+  {
+    "start": 1048.7624999999998,
+    "end": 1050.2499999999998,
+    "text": "same lifestyle."
+  },
+  {
+    "start": 1050.7249999999997,
+    "end": 1054.1749999999997,
+    "text": "A blue planet seen from space can therefore conceal a"
+  },
+  {
+    "start": 1054.1749999999997,
+    "end": 1056.9624999999996,
+    "text": "profound biological transformation."
+  },
+  {
+    "start": 1056.9624999999996,
+    "end": 1060.2624999999996,
+    "text": "Even if water remains visible, the conditions that made"
+  },
+  {
+    "start": 1060.2624999999996,
+    "end": 1063.4874999999997,
+    "text": "it home for our kind may already be gone."
+  },
+  {
+    "start": 1063.4874999999997,
+    "end": 1066.7249999999997,
+    "text": "Color alone does not tell us whether a world welcomes"
+  },
+  {
+    "start": 1066.7249999999997,
+    "end": 1067.7249999999997,
+    "text": "a breath."
+  },
+  {
+    "start": 1068.7499999999998,
+    "end": 1072.1999999999998,
+    "text": "If primary production declines, the consequences spread"
+  },
+  {
+    "start": 1072.1999999999998,
+    "end": 1073.7749999999996,
+    "text": "through food webs."
+  },
+  {
+    "start": 1073.7749999999996,
+    "end": 1078.1374999999998,
+    "text": "Leaves, seeds, algae, and microscopic producers support"
+  },
+  {
+    "start": 1078.1374999999998,
+    "end": 1081.1374999999998,
+    "text": "organisms that support other organisms."
+  },
+  {
+    "start": 1081.1374999999998,
+    "end": 1084.1374999999998,
+    "text": "A predator does not need to be directly harmed by low"
+  },
+  {
+    "start": 1084.1374999999998,
+    "end": 1088.2999999999997,
+    "text": "carbon dioxide to suffer when its prey loses a food source."
+  },
+  {
+    "start": 1088.8499999999997,
+    "end": 1091.2249999999997,
+    "text": "But the response would not be uniform."
+  },
+  {
+    "start": 1091.2249999999997,
+    "end": 1093.6749999999997,
+    "text": "Some food webs could reorganize."
+  },
+  {
+    "start": 1093.6749999999997,
+    "end": 1096.8624999999997,
+    "text": "Some habitats could retain productivity longer."
+  },
+  {
+    "start": 1096.8624999999997,
+    "end": 1100.3499999999997,
+    "text": "Extinction and adaptation would unfold across a changing"
+  },
+  {
+    "start": 1100.3499999999997,
+    "end": 1104.5249999999996,
+    "text": "geography, rather than follow a single worldwide queue."
+  },
+  {
+    "start": 1105.1499999999996,
+    "end": 1108.3874999999998,
+    "text": "Think about the services a living landscape performs without"
+  },
+  {
+    "start": 1108.3874999999998,
+    "end": 1110.8374999999996,
+    "text": "invoices or replacement parts."
+  },
+  {
+    "start": 1110.8374999999996,
+    "end": 1113.8624999999997,
+    "text": "Soil formation. Nutrient recycling."
+  },
+  {
+    "start": 1113.8624999999997,
+    "end": 1116.5874999999996,
+    "text": "Pollination. Water regulation."
+  },
+  {
+    "start": 1116.5874999999996,
+    "end": 1118.2624999999998,
+    "text": "The movement of carbon."
+  },
+  {
+    "start": 1118.2624999999998,
+    "end": 1121.5624999999998,
+    "text": "Relationships between organisms that have evolved together"
+  },
+  {
+    "start": 1121.5624999999998,
+    "end": 1123.8999999999996,
+    "text": "over immense stretches of time."
+  },
+  {
+    "start": 1124.3749999999998,
+    "end": 1128.0874999999999,
+    "text": "A future technological society might produce food in controlled"
+  },
+  {
+    "start": 1128.0874999999999,
+    "end": 1131.2999999999997,
+    "text": "environments. That could help preserve people."
+  },
+  {
+    "start": 1131.2999999999997,
+    "end": 1134.2874999999997,
+    "text": "It would not automatically replace an entire functioning"
+  },
+  {
+    "start": 1134.2874999999997,
+    "end": 1139.2499999999998,
+    "text": "forest, including its fungi, insects, microbes, seasons,"
+  },
+  {
+    "start": 1139.2499999999998,
+    "end": 1141.6499999999999,
+    "text": "and evolutionary possibilities."
+  },
+  {
+    "start": 1142.0999999999997,
+    "end": 1145.0874999999999,
+    "text": "The distinction matters when we ask whether humanity could"
+  },
+  {
+    "start": 1145.0874999999999,
+    "end": 1147.8124999999998,
+    "text": "handle the loss of a habitable Earth."
+  },
+  {
+    "start": 1147.8124999999998,
+    "end": 1152.1499999999999,
+    "text": "Saving a population, saving selected species, and preserving"
+  },
+  {
+    "start": 1152.1499999999999,
+    "end": 1156.2249999999997,
+    "text": "an open, self-sustaining biosphere are different projects."
+  },
+  {
+    "start": 1156.2249999999997,
+    "end": 1158.8999999999999,
+    "text": "We should not call one of them a complete substitute"
+  },
+  {
+    "start": 1158.8999999999999,
+    "end": 1160.0749999999998,
+    "text": "for the others."
+  },
+  {
+    "start": 1161.1249999999995,
+    "end": 1164.1749999999997,
+    "text": "Any detailed illustration of Earth a billion years from"
+  },
+  {
+    "start": 1164.1749999999997,
+    "end": 1165.9374999999995,
+    "text": "now is speculative."
+  },
+  {
+    "start": 1165.9374999999995,
+    "end": 1168.6624999999997,
+    "text": "Continents will not keep today's positions."
+  },
+  {
+    "start": 1168.6624999999997,
+    "end": 1172.7249999999997,
+    "text": "Coastlines, mountain ranges, ocean circulation, and the"
+  },
+  {
+    "start": 1172.7249999999997,
+    "end": 1175.1749999999997,
+    "text": "distribution of rain will change."
+  },
+  {
+    "start": 1175.6249999999995,
+    "end": 1179.0749999999996,
+    "text": "That is important because climate is experienced locally."
+  },
+  {
+    "start": 1179.0749999999996,
+    "end": 1182.6874999999995,
+    "text": "A global average does not describe a shaded valley,"
+  },
+  {
+    "start": 1182.6874999999995,
+    "end": 1186.4874999999997,
+    "text": "a humid coastline, a high plateau, and the center of a"
+  },
+  {
+    "start": 1186.4874999999997,
+    "end": 1188.8249999999996,
+    "text": "dry continent equally well."
+  },
+  {
+    "start": 1188.8249999999996,
+    "end": 1192.1749999999997,
+    "text": "Geography can create refuges or remove them."
+  },
+  {
+    "start": 1192.6249999999995,
+    "end": 1195.8374999999996,
+    "text": "Our pictures of future landscapes are therefore examples"
+  },
+  {
+    "start": 1195.8374999999996,
+    "end": 1200.4749999999997,
+    "text": "of processes: vegetation retreating, water becoming scarce,"
+  },
+  {
+    "start": 1200.4749999999997,
+    "end": 1202.7124999999996,
+    "text": "communities using shelter."
+  },
+  {
+    "start": 1202.7124999999996,
+    "end": 1205.4999999999995,
+    "text": "They are not maps of where a particular country will be"
+  },
+  {
+    "start": 1205.4999999999995,
+    "end": 1207.5499999999997,
+    "text": "safe in a particular year."
+  },
+  {
+    "start": 1208.0249999999996,
+    "end": 1211.3374999999996,
+    "text": "Even a familiar rule like move toward the poles can become"
+  },
+  {
+    "start": 1211.3374999999996,
+    "end": 1216.4749999999997,
+    "text": "too simple. Seasonal light, available land, changing circulation,"
+  },
+  {
+    "start": 1216.4749999999997,
+    "end": 1219.7499999999995,
+    "text": "water supplies, and the demands of different organisms"
+  },
+  {
+    "start": 1219.7499999999995,
+    "end": 1221.0874999999996,
+    "text": "would all matter."
+  },
+  {
+    "start": 1221.0874999999996,
+    "end": 1225.4499999999996,
+    "text": "A refuge is a combination of conditions, not just a latitude."
+  },
+  {
+    "start": 1226.0749999999996,
+    "end": 1229.1624999999997,
+    "text": "The future Earth would not be today's world with a warmer"
+  },
+  {
+    "start": 1229.1624999999997,
+    "end": 1233.0999999999997,
+    "text": "color filter. Its geography would be part of the mechanism"
+  },
+  {
+    "start": 1233.0999999999997,
+    "end": 1235.4374999999998,
+    "text": "deciding where life could persist."
+  },
+  {
+    "start": 1235.4374999999998,
+    "end": 1238.7124999999996,
+    "text": "Trying to identify the last comfortable beach on a map"
+  },
+  {
+    "start": 1238.7124999999996,
+    "end": 1242.2499999999998,
+    "text": "of the present would give a precision we do not possess."
+  },
+  {
+    "start": 1243.4749999999995,
+    "end": 1247.0874999999996,
+    "text": "Humans cool themselves partly by evaporating sweat."
+  },
+  {
+    "start": 1247.0874999999996,
+    "end": 1250.1124999999995,
+    "text": "That works only if the environment allows the body to"
+  },
+  {
+    "start": 1250.1124999999995,
+    "end": 1252.2624999999996,
+    "text": "transfer enough heat outward."
+  },
+  {
+    "start": 1252.2624999999996,
+    "end": 1255.7999999999995,
+    "text": "High humidity can make evaporation less effective, even"
+  },
+  {
+    "start": 1255.7999999999995,
+    "end": 1258.9249999999995,
+    "text": "before the air temperature reaches the body's internal"
+  },
+  {
+    "start": 1258.9249999999995,
+    "end": 1259.9749999999995,
+    "text": "temperature."
+  },
+  {
+    "start": 1260.4499999999996,
+    "end": 1263.6749999999995,
+    "text": "Researchers use several measures to assess heat stress."
+  },
+  {
+    "start": 1263.6749999999995,
+    "end": 1266.5999999999997,
+    "text": "One is wet-bulb temperature, which reflects the combined"
+  },
+  {
+    "start": 1266.5999999999997,
+    "end": 1268.7249999999997,
+    "text": "influence of heat and moisture."
+  },
+  {
+    "start": 1268.7249999999997,
+    "end": 1272.2249999999997,
+    "text": "There is no single universal cutoff that guarantees survival"
+  },
+  {
+    "start": 1272.2249999999997,
+    "end": 1274.3874999999996,
+    "text": "below it or death above it."
+  },
+  {
+    "start": 1274.3874999999996,
+    "end": 1278.9624999999996,
+    "text": "Sunlight, airflow, clothing, activity, age, health, and"
+  },
+  {
+    "start": 1278.9624999999996,
+    "end": 1281.6499999999996,
+    "text": "exposure duration change the outcome."
+  },
+  {
+    "start": 1282.0749999999996,
+    "end": 1285.5624999999995,
+    "text": "People can become dangerously overheated under conditions"
+  },
+  {
+    "start": 1285.5624999999995,
+    "end": 1288.8374999999996,
+    "text": "well short of a famous theoretical limit."
+  },
+  {
+    "start": 1288.8374999999996,
+    "end": 1292.1874999999995,
+    "text": "A future story should not present one number as a magical"
+  },
+  {
+    "start": 1292.1874999999995,
+    "end": 1295.1999999999996,
+    "text": "boundary around human habitability."
+  },
+  {
+    "start": 1295.6999999999996,
+    "end": 1298.8249999999996,
+    "text": "Nor is the only relevant question whether a healthy resting"
+  },
+  {
+    "start": 1298.8249999999996,
+    "end": 1301.2124999999994,
+    "text": "adult can survive an afternoon."
+  },
+  {
+    "start": 1301.2124999999994,
+    "end": 1305.1249999999995,
+    "text": "Can crops grow? Can workers maintain the water system?"
+  },
+  {
+    "start": 1305.1249999999995,
+    "end": 1308.6749999999995,
+    "text": "Does a power failure turn a home into an emergency?"
+  },
+  {
+    "start": 1308.6749999999995,
+    "end": 1311.9499999999996,
+    "text": "Can a community support children, older people, and those"
+  },
+  {
+    "start": 1311.9499999999996,
+    "end": 1313.1499999999994,
+    "text": "who are ill?"
+  },
+  {
+    "start": 1313.6249999999995,
+    "end": 1317.0749999999996,
+    "text": "A landscape can become impractical for a society long"
+  },
+  {
+    "start": 1317.0749999999996,
+    "end": 1321.2999999999995,
+    "text": "before every individual exposure is immediately fatal."
+  },
+  {
+    "start": 1321.2999999999995,
+    "end": 1325.3874999999996,
+    "text": "Habitability is about sustaining lives, not merely delaying"
+  },
+  {
+    "start": 1325.3874999999996,
+    "end": 1327.3749999999995,
+    "text": "the moment a body fails."
+  },
+  {
+    "start": 1328.4249999999995,
+    "end": 1332.0124999999996,
+    "text": "As the planet warms, water vapor becomes increasingly"
+  },
+  {
+    "start": 1332.0124999999996,
+    "end": 1335.6624999999997,
+    "text": "important. It is itself a greenhouse gas."
+  },
+  {
+    "start": 1335.6624999999997,
+    "end": 1339.1999999999996,
+    "text": "More evaporation can increase atmospheric water vapor,"
+  },
+  {
+    "start": 1339.1999999999996,
+    "end": 1342.2249999999997,
+    "text": "amplifying warming under many conditions."
+  },
+  {
+    "start": 1342.6999999999996,
+    "end": 1345.9999999999995,
+    "text": "Normally, much of the atmosphere's water is kept low down"
+  },
+  {
+    "start": 1345.9999999999995,
+    "end": 1349.6624999999997,
+    "text": "because rising air cools and water condenses."
+  },
+  {
+    "start": 1349.6624999999997,
+    "end": 1352.7374999999995,
+    "text": "The upper atmosphere is comparatively dry."
+  },
+  {
+    "start": 1352.7374999999995,
+    "end": 1355.5999999999997,
+    "text": "This helps limit the amount of water reaching regions"
+  },
+  {
+    "start": 1355.5999999999997,
+    "end": 1359.1249999999995,
+    "text": "where sunlight can break its molecules apart and hydrogen"
+  },
+  {
+    "start": 1359.1249999999995,
+    "end": 1360.7999999999995,
+    "text": "can escape to space."
+  },
+  {
+    "start": 1361.2749999999996,
+    "end": 1364.5374999999997,
+    "text": "In a moist greenhouse state, the upper atmosphere becomes"
+  },
+  {
+    "start": 1364.5374999999997,
+    "end": 1366.3124999999995,
+    "text": "substantially wetter."
+  },
+  {
+    "start": 1366.3124999999995,
+    "end": 1369.6624999999997,
+    "text": "That can open a route toward major water loss over long"
+  },
+  {
+    "start": 1369.6624999999997,
+    "end": 1373.5624999999995,
+    "text": "periods. A moist greenhouse is not the same thing as every"
+  },
+  {
+    "start": 1373.5624999999995,
+    "end": 1376.0999999999997,
+    "text": "ocean instantly turning to steam."
+  },
+  {
+    "start": 1376.5749999999996,
+    "end": 1380.1249999999995,
+    "text": "A runaway greenhouse refers to a more severe energy-balance"
+  },
+  {
+    "start": 1380.1249999999995,
+    "end": 1383.5624999999995,
+    "text": "problem, where additional warming cannot restore balance"
+  },
+  {
+    "start": 1383.5624999999995,
+    "end": 1386.9999999999995,
+    "text": "through the usual increase in outgoing thermal radiation"
+  },
+  {
+    "start": 1386.9999999999995,
+    "end": 1388.9874999999995,
+    "text": "across a relevant range."
+  },
+  {
+    "start": 1388.9874999999995,
+    "end": 1390.7499999999995,
+    "text": "The distinction matters."
+  },
+  {
+    "start": 1390.7499999999995,
+    "end": 1394.5499999999995,
+    "text": "Different models can reach moist conditions, severe heating,"
+  },
+  {
+    "start": 1394.5499999999995,
+    "end": 1397.4749999999997,
+    "text": "or runaway behavior at different stages."
+  },
+  {
+    "start": 1397.8999999999996,
+    "end": 1401.4749999999997,
+    "text": "Clouds, circulation, and atmospheric assumptions affect"
+  },
+  {
+    "start": 1401.4749999999997,
+    "end": 1404.7999999999995,
+    "text": "the thresholds. We can explain the mechanisms without"
+  },
+  {
+    "start": 1404.7999999999995,
+    "end": 1408.2249999999997,
+    "text": "pretending that scientists have scheduled the first afternoon"
+  },
+  {
+    "start": 1408.2249999999997,
+    "end": 1409.9374999999995,
+    "text": "of a moist greenhouse."
+  },
+  {
+    "start": 1409.9374999999995,
+    "end": 1413.8124999999995,
+    "text": "The process is physical; the exact timetable remains a"
+  },
+  {
+    "start": 1413.8124999999995,
+    "end": 1415.2749999999996,
+    "text": "modeling problem."
+  },
+  {
+    "start": 1416.3249999999996,
+    "end": 1419.3499999999997,
+    "text": "A disappearing ocean sounds like a drain opening beneath"
+  },
+  {
+    "start": 1419.3499999999997,
+    "end": 1423.2999999999997,
+    "text": "the seafloor. The long-term escape mechanism is different."
+  },
+  {
+    "start": 1423.2999999999997,
+    "end": 1425.6374999999996,
+    "text": "Water enters the atmosphere."
+  },
+  {
+    "start": 1425.6374999999996,
+    "end": 1429.2124999999996,
+    "text": "High-energy sunlight can break water molecules apart."
+  },
+  {
+    "start": 1429.2124999999996,
+    "end": 1433.1249999999998,
+    "text": "Hydrogen, being light, can escape more readily than oxygen."
+  },
+  {
+    "start": 1433.7499999999998,
+    "end": 1437.0499999999997,
+    "text": "Oxygen left behind can participate in reactions with the"
+  },
+  {
+    "start": 1437.0499999999997,
+    "end": 1440.3749999999998,
+    "text": "surface and atmosphere, and some can be lost through other"
+  },
+  {
+    "start": 1440.3749999999998,
+    "end": 1444.0374999999997,
+    "text": "processes. The final atmosphere depends on the balance"
+  },
+  {
+    "start": 1444.0374999999997,
+    "end": 1445.5624999999998,
+    "text": "of those pathways."
+  },
+  {
+    "start": 1445.5624999999998,
+    "end": 1450.3249999999998,
+    "text": "You cannot infer a safe, oxygen-rich world simply by separating"
+  },
+  {
+    "start": 1450.3249999999998,
+    "end": 1453.3999999999999,
+    "text": "the hydrogen from a global ocean on paper."
+  },
+  {
+    "start": 1453.8999999999999,
+    "end": 1457.0874999999999,
+    "text": "Water can shift between reservoirs before it is lost to"
+  },
+  {
+    "start": 1457.0874999999999,
+    "end": 1462.2249999999997,
+    "text": "space. Ice, atmosphere, surface water, and minerals complicate"
+  },
+  {
+    "start": 1462.2249999999997,
+    "end": 1466.2499999999998,
+    "text": "the accounting. The pace of escape also depends on conditions"
+  },
+  {
+    "start": 1466.2499999999998,
+    "end": 1469.2249999999997,
+    "text": "in the upper atmosphere and the evolving star."
+  },
+  {
+    "start": 1469.6749999999995,
+    "end": 1472.8999999999996,
+    "text": "The key point is that a planet can lose water molecule"
+  },
+  {
+    "start": 1472.8999999999996,
+    "end": 1476.1999999999996,
+    "text": "by molecule over immense spans of time."
+  },
+  {
+    "start": 1476.1999999999996,
+    "end": 1479.1124999999995,
+    "text": "It does not need an explosion that throws the sea into"
+  },
+  {
+    "start": 1479.1124999999995,
+    "end": 1481.2249999999997,
+    "text": "space in a single wave."
+  },
+  {
+    "start": 1481.6749999999995,
+    "end": 1484.8499999999997,
+    "text": "This makes the story less like an action movie and more"
+  },
+  {
+    "start": 1484.8499999999997,
+    "end": 1487.4374999999995,
+    "text": "like a long failure of retention."
+  },
+  {
+    "start": 1487.4374999999995,
+    "end": 1491.3999999999996,
+    "text": "A world that once kept an ocean eventually loses the conditions"
+  },
+  {
+    "start": 1491.3999999999996,
+    "end": 1494.2749999999996,
+    "text": "that allowed it to remain a world of oceans."
+  },
+  {
+    "start": 1495.3749999999998,
+    "end": 1499.5749999999996,
+    "text": "Venus makes the danger easier to picture: a dense atmosphere,"
+  },
+  {
+    "start": 1499.5749999999996,
+    "end": 1503.6749999999997,
+    "text": "enormous surface heat, and no Earth-like surface ocean."
+  },
+  {
+    "start": 1503.6749999999997,
+    "end": 1506.8624999999997,
+    "text": "It shows that a rocky planet near the Sun can have a"
+  },
+  {
+    "start": 1506.8624999999997,
+    "end": 1509.3999999999996,
+    "text": "radically different climate from ours."
+  },
+  {
+    "start": 1509.8249999999998,
+    "end": 1513.0374999999997,
+    "text": "But Venus is not a verified photograph of Earth's exact"
+  },
+  {
+    "start": 1513.0374999999997,
+    "end": 1518.2999999999997,
+    "text": "future. Its history, rotation, atmosphere, water inventory,"
+  },
+  {
+    "start": 1518.2999999999997,
+    "end": 1522.1499999999999,
+    "text": "and interactions between interior and surface are different."
+  },
+  {
+    "start": 1522.1499999999999,
+    "end": 1525.6499999999999,
+    "text": "Scientists still investigate how much water Venus once"
+  },
+  {
+    "start": 1525.6499999999999,
+    "end": 1528.4499999999998,
+    "text": "had and how its climate evolved."
+  },
+  {
+    "start": 1528.9249999999997,
+    "end": 1532.1499999999996,
+    "text": "Saying Earth will become exactly like Venus can hide more"
+  },
+  {
+    "start": 1532.1499999999996,
+    "end": 1533.6624999999997,
+    "text": "than it explains."
+  },
+  {
+    "start": 1533.6624999999997,
+    "end": 1536.7999999999997,
+    "text": "Our future atmosphere would be shaped by its own carbon"
+  },
+  {
+    "start": 1536.7999999999997,
+    "end": 1541.5999999999997,
+    "text": "reservoirs, water loss, geological activity, and the timing"
+  },
+  {
+    "start": 1541.5999999999997,
+    "end": 1543.3499999999997,
+    "text": "of solar evolution."
+  },
+  {
+    "start": 1543.3499999999997,
+    "end": 1546.5874999999996,
+    "text": "We should not copy Venus's present pressure and composition"
+  },
+  {
+    "start": 1546.5874999999996,
+    "end": 1549.7999999999997,
+    "text": "into a forecast without doing the calculation."
+  },
+  {
+    "start": 1550.2499999999995,
+    "end": 1554.2749999999996,
+    "text": "The useful comparison is a question about planetary stability."
+  },
+  {
+    "start": 1554.2749999999996,
+    "end": 1557.8874999999996,
+    "text": "What combinations of sunlight, atmosphere, and water"
+  },
+  {
+    "start": 1557.8874999999996,
+    "end": 1559.8624999999997,
+    "text": "allow a temperate surface?"
+  },
+  {
+    "start": 1559.8624999999997,
+    "end": 1562.4999999999995,
+    "text": "What pushes a world out of that regime?"
+  },
+  {
+    "start": 1562.4999999999995,
+    "end": 1566.1249999999995,
+    "text": "Which changes can be reversed, and which remove resources"
+  },
+  {
+    "start": 1566.1249999999995,
+    "end": 1567.9499999999996,
+    "text": "that are difficult to recover?"
+  },
+  {
+    "start": 1568.4499999999998,
+    "end": 1571.9999999999998,
+    "text": "Venus reminds us that Earth-like size does not guarantee"
+  },
+  {
+    "start": 1571.9999999999998,
+    "end": 1573.5749999999998,
+    "text": "an Earth-like home."
+  },
+  {
+    "start": 1573.5749999999998,
+    "end": 1576.6999999999998,
+    "text": "It does not give us a shortcut around the science of how"
+  },
+  {
+    "start": 1576.6999999999998,
+    "end": 1578.8499999999997,
+    "text": "our own planet will change."
+  },
+  {
+    "start": 1579.8999999999996,
+    "end": 1583.6374999999998,
+    "text": "If complex surface ecosystems disappear, the story of"
+  },
+  {
+    "start": 1583.6374999999998,
+    "end": 1585.3374999999996,
+    "text": "life may continue."
+  },
+  {
+    "start": 1585.3374999999996,
+    "end": 1589.0499999999997,
+    "text": "Microorganisms already inhabit environments far removed"
+  },
+  {
+    "start": 1589.0499999999997,
+    "end": 1593.1874999999998,
+    "text": "from the conditions humans need: beneath the ground, inside"
+  },
+  {
+    "start": 1593.1874999999998,
+    "end": 1596.7499999999998,
+    "text": "rocks, and around sources of chemical energy."
+  },
+  {
+    "start": 1597.2249999999997,
+    "end": 1600.2374999999997,
+    "text": "Some communities do not rely directly on sunlight in the"
+  },
+  {
+    "start": 1600.2374999999997,
+    "end": 1602.5249999999996,
+    "text": "way a forest does."
+  },
+  {
+    "start": 1602.5249999999996,
+    "end": 1606.1749999999997,
+    "text": "Water, chemical gradients, suitable temperatures, and"
+  },
+  {
+    "start": 1606.1749999999997,
+    "end": 1610.1499999999996,
+    "text": "access to energy can allow biological activity in places"
+  },
+  {
+    "start": 1610.1499999999996,
+    "end": 1612.3249999999996,
+    "text": "that would appear barren from above."
+  },
+  {
+    "start": 1612.7749999999996,
+    "end": 1616.7999999999997,
+    "text": "That does not make the deep subsurface an unlimited sanctuary."
+  },
+  {
+    "start": 1616.7999999999997,
+    "end": 1618.9249999999997,
+    "text": "Heat can become excessive."
+  },
+  {
+    "start": 1618.9249999999997,
+    "end": 1622.7999999999997,
+    "text": "Water and useful chemical energy can become unavailable."
+  },
+  {
+    "start": 1622.7999999999997,
+    "end": 1626.8874999999998,
+    "text": "A microbial refuge must still satisfy the physical requirements"
+  },
+  {
+    "start": 1626.8874999999998,
+    "end": 1628.9499999999998,
+    "text": "of the organisms living there."
+  },
+  {
+    "start": 1629.3999999999996,
+    "end": 1632.5999999999997,
+    "text": "We do not know which place would host Earth's final life,"
+  },
+  {
+    "start": 1632.5999999999997,
+    "end": 1635.6624999999997,
+    "text": "or when its last population would disappear."
+  },
+  {
+    "start": 1635.6624999999997,
+    "end": 1639.2499999999998,
+    "text": "A tiny wet fracture in rock is a plausible kind of setting"
+  },
+  {
+    "start": 1639.2499999999998,
+    "end": 1642.9999999999998,
+    "text": "to consider, not an identified future address."
+  },
+  {
+    "start": 1643.4749999999997,
+    "end": 1645.2749999999996,
+    "text": "Imagine the contrast."
+  },
+  {
+    "start": 1645.2749999999996,
+    "end": 1648.7124999999996,
+    "text": "The planet might no longer have trees, birds, or open-air"
+  },
+  {
+    "start": 1648.7124999999996,
+    "end": 1652.4124999999997,
+    "text": "cities, yet still contain living chemistry behind a mineral"
+  },
+  {
+    "start": 1652.4124999999997,
+    "end": 1656.4999999999998,
+    "text": "surface. From a human point of view, the world has ended."
+  },
+  {
+    "start": 1656.4999999999998,
+    "end": 1659.5999999999997,
+    "text": "From the point of view of life as a broader phenomenon,"
+  },
+  {
+    "start": 1659.5999999999997,
+    "end": 1663.2499999999998,
+    "text": "a much smaller and stranger chapter remains open."
+  },
+  {
+    "start": 1664.2999999999997,
+    "end": 1667.6374999999998,
+    "text": "The phrase last day makes us imagine witnesses gathered"
+  },
+  {
+    "start": 1667.6374999999998,
+    "end": 1672.2499999999998,
+    "text": "on a shoreline. But ecological endings are usually distributed."
+  },
+  {
+    "start": 1672.2499999999998,
+    "end": 1675.6249999999998,
+    "text": "The final member of one population may disappear while"
+  },
+  {
+    "start": 1675.6249999999998,
+    "end": 1678.0375,
+    "text": "another survives somewhere else."
+  },
+  {
+    "start": 1678.0375,
+    "end": 1681.7374999999997,
+    "text": "A region can become hostile, recover temporarily, and"
+  },
+  {
+    "start": 1681.7374999999997,
+    "end": 1683.3749999999998,
+    "text": "later fail again."
+  },
+  {
+    "start": 1683.8249999999998,
+    "end": 1687.8374999999999,
+    "text": "The last natural human habitat, the last forest, and the"
+  },
+  {
+    "start": 1687.8374999999999,
+    "end": 1691.5249999999999,
+    "text": "last microbial community would not necessarily vanish"
+  },
+  {
+    "start": 1691.5249999999999,
+    "end": 1695.6374999999998,
+    "text": "together. Some thresholds could be geologically abrupt"
+  },
+  {
+    "start": 1695.6374999999998,
+    "end": 1698.8249999999998,
+    "text": "while still taking longer than the lifetime of any person"
+  },
+  {
+    "start": 1698.8249999999998,
+    "end": 1700.4499999999998,
+    "text": "who watched the beginning."
+  },
+  {
+    "start": 1700.8999999999996,
+    "end": 1704.1499999999996,
+    "text": "If intelligent descendants exist, their interventions"
+  },
+  {
+    "start": 1704.1499999999996,
+    "end": 1706.2749999999996,
+    "text": "could also change the sequence."
+  },
+  {
+    "start": 1706.2749999999996,
+    "end": 1709.7749999999996,
+    "text": "If they do not exist, there may be no observer to label"
+  },
+  {
+    "start": 1709.7749999999996,
+    "end": 1713.2374999999997,
+    "text": "an ending. Nature does not issue a certificate when a"
+  },
+  {
+    "start": 1713.2374999999997,
+    "end": 1717.1999999999998,
+    "text": "planet crosses from rich biosphere to scattered refuges."
+  },
+  {
+    "start": 1717.8249999999998,
+    "end": 1721.1249999999998,
+    "text": "So our imagined last ordinary morning is a way into the"
+  },
+  {
+    "start": 1721.1249999999998,
+    "end": 1724.8249999999998,
+    "text": "question, not a claim that the future has one decisive"
+  },
+  {
+    "start": 1724.8249999999998,
+    "end": 1726.4499999999998,
+    "text": "cinematic moment."
+  },
+  {
+    "start": 1726.4499999999998,
+    "end": 1729.4249999999997,
+    "text": "Much of what is precious could disappear through a succession"
+  },
+  {
+    "start": 1729.4249999999997,
+    "end": 1731.3249999999998,
+    "text": "of smaller departures."
+  },
+  {
+    "start": 1731.7999999999997,
+    "end": 1733.7374999999997,
+    "text": "A song no longer heard."
+  },
+  {
+    "start": 1733.7374999999997,
+    "end": 1736.9874999999997,
+    "text": "A reproductive season that no longer succeeds."
+  },
+  {
+    "start": 1736.9874999999997,
+    "end": 1740.5374999999997,
+    "text": "A region where breathing outdoors becomes impossible."
+  },
+  {
+    "start": 1740.5374999999997,
+    "end": 1743.8749999999998,
+    "text": "The ending of a world can be made of many endings, each"
+  },
+  {
+    "start": 1743.8749999999998,
+    "end": 1746.5499999999997,
+    "text": "complete for the lives that depended on it."
+  },
+  {
+    "start": 1747.5999999999997,
+    "end": 1750.7749999999999,
+    "text": "Eventually, the Sun will exhaust the hydrogen available"
+  },
+  {
+    "start": 1750.7749999999999,
+    "end": 1753.2249999999997,
+    "text": "for sustained fusion in its core."
+  },
+  {
+    "start": 1753.2249999999997,
+    "end": 1755.8874999999998,
+    "text": "Its structure will change dramatically."
+  },
+  {
+    "start": 1755.8874999999998,
+    "end": 1759.1874999999998,
+    "text": "Hydrogen burning in a shell around the evolving core and"
+  },
+  {
+    "start": 1759.1874999999998,
+    "end": 1762.8499999999997,
+    "text": "later stages of stellar evolution will transform it into"
+  },
+  {
+    "start": 1762.8499999999997,
+    "end": 1764.2749999999999,
+    "text": "a giant star."
+  },
+  {
+    "start": 1764.7749999999999,
+    "end": 1768.1374999999998,
+    "text": "NASA describes the Sun as having roughly another five"
+  },
+  {
+    "start": 1768.1374999999998,
+    "end": 1772.1999999999998,
+    "text": "billion years before entering its red giant future."
+  },
+  {
+    "start": 1772.1999999999998,
+    "end": 1775.8374999999999,
+    "text": "That is an approximate evolutionary milestone, not the"
+  },
+  {
+    "start": 1775.8374999999999,
+    "end": 1780.1624999999997,
+    "text": "date of Earth's first habitability crisis, and not necessarily"
+  },
+  {
+    "start": 1780.1624999999997,
+    "end": 1782.8749999999998,
+    "text": "the moment of maximum stellar size."
+  },
+  {
+    "start": 1783.3499999999997,
+    "end": 1786.8999999999996,
+    "text": "During the giant stages, the Sun's outer layers expand"
+  },
+  {
+    "start": 1786.8999999999996,
+    "end": 1790.4999999999998,
+    "text": "enormously. Its surface can become cooler in temperature"
+  },
+  {
+    "start": 1790.4999999999998,
+    "end": 1793.9499999999996,
+    "text": "while its total luminosity becomes much greater, because"
+  },
+  {
+    "start": 1793.9499999999996,
+    "end": 1797.0749999999996,
+    "text": "the radiating surface is so much larger."
+  },
+  {
+    "start": 1797.0749999999996,
+    "end": 1799.0999999999997,
+    "text": "Redder does not mean safe."
+  },
+  {
+    "start": 1799.5749999999998,
+    "end": 1802.1625,
+    "text": "Mercury and Venus face destruction."
+  },
+  {
+    "start": 1802.1625,
+    "end": 1805.0249999999999,
+    "text": "The consequences for Earth depend on more than simply"
+  },
+  {
+    "start": 1805.0249999999999,
+    "end": 1808.6874999999998,
+    "text": "drawing a large circle around today's solar system."
+  },
+  {
+    "start": 1808.6874999999998,
+    "end": 1813.225,
+    "text": "The Sun loses mass, planetary orbits respond, and tides"
+  },
+  {
+    "start": 1813.225,
+    "end": 1815.6749999999997,
+    "text": "can exchange angular momentum."
+  },
+  {
+    "start": 1816.1,
+    "end": 1819.3874999999998,
+    "text": "By this stage, the familiar biosphere would already be"
+  },
+  {
+    "start": 1819.3874999999998,
+    "end": 1823.175,
+    "text": "ancient history under ordinary natural evolution."
+  },
+  {
+    "start": 1823.175,
+    "end": 1826.0124999999998,
+    "text": "Waiting for the red giant is like dating the loss of a"
+  },
+  {
+    "start": 1826.0124999999998,
+    "end": 1829.4374999999998,
+    "text": "house to the demolition of its foundations, after the"
+  },
+  {
+    "start": 1829.4374999999998,
+    "end": 1834.3749999999998,
+    "text": "water, electricity, roof, and rooms have long since disappeared."
+  },
+  {
+    "start": 1835.5999999999997,
+    "end": 1839.5124999999998,
+    "text": "As the Sun loses mass, Earth's orbit can expand."
+  },
+  {
+    "start": 1839.5124999999998,
+    "end": 1841.6999999999998,
+    "text": "That sounds like an escape route."
+  },
+  {
+    "start": 1841.6999999999998,
+    "end": 1845.4499999999998,
+    "text": "But a giant star can also exert tidal effects that remove"
+  },
+  {
+    "start": 1845.4499999999998,
+    "end": 1849.4749999999997,
+    "text": "orbital angular momentum, pulling a planet inward relative"
+  },
+  {
+    "start": 1849.4749999999997,
+    "end": 1852.0749999999998,
+    "text": "to that expanding-star environment."
+  },
+  {
+    "start": 1852.5499999999997,
+    "end": 1856.1874999999998,
+    "text": "A widely cited calculation by Schroder and Smith found"
+  },
+  {
+    "start": 1856.1874999999998,
+    "end": 1859.0999999999997,
+    "text": "that Earth would be engulfed near the tip of the red giant"
+  },
+  {
+    "start": 1859.0999999999997,
+    "end": 1863.0124999999998,
+    "text": "branch, about seven point six billion years from now in"
+  },
+  {
+    "start": 1863.0124999999998,
+    "end": 1867.1874999999998,
+    "text": "their model. Their result included stellar mass loss and"
+  },
+  {
+    "start": 1867.1874999999998,
+    "end": 1868.8499999999997,
+    "text": "tidal interaction."
+  },
+  {
+    "start": 1869.2749999999999,
+    "end": 1872.8749999999998,
+    "text": "The precise outcome depends on difficult details of stellar"
+  },
+  {
+    "start": 1872.8749999999998,
+    "end": 1875.4624999999999,
+    "text": "evolution and those interactions."
+  },
+  {
+    "start": 1875.4624999999999,
+    "end": 1879.3749999999998,
+    "text": "The safe conclusion is not that every calculation guarantees"
+  },
+  {
+    "start": 1879.3749999999998,
+    "end": 1881.4249999999997,
+    "text": "the same final orbit."
+  },
+  {
+    "start": 1881.4249999999997,
+    "end": 1884.8874999999998,
+    "text": "It is that orbital expansion alone does not guarantee"
+  },
+  {
+    "start": 1884.8874999999998,
+    "end": 1886.3249999999998,
+    "text": "Earth's survival."
+  },
+  {
+    "start": 1886.7749999999996,
+    "end": 1889.5374999999997,
+    "text": "And survival of the rock would not mean survival of the"
+  },
+  {
+    "start": 1889.5374999999997,
+    "end": 1893.4749999999997,
+    "text": "home. A sterilized remnant on a changed orbit has not"
+  },
+  {
+    "start": 1893.4749999999997,
+    "end": 1897.8749999999998,
+    "text": "preserved the forests, coastlines, atmospheric chemistry,"
+  },
+  {
+    "start": 1897.8749999999998,
+    "end": 1900.7499999999998,
+    "text": "or living relationships that made Earth meaningful to"
+  },
+  {
+    "start": 1900.7499999999998,
+    "end": 1901.5499999999997,
+    "text": "us."
+  },
+  {
+    "start": 1901.9999999999998,
+    "end": 1905.725,
+    "text": "There are two endings here: the loss of a habitable world,"
+  },
+  {
+    "start": 1905.725,
+    "end": 1908.3625,
+    "text": "and the possible destruction of the planet that once"
+  },
+  {
+    "start": 1908.3625,
+    "end": 1912.0749999999998,
+    "text": "carried it. Confusing those endings can make the remaining"
+  },
+  {
+    "start": 1912.0749999999998,
+    "end": 1915.1874999999998,
+    "text": "lifetime of the biosphere appear much longer than the"
+  },
+  {
+    "start": 1915.1874999999998,
+    "end": 1916.6499999999999,
+    "text": "science supports."
+  },
+  {
+    "start": 1917.6999999999996,
+    "end": 1920.6624999999997,
+    "text": "The Sun does not have enough mass to end its life as a"
+  },
+  {
+    "start": 1920.6624999999997,
+    "end": 1922.5374999999997,
+    "text": "core-collapse supernova."
+  },
+  {
+    "start": 1922.5374999999997,
+    "end": 1926.0749999999996,
+    "text": "After its giant phases and the loss of outer material,"
+  },
+  {
+    "start": 1926.0749999999996,
+    "end": 1930.0124999999996,
+    "text": "it is expected to leave a white dwarf: a compact stellar"
+  },
+  {
+    "start": 1930.0124999999996,
+    "end": 1932.3499999999997,
+    "text": "remnant that gradually cools."
+  },
+  {
+    "start": 1932.7999999999995,
+    "end": 1935.7624999999996,
+    "text": "That object would be the remains of the star that powered"
+  },
+  {
+    "start": 1935.7624999999996,
+    "end": 1937.7749999999996,
+    "text": "Earth's forests and weather."
+  },
+  {
+    "start": 1937.7749999999996,
+    "end": 1941.1374999999996,
+    "text": "It would not offer today's solar system a return to its"
+  },
+  {
+    "start": 1941.1374999999996,
+    "end": 1942.6874999999995,
+    "text": "old arrangement."
+  },
+  {
+    "start": 1942.6874999999995,
+    "end": 1945.5249999999996,
+    "text": "The planets and smaller bodies would have experienced"
+  },
+  {
+    "start": 1945.5249999999996,
+    "end": 1948.7749999999996,
+    "text": "a long, disruptive stellar transformation."
+  },
+  {
+    "start": 1949.2249999999997,
+    "end": 1952.2124999999999,
+    "text": "We do not need to settle every detail of the far-future"
+  },
+  {
+    "start": 1952.2124999999999,
+    "end": 1954.8374999999999,
+    "text": "remnant to understand the central point."
+  },
+  {
+    "start": 1954.8374999999999,
+    "end": 1958.5749999999998,
+    "text": "Earth's natural period of rich surface habitability is"
+  },
+  {
+    "start": 1958.5749999999998,
+    "end": 1961.5624999999998,
+    "text": "a chapter within a larger stellar history."
+  },
+  {
+    "start": 1961.5624999999998,
+    "end": 1963.8749999999998,
+    "text": "The Sun existed before people."
+  },
+  {
+    "start": 1963.8749999999998,
+    "end": 1967.0499999999997,
+    "text": "Its altered remnant could persist long after our planet's"
+  },
+  {
+    "start": 1967.0499999999997,
+    "end": 1969.5499999999997,
+    "text": "familiar environment has vanished."
+  },
+  {
+    "start": 1970.0249999999996,
+    "end": 1973.7249999999997,
+    "text": "Looking that far ahead can make human history feel impossibly"
+  },
+  {
+    "start": 1973.7249999999997,
+    "end": 1978.1499999999996,
+    "text": "small. But duration is not the only measure of significance."
+  },
+  {
+    "start": 1978.1499999999996,
+    "end": 1981.3749999999995,
+    "text": "A brief season can contain everything that matters to"
+  },
+  {
+    "start": 1981.3749999999995,
+    "end": 1983.4749999999997,
+    "text": "the lives experiencing it."
+  },
+  {
+    "start": 1983.8999999999996,
+    "end": 1987.5249999999996,
+    "text": "The scientific question tells us how the stage changes."
+  },
+  {
+    "start": 1987.5249999999996,
+    "end": 1990.9499999999996,
+    "text": "It cannot decide for us what the existence of the performance"
+  },
+  {
+    "start": 1990.9499999999996,
+    "end": 1991.9499999999996,
+    "text": "is worth."
+  },
+  {
+    "start": 1993.0249999999996,
+    "end": 1994.3874999999996,
+    "text": "Let us pull back."
+  },
+  {
+    "start": 1994.3874999999996,
+    "end": 1997.8999999999996,
+    "text": "Around a billion years is a useful scale in several studies"
+  },
+  {
+    "start": 1997.8999999999996,
+    "end": 2001.7374999999997,
+    "text": "of future carbon limitation and atmospheric oxygen."
+  },
+  {
+    "start": 2001.7374999999997,
+    "end": 2005.1249999999995,
+    "text": "Other assumptions allow land plants to last substantially"
+  },
+  {
+    "start": 2005.1249999999995,
+    "end": 2009.0749999999996,
+    "text": "longer, toward roughly one point six to one point eight"
+  },
+  {
+    "start": 2009.0749999999996,
+    "end": 2012.1999999999996,
+    "text": "six billion years in the study we discussed."
+  },
+  {
+    "start": 2012.6499999999996,
+    "end": 2016.1124999999997,
+    "text": "The future timing of severe greenhouse transitions and"
+  },
+  {
+    "start": 2016.1124999999997,
+    "end": 2020.4999999999998,
+    "text": "major water loss depends on climate modeling and atmospheric"
+  },
+  {
+    "start": 2020.4999999999998,
+    "end": 2024.4749999999997,
+    "text": "assumptions. Those transitions do not have to coincide"
+  },
+  {
+    "start": 2024.4749999999997,
+    "end": 2028.0249999999996,
+    "text": "with the first failure of human outdoor habitability."
+  },
+  {
+    "start": 2028.4999999999995,
+    "end": 2032.0124999999996,
+    "text": "Around five billion years is a broad scale for the Sun"
+  },
+  {
+    "start": 2032.0124999999996,
+    "end": 2034.3624999999995,
+    "text": "moving toward its giant future."
+  },
+  {
+    "start": 2034.3624999999995,
+    "end": 2038.1999999999996,
+    "text": "A later maximum expansion and possible engulfment of Earth"
+  },
+  {
+    "start": 2038.1999999999996,
+    "end": 2041.9874999999995,
+    "text": "belong to additional stages; the seven point six billion"
+  },
+  {
+    "start": 2041.9874999999995,
+    "end": 2046.1749999999995,
+    "text": "year result is tied to a particular stellar calculation."
+  },
+  {
+    "start": 2046.7999999999997,
+    "end": 2050.0499999999997,
+    "text": "These are signposts from different investigations, not"
+  },
+  {
+    "start": 2050.0499999999997,
+    "end": 2053.95,
+    "text": "consecutive appointments copied from one master simulation."
+  },
+  {
+    "start": 2053.95,
+    "end": 2057.3124999999995,
+    "text": "A billion years is also an enormous interval in which"
+  },
+  {
+    "start": 2057.3124999999995,
+    "end": 2061.45,
+    "text": "continents, organisms, and any surviving technological"
+  },
+  {
+    "start": 2061.45,
+    "end": 2063.3749999999995,
+    "text": "societies could change."
+  },
+  {
+    "start": 2063.7999999999993,
+    "end": 2066.8374999999996,
+    "text": "The uncertainty is not a reason to replace the story with"
+  },
+  {
+    "start": 2066.8374999999996,
+    "end": 2071.2624999999994,
+    "text": "a shrug. The robust direction is clear: an evolving Sun"
+  },
+  {
+    "start": 2071.2624999999994,
+    "end": 2074.5749999999994,
+    "text": "eventually makes a naturally Earth-like home impossible"
+  },
+  {
+    "start": 2074.5749999999994,
+    "end": 2076.9374999999995,
+    "text": "at our planet's current situation."
+  },
+  {
+    "start": 2076.9374999999995,
+    "end": 2080.8999999999996,
+    "text": "What remains uncertain is the detailed route, its timing,"
+  },
+  {
+    "start": 2080.8999999999996,
+    "end": 2083.8124999999995,
+    "text": "and any choices that future life might make along the"
+  },
+  {
+    "start": 2083.8124999999995,
+    "end": 2084.6749999999993,
+    "text": "way."
+  },
+  {
+    "start": 2085.7499999999995,
+    "end": 2089.1749999999997,
+    "text": "Suppose a technological civilization survives long enough"
+  },
+  {
+    "start": 2089.1749999999997,
+    "end": 2090.8749999999995,
+    "text": "to confront this problem."
+  },
+  {
+    "start": 2090.8749999999995,
+    "end": 2095.1749999999997,
+    "text": "Its first refuge might be local: sealed habitats, controlled"
+  },
+  {
+    "start": 2095.1749999999997,
+    "end": 2099.5249999999996,
+    "text": "agriculture, managed air, and protected supplies of water."
+  },
+  {
+    "start": 2100.1249999999995,
+    "end": 2103.3374999999996,
+    "text": "We already operate limited life-support systems."
+  },
+  {
+    "start": 2103.3374999999996,
+    "end": 2106.7749999999996,
+    "text": "That does not mean we have demonstrated a closed civilization"
+  },
+  {
+    "start": 2106.7749999999996,
+    "end": 2110.5624999999995,
+    "text": "that can reproduce, maintain its machinery, and preserve"
+  },
+  {
+    "start": 2110.5624999999995,
+    "end": 2113.9124999999995,
+    "text": "ecological stability for geological time."
+  },
+  {
+    "start": 2113.9124999999995,
+    "end": 2118.7249999999995,
+    "text": "A habitat requires energy, materials, spare parts, knowledge,"
+  },
+  {
+    "start": 2118.7249999999995,
+    "end": 2121.2499999999995,
+    "text": "and institutions that keep functioning."
+  },
+  {
+    "start": 2121.6749999999993,
+    "end": 2123.9124999999995,
+    "text": "It must also dump waste heat."
+  },
+  {
+    "start": 2123.9124999999995,
+    "end": 2126.8749999999995,
+    "text": "A cooling machine does not make heat disappear."
+  },
+  {
+    "start": 2126.8749999999995,
+    "end": 2129.8249999999994,
+    "text": "It transfers heat elsewhere while adding the energy used"
+  },
+  {
+    "start": 2129.8249999999994,
+    "end": 2131.3374999999996,
+    "text": "to run the machine."
+  },
+  {
+    "start": 2131.3374999999996,
+    "end": 2134.9999999999995,
+    "text": "A steadily hotter environment makes that task harder."
+  },
+  {
+    "start": 2135.4499999999994,
+    "end": 2138.5124999999994,
+    "text": "Underground construction can help with some environmental"
+  },
+  {
+    "start": 2138.5124999999994,
+    "end": 2142.3249999999994,
+    "text": "hazards. It does not grant immunity from the thermal state"
+  },
+  {
+    "start": 2142.3249999999994,
+    "end": 2145.4874999999993,
+    "text": "of the surrounding rock, or from the need to move heat"
+  },
+  {
+    "start": 2145.4874999999993,
+    "end": 2147.1249999999995,
+    "text": "to a suitable sink."
+  },
+  {
+    "start": 2147.6249999999995,
+    "end": 2151.2249999999995,
+    "text": "Sealed living could extend human survival beyond the loss"
+  },
+  {
+    "start": 2151.2249999999995,
+    "end": 2153.5999999999995,
+    "text": "of comfortable outdoor conditions."
+  },
+  {
+    "start": 2153.5999999999995,
+    "end": 2156.2124999999996,
+    "text": "It would also change what home means."
+  },
+  {
+    "start": 2156.2124999999996,
+    "end": 2159.2124999999996,
+    "text": "The natural world outside would no longer provide its"
+  },
+  {
+    "start": 2159.2124999999996,
+    "end": 2160.7374999999993,
+    "text": "services freely."
+  },
+  {
+    "start": 2160.7374999999993,
+    "end": 2163.6874999999995,
+    "text": "Every breath and meal would depend more visibly on an"
+  },
+  {
+    "start": 2163.6874999999995,
+    "end": 2167.5249999999996,
+    "text": "engineered system, and on the people entrusted with maintaining"
+  },
+  {
+    "start": 2167.5249999999996,
+    "end": 2168.1499999999996,
+    "text": "it."
+  },
+  {
+    "start": 2169.1999999999994,
+    "end": 2172.7249999999995,
+    "text": "Another idea is to reduce the sunlight Earth receives."
+  },
+  {
+    "start": 2172.7249999999995,
+    "end": 2176.7374999999993,
+    "text": "Proposals include space-based shades or many distributed"
+  },
+  {
+    "start": 2176.7374999999993,
+    "end": 2180.5249999999996,
+    "text": "objects arranged to deflect a small fraction of incoming"
+  },
+  {
+    "start": 2180.5249999999996,
+    "end": 2181.3249999999994,
+    "text": "light."
+  },
+  {
+    "start": 2181.774999999999,
+    "end": 2184.837499999999,
+    "text": "The physics of blocking light is not mysterious."
+  },
+  {
+    "start": 2184.837499999999,
+    "end": 2187.9874999999993,
+    "text": "The engineering and governance of a planetary intervention"
+  },
+  {
+    "start": 2187.9874999999993,
+    "end": 2189.4874999999993,
+    "text": "are another matter."
+  },
+  {
+    "start": 2189.4874999999993,
+    "end": 2193.4249999999993,
+    "text": "Construction, orbital behavior, maintenance, material"
+  },
+  {
+    "start": 2193.4249999999993,
+    "end": 2196.962499999999,
+    "text": "supply, unintended climate effects, and the ability to"
+  },
+  {
+    "start": 2196.962499999999,
+    "end": 2200.499999999999,
+    "text": "stop or modify the system would all need attention."
+  },
+  {
+    "start": 2200.9749999999995,
+    "end": 2204.2749999999996,
+    "text": "A shade would also address only part of the problem."
+  },
+  {
+    "start": 2204.2749999999996,
+    "end": 2207.8749999999995,
+    "text": "Changing incoming radiation does not automatically restore"
+  },
+  {
+    "start": 2207.8749999999995,
+    "end": 2212.4249999999993,
+    "text": "the correct carbon supply, oxygen balance, nutrient cycles,"
+  },
+  {
+    "start": 2212.4249999999993,
+    "end": 2215.0124999999994,
+    "text": "or every regional ecosystem."
+  },
+  {
+    "start": 2215.0124999999994,
+    "end": 2218.6249999999995,
+    "text": "A planet has more than one environmental control."
+  },
+  {
+    "start": 2219.1249999999995,
+    "end": 2222.6249999999995,
+    "text": "No operating planetary sunshade currently demonstrates"
+  },
+  {
+    "start": 2222.6249999999995,
+    "end": 2225.8874999999994,
+    "text": "that we can preserve a biosphere against a progressively"
+  },
+  {
+    "start": 2225.8874999999994,
+    "end": 2229.4499999999994,
+    "text": "brighter star for hundreds of millions of years."
+  },
+  {
+    "start": 2229.4499999999994,
+    "end": 2233.3749999999995,
+    "text": "These are speculative options to analyze, not services"
+  },
+  {
+    "start": 2233.3749999999995,
+    "end": 2236.6249999999995,
+    "text": "future generations are guaranteed to inherit."
+  },
+  {
+    "start": 2237.0749999999994,
+    "end": 2239.9374999999995,
+    "text": "Still, the distinction between impossible physics and"
+  },
+  {
+    "start": 2239.9374999999995,
+    "end": 2242.4999999999995,
+    "text": "unproven engineering is useful."
+  },
+  {
+    "start": 2242.4999999999995,
+    "end": 2245.5374999999995,
+    "text": "We should not dismiss every intervention because it sounds"
+  },
+  {
+    "start": 2245.5374999999995,
+    "end": 2249.2749999999996,
+    "text": "enormous. Nor should we treat a diagram with arrows as"
+  },
+  {
+    "start": 2249.2749999999996,
+    "end": 2252.1624999999995,
+    "text": "evidence that the hard parts have been solved."
+  },
+  {
+    "start": 2252.1624999999995,
+    "end": 2255.5999999999995,
+    "text": "Saving a world requires more than identifying the direction"
+  },
+  {
+    "start": 2255.5999999999995,
+    "end": 2257.6749999999993,
+    "text": "in which a control should move."
+  },
+  {
+    "start": 2258.6999999999994,
+    "end": 2262.2999999999997,
+    "text": "If the problem is too much sunlight, another thought experiment"
+  },
+  {
+    "start": 2262.2999999999997,
+    "end": 2264.6999999999994,
+    "text": "is to move Earth farther from the Sun."
+  },
+  {
+    "start": 2264.6999999999994,
+    "end": 2268.1874999999995,
+    "text": "At greater distance, sunlight is spread over a larger"
+  },
+  {
+    "start": 2268.1874999999995,
+    "end": 2269.1249999999995,
+    "text": "area."
+  },
+  {
+    "start": 2269.5499999999993,
+    "end": 2273.1999999999994,
+    "text": "For a simplified comparison, if solar luminosity rose"
+  },
+  {
+    "start": 2273.1999999999994,
+    "end": 2276.9499999999994,
+    "text": "by ten percent, maintaining the same incoming flux would"
+  },
+  {
+    "start": 2276.9499999999994,
+    "end": 2280.4874999999993,
+    "text": "require a distance larger by the square root of one point"
+  },
+  {
+    "start": 2280.4874999999993,
+    "end": 2283.8249999999994,
+    "text": "one: roughly five percent farther out."
+  },
+  {
+    "start": 2283.8249999999994,
+    "end": 2287.5374999999995,
+    "text": "That calculation ignores the climate response and says"
+  },
+  {
+    "start": 2287.5374999999995,
+    "end": 2290.2749999999996,
+    "text": "nothing about how to move a planet safely."
+  },
+  {
+    "start": 2290.6999999999994,
+    "end": 2293.6124999999997,
+    "text": "The orbital energy involved is immense."
+  },
+  {
+    "start": 2293.6124999999997,
+    "end": 2297.1999999999994,
+    "text": "Any scheme would have to account for momentum, the Moon,"
+  },
+  {
+    "start": 2297.1999999999994,
+    "end": 2300.2249999999995,
+    "text": "the stability of other orbits, and the consequences"
+  },
+  {
+    "start": 2300.2249999999995,
+    "end": 2304.1249999999995,
+    "text": "of an error. Proposals involving repeated gravitational"
+  },
+  {
+    "start": 2304.1249999999995,
+    "end": 2307.7124999999996,
+    "text": "encounters are speculative studies, not a tested rescue"
+  },
+  {
+    "start": 2307.7124999999996,
+    "end": 2308.6749999999997,
+    "text": "system."
+  },
+  {
+    "start": 2309.1249999999995,
+    "end": 2312.5249999999996,
+    "text": "Even a successful adjustment would buy time under particular"
+  },
+  {
+    "start": 2312.5249999999996,
+    "end": 2316.7249999999995,
+    "text": "conditions. It would not halt stellar evolution or guarantee"
+  },
+  {
+    "start": 2316.7249999999995,
+    "end": 2319.8374999999996,
+    "text": "the integrity of every part of the biosphere."
+  },
+  {
+    "start": 2319.8374999999996,
+    "end": 2323.575,
+    "text": "The giant phases would create a much larger and more complicated"
+  },
+  {
+    "start": 2323.575,
+    "end": 2324.5999999999995,
+    "text": "problem."
+  },
+  {
+    "start": 2325.0749999999994,
+    "end": 2328.149999999999,
+    "text": "This is a useful boundary for imagination."
+  },
+  {
+    "start": 2328.149999999999,
+    "end": 2331.8749999999995,
+    "text": "We can calculate how an orbit affects incoming light."
+  },
+  {
+    "start": 2331.8749999999995,
+    "end": 2335.2374999999993,
+    "text": "We cannot jump from that equation to the claim that humanity"
+  },
+  {
+    "start": 2335.2374999999993,
+    "end": 2338.5374999999995,
+    "text": "already possesses a practical plan to tow Earth away from"
+  },
+  {
+    "start": 2338.5374999999995,
+    "end": 2339.6749999999993,
+    "text": "its future."
+  },
+  {
+    "start": 2340.7499999999995,
+    "end": 2344.2874999999995,
+    "text": "Migration offers a different answer: preserve the people"
+  },
+  {
+    "start": 2344.2874999999995,
+    "end": 2347.8874999999994,
+    "text": "somewhere else. That might mean constructed habitats within"
+  },
+  {
+    "start": 2347.8874999999994,
+    "end": 2351.6749999999997,
+    "text": "the solar system, or, much more speculatively, journeys"
+  },
+  {
+    "start": 2351.6749999999997,
+    "end": 2353.1749999999997,
+    "text": "to other stars."
+  },
+  {
+    "start": 2353.7,
+    "end": 2356.4249999999997,
+    "text": "Mars is not a ready-made second Earth."
+  },
+  {
+    "start": 2356.4249999999997,
+    "end": 2359.8374999999996,
+    "text": "Neither is a moon simply because it contains ice."
+  },
+  {
+    "start": 2359.8374999999996,
+    "end": 2363.1499999999996,
+    "text": "A changing Sun could alter conditions farther out, but"
+  },
+  {
+    "start": 2363.1499999999996,
+    "end": 2366.1749999999997,
+    "text": "a region receiving a more favorable amount of light is"
+  },
+  {
+    "start": 2366.1749999999997,
+    "end": 2369.7,
+    "text": "not automatically supplied with breathable air, fertile"
+  },
+  {
+    "start": 2369.7,
+    "end": 2373.1749999999997,
+    "text": "soil, or a stable environment for humans."
+  },
+  {
+    "start": 2373.6249999999995,
+    "end": 2377.825,
+    "text": "Interstellar travel adds distance, energy, radiation,"
+  },
+  {
+    "start": 2377.825,
+    "end": 2380.3624999999997,
+    "text": "life-support, and social challenges."
+  },
+  {
+    "start": 2380.3624999999997,
+    "end": 2383.8749999999995,
+    "text": "A planet detected in a habitable zone is not a confirmed"
+  },
+  {
+    "start": 2383.8749999999995,
+    "end": 2387.1749999999997,
+    "text": "destination where passengers can open a hatch and walk"
+  },
+  {
+    "start": 2387.1749999999997,
+    "end": 2387.9249999999997,
+    "text": "out."
+  },
+  {
+    "start": 2388.3999999999996,
+    "end": 2391.7374999999997,
+    "text": "As in our previous generation-ship story, transporting"
+  },
+  {
+    "start": 2391.7374999999997,
+    "end": 2395.1749999999997,
+    "text": "humans and preserving a living world are different tasks."
+  },
+  {
+    "start": 2395.1749999999997,
+    "end": 2397.2625,
+    "text": "Seeds are not a forest."
+  },
+  {
+    "start": 2397.2625,
+    "end": 2400.95,
+    "text": "A collection of frozen samples is not a functioning ocean."
+  },
+  {
+    "start": 2400.95,
+    "end": 2404.3749999999995,
+    "text": "Even an enormous habitat would represent choices about"
+  },
+  {
+    "start": 2404.3749999999995,
+    "end": 2407.2999999999997,
+    "text": "what could be carried, supported, and allowed to keep"
+  },
+  {
+    "start": 2407.2999999999997,
+    "end": 2408.3749999999995,
+    "text": "evolving."
+  },
+  {
+    "start": 2408.8749999999995,
+    "end": 2411.8999999999996,
+    "text": "Leaving could preserve a branch of Earth's story."
+  },
+  {
+    "start": 2411.8999999999996,
+    "end": 2415.1374999999994,
+    "text": "It would not make the loss of Earth inconsequential."
+  },
+  {
+    "start": 2415.1374999999994,
+    "end": 2418.6249999999995,
+    "text": "A new address can save lives while still leaving a home,"
+  },
+  {
+    "start": 2418.6249999999995,
+    "end": 2420.8499999999995,
+    "text": "and much of its life, behind."
+  },
+  {
+    "start": 2421.9249999999997,
+    "end": 2425.45,
+    "text": "Imagine an archive prepared for a departure no one alive"
+  },
+  {
+    "start": 2425.45,
+    "end": 2427.1249999999995,
+    "text": "today could witness."
+  },
+  {
+    "start": 2427.1249999999995,
+    "end": 2430.7,
+    "text": "It might contain genetic information, living cultures,"
+  },
+  {
+    "start": 2430.7,
+    "end": 2434.95,
+    "text": "seeds, scientific records, and instructions for maintaining"
+  },
+  {
+    "start": 2434.95,
+    "end": 2436.9999999999995,
+    "text": "the systems that support them."
+  },
+  {
+    "start": 2437.4249999999997,
+    "end": 2440.575,
+    "text": "But instructions are not enough without readers who understand"
+  },
+  {
+    "start": 2440.575,
+    "end": 2444.35,
+    "text": "them, institutions that preserve them, and materials that"
+  },
+  {
+    "start": 2444.35,
+    "end": 2446.225,
+    "text": "allow them to be used."
+  },
+  {
+    "start": 2446.225,
+    "end": 2449.775,
+    "text": "A library can survive physically while its practical meaning"
+  },
+  {
+    "start": 2449.775,
+    "end": 2450.9,
+    "text": "is lost."
+  },
+  {
+    "start": 2451.3749999999995,
+    "end": 2454.6124999999997,
+    "text": "Some relationships are harder to store than individual"
+  },
+  {
+    "start": 2454.6124999999997,
+    "end": 2459.2749999999996,
+    "text": "specimens. Organisms depend on partners, habitats, and"
+  },
+  {
+    "start": 2459.2749999999996,
+    "end": 2461.3374999999996,
+    "text": "sequences of interaction."
+  },
+  {
+    "start": 2461.3374999999996,
+    "end": 2464.7499999999995,
+    "text": "Preserving representative pieces does not automatically"
+  },
+  {
+    "start": 2464.7499999999995,
+    "end": 2468.3749999999995,
+    "text": "preserve the possibility of rebuilding the original whole."
+  },
+  {
+    "start": 2468.9999999999995,
+    "end": 2471.5249999999996,
+    "text": "Then there are the things that matter to people without"
+  },
+  {
+    "start": 2471.5249999999996,
+    "end": 2474.1499999999996,
+    "text": "being necessary for basic survival."
+  },
+  {
+    "start": 2474.1499999999996,
+    "end": 2476.0999999999995,
+    "text": "Languages. Music."
+  },
+  {
+    "start": 2476.0999999999995,
+    "end": 2480.1749999999997,
+    "text": "Stories. Knowledge of what rain smelled like on soil."
+  },
+  {
+    "start": 2480.1749999999997,
+    "end": 2483.9249999999997,
+    "text": "Memories of living among organisms that no one designed."
+  },
+  {
+    "start": 2484.5499999999997,
+    "end": 2488.2,
+    "text": "Any future archive in this film is imagined, not a mission"
+  },
+  {
+    "start": 2488.2,
+    "end": 2489.575,
+    "text": "under construction."
+  },
+  {
+    "start": 2489.575,
+    "end": 2493.375,
+    "text": "It asks a present question, though: when we say save humanity,"
+  },
+  {
+    "start": 2493.375,
+    "end": 2497.075,
+    "text": "how much of the larger living world do we mean to include?"
+  },
+  {
+    "start": 2497.075,
+    "end": 2500.4125,
+    "text": "The answer changes the scale of the task, and the meaning"
+  },
+  {
+    "start": 2500.4125,
+    "end": 2501.6749999999997,
+    "text": "of success."
+  },
+  {
+    "start": 2502.7499999999995,
+    "end": 2506.1249999999995,
+    "text": "After a journey through billions of years, it is tempting"
+  },
+  {
+    "start": 2506.1249999999995,
+    "end": 2509.5374999999995,
+    "text": "to feel that everything nearby has become trivial."
+  },
+  {
+    "start": 2509.5374999999995,
+    "end": 2512.2749999999996,
+    "text": "The opposite conclusion makes more sense."
+  },
+  {
+    "start": 2512.7249999999995,
+    "end": 2516.2749999999996,
+    "text": "The solar changes discussed here are slow on the timescale"
+  },
+  {
+    "start": 2516.2749999999996,
+    "end": 2518.0624999999995,
+    "text": "of current societies."
+  },
+  {
+    "start": 2518.0624999999995,
+    "end": 2521.4374999999995,
+    "text": "The rapid warming people are causing now is primarily"
+  },
+  {
+    "start": 2521.4374999999995,
+    "end": 2525.3124999999995,
+    "text": "driven by human greenhouse gas emissions, not by the Sun"
+  },
+  {
+    "start": 2525.3124999999995,
+    "end": 2528.2874999999995,
+    "text": "quietly approaching a red giant phase."
+  },
+  {
+    "start": 2528.2874999999995,
+    "end": 2531.1499999999996,
+    "text": "Reducing that damage remains meaningful."
+  },
+  {
+    "start": 2531.6249999999995,
+    "end": 2534.8249999999994,
+    "text": "A world that will eventually lose its oceans can still"
+  },
+  {
+    "start": 2534.8249999999994,
+    "end": 2537.3374999999996,
+    "text": "have an ocean worth protecting today."
+  },
+  {
+    "start": 2537.3374999999996,
+    "end": 2541.3249999999994,
+    "text": "A species with a finite future can still avoid unnecessary"
+  },
+  {
+    "start": 2541.3249999999994,
+    "end": 2545.7749999999996,
+    "text": "extinction. Every generation lives inside a limited interval;"
+  },
+  {
+    "start": 2545.7749999999996,
+    "end": 2548.4999999999995,
+    "text": "that has never made care irrelevant."
+  },
+  {
+    "start": 2548.9499999999994,
+    "end": 2552.5749999999994,
+    "text": "We also cannot assume that future technology will repair"
+  },
+  {
+    "start": 2552.5749999999994,
+    "end": 2554.5874999999996,
+    "text": "whatever we choose to break."
+  },
+  {
+    "start": 2554.5874999999996,
+    "end": 2558.1249999999995,
+    "text": "The capabilities imagined in planetary rescue schemes"
+  },
+  {
+    "start": 2558.1249999999995,
+    "end": 2559.8874999999994,
+    "text": "are not guarantees."
+  },
+  {
+    "start": 2559.8874999999994,
+    "end": 2563.7749999999996,
+    "text": "Keeping an existing biosphere healthy is a different proposition"
+  },
+  {
+    "start": 2563.7749999999996,
+    "end": 2567.0749999999994,
+    "text": "from reconstructing one after its relationships have been"
+  },
+  {
+    "start": 2567.0749999999994,
+    "end": 2568.0999999999995,
+    "text": "erased."
+  },
+  {
+    "start": 2568.5499999999993,
+    "end": 2571.6874999999995,
+    "text": "The long future gives us perspective on the home we already"
+  },
+  {
+    "start": 2571.6874999999995,
+    "end": 2575.2374999999993,
+    "text": "have. It does not provide permission to neglect it."
+  },
+  {
+    "start": 2575.2374999999993,
+    "end": 2578.5374999999995,
+    "text": "Between the birth of a habitable world and its eventual"
+  },
+  {
+    "start": 2578.5374999999995,
+    "end": 2581.9499999999994,
+    "text": "ending lies the only interval in which that particular"
+  },
+  {
+    "start": 2581.9499999999994,
+    "end": 2584.3499999999995,
+    "text": "living world can be experienced."
+  },
+  {
+    "start": 2585.3999999999996,
+    "end": 2587.7,
+    "text": "Return to the shoreline from our opening."
+  },
+  {
+    "start": 2587.7,
+    "end": 2589.7999999999997,
+    "text": "It does not need to be the final day."
+  },
+  {
+    "start": 2589.7999999999997,
+    "end": 2591.6124999999997,
+    "text": "Perhaps it is simply today."
+  },
+  {
+    "start": 2591.6124999999997,
+    "end": 2594.6874999999995,
+    "text": "A person stands beside water under a star that is still"
+  },
+  {
+    "start": 2594.6874999999995,
+    "end": 2596.6874999999995,
+    "text": "in the right stage of its life."
+  },
+  {
+    "start": 2596.6874999999995,
+    "end": 2599.8999999999996,
+    "text": "The air contains oxygen because life and geology have"
+  },
+  {
+    "start": 2599.8999999999996,
+    "end": 2602.8124999999995,
+    "text": "made it so. Plants can obtain carbon."
+  },
+  {
+    "start": 2602.8124999999995,
+    "end": 2605.0125,
+    "text": "Clouds move heat and water."
+  },
+  {
+    "start": 2605.0125,
+    "end": 2608.325,
+    "text": "A planet-sized collection of processes keeps an ordinary"
+  },
+  {
+    "start": 2608.325,
+    "end": 2609.6,
+    "text": "breath possible."
+  },
+  {
+    "start": 2610.1,
+    "end": 2611.825,
+    "text": "None of this is permanent."
+  },
+  {
+    "start": 2611.825,
+    "end": 2613.7875,
+    "text": "None of it was arranged for us."
+  },
+  {
+    "start": 2613.7875,
+    "end": 2616.5874999999996,
+    "text": "Yet here we are, able to understand at least part of the"
+  },
+  {
+    "start": 2616.5874999999996,
+    "end": 2619.475,
+    "text": "machinery, and to ask what comes after."
+  },
+  {
+    "start": 2619.9249999999997,
+    "end": 2623.0625,
+    "text": "Under natural stellar evolution, Earth will eventually"
+  },
+  {
+    "start": 2623.0625,
+    "end": 2626.5499999999997,
+    "text": "stop being the home we recognize, long before the Sun"
+  },
+  {
+    "start": 2626.5499999999997,
+    "end": 2628.1124999999997,
+    "text": "completes its life."
+  },
+  {
+    "start": 2628.1124999999997,
+    "end": 2631.4249999999997,
+    "text": "The exact milestones remain uncertain, and they differ"
+  },
+  {
+    "start": 2631.4249999999997,
+    "end": 2634.7625,
+    "text": "for people, forests, oceans, and microbes."
+  },
+  {
+    "start": 2634.7625,
+    "end": 2637.7999999999997,
+    "text": "A surviving civilization might change the route."
+  },
+  {
+    "start": 2637.7999999999997,
+    "end": 2639.8999999999996,
+    "text": "We do not know whether one will."
+  },
+  {
+    "start": 2640.3499999999995,
+    "end": 2643.2499999999995,
+    "text": "What we do know is that a home can be temporary without"
+  },
+  {
+    "start": 2643.2499999999995,
+    "end": 2644.8249999999994,
+    "text": "being replaceable."
+  },
+  {
+    "start": 2644.8249999999994,
+    "end": 2648.1749999999997,
+    "text": "Earth is not valuable because it can last forever."
+  },
+  {
+    "start": 2648.1749999999997,
+    "end": 2651.9249999999997,
+    "text": "It is valuable because, for this extraordinary interval,"
+  },
+  {
+    "start": 2651.9249999999997,
+    "end": 2655.4499999999994,
+    "text": "a living world exists here, and we are among the lives"
+  },
+  {
+    "start": 2655.4499999999994,
+    "end": 2656.6999999999994,
+    "text": "it supports."
+  },
+  {
+    "start": 2657.1249999999995,
+    "end": 2658.9249999999997,
+    "text": "The Sun will keep changing."
+  },
+  {
+    "start": 2658.9249999999997,
+    "end": 2661.5624999999995,
+    "text": "Our part of the story is what we choose to do while the"
+  },
+  {
+    "start": 2661.5624999999995,
+    "end": 2663.225,
+    "text": "world is still blue."
+  }
+]

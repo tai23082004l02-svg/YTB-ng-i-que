@@ -1,0 +1,110 @@
+[
+  {
+    "source_sheet": "03",
+    "source_cell": 1,
+    "replacement_sheet": "44",
+    "replacement_cell": 1,
+    "reason": "Fusion particle sketch can be mistaken for a balanced reaction although the drawn particle counts are inconsistent. Replace with a smooth stellar-core cutaway without countable atoms.",
+    "shot_index": 59,
+    "start": 236.75,
+    "end": 241.75,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "03",
+    "source_cell": 12,
+    "replacement_sheet": "44",
+    "replacement_cell": 5,
+    "reason": "Nuclear particle sketch resembles water-like molecules; replace with smooth plasma illustration without misleading molecular or particle counts.",
+    "shot_index": 73,
+    "start": 298.9583333333333,
+    "end": 301.9583333333333,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "17",
+    "source_cell": 14,
+    "replacement_sheet": "36",
+    "replacement_cell": 14,
+    "reason": "An unprotected person below atmospheric molecule symbols could imply that the hypothesized future atmosphere is safely breathable. Use an explicit contrast of human and microbial requirements instead.",
+    "shot_index": 365,
+    "start": 1486.9583333333333,
+    "end": 1491.9583333333333,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "21",
+    "source_cell": 5,
+    "replacement_sheet": "44",
+    "replacement_cell": 15,
+    "reason": "Timing-comparison panel contains illegible generated pseudo-lettering. Replace with a clean comparison of plant and atmospheric studies, supporting the distinction between biosphere and later stellar endpoints.",
+    "shot_index": 437,
+    "start": 1780.1666666666667,
+    "end": 1785.2916666666667,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "33",
+    "source_cell": 0,
+    "replacement_sheet": "44",
+    "replacement_cell": 7,
+    "reason": "Fusion sketch uses inconsistent particle counts. Replace with a clean qualitative gravity/pressure-balance diagram, not a reaction equation.",
+    "shot_index": 60,
+    "start": 241.75,
+    "end": 246.75,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "33",
+    "source_cell": 6,
+    "replacement_sheet": "44",
+    "replacement_cell": 3,
+    "reason": "Fusion sketch implies unsupported particle accounting. Replace with smooth core-zone evolution without countable atoms.",
+    "shot_index": 94,
+    "start": 379.9166666666667,
+    "end": 384.9166666666667,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "17",
+    "source_cell": 1,
+    "replacement_sheet": "38",
+    "replacement_cell": 0,
+    "reason": "Water photodissociation sketch visually duplicates oxygen in its output. Use a clean upper/lower-atmosphere illustration rather than suggest a balanced chemical reaction.",
+    "shot_index": 351,
+    "start": 1426.2083333333333,
+    "end": 1431.3333333333333,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "16",
+    "source_cell": 4,
+    "replacement_sheet": "44",
+    "replacement_cell": 13,
+    "reason": "Water splitting sketch omits one hydrogen in the drawn products. Replace with a clean incoming/outgoing energy-budget diagram within the greenhouse explanation.",
+    "shot_index": 336,
+    "start": 1359.125,
+    "end": 1364.5416666666667,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  },
+  {
+    "source_sheet": "16",
+    "source_cell": 12,
+    "replacement_sheet": "38",
+    "replacement_cell": 12,
+    "reason": "Arrows carrying intact water molecules far above Earth could imply that whole-water escape is the principal mechanism. Replace with a cloud/model comparison; narration retains the correct photodissociation and hydrogen-escape explanation.",
+    "shot_index": 345,
+    "start": 1399.75,
+    "end": 1404.7916666666667,
+    "timing_and_audio_preserved": true,
+    "original_panel_retained_in_source_for_provenance": true
+  }
+]

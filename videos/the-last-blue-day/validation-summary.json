@@ -1,0 +1,79 @@
+{
+  "status": "passed",
+  "duration_seconds": 2663.925,
+  "runtime_rounded": "44:24",
+  "chapters": 32,
+  "narration_words_whitespace_count": 6176,
+  "video_codec": "h264",
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "audio_bitrate": "99767",
+  "integrated_loudness_lufs": -16.93,
+  "true_peak_dbtp": -2.06,
+  "loudness_range_lu": 2.3,
+  "full_decode_exit_code": 0,
+  "subtitle_cues": 838,
+  "selected_unique_illustrations": 654,
+  "generated_illustrations": 720,
+  "mean_scene_seconds": 4.073279816513762,
+  "simple_shots": 374,
+  "explanatory_shots": 280,
+  "simple_range_seconds": [
+    3.0,
+    4.0
+  ],
+  "explanation_range_seconds": [
+    5.0,
+    6.0
+  ],
+  "cuts_near_caption_boundaries": 150,
+  "framing": "measured four-by-four grid boundaries; 6-pixel source inset, aspect-preserving scale and fixed center crop",
+  "visual_curation_changes": 9,
+  "excluded_panels": [
+    {
+      "sheet": "03",
+      "cell": 1
+    },
+    {
+      "sheet": "03",
+      "cell": 12
+    },
+    {
+      "sheet": "17",
+      "cell": 14
+    },
+    {
+      "sheet": "21",
+      "cell": 5
+    },
+    {
+      "sheet": "33",
+      "cell": 0
+    },
+    {
+      "sheet": "33",
+      "cell": 6
+    },
+    {
+      "sheet": "17",
+      "cell": 1
+    },
+    {
+      "sheet": "16",
+      "cell": 4
+    },
+    {
+      "sheet": "16",
+      "cell": 12
+    }
+  ],
+  "zip_crc": "passed",
+  "mp4_bytes": 96884935,
+  "sha256": "2553d979f6bc5c03dffe85319cb4385e62deaa8e9c9c21b2fc0c7aeb3646f193",
+  "review_scope": "Full automated decode, timing and final-audio measurement; representative visual review and scientific visual curation. Not exhaustive human listening."
+}

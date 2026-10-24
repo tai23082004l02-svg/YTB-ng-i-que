@@ -2,7 +2,8 @@
 
 Sản xuất video kiến thức bằng tiếng Anh Mỹ, minh họa hoạt hình 2D và lời đọc Kokoro.
 
-- **[Video mới: Born Between Stars — 39 phút 38 giây, nhịp khoảng 4 giây/cảnh](videos/born-between-stars/README.md)**
+- **[Video mới: The Last Blue Day — 44 phút 24 giây, 654 cảnh](videos/the-last-blue-day/README.md)**
+- [Born Between Stars — 39 phút 38 giây](videos/born-between-stars/README.md)
 - [If the Universe Is So Old, Where Is Everybody? — 35 phút 23 giây](videos/where-is-everybody/README.md)
 - [Were We Earth’s First Civilization? — 30 phút 08 giây](videos/before-us/README.md)
 - [Could We Survive? — 34 phút 30 giây](videos/could-we-survive/README.md)

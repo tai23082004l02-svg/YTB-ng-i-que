@@ -1,0 +1,16 @@
+{
+  "documentary": "The Last Blue Day",
+  "status": "checked against cited sources; model-dependent quantities remain conditional",
+  "solar_brightening": {"fraction_approx": 0.10, "interval_years_approx": 1000000000, "scope": "rough scale around present main-sequence stage; not linear through all future stages", "source": "Schroder & Smith 2008 full text"},
+  "oxygen_model_2021": {"mean_future_lifetime_gyr": 1.08, "one_sigma_gyr": 0.14, "threshold": "oxygen greater than 1% of present atmospheric level", "not": "1% oxygen volume fraction, human breathing deadline, or exact extinction date", "scope": "public abstract of Ozaki & Reinhard, distinct model from 2024 plants"},
+  "land_plants_model_2024": {"extended_results_gyr": [1.6, 1.86], "scope": "specific weathering/climate assumptions; possible thermal termination instead of carbon starvation; not universal all-life deadline"},
+  "red_giant_broad_scale": {"years_from_now_approx": 5000000000, "scope": "broad transition scale; not maximum radius or first loss of surface habitability", "source": "NASA Space Place"},
+  "engulfment_model_2008": {"years_from_now_approx": 7590000000, "scope": "tip-RGB result with mass loss and tides in one stellar calculation; film rounds to 7.6 billion"},
+  "equal_flux_orbit_example": {"luminosity_ratio": 1.1, "distance_ratio": 1.0488088481701516, "relative_distance_increase_percent": 4.880884817015163, "law": "distance ratio = sqrt(luminosity ratio)", "scope": "flux geometry only, not practical orbital engineering or complete climate preservation"},
+  "heat": "No universal wet-bulb safe/fatal threshold; humidity, airflow, exposure, activity, health and other factors matter.",
+  "greenhouse": "Moist upper atmosphere and long-term water escape distinguished from runaway radiative instability and from instantaneous ocean evaporation.",
+  "current_warming": "Primarily human greenhouse forcing; long-term stellar evolution is a separate cause and timescale.",
+  "endpoints": ["human outdoor habitability", "complex land ecosystems", "oxygen-rich atmosphere", "surface water", "microbial refuges", "physical planet"],
+  "rescue_concepts": "Sealed habitats, sunshades, orbital relocation and migration are hypothetical options, not operational or billion-year validated solutions.",
+  "no_claims": ["exact last day", "safe future country map", "immortal presenter", "guaranteed last refuge", "solar supernova", "safe Venus-like air", "verified second Earth", "one merged timeline from different models"]
+}

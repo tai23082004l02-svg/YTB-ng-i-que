@@ -1,0 +1,14 @@
+{
+  "channel": "The Long Wonder",
+  "film": "The Last Blue Day",
+  "format": "Original illustrated science documentary; conceptual future scenes and philosophical thought experiments",
+  "presenter": {"name":"Mara","age":35,"appearance":"medium brown skin, chin-length dark bob, round glasses, teal field jacket, ochre shirt, dark trousers","era":"modern or generic modern explanatory setting only","not":"same living person surviving billion-year chronology; real scientist likeness"},
+  "future_people":"Distinct anonymous adults and families, cream/teal work clothes, protected engineered habitats when outside is hostile. No named immortal lineage or demonstrated future mission.",
+  "opening":"Imagined last ordinary morning explicitly qualified in narration; not a forecast of one family or date.",
+  "ending":"Returns to present-day shoreline, not Mara breathing on oxygen-poor future Earth.",
+  "sun":"Ordinary small yellow disk during current/main-sequence and early biosphere decline examples; expanded red giant restricted to explicitly late stellar-stage illustrations. Sun does not become a core-collapse supernova.",
+  "earth_maps":"Present globes may be recognizable; billion-year geography is speculative and not a map of safe countries.",
+  "visuals":"Static hand-drawn 2D illustrations; no pan/zoom/shake, no top title bars or counters. Diagrams symbolic and not to scale, no numerical fake data.",
+  "epochs":"Ancient Earth has no humans, trees or dinosaurs unless appropriate; microbial-era illustrations use rock/ocean/haze without modern organisms.",
+  "distant_technologies":"Sunshade, orbital change, constructed habitats and migration shown as proposals or hypothetical examples, not flight-validated hardware or existing rescue programs."
+}

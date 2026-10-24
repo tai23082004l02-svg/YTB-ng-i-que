@@ -18,6 +18,9 @@
 - Cảnh có nhiều người phải có đủ nhân vật theo nội dung, với ngoại hình, tư thế và vai trò phân biệt. Không mặc định mọi cảnh chỉ có một người.
 - Tạo nhiều hình khác nhau: xen kẽ cảnh toàn, cảnh sinh hoạt nhóm, cận công cụ, thức ăn, dấu vết và chi tiết phục vụ lời kể.
 
+
+- Người dùng đã chọn **giữ cách tạo ảnh nhiều ô và xuất 720p hiện tại** sau khi thảo luận độ mềm. Chưa chuyển sang 4 cảnh/tấm hoặc 1080p; không tự tạo bản thử nâng nét.
+
 ## 3. Nhịp dựng đã chốt
 
 - **Hình đứng yên hoàn toàn trong mỗi cảnh. Không zoom động, pan, rung máy hoặc hiệu ứng Ken Burns.**
@@ -52,6 +55,8 @@
 - Không tự đăng video lên YouTube nếu chưa được yêu cầu.
 
 ## Video tham chiếu
+
+- [The Last Blue Day — 44:24, 654 hình; nguồn mô hình và các mốc sinh quyển riêng biệt](videos/the-last-blue-day/README.md)
 
 - [Born Between Stars — 39:38, 594 hình; mẫu nhịp mới trung bình khoảng 4 giây/cảnh](videos/born-between-stars/README.md)
 

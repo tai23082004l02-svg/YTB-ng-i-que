@@ -38,6 +38,7 @@
 | [Before Us / Silurian Hypothesis](videos/before-us/README.md) | **30:08**, 24 phần, **322 hình dùng**, 566 đoạn phụ đề | Câu hỏi về khả năng phát hiện, không tuyên bố có nền văn minh công nghiệp tiền nhân loại. Có đủ nguồn và bộ đăng. |
 | [Where Is Everybody? / Fermi Paradox](videos/where-is-everybody/README.md) | **35:23**, 28 phần, **377 hình dùng**, 683 đoạn phụ đề | Chuyển sang chủ đề vũ trụ; phạm vi SETI, mô hình lan rộng, Bộ lọc lớn và giới hạn suy luận. |
 | [Born Between Stars](videos/born-between-stars/README.md) | **39:38**, 32 phần, **594 hình dùng**, 767 đoạn phụ đề | Bản đầu áp dụng nhịp mới: trung bình khoảng 4 giây; cảnh đơn giản 3–4 giây, giải thích 5–6 giây. Chuyện tàu nhiều thế hệ là hư cấu. |
+| [The Last Blue Day](videos/the-last-blue-day/README.md) | **44:24**, 32 phần, **654 hình dùng**, 838 đoạn phụ đề | Mặt Trời sáng dần, tương lai sinh quyển, oxy và đại dương; phân biệt các mô hình và các mốc khác nhau. |
 
 Tên tiếng Anh video dài: **Earth Once Had Many Human Species. Why Are We the Only Ones Left?**
 
@@ -50,7 +51,11 @@ https://raw.githubusercontent.com/tai23082004l02-svg/YTB-ng-i-que/afd41171e9b38c
 
 ## 4. Tệp nào chứa gì?
 
-**Bản mới nhất:** [videos/born-between-stars/](videos/born-between-stars/README.md), tàu nhiều thế hệ, **39:38**, 32 phần, 40 bộ **4 × 4** (640 ô, 594 dùng), 767 cue. Bản đầu triển khai nhịp mới: **trung bình 4,004 giây/cảnh**, 417 cảnh đơn giản 3–4 giây và 177 cảnh giải thích 5–6 giây. Giọng `am_michael` speed 1.07, không tempo bổ sung.
+**Bản mới nhất:** [videos/the-last-blue-day/](videos/the-last-blue-day/README.md), **The Last Blue Day / Earth Will Become Uninhabitable Before the Sun Dies**, **44:24**, 32 phần, 45 tấm 4×4 (720 ô, 654 dùng), 838 cue. Kokoro am_michael speed1.07, không tempo thêm. Trung bình 4,073 giây/cảnh; 374 cảnh đơn giản 3–4 giây, 280 cảnh giải thích 5–6 giây.
+
+Đọc SOURCES.md, project/claim-checks.json và project/curation-notes.json trước khi sửa. Mốc oxy ~1,08±0,14 tỷ năm dùng ngưỡng >1% mức oxy hiện tại, không phải 1% thể tích hoặc ngưỡng hít thở; nghiên cứu thực vật ~1,6–1,86 tỷ năm là mô hình khác. Không ghép thành một lịch chính xác. ~5 tỷ năm là mốc rộng giai đoạn sao khổng lồ, ~7,6 tỷ năm là kết quả nuốt Trái Đất trong một mô hình cụ thể. Mara là người dẫn chuyện hiện đại, không sống qua hàng tỷ năm. Cảnh tương lai/công nghệ cứu hành tinh là giả định.
+
+**Bản trước:** [videos/born-between-stars/](videos/born-between-stars/README.md), tàu nhiều thế hệ, **39:38**, 32 phần, 40 bộ **4 × 4** (640 ô, 594 dùng), 767 cue. Bản đầu triển khai nhịp mới: **trung bình 4,004 giây/cảnh**, 417 cảnh đơn giản 3–4 giây và 177 cảnh giải thích 5–6 giây. Giọng `am_michael` speed 1.07, không tempo bổ sung.
 
 Đọc project/story-bible.json trước khi sửa: Lyra rời Trái Đất từ nhỏ, trưởng thành, già và qua đời; Sera là hậu duệ khác nhiều thế kỷ sau, không phải Lyra đổi tên hoặc cháu chỉ cách vài chục năm. Hai búi tóc/huy hiệu tròn của Lyra khác một bím tóc/huy hiệu tam giác của Sera. Tàu, sự cố và đích đến đều là hư cấu; không có hành tinh an toàn, số người tối thiểu hay công nghệ ngủ đông đã được bảo đảm. Đọc SOURCES.md và project/physics-checks.json.
 
@@ -136,3 +141,5 @@ Tài liệu giúp khôi phục bối cảnh từ kho, **không tự truyền l�
 ## Nhận diện kênh
 
 Người dùng đã chọn tên **The Long Wonder**, handle hiển thị trong ảnh Studio là **@TheLongWonder**. Bộ avatar và banner được thiết kế tại [branding/the-long-wonder/](branding/the-long-wonder/README.md): xanh đêm, vàng kem, teal; tagline “Deep time. Distant worlds. Human questions.” Avatar 800×800 PNG, banner 2560×1440 JPG, chữ trong vùng an toàn giữa. Chưa tự cập nhật trên YouTube.
+
+**Lựa chọn mới về độ nét:** Sau khi thảo luận ảnh hơi mềm do cắt từ tấm nhiều ô và xuất 720p, người dùng chọn giữ cách hiện tại. Không tự đổi sang 4 cảnh/tấm hoặc 1080p, không tạo bản thử nâng nét khi chưa có yêu cầu mới.
