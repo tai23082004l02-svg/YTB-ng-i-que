@@ -1,0 +1,2723 @@
+1
+00:00:00,336 --> 00:00:01,633
+The lights still work.
+
+2
+00:00:01,633 --> 00:00:03,446
+Your phone still has a signal.
+
+3
+00:00:03,446 --> 00:00:05,883
+Somewhere outside the city, the crops that feed it are
+
+4
+00:00:05,883 --> 00:00:07,191
+beginning to fail.
+
+5
+00:00:07,191 --> 00:00:10,037
+Now imagine that the problem is larger than one country,
+
+6
+00:00:10,037 --> 00:00:12,990
+and that next season will not bring normal weather back.
+
+7
+00:00:12,990 --> 00:00:15,715
+Could a technologically advanced civilization survive
+
+8
+00:00:15,715 --> 00:00:17,420
+a planetary crisis?
+
+9
+00:00:17,420 --> 00:00:20,326
+Earth has already run versions of that experiment on life
+
+10
+00:00:20,326 --> 00:00:24,612
+five times. The Big Five mass extinctions reshaped oceans,
+
+11
+00:00:24,612 --> 00:00:27,733
+erased familiar ecosystems, and opened the world to
+
+12
+00:00:27,733 --> 00:00:28,874
+survivors.
+
+13
+00:00:29,270 --> 00:00:32,175
+But none of those survivors had satellites, hospitals,
+
+14
+00:00:32,175 --> 00:00:34,624
+nuclear reactors, or global trade.
+
+15
+00:00:34,624 --> 00:00:37,674
+We do. We also have billions of people whose next meal
+
+16
+00:00:37,674 --> 00:00:39,895
+depends on systems they cannot see.
+
+17
+00:00:39,895 --> 00:00:42,764
+In this thought experiment, we will bring the major pressures
+
+18
+00:00:42,764 --> 00:00:45,910
+behind those ancient disasters into the modern world.
+
+19
+00:00:45,910 --> 00:00:48,935
+We will ask what technology could realistically protect,
+
+20
+00:00:48,935 --> 00:00:51,252
+what it would still need to function, and where our
+
+21
+00:00:51,252 --> 00:00:52,837
+knowledge runs out.
+
+22
+00:00:52,837 --> 00:00:55,358
+The question is larger than whether you could survive
+
+23
+00:00:55,358 --> 00:00:57,111
+the first terrible day.
+
+24
+00:00:57,507 --> 00:01:00,485
+It is whether there would still be a livable world waiting
+
+25
+00:01:00,485 --> 00:01:02,454
+when you opened the shelter door.
+
+26
+00:01:03,438 --> 00:01:06,524
+Before the first disaster, define survival.
+
+27
+00:01:06,524 --> 00:01:09,921
+One person remaining alive is not a functioning society.
+
+28
+00:01:09,921 --> 00:01:14,051
+A functioning society is not necessarily a global civilization.
+
+29
+00:01:14,051 --> 00:01:16,813
+And the collapse of a civilization does not automatically
+
+30
+00:01:16,813 --> 00:01:18,902
+mean the extinction of its species.
+
+31
+00:01:18,902 --> 00:01:22,287
+We will keep three outcomes separate: individual survival,
+
+32
+00:01:22,287 --> 00:01:25,493
+the survival of connected human populations, and the
+
+33
+00:01:25,493 --> 00:01:28,638
+survival of the industrial systems that support billions
+
+34
+00:01:28,638 --> 00:01:32,648
+of lives. Those outcomes can diverge dramatically.
+
+35
+00:01:33,092 --> 00:01:35,854
+A remote community might endure while international shipping
+
+36
+00:01:35,854 --> 00:01:39,359
+stops. A highly protected facility might remain comfortable
+
+37
+00:01:39,359 --> 00:01:41,580
+while the farms supplying it fail.
+
+38
+00:01:41,580 --> 00:01:44,210
+None of that lets us calculate a reliable percentage of
+
+39
+00:01:44,210 --> 00:01:47,043
+people who would survive an ancient catastrophe.
+
+40
+00:01:47,043 --> 00:01:50,308
+We do not possess a tested simulator of the entire world.
+
+41
+00:01:50,308 --> 00:01:52,758
+So our conclusions will be conditional.
+
+42
+00:01:52,758 --> 00:01:56,215
+We will look at warning time, geographic reach, duration,
+
+43
+00:01:56,215 --> 00:02:00,273
+and the condition of food, water, energy, and cooperation.
+
+44
+00:02:00,849 --> 00:02:04,283
+Wherever the illustration shows a modern city in an ancient-style
+
+45
+00:02:04,283 --> 00:02:08,365
+disaster, remember that it is a constructed scenario.
+
+46
+00:02:08,365 --> 00:02:11,775
+It is not evidence that this exact event is forecast for
+
+47
+00:02:11,775 --> 00:02:12,855
+next year.
+
+48
+00:02:13,864 --> 00:02:16,661
+Earth is roughly four and a half billion years old, but
+
+49
+00:02:16,661 --> 00:02:19,842
+the Big Five belong to a much shorter chapter: the last
+
+50
+00:02:19,842 --> 00:02:22,292
+roughly four hundred fifty million years.
+
+51
+00:02:22,292 --> 00:02:25,389
+They are recognized from major losses in the fossil record,
+
+52
+00:02:25,389 --> 00:02:29,015
+especially marine animals that preserve relatively well.
+
+53
+00:02:29,015 --> 00:02:32,388
+A commonly used benchmark for a mass extinction is the
+
+54
+00:02:32,388 --> 00:02:35,834
+loss of about three quarters of species over a geologically
+
+55
+00:02:35,834 --> 00:02:39,268
+short interval. That interval can still be immensely long
+
+56
+00:02:39,268 --> 00:02:41,393
+compared with a human lifetime.
+
+57
+00:02:41,813 --> 00:02:44,982
+These events were not five identical explosions.
+
+58
+00:02:44,982 --> 00:02:48,416
+Some involved multiple pulses, environmental feedbacks,
+
+59
+00:02:48,416 --> 00:02:51,598
+or pressures that accumulated over long periods.
+
+60
+00:02:51,598 --> 00:02:54,227
+Nor does a species percentage translate into the same
+
+61
+00:02:54,227 --> 00:02:57,829
+percentage of individual animals, biomass, or humans.
+
+62
+00:02:57,829 --> 00:03:01,382
+Our comparison will follow mechanisms: cooling and sea-level
+
+63
+00:03:01,382 --> 00:03:05,704
+change, ocean oxygen loss, sustained volcanic warming,
+
+64
+00:03:05,704 --> 00:03:08,286
+and the aftermath of a major impact.
+
+65
+00:03:08,706 --> 00:03:11,551
+We will not squeeze a million years of geology into a
+
+66
+00:03:11,551 --> 00:03:15,165
+week and pretend the results are historically faithful.
+
+67
+00:03:15,165 --> 00:03:18,298
+The speed of a crisis is part of the crisis.
+
+68
+00:03:18,298 --> 00:03:21,492
+Preparation only helps if the warning arrives before the
+
+69
+00:03:21,492 --> 00:03:23,785
+systems it depends on have failed.
+
+70
+00:03:24,769 --> 00:03:27,219
+Take inventory before testing the planet.
+
+71
+00:03:27,219 --> 00:03:30,556
+We have weather forecasts, remote sensing, scientific
+
+72
+00:03:30,556 --> 00:03:33,558
+networks, public health, stored food, water treatment,
+
+73
+00:03:33,558 --> 00:03:36,067
+and machinery capable of moving enormous quantities
+
+74
+00:03:36,067 --> 00:03:39,332
+of material. We can generate electricity without burning
+
+75
+00:03:39,332 --> 00:03:42,922
+a campfire, preserve seeds, and grow some crops indoors.
+
+76
+00:03:42,922 --> 00:03:45,215
+These are genuine advantages.
+
+77
+00:03:45,215 --> 00:03:47,832
+Each advantage also has a supply chain.
+
+78
+00:03:47,832 --> 00:03:51,290
+A generator needs fuel or another energy source.
+
+79
+00:03:51,734 --> 00:03:54,976
+A hospital needs staff, clean water, medicines, spare
+
+80
+00:03:54,976 --> 00:03:56,548
+parts, and sanitation.
+
+81
+00:03:56,548 --> 00:03:59,394
+A greenhouse needs more than a transparent roof.
+
+82
+00:03:59,394 --> 00:04:02,467
+Its plants still require suitable temperatures, nutrients,
+
+83
+00:04:02,467 --> 00:04:03,848
+water, and light.
+
+84
+00:04:03,848 --> 00:04:06,873
+Global trade can share resources between regions, but
+
+85
+00:04:06,873 --> 00:04:09,851
+it cannot import food from a planet that has stopped producing
+
+86
+00:04:09,851 --> 00:04:13,513
+enough of it. The test is therefore a chain of dependencies.
+
+87
+00:04:13,513 --> 00:04:15,986
+Can the power system keep water moving?
+
+88
+00:04:15,986 --> 00:04:18,399
+Can transport keep farms supplied?
+
+89
+00:04:18,795 --> 00:04:21,700
+Can governments distribute scarce food without turning
+
+90
+00:04:21,700 --> 00:04:24,738
+a shared emergency into competing blockades?
+
+91
+00:04:24,738 --> 00:04:26,779
+Technology buys options.
+
+92
+00:04:26,779 --> 00:04:29,888
+Maintaining those options through years of disruption
+
+93
+00:04:29,888 --> 00:04:33,502
+requires preparation that reaches far beyond a warehouse
+
+94
+00:04:33,502 --> 00:04:34,787
+full of equipment.
+
+95
+00:04:35,771 --> 00:04:38,508
+Our first stop is around four hundred forty-three million
+
+96
+00:04:38,508 --> 00:04:41,594
+years ago, near the end of the Ordovician Period.
+
+97
+00:04:41,594 --> 00:04:44,355
+Much of the animal life visible in the fossil record lived
+
+98
+00:04:44,355 --> 00:04:47,729
+in the sea. An interval of major glaciation and falling
+
+99
+00:04:47,729 --> 00:04:50,874
+sea level transformed shallow marine habitats.
+
+100
+00:04:50,874 --> 00:04:54,044
+Subsequent changes, including warming and disturbances
+
+101
+00:04:54,044 --> 00:04:57,237
+to ocean conditions, contributed to a crisis with more
+
+102
+00:04:57,237 --> 00:05:00,779
+than one phase. Researchers continue to investigate the
+
+103
+00:05:00,779 --> 00:05:04,825
+causes, timing, and relative importance of these processes.
+
+104
+00:05:05,377 --> 00:05:07,970
+For a modern thought experiment, the important lesson
+
+105
+00:05:07,970 --> 00:05:10,960
+is that cooling can destroy living space even when the
+
+106
+00:05:10,960 --> 00:05:14,225
+planet does not become one solid ball of ice.
+
+107
+00:05:14,225 --> 00:05:17,323
+A falling ocean exposes continental shelves.
+
+108
+00:05:17,323 --> 00:05:18,872
+Coastlines shift.
+
+109
+00:05:18,872 --> 00:05:21,933
+Water moves into ice, and the locations of productive
+
+110
+00:05:21,933 --> 00:05:23,614
+environments change.
+
+111
+00:05:23,614 --> 00:05:27,264
+The animals adapted to a shallow tropical sea cannot simply
+
+112
+00:05:27,264 --> 00:05:29,929
+pack a suitcase and follow the shoreline.
+
+113
+00:05:30,349 --> 00:05:33,615
+Human societies have more mobility, but they have also
+
+114
+00:05:33,615 --> 00:05:37,805
+invested in fixed cities, ports, farms, and borders.
+
+115
+00:05:37,805 --> 00:05:41,370
+Our first modern test begins with a simple question: how
+
+116
+00:05:41,370 --> 00:05:44,396
+much of a civilization can move when its familiar climate
+
+117
+00:05:44,396 --> 00:05:45,284
+moves?
+
+118
+00:05:46,317 --> 00:05:49,606
+Imagine severe cooling pushing reliable growing seasons
+
+119
+00:05:49,606 --> 00:05:52,620
+away from important agricultural regions.
+
+120
+00:05:52,620 --> 00:05:55,729
+This is a hypothetical replay of an ancient pressure,
+
+121
+00:05:55,729 --> 00:05:58,442
+not a prediction of the direction of today's human-caused
+
+122
+00:05:58,442 --> 00:06:02,020
+climate change. Existing crop varieties may no longer
+
+123
+00:06:02,020 --> 00:06:03,833
+match local conditions.
+
+124
+00:06:03,833 --> 00:06:07,699
+Frost timing, rainfall, and the length of summer matter
+
+125
+00:06:07,699 --> 00:06:09,908
+as much as the average temperature.
+
+126
+00:06:10,352 --> 00:06:12,729
+Some places could become more suitable for particular
+
+127
+00:06:12,729 --> 00:06:15,635
+crops, but newly favorable weather does not instantly
+
+128
+00:06:15,635 --> 00:06:19,356
+create deep soil, roads, equipment, skilled workers, and
+
+129
+00:06:19,356 --> 00:06:20,893
+political access.
+
+130
+00:06:20,893 --> 00:06:23,570
+You cannot relocate a national harvest by moving a marker
+
+131
+00:06:23,570 --> 00:06:27,856
+on a map. If change unfolds over many generations, research,
+
+132
+00:06:27,856 --> 00:06:30,978
+crop breeding, infrastructure, and migration have time
+
+133
+00:06:30,978 --> 00:06:34,892
+to work. If the same severe conditions arrive much faster,
+
+134
+00:06:34,892 --> 00:06:38,385
+adaptation becomes a race against harvest failures.
+
+135
+00:06:38,806 --> 00:06:42,659
+Indoor agriculture can protect valuable foods, but staple
+
+136
+00:06:42,659 --> 00:06:46,249
+calories for enormous populations require an accounting
+
+137
+00:06:46,249 --> 00:06:48,062
+of energy and scale.
+
+138
+00:06:48,062 --> 00:06:51,340
+The survival problem is not merely staying warm.
+
+139
+00:06:51,340 --> 00:06:54,749
+It is replacing enough food production before stored supplies
+
+140
+00:06:54,749 --> 00:06:57,342
+become a bridge with no destination.
+
+141
+00:06:58,327 --> 00:06:59,599
+We could move people.
+
+142
+00:06:59,599 --> 00:07:03,105
+We could also redesign transport routes, expand cultivation
+
+143
+00:07:03,105 --> 00:07:06,539
+where conditions permit, and protect critical infrastructure.
+
+144
+00:07:06,539 --> 00:07:10,285
+Satellites would help track ice, vegetation, and weather.
+
+145
+00:07:10,285 --> 00:07:13,538
+Seed collections and agricultural research could preserve
+
+146
+00:07:13,538 --> 00:07:16,528
+options that a single local crop failure would otherwise
+
+147
+00:07:16,528 --> 00:07:19,661
+remove. But the social bottleneck might be sharper than
+
+148
+00:07:19,661 --> 00:07:21,222
+the technological one.
+
+149
+00:07:21,222 --> 00:07:24,151
+A route on a map can cross a closed border.
+
+150
+00:07:24,571 --> 00:07:27,645
+A potential growing region can already belong to a community
+
+151
+00:07:27,645 --> 00:07:29,121
+with its own needs.
+
+152
+00:07:29,121 --> 00:07:33,095
+Cold and crop failure do not automatically produce cooperation,
+
+153
+00:07:33,095 --> 00:07:35,689
+and vulnerable people may have the least ability to
+
+154
+00:07:35,689 --> 00:07:39,314
+relocate. Falling sea level would also strand some port
+
+155
+00:07:39,314 --> 00:07:42,352
+facilities relative to the coast, while changing water
+
+156
+00:07:42,352 --> 00:07:45,990
+systems and ice could disrupt navigation in other ways.
+
+157
+00:07:45,990 --> 00:07:48,823
+There would be regional differences rather than one
+
+158
+00:07:48,823 --> 00:07:51,068
+uniform global experience.
+
+159
+00:07:51,488 --> 00:07:54,874
+A credible response would plan settlement, public health,
+
+160
+00:07:54,874 --> 00:07:56,879
+water, and food together.
+
+161
+00:07:56,879 --> 00:08:00,252
+Moving people into an unprepared refuge can transfer the
+
+162
+00:08:00,252 --> 00:08:02,485
+emergency without solving it.
+
+163
+00:08:02,485 --> 00:08:05,871
+Survival would depend on making new livelihoods possible,
+
+164
+00:08:05,871 --> 00:08:08,632
+not simply moving bodies out of the cold.
+
+165
+00:08:09,641 --> 00:08:13,315
+Would an Ordovician-style crisis automatically erase humanity?
+
+166
+00:08:13,315 --> 00:08:16,352
+The evidence does not justify that conclusion.
+
+167
+00:08:16,352 --> 00:08:19,437
+Modern people occupy many environments, and protected
+
+168
+00:08:19,437 --> 00:08:23,279
+populations could plausibly survive severe regional cooling.
+
+169
+00:08:23,279 --> 00:08:26,125
+Maintaining the present global standard of living is
+
+170
+00:08:26,125 --> 00:08:28,021
+a much tougher proposition.
+
+171
+00:08:28,021 --> 00:08:31,035
+The outcome depends on how much productive land remains
+
+172
+00:08:31,035 --> 00:08:34,445
+accessible, how quickly conditions change, and whether
+
+173
+00:08:34,445 --> 00:08:37,134
+institutions preserve exchange instead of shutting it
+
+174
+00:08:37,134 --> 00:08:38,010
+down.
+
+175
+00:08:38,406 --> 00:08:41,288
+With substantial warning, crop adaptation and planned
+
+176
+00:08:41,288 --> 00:08:44,265
+relocation offer real possibilities.
+
+177
+00:08:44,265 --> 00:08:47,603
+With rapid, synchronized failures and conflict over remaining
+
+178
+00:08:47,603 --> 00:08:51,289
+resources, mortality and displacement could become catastrophic
+
+179
+00:08:51,289 --> 00:08:54,854
+even without every region becoming physically uninhabitable.
+
+180
+00:08:54,854 --> 00:08:58,060
+Notice what this verdict does not contain: a precise
+
+181
+00:08:58,060 --> 00:09:01,289
+survival percentage or a promise that technology will
+
+182
+00:09:01,289 --> 00:09:02,706
+solve the problem.
+
+183
+00:09:02,706 --> 00:09:05,851
+We have identified useful tools and the conditions under
+
+184
+00:09:05,851 --> 00:09:07,208
+which they might help.
+
+185
+00:09:07,628 --> 00:09:10,918
+The first test teaches that habitability is geographic
+
+186
+00:09:10,918 --> 00:09:13,571
+and political as well as biological.
+
+187
+00:09:13,571 --> 00:09:16,837
+A place can be capable of supporting life while remaining
+
+188
+00:09:16,837 --> 00:09:19,214
+unreachable to the people who need it.
+
+189
+00:09:19,214 --> 00:09:22,828
+The next test makes the geography harder to escape, because
+
+190
+00:09:22,828 --> 00:09:25,709
+the damage begins under the surface of the sea.
+
+191
+00:09:26,717 --> 00:09:29,947
+The Late Devonian crisis unfolded in several episodes
+
+192
+00:09:29,947 --> 00:09:32,156
+rather than one clean afternoon.
+
+193
+00:09:32,156 --> 00:09:34,845
+Major losses occurred during intervals around three hundred
+
+194
+00:09:34,845 --> 00:09:37,751
+seventy-two million years ago and later near the end of
+
+195
+00:09:37,751 --> 00:09:40,716
+the period, around three hundred fifty-nine million years
+
+196
+00:09:40,716 --> 00:09:44,162
+ago. Oxygen-poor marine conditions are an important part
+
+197
+00:09:44,162 --> 00:09:48,328
+of the evidence, alongside changes in climate and ecosystems.
+
+198
+00:09:48,328 --> 00:09:51,677
+Explanations involve interacting processes, and there
+
+199
+00:09:51,677 --> 00:09:55,483
+is no single universally settled cause for every pulse.
+
+200
+00:09:56,059 --> 00:09:58,521
+The spread of land plants and changes in weathering and
+
+201
+00:09:58,521 --> 00:10:02,470
+nutrient delivery are among the ideas investigated, together
+
+202
+00:10:02,470 --> 00:10:05,652
+with other environmental and geological drivers.
+
+203
+00:10:05,652 --> 00:10:08,677
+The lesson is not that trees are inherently a planetary
+
+204
+00:10:08,677 --> 00:10:11,919
+threat. It is that changes on land can alter what reaches
+
+205
+00:10:11,919 --> 00:10:14,704
+the ocean and how marine systems function.
+
+206
+00:10:14,704 --> 00:10:18,366
+Imagine the modern ocean losing oxygen across expanding
+
+207
+00:10:18,366 --> 00:10:21,656
+regions while important food webs reorganize.
+
+208
+00:10:21,656 --> 00:10:23,636
+Fish that can move may leave.
+
+209
+00:10:24,081 --> 00:10:27,334
+Animals attached to the seafloor have fewer choices.
+
+210
+00:10:27,334 --> 00:10:30,492
+A reef can lose the living structure that provides habitat
+
+211
+00:10:30,492 --> 00:10:32,209
+for many other species.
+
+212
+00:10:32,209 --> 00:10:35,702
+The crisis travels through ecological relationships, not
+
+213
+00:10:35,702 --> 00:10:37,911
+just through a map of dead fish.
+
+214
+00:10:38,920 --> 00:10:40,829
+Here is a crucial distinction.
+
+215
+00:10:40,829 --> 00:10:43,734
+Oxygen loss in seawater does not mean that people on the
+
+216
+00:10:43,734 --> 00:10:46,928
+coast instantly lose the oxygen in the atmosphere.
+
+217
+00:10:46,928 --> 00:10:49,665
+Dissolved oxygen and the atmosphere are connected over
+
+218
+00:10:49,665 --> 00:10:52,438
+time, but they are different reservoirs with different
+
+219
+00:10:52,438 --> 00:10:56,424
+dynamics. The immediate modern human danger is the disruption
+
+220
+00:10:56,424 --> 00:11:00,530
+of marine ecosystems, livelihoods, and food supplies,
+
+221
+00:11:00,530 --> 00:11:03,591
+with impacts that vary by region and by dependence on
+
+222
+00:11:03,591 --> 00:11:04,528
+the sea.
+
+223
+00:11:04,996 --> 00:11:08,418
+Warmer water generally holds less dissolved oxygen, and
+
+224
+00:11:08,418 --> 00:11:12,296
+changes in mixing and biological activity can worsen oxygen
+
+225
+00:11:12,296 --> 00:11:16,546
+stress. Excess nutrients can stimulate growth whose decomposition
+
+226
+00:11:16,546 --> 00:11:18,166
+consumes oxygen.
+
+227
+00:11:18,166 --> 00:11:21,540
+These processes already matter in some modern waters,
+
+228
+00:11:21,540 --> 00:11:24,926
+but a local dead zone is not itself a repeat of the entire
+
+229
+00:11:24,926 --> 00:11:26,690
+Devonian extinction.
+
+230
+00:11:26,690 --> 00:11:29,356
+Scale and duration change the stakes.
+
+231
+00:11:29,776 --> 00:11:32,801
+If severe oxygen stress spreads across productive marine
+
+232
+00:11:32,801 --> 00:11:36,175
+regions, fishing fleets cannot keep landing the same catches
+
+233
+00:11:36,175 --> 00:11:38,444
+simply by buying better boats.
+
+234
+00:11:38,444 --> 00:11:41,770
+Aquaculture is not automatically insulated either.
+
+235
+00:11:41,770 --> 00:11:45,575
+Many systems need suitable water, healthy stock, energy,
+
+236
+00:11:45,575 --> 00:11:49,297
+and feed. A damaged ocean would expose how much coastal
+
+237
+00:11:49,297 --> 00:11:52,851
+prosperity depends on living systems rather than hardware.
+
+238
+00:11:54,003 --> 00:11:57,293
+Our response would begin with monitoring, reducing avoidable
+
+239
+00:11:57,293 --> 00:12:00,967
+pollution and nutrient stress, protecting remaining habitats,
+
+240
+00:12:00,967 --> 00:12:03,476
+and managing fisheries conservatively.
+
+241
+00:12:03,476 --> 00:12:06,381
+Those actions can improve resilience where human choices
+
+242
+00:12:06,381 --> 00:12:07,930
+influence the drivers.
+
+243
+00:12:07,930 --> 00:12:11,340
+They cannot manufacture a healthy global ocean on command
+
+244
+00:12:11,340 --> 00:12:14,293
+once enormous physical changes are underway.
+
+245
+00:12:14,293 --> 00:12:17,631
+Societies would need to diversify diets and livelihoods,
+
+246
+00:12:17,631 --> 00:12:21,232
+preserve access to terrestrial food, and support communities
+
+247
+00:12:21,232 --> 00:12:24,006
+whose income and nutrition come from the sea.
+
+248
+00:12:24,402 --> 00:12:27,547
+Pumping oxygen into a contained tank is very different
+
+249
+00:12:27,547 --> 00:12:29,936
+from oxygenating a vast ocean.
+
+250
+00:12:29,936 --> 00:12:33,334
+That gap between a successful local device and a planetary
+
+251
+00:12:33,334 --> 00:12:36,660
+solution appears repeatedly in this video.
+
+252
+00:12:36,660 --> 00:12:40,009
+Humanity could plausibly survive major marine disruption
+
+253
+00:12:40,009 --> 00:12:43,407
+without every person depending directly on seafood.
+
+254
+00:12:43,407 --> 00:12:46,829
+But that is no comfort to regions facing the loss of food,
+
+255
+00:12:46,829 --> 00:12:50,310
+employment, and coastal protection at the same time.
+
+256
+00:12:50,934 --> 00:12:54,584
+Land agriculture would also face additional demand just
+
+257
+00:12:54,584 --> 00:12:57,814
+as other environmental changes might be stressing it.
+
+258
+00:12:57,814 --> 00:13:00,851
+Our second verdict is therefore conditional resilience
+
+259
+00:13:00,851 --> 00:13:03,276
+with potentially profound losses.
+
+260
+00:13:03,276 --> 00:13:06,014
+Surviving the damage would not restore the disappeared
+
+261
+00:13:06,014 --> 00:13:10,168
+species or automatically rebuild the ecological services
+
+262
+00:13:10,168 --> 00:13:12,185
+that once made life easier.
+
+263
+00:13:13,217 --> 00:13:16,014
+Now we reach the end of the Permian, roughly two hundred
+
+264
+00:13:16,014 --> 00:13:17,959
+fifty-two million years ago.
+
+265
+00:13:17,959 --> 00:13:20,733
+This event is often called the Great Dying, and it was
+
+266
+00:13:20,733 --> 00:13:24,022
+the most severe of the Big Five in the marine fossil record.
+
+267
+00:13:24,022 --> 00:13:27,420
+Enormous volcanic activity associated with the Siberian
+
+268
+00:13:27,420 --> 00:13:31,250
+Traps released gases and helped drive a profound environmental
+
+269
+00:13:31,250 --> 00:13:36,148
+crisis. Warming, ocean oxygen loss, changes in carbon
+
+270
+00:13:36,148 --> 00:13:38,993
+chemistry, and other stresses interacted.
+
+271
+00:13:39,390 --> 00:13:42,883
+The exact sequence and contribution of particular processes
+
+272
+00:13:42,883 --> 00:13:44,900
+remain subjects of research.
+
+273
+00:13:44,900 --> 00:13:48,250
+This was not one ordinary volcano splashing lava across
+
+274
+00:13:48,250 --> 00:13:49,774
+the entire planet.
+
+275
+00:13:49,774 --> 00:13:52,920
+A large igneous province operates at a different scale
+
+276
+00:13:52,920 --> 00:13:54,913
+and over a much longer history.
+
+277
+00:13:54,913 --> 00:13:58,034
+Carbon released into the atmosphere can alter environments
+
+278
+00:13:58,034 --> 00:14:01,228
+far from the place where magma reaches the surface.
+
+279
+00:14:01,228 --> 00:14:04,962
+Recovery of ecosystems took far longer than a human emergency
+
+280
+00:14:04,962 --> 00:14:06,967
+response could simply wait out.
+
+281
+00:14:07,363 --> 00:14:10,676
+For our modern test, the central pressure is sustained,
+
+282
+00:14:10,676 --> 00:14:14,086
+widespread environmental change that attacks both land
+
+283
+00:14:14,086 --> 00:14:18,024
+and sea. Cooling devices can protect a room from heat.
+
+284
+00:14:18,024 --> 00:14:20,977
+The harder question is whether we can keep a civilization
+
+285
+00:14:20,977 --> 00:14:24,543
+supplied while the conditions outside become increasingly
+
+286
+00:14:24,543 --> 00:14:25,563
+hostile.
+
+287
+00:14:26,572 --> 00:14:29,057
+Heat becomes especially dangerous when the body cannot
+
+288
+00:14:29,057 --> 00:14:30,510
+shed it fast enough.
+
+289
+00:14:30,510 --> 00:14:33,487
+Sweating helps only when evaporation can carry heat away,
+
+290
+00:14:33,487 --> 00:14:35,948
+and humidity can restrict that process.
+
+291
+00:14:35,948 --> 00:14:39,898
+Health, age, exertion, shade, air movement, and access
+
+292
+00:14:39,898 --> 00:14:41,843
+to cooling all affect risk.
+
+293
+00:14:41,843 --> 00:14:44,400
+There is no single convenient temperature that divides
+
+294
+00:14:44,400 --> 00:14:46,766
+every person into safe and dead.
+
+295
+00:14:46,766 --> 00:14:50,535
+Laboratory limits and real-world exposure are not interchangeable,
+
+296
+00:14:50,535 --> 00:14:53,381
+and dangerous conditions can occur below simplified
+
+297
+00:14:53,381 --> 00:14:55,470
+thresholds repeated online.
+
+298
+00:14:55,914 --> 00:14:58,939
+In a severe warming scenario, the first major failure
+
+299
+00:14:58,939 --> 00:15:00,668
+might be outdoor labor.
+
+300
+00:15:00,668 --> 00:15:04,222
+Farming, construction, repairs, and transport do not all
+
+301
+00:15:04,222 --> 00:15:06,791
+happen inside climate-controlled buildings.
+
+302
+00:15:06,791 --> 00:15:10,105
+If workers cannot perform essential tasks safely, heat
+
+303
+00:15:10,105 --> 00:15:13,202
+can reduce the capacity to maintain the very systems that
+
+304
+00:15:13,202 --> 00:15:14,691
+provide protection.
+
+305
+00:15:14,691 --> 00:15:17,008
+Nighttime relief also matters.
+
+306
+00:15:17,008 --> 00:15:20,105
+A dangerous afternoon followed by another dangerously
+
+307
+00:15:20,105 --> 00:15:22,338
+warm night can compound stress.
+
+308
+00:15:22,783 --> 00:15:25,664
+Some regions could remain substantially more habitable
+
+309
+00:15:25,664 --> 00:15:29,386
+than others, making geography and access central again.
+
+310
+00:15:29,386 --> 00:15:32,615
+The human body is flexible, but it is not independent
+
+311
+00:15:32,615 --> 00:15:33,984
+of its surroundings.
+
+312
+00:15:33,984 --> 00:15:37,478
+Technology protects people only where cooling, water,
+
+313
+00:15:37,478 --> 00:15:40,095
+shelter, and care actually reach them.
+
+314
+00:15:41,127 --> 00:15:44,261
+Imagine a city during an extreme heat emergency.
+
+315
+00:15:44,261 --> 00:15:47,731
+Air conditioning demand rises while power equipment, water
+
+316
+00:15:47,731 --> 00:15:50,720
+supplies, and the people maintaining them face additional
+
+317
+00:15:50,720 --> 00:15:54,910
+strain. A failure in one system can cascade into the next.
+
+318
+00:15:54,910 --> 00:15:58,224
+Without electricity, water pumping and refrigeration
+
+319
+00:15:58,224 --> 00:16:02,221
+may suffer. Without reliable water, some forms of power
+
+320
+00:16:02,221 --> 00:16:05,463
+generation and industrial cooling become harder.
+
+321
+00:16:05,931 --> 00:16:08,692
+Nuclear power can provide large amounts of low-carbon
+
+322
+00:16:08,692 --> 00:16:12,090
+electricity, but a plant is not a box that produces power
+
+323
+00:16:12,090 --> 00:16:16,040
+forever without staff, cooling, maintenance, or a supporting
+
+324
+00:16:16,040 --> 00:16:17,589
+industrial system.
+
+325
+00:16:17,589 --> 00:16:20,446
+Other energy sources have their own operating limits and
+
+326
+00:16:20,446 --> 00:16:24,396
+advantages. A diverse, resilient grid is more useful than
+
+327
+00:16:24,396 --> 00:16:27,121
+a single imagined miracle technology.
+
+328
+00:16:27,121 --> 00:16:30,579
+Backup generators can bridge outages where fuel and maintenance
+
+329
+00:16:30,579 --> 00:16:33,784
+are available. They cannot replace an entire national
+
+330
+00:16:33,784 --> 00:16:35,741
+infrastructure indefinitely.
+
+331
+00:16:36,162 --> 00:16:38,731
+The same applies to a personal shelter.
+
+332
+00:16:38,731 --> 00:16:41,444
+Its temperature may be comfortable while its owner still
+
+333
+00:16:41,444 --> 00:16:45,646
+needs replacement filters, medicine, sanitation, and food
+
+334
+00:16:45,646 --> 00:16:49,476
+from outside. The relevant survival unit is larger than
+
+335
+00:16:49,476 --> 00:16:52,477
+one building. It includes the network that keeps that
+
+336
+00:16:52,477 --> 00:16:54,458
+building worth sheltering in.
+
+337
+00:16:55,467 --> 00:16:58,312
+The most difficult Permian-style problem is the combination
+
+338
+00:16:58,312 --> 00:17:01,950
+of stresses. Ocean food webs may be damaged while heat
+
+339
+00:17:01,950 --> 00:17:05,059
+and water changes challenge agriculture on land.
+
+340
+00:17:05,059 --> 00:17:08,073
+Moving north or uphill can help particular communities
+
+341
+00:17:08,073 --> 00:17:11,170
+only if those destinations have usable resources and can
+
+342
+00:17:11,170 --> 00:17:13,067
+support additional people.
+
+343
+00:17:13,067 --> 00:17:16,789
+Growing plants indoors provides control, but its energy,
+
+344
+00:17:16,789 --> 00:17:19,838
+construction, nutrient, and water requirements must
+
+345
+00:17:19,838 --> 00:17:20,955
+be counted.
+
+346
+00:17:21,351 --> 00:17:24,208
+Cooling a crop in an increasingly hot environment can
+
+347
+00:17:24,208 --> 00:17:27,210
+become an additional burden rather than a free escape.
+
+348
+00:17:27,210 --> 00:17:31,016
+Meanwhile, ecological recovery would not arrive conveniently
+
+349
+00:17:31,016 --> 00:17:32,732
+after one election cycle.
+
+350
+00:17:32,732 --> 00:17:36,142
+Could some connected human populations survive in protected,
+
+351
+00:17:36,142 --> 00:17:37,883
+better-supplied regions?
+
+352
+00:17:37,883 --> 00:17:40,392
+That is plausible under some scenarios.
+
+353
+00:17:40,392 --> 00:17:43,033
+Can we demonstrate that billions of people would retain
+
+354
+00:17:43,033 --> 00:17:46,443
+today's food security through a full, severe ancient-scale
+
+355
+00:17:46,443 --> 00:17:48,352
+crisis? No.
+
+356
+00:17:48,748 --> 00:17:51,785
+Can we demonstrate that every last human would necessarily
+
+357
+00:17:51,785 --> 00:17:54,571
+die? We cannot establish that either.
+
+358
+00:17:54,571 --> 00:17:58,161
+The third test gives our sharpest warning about civilization:
+
+359
+00:17:58,161 --> 00:18:01,834
+heat protection without durable food, water, energy,
+
+360
+00:18:01,834 --> 00:18:04,379
+and cooperation is incomplete.
+
+361
+00:18:04,379 --> 00:18:07,381
+Survival would depend on keeping several lifelines working
+
+362
+00:18:07,381 --> 00:18:10,490
+together, through a disruption that might greatly outlast
+
+363
+00:18:10,490 --> 00:18:12,735
+the systems we initially built.
+
+364
+00:18:13,768 --> 00:18:16,769
+Around two hundred one million years ago, another major
+
+365
+00:18:16,769 --> 00:18:19,339
+crisis struck near the end of the Triassic.
+
+366
+00:18:19,339 --> 00:18:22,796
+Vast volcanic activity associated with the Central Atlantic
+
+367
+00:18:22,796 --> 00:18:26,110
+Magmatic Province accompanied the breakup of the supercontinent
+
+368
+00:18:26,110 --> 00:18:30,240
+Pangaea. Carbon and sulfur emissions drove different stresses.
+
+369
+00:18:30,240 --> 00:18:34,346
+Researchers investigate greenhouse warming, ocean disruption,
+
+370
+00:18:34,346 --> 00:18:37,407
+and potentially cooling pulses from aerosols.
+
+371
+00:18:37,407 --> 00:18:40,589
+The sequence and regional impacts remain active research
+
+372
+00:18:40,589 --> 00:18:41,609
+questions.
+
+373
+00:18:42,029 --> 00:18:44,527
+The survivors entered a world in which dinosaurs would
+
+374
+00:18:44,527 --> 00:18:47,888
+become especially prominent, but that later outcome was
+
+375
+00:18:47,888 --> 00:18:50,445
+not a purpose built into the disaster.
+
+376
+00:18:50,445 --> 00:18:54,251
+For modern humans, this test emphasizes repeated pressure
+
+377
+00:18:54,251 --> 00:18:57,000
+rather than one isolated explosion.
+
+378
+00:18:57,000 --> 00:19:00,182
+Imagine successive environmental shocks that repeatedly
+
+379
+00:19:00,182 --> 00:19:01,755
+interrupt recovery.
+
+380
+00:19:01,755 --> 00:19:05,633
+A country rebuilds after a bad harvest, only to face another
+
+381
+00:19:05,633 --> 00:19:08,946
+disruption before reserves and infrastructure recover.
+
+382
+00:19:09,546 --> 00:19:12,776
+A city adapts to a new climate, then discovers that the
+
+383
+00:19:12,776 --> 00:19:14,901
+new normal is moving again.
+
+384
+00:19:14,901 --> 00:19:17,578
+We should not assume that every ancient process would
+
+385
+00:19:17,578 --> 00:19:19,619
+run at the same rate today.
+
+386
+00:19:19,619 --> 00:19:22,333
+The useful question is what happens when the response
+
+387
+00:19:22,333 --> 00:19:25,730
+time of institutions is slower than the changes accumulating
+
+388
+00:19:25,730 --> 00:19:26,763
+around them.
+
+389
+00:19:27,771 --> 00:19:30,160
+Engineering can reduce exposure.
+
+390
+00:19:30,160 --> 00:19:33,510
+Buildings can be redesigned, water systems strengthened,
+
+391
+00:19:33,510 --> 00:19:37,304
+habitats protected, and energy supplies diversified.
+
+392
+00:19:37,304 --> 00:19:40,713
+Early warning and coordinated planning can prevent avoidable
+
+393
+00:19:40,713 --> 00:19:44,387
+losses. Emissions reductions can also reduce the human
+
+394
+00:19:44,387 --> 00:19:46,932
+contribution to environmental stress.
+
+395
+00:19:46,932 --> 00:19:50,198
+But those capabilities should not be confused with a demonstrated
+
+396
+00:19:50,198 --> 00:19:53,511
+ability to switch off a vast natural carbon release at
+
+397
+00:19:53,511 --> 00:19:55,060
+planetary scale.
+
+398
+00:19:55,456 --> 00:19:58,410
+Carbon removal technologies face practical requirements
+
+399
+00:19:58,410 --> 00:20:02,732
+for energy, materials, transport, storage, and deployment.
+
+400
+00:20:02,732 --> 00:20:05,949
+A promising process in a facility is not automatically
+
+401
+00:20:05,949 --> 00:20:08,651
+a solution to every geological source.
+
+402
+00:20:08,651 --> 00:20:11,856
+Proposals to modify incoming sunlight raise additional
+
+403
+00:20:11,856 --> 00:20:15,746
+questions about regional effects, governance, durability,
+
+404
+00:20:15,746 --> 00:20:18,723
+and what they would leave unresolved, including ocean
+
+405
+00:20:18,723 --> 00:20:22,757
+chemistry. This video is not prescribing an untested global
+
+406
+00:20:22,757 --> 00:20:23,874
+intervention.
+
+407
+00:20:24,270 --> 00:20:27,488
+It is asking what evidence supports the promised protection.
+
+408
+00:20:27,488 --> 00:20:30,345
+A resilient strategy would preserve several ways to
+
+409
+00:20:30,345 --> 00:20:33,454
+respond and reduce pressures we can influence, rather
+
+410
+00:20:33,454 --> 00:20:36,768
+than spend every resource on one uncertain rescue.
+
+411
+00:20:36,768 --> 00:20:40,478
+The longer the emergency lasts, the more important maintenance,
+
+412
+00:20:40,478 --> 00:20:44,127
+training, replacements, and public trust become.
+
+413
+00:20:44,127 --> 00:20:47,069
+Civilization has to keep learning while it is also trying
+
+414
+00:20:47,069 --> 00:20:48,546
+to keep the lights on.
+
+415
+00:20:49,578 --> 00:20:52,844
+A modern society could survive a bad year by drawing down
+
+416
+00:20:52,844 --> 00:20:56,745
+reserves. Surviving repeated bad years requires changing
+
+417
+00:20:56,745 --> 00:20:59,975
+the balance between what it consumes and what it can sustainably
+
+418
+00:20:59,975 --> 00:21:04,105
+replace. Surviving a much longer environmental transition
+
+419
+00:21:04,105 --> 00:21:07,491
+adds another problem: preserving knowledge and institutions
+
+420
+00:21:07,491 --> 00:21:09,063
+across generations.
+
+421
+00:21:09,063 --> 00:21:12,485
+A stockpile cannot train its own replacement engineers.
+
+422
+00:21:12,485 --> 00:21:14,946
+A seed bank does not plant itself.
+
+423
+00:21:15,390 --> 00:21:18,392
+An emergency government can distribute food for a time,
+
+424
+00:21:18,392 --> 00:21:22,173
+but lasting recovery also needs workable local production
+
+425
+00:21:22,173 --> 00:21:24,959
+and legitimate ways to settle conflict.
+
+426
+00:21:24,959 --> 00:21:28,476
+This is why a scenario lasting decades or longer cannot
+
+427
+00:21:28,476 --> 00:21:31,790
+be evaluated only by the strength of a bunker door.
+
+428
+00:21:31,790 --> 00:21:34,635
+It tests whether people can build a continuing way of
+
+429
+00:21:34,635 --> 00:21:36,820
+life in altered conditions.
+
+430
+00:21:36,820 --> 00:21:40,026
+Our fourth verdict resembles a stress test of adaptation
+
+431
+00:21:40,026 --> 00:21:41,046
+itself.
+
+432
+00:21:41,467 --> 00:21:44,804
+The more widespread, rapid, and persistent the pressure,
+
+433
+00:21:44,804 --> 00:21:48,814
+the less convincing a one-time technological fix becomes.
+
+434
+00:21:48,814 --> 00:21:51,720
+Human persistence remains different from the survival
+
+435
+00:21:51,720 --> 00:21:53,664
+of the present global system.
+
+436
+00:21:53,664 --> 00:21:56,570
+And a temporary refuge is most useful when it connects
+
+437
+00:21:56,570 --> 00:21:59,295
+to a future people can actually inhabit.
+
+438
+00:21:59,295 --> 00:22:03,053
+The next disaster removes much of that preparation time.
+
+439
+00:22:04,229 --> 00:22:07,855
+Sixty-six million years ago, a large asteroid struck near
+
+440
+00:22:07,855 --> 00:22:10,340
+what is now the Yucatan Peninsula.
+
+441
+00:22:10,340 --> 00:22:13,642
+The Chicxulub impact is the central trigger associated
+
+442
+00:22:13,642 --> 00:22:17,316
+with the end-Cretaceous extinction, which eliminated non-avian
+
+443
+00:22:17,316 --> 00:22:19,765
+dinosaurs and many other groups.
+
+444
+00:22:19,765 --> 00:22:23,199
+Birds survived, along with lineages that would help shape
+
+445
+00:22:23,199 --> 00:22:24,843
+the world that followed.
+
+446
+00:22:25,287 --> 00:22:28,361
+Deccan volcanism is also part of the broader environmental
+
+447
+00:22:28,361 --> 00:22:31,386
+history researchers investigate, but it does not erase
+
+448
+00:22:31,386 --> 00:22:34,484
+the extensive evidence for the impact's decisive role.
+
+449
+00:22:34,484 --> 00:22:36,993
+The immediate violence was enormous.
+
+450
+00:22:36,993 --> 00:22:39,826
+The lasting global problem involved material thrown into
+
+451
+00:22:39,826 --> 00:22:42,912
+the atmosphere and changes that reduced sunlight and disrupted
+
+452
+00:22:42,912 --> 00:22:46,946
+ecosystems. Dust, sulfur-bearing aerosols, and soot have
+
+453
+00:22:46,946 --> 00:22:50,211
+been studied through evidence and models; their amounts,
+
+454
+00:22:50,211 --> 00:22:53,741
+persistence, and relative effects carry uncertainties.
+
+455
+00:22:54,317 --> 00:22:57,259
+We will not pretend that every place on Earth experienced
+
+456
+00:22:57,259 --> 00:22:59,960
+the same blast, fire, or wave.
+
+457
+00:22:59,960 --> 00:23:03,598
+Distance, geography, and the impact setting matter.
+
+458
+00:23:03,598 --> 00:23:07,019
+For a modern civilization, this test has two very different
+
+459
+00:23:07,019 --> 00:23:10,861
+versions: the asteroid is detected early enough for action,
+
+460
+00:23:10,861 --> 00:23:13,190
+or the impact has already happened.
+
+461
+00:23:14,175 --> 00:23:17,248
+With sufficient warning and suitable orbital information,
+
+462
+00:23:17,248 --> 00:23:19,817
+preventing an impact could be far more effective than
+
+463
+00:23:19,817 --> 00:23:21,738
+trying to rebuild after one.
+
+464
+00:23:21,738 --> 00:23:24,956
+We already search for near-Earth objects, and NASA's DART
+
+465
+00:23:24,956 --> 00:23:27,897
+mission demonstrated that a spacecraft impact could change
+
+466
+00:23:27,897 --> 00:23:30,539
+the motion of a small asteroid moonlet.
+
+467
+00:23:30,539 --> 00:23:33,216
+That was a real planetary-defense achievement.
+
+468
+00:23:33,216 --> 00:23:36,109
+It was not a demonstration that we can reliably divert
+
+469
+00:23:36,109 --> 00:23:39,915
+every object, especially something on Chicxulub's scale
+
+470
+00:23:39,915 --> 00:23:42,160
+or something discovered very late.
+
+471
+00:23:42,604 --> 00:23:46,614
+Object size, structure, trajectory, warning time, launch
+
+472
+00:23:46,614 --> 00:23:50,024
+capability, and the available mission design all matter.
+
+473
+00:23:50,024 --> 00:23:52,917
+A small change applied early can produce a very different
+
+474
+00:23:52,917 --> 00:23:55,618
+future position than the same effort applied at the last
+
+475
+00:23:55,618 --> 00:23:59,388
+moment. That is the value of time in orbital mechanics.
+
+476
+00:23:59,388 --> 00:24:02,234
+But discovering a threat does not automatically provide
+
+477
+00:24:02,234 --> 00:24:03,746
+a working intervention.
+
+478
+00:24:03,746 --> 00:24:06,760
+Our assessment must distinguish a demonstrated technique
+
+479
+00:24:06,760 --> 00:24:10,181
+from an untested promise at a much larger scale.
+
+480
+00:24:10,578 --> 00:24:13,963
+If prevention succeeds, an extinction-style aftermath
+
+481
+00:24:13,963 --> 00:24:15,932
+might be avoided altogether.
+
+482
+00:24:15,932 --> 00:24:19,186
+If there is no adequate warning, the same satellites that
+
+483
+00:24:19,186 --> 00:24:22,775
+once offered an advantage may only record a disaster we
+
+484
+00:24:22,775 --> 00:24:24,144
+failed to stop.
+
+485
+00:24:25,176 --> 00:24:27,205
+Suppose prevention has failed.
+
+486
+00:24:27,205 --> 00:24:30,663
+Close to a huge impact, physical destruction can overwhelm
+
+487
+00:24:30,663 --> 00:24:33,124
+ordinary emergency preparations.
+
+488
+00:24:33,124 --> 00:24:36,822
+Farther away, survival conditions would depend on location,
+
+489
+00:24:36,822 --> 00:24:39,895
+shelter, damaged infrastructure, and the particular
+
+490
+00:24:39,895 --> 00:24:41,876
+effects reaching that region.
+
+491
+00:24:41,876 --> 00:24:44,842
+Tsunamis would threaten exposed coastlines according to
+
+492
+00:24:44,842 --> 00:24:48,528
+basin geography; they would not form one identical wall
+
+493
+00:24:48,528 --> 00:24:51,001
+sweeping over every mountain on Earth.
+
+494
+00:24:51,445 --> 00:24:54,855
+Fires and atmospheric heating are also complex questions,
+
+495
+00:24:54,855 --> 00:24:57,676
+with the global extent of some effects debated.
+
+496
+00:24:57,676 --> 00:25:00,473
+The useful response is to identify the kinds of systems
+
+497
+00:25:00,473 --> 00:25:03,679
+likely to be disrupted, rather than invent one cinematic
+
+498
+00:25:03,679 --> 00:25:05,480
+sequence for every city.
+
+499
+00:25:05,480 --> 00:25:09,105
+Communications, ports, roads, power, water treatment,
+
+500
+00:25:09,105 --> 00:25:12,203
+and hospitals could face simultaneous problems.
+
+501
+00:25:12,203 --> 00:25:14,904
+People outside the most immediate destruction would still
+
+502
+00:25:14,904 --> 00:25:19,070
+need clean water, sanitation, medical care, and reliable
+
+503
+00:25:19,070 --> 00:25:20,199
+information.
+
+504
+00:25:20,571 --> 00:25:23,884
+Protected facilities could save lives, but distribution
+
+505
+00:25:23,884 --> 00:25:25,721
+would matter enormously.
+
+506
+00:25:25,721 --> 00:25:28,867
+A shelter network that excludes most people leaves a very
+
+507
+00:25:28,867 --> 00:25:32,072
+different outcome from a coordinated public response.
+
+508
+00:25:32,072 --> 00:25:34,954
+And surviving the first days would only move the question
+
+509
+00:25:34,954 --> 00:25:38,399
+forward. The deeper global emergency could develop when
+
+510
+00:25:38,399 --> 00:25:41,545
+the sunlight available to crops and natural food webs
+
+511
+00:25:41,545 --> 00:25:42,493
+falls.
+
+512
+00:25:43,502 --> 00:25:46,659
+Photosynthesis connects sunlight to much of the food supporting
+
+513
+00:25:46,659 --> 00:25:50,753
+complex life. After a sufficiently large impact, reduced
+
+514
+00:25:50,753 --> 00:25:53,310
+sunlight and cooling could suppress production across
+
+515
+00:25:53,310 --> 00:25:56,576
+broad regions. The duration and severity would depend
+
+516
+00:25:56,576 --> 00:26:00,262
+on atmospheric material and the scenario modeled; there
+
+517
+00:26:00,262 --> 00:26:03,503
+is no single darkness timer we can confidently assign
+
+518
+00:26:03,503 --> 00:26:05,568
+to every possible impact.
+
+519
+00:26:05,568 --> 00:26:09,218
+Nor would night necessarily become perfectly black everywhere.
+
+520
+00:26:09,794 --> 00:26:13,108
+Even a substantial reduction can be devastating when crops
+
+521
+00:26:13,108 --> 00:26:16,109
+and ecosystems depend on particular conditions.
+
+522
+00:26:16,109 --> 00:26:19,543
+Stored grain and other food could buy time, but stockpiles
+
+523
+00:26:19,543 --> 00:26:22,832
+are unevenly distributed and need protection, transport,
+
+524
+00:26:22,832 --> 00:26:24,453
+and fair allocation.
+
+525
+00:26:24,453 --> 00:26:27,563
+Livestock depend on feed as well as human decisions about
+
+526
+00:26:27,563 --> 00:26:29,580
+which foods to prioritize.
+
+527
+00:26:29,580 --> 00:26:32,845
+Fisheries depend on living marine food webs, not just
+
+528
+00:26:32,845 --> 00:26:34,298
+surviving boats.
+
+529
+00:26:34,298 --> 00:26:36,879
+A short interruption is a different problem from several
+
+530
+00:26:36,879 --> 00:26:38,668
+failed growing seasons.
+
+531
+00:26:39,088 --> 00:26:42,306
+The central accounting question becomes unavoidable: how
+
+532
+00:26:42,306 --> 00:26:45,787
+many usable calories can still be produced, where, and
+
+533
+00:26:45,787 --> 00:26:49,461
+for how long? Money and machinery can move existing food
+
+534
+00:26:49,461 --> 00:26:53,003
+around. They cannot turn an insufficient total harvest
+
+535
+00:26:53,003 --> 00:26:56,448
+into enough food simply by changing its ownership.
+
+536
+00:26:57,481 --> 00:27:00,326
+Some alternatives deserve serious research.
+
+537
+00:27:00,326 --> 00:27:03,268
+Controlled environments can grow plants with artificial
+
+538
+00:27:03,268 --> 00:27:06,749
+light where reliable energy and equipment are available.
+
+539
+00:27:06,749 --> 00:27:10,723
+Other proposed resilient foods involve fungi or microbes
+
+540
+00:27:10,723 --> 00:27:14,445
+using suitable feedstocks, or processes that could convert
+
+541
+00:27:14,445 --> 00:27:17,542
+available resources into edible nutrients.
+
+542
+00:27:17,542 --> 00:27:20,652
+Researchers have explored such possibilities for abrupt
+
+543
+00:27:20,652 --> 00:27:22,441
+reductions in sunlight.
+
+544
+00:27:22,837 --> 00:27:25,358
+These are not demonstrated guarantees that billions of
+
+545
+00:27:25,358 --> 00:27:28,432
+people could immediately switch diets and remain healthy.
+
+546
+00:27:28,432 --> 00:27:31,301
+A fungus does not create energy from nothing.
+
+547
+00:27:31,301 --> 00:27:35,179
+A microbial process needs inputs, safe operation, quality
+
+548
+00:27:35,179 --> 00:27:37,976
+control, and a way to distribute its products.
+
+549
+00:27:37,976 --> 00:27:40,906
+Nutrition includes more than calories, and acceptance
+
+550
+00:27:40,906 --> 00:27:42,898
+and public health matter too.
+
+551
+00:27:42,898 --> 00:27:45,612
+Large-scale deployment would require preparation before
+
+552
+00:27:45,612 --> 00:27:49,213
+the emergency, together with robust power, materials,
+
+553
+00:27:49,213 --> 00:27:51,831
+trained workers, and functioning logistics.
+
+554
+00:27:52,251 --> 00:27:55,300
+Even nuclear-powered food production is a system that
+
+555
+00:27:55,300 --> 00:27:57,293
+must be built and maintained.
+
+556
+00:27:57,293 --> 00:28:00,391
+It could provide a valuable component of resilience without
+
+557
+00:28:00,391 --> 00:28:04,029
+replacing every field and every missing ecosystem.
+
+558
+00:28:04,029 --> 00:28:07,702
+The promising question is how much reliable food a prepared
+
+559
+00:28:07,702 --> 00:28:10,752
+system could add under specified conditions.
+
+560
+00:28:10,752 --> 00:28:14,449
+The dangerous shortcut is treating a laboratory possibility
+
+561
+00:28:14,449 --> 00:28:16,983
+as a fully stocked global pantry.
+
+562
+00:28:17,967 --> 00:28:21,329
+Could humanity survive another Chicxulub-scale event?
+
+563
+00:28:21,329 --> 00:28:24,366
+There is no responsible single yes or no that ignores
+
+564
+00:28:24,366 --> 00:28:28,568
+warning time, impact setting, preparedness, and the resulting
+
+565
+00:28:28,568 --> 00:28:32,878
+food crisis. Prevention has a genuine technological foundation
+
+566
+00:28:32,878 --> 00:28:36,504
+at smaller demonstrated scales, but its limits matter.
+
+567
+00:28:36,504 --> 00:28:39,974
+After impact, surviving populations might persist in
+
+568
+00:28:39,974 --> 00:28:43,047
+some regions or protected systems, while the fate of the
+
+569
+00:28:43,047 --> 00:28:46,145
+present civilization could be extremely severe.
+
+570
+00:28:46,565 --> 00:28:49,386
+We cannot convert an imagined bunker into a proof that
+
+571
+00:28:49,386 --> 00:28:51,631
+human extinction is impossible.
+
+572
+00:28:51,631 --> 00:28:55,221
+We also cannot infer that every last person must die because
+
+573
+00:28:55,221 --> 00:28:57,478
+many ancient species disappeared.
+
+574
+00:28:57,478 --> 00:29:00,311
+The survivors of the end-Cretaceous event remind us that
+
+575
+00:29:00,311 --> 00:29:03,289
+mass extinction is selective and uneven.
+
+576
+00:29:03,289 --> 00:29:06,014
+They do not tell us that a world of billions of highly
+
+577
+00:29:06,014 --> 00:29:08,955
+connected people would find recovery easy.
+
+578
+00:29:08,955 --> 00:29:12,137
+The fifth test therefore rewards earlier action more than
+
+579
+00:29:12,137 --> 00:29:14,382
+a heroic last-minute escape.
+
+580
+00:29:14,826 --> 00:29:18,476
+Better detection, contingency planning, resilient food
+
+581
+00:29:18,476 --> 00:29:22,282
+research, and reliable institutions offer ways to improve
+
+582
+00:29:22,282 --> 00:29:25,655
+the odds without pretending those odds are already known.
+
+583
+00:29:25,655 --> 00:29:28,801
+The outcome would be shaped by decisions made well before
+
+584
+00:29:28,801 --> 00:29:30,290
+the sky changed.
+
+585
+00:29:31,274 --> 00:29:34,780
+Put the five tests side by side, and a pattern emerges.
+
+586
+00:29:34,780 --> 00:29:37,265
+The decisive variables are not simply how frightening
+
+587
+00:29:37,265 --> 00:29:38,766
+the illustration looks.
+
+588
+00:29:38,766 --> 00:29:42,439
+They are speed, geographic reach, duration, remaining
+
+589
+00:29:42,439 --> 00:29:45,621
+productive environments, and the ability to maintain essential
+
+590
+00:29:45,621 --> 00:29:49,102
+systems. A gradual pressure may permit adaptation that
+
+591
+00:29:49,102 --> 00:29:50,879
+a sudden event does not.
+
+592
+00:29:50,879 --> 00:29:54,181
+A regional disaster can receive help from elsewhere; a
+
+593
+00:29:54,181 --> 00:29:58,191
+synchronized global food crisis has fewer external rescuers.
+
+594
+00:29:58,791 --> 00:30:01,744
+A short interruption can be bridged by reserves, while
+
+595
+00:30:01,744 --> 00:30:04,782
+a long transition demands continued production.
+
+596
+00:30:04,782 --> 00:30:08,300
+A technology that protects one facility may still be valuable
+
+597
+00:30:08,300 --> 00:30:11,169
+without solving the whole planetary problem.
+
+598
+00:30:11,169 --> 00:30:14,471
+None of this produces a scientifically established ranking
+
+599
+00:30:14,471 --> 00:30:17,496
+of human survival percentages for the Big Five.
+
+600
+00:30:17,496 --> 00:30:21,242
+Our scenarios cannot supply data that history never recorded,
+
+601
+00:30:21,242 --> 00:30:24,819
+because no industrial human civilization experienced
+
+602
+00:30:24,819 --> 00:30:26,008
+those events.
+
+603
+00:30:26,404 --> 00:30:30,294
+What they can do is expose dependencies and identify preparations
+
+604
+00:30:30,294 --> 00:30:31,915
+worth investigating.
+
+605
+00:30:31,915 --> 00:30:34,664
+The question is not whether modern humans are tougher
+
+606
+00:30:34,664 --> 00:30:36,873
+than a particular extinct animal.
+
+607
+00:30:36,873 --> 00:30:39,803
+It is how well a civilization can preserve the conditions
+
+608
+00:30:39,803 --> 00:30:43,933
+that let people cooperate, eat, stay healthy, and raise
+
+609
+00:30:43,933 --> 00:30:47,558
+another generation when familiar ecosystems stop behaving
+
+610
+00:30:47,558 --> 00:30:48,807
+as expected.
+
+611
+00:30:49,815 --> 00:30:53,009
+When scientists discuss a possible or ongoing sixth mass
+
+612
+00:30:53,009 --> 00:30:56,178
+extinction, they usually mean the modern biodiversity
+
+613
+00:30:56,178 --> 00:30:59,504
+crisis, strongly driven by human activity.
+
+614
+00:30:59,504 --> 00:31:03,622
+Habitat conversion, overexploitation, invasive species,
+
+615
+00:31:03,622 --> 00:31:06,779
+pollution, and climate change can act together.
+
+616
+00:31:06,779 --> 00:31:10,585
+IPBES has estimated that around a million animal and plant
+
+617
+00:31:10,585 --> 00:31:13,995
+species are threatened with extinction, many within decades
+
+618
+00:31:13,995 --> 00:31:15,928
+unless pressures are reduced.
+
+619
+00:31:16,348 --> 00:31:19,229
+Threatened does not mean already extinct, and the estimate
+
+620
+00:31:19,229 --> 00:31:21,835
+does not mean a million species will certainly vanish
+
+621
+00:31:21,835 --> 00:31:23,335
+on a fixed deadline.
+
+622
+00:31:23,335 --> 00:31:26,277
+There is also a distinction between reaching a Big Five-style
+
+623
+00:31:26,277 --> 00:31:30,227
+total loss threshold and observing unusually rapid losses
+
+624
+00:31:30,227 --> 00:31:33,120
+and escalating risks on the way toward one.
+
+625
+00:31:33,120 --> 00:31:37,034
+Researchers debate definitions, comparisons, and the completeness
+
+626
+00:31:37,034 --> 00:31:40,647
+of the record. Modern observations and ancient fossils
+
+627
+00:31:40,647 --> 00:31:42,484
+have different limitations.
+
+628
+00:31:42,953 --> 00:31:46,050
+None of that makes the damage imaginary or requires us
+
+629
+00:31:46,050 --> 00:31:49,088
+to wait for a particular percentage before acting.
+
+630
+00:31:49,088 --> 00:31:52,845
+This potential sixth event need not arrive as one dramatic
+
+631
+00:31:52,845 --> 00:31:54,406
+external object.
+
+632
+00:31:54,406 --> 00:31:57,479
+It can grow through many decisions that repeatedly remove
+
+633
+00:31:57,479 --> 00:32:01,177
+habitat and destabilize the systems on which other species,
+
+634
+00:32:01,177 --> 00:32:03,770
+and human societies, depend.
+
+635
+00:32:04,803 --> 00:32:08,909
+A nuclear war, an extreme pandemic, or another large impact
+
+636
+00:32:08,909 --> 00:32:11,238
+could be catastrophic for humanity.
+
+637
+00:32:11,238 --> 00:32:14,552
+But a catastrophe that kills many people is not automatically
+
+638
+00:32:14,552 --> 00:32:17,349
+a mass extinction across the tree of life.
+
+639
+00:32:17,349 --> 00:32:21,443
+A human pathogen does not, by that fact alone, eliminate
+
+640
+00:32:21,443 --> 00:32:25,249
+marine animals, plants, and unrelated organisms on the
+
+641
+00:32:25,249 --> 00:32:27,890
+scale associated with the Big Five.
+
+642
+00:32:28,310 --> 00:32:31,252
+The environmental consequences of nuclear conflict have
+
+643
+00:32:31,252 --> 00:32:34,385
+been studied through models, including potential disruption
+
+644
+00:32:34,385 --> 00:32:37,591
+to climate and food systems, but the outcome depends on
+
+645
+00:32:37,591 --> 00:32:40,856
+the scenario and is not a universal script.
+
+646
+00:32:40,856 --> 00:32:43,749
+Another major impact is a different kind of threat again,
+
+647
+00:32:43,749 --> 00:32:46,919
+with distinct questions of frequency, detection, and
+
+648
+00:32:46,919 --> 00:32:50,557
+prevention. These dangers deserve attention without being
+
+649
+00:32:50,557 --> 00:32:53,414
+collapsed into one interchangeable label.
+
+650
+00:32:53,810 --> 00:32:57,364
+For the existing biodiversity crisis, the strongest point
+
+651
+00:32:57,364 --> 00:33:00,281
+is that several major drivers are influenced by human
+
+652
+00:33:00,281 --> 00:33:03,823
+choices now. Natural history is not an appointment book
+
+653
+00:33:03,823 --> 00:33:07,473
+announcing that a sixth disaster must repeat one ancient
+
+654
+00:33:07,473 --> 00:33:10,966
+mechanism. It is evidence that life-support systems can
+
+655
+00:33:10,966 --> 00:33:14,064
+change profoundly, and that the survival of particular
+
+656
+00:33:14,064 --> 00:33:17,510
+species or societies cannot be assumed from their current
+
+657
+00:33:17,510 --> 00:33:18,614
+abundance.
+
+658
+00:33:19,623 --> 00:33:23,116
+Across all five tests, the most useful preparations look
+
+659
+00:33:23,116 --> 00:33:26,370
+less like a single escape pod and more like a resilient
+
+660
+00:33:26,370 --> 00:33:30,548
+society. Preserve diverse food production, monitor threats,
+
+661
+00:33:30,548 --> 00:33:34,221
+protect water, strengthen energy systems, maintain public
+
+662
+00:33:34,221 --> 00:33:37,271
+health, and invest in research before an emergency makes
+
+663
+00:33:37,271 --> 00:33:38,604
+deployment harder.
+
+664
+00:33:38,604 --> 00:33:42,001
+Preserve knowledge and practical skills as well as equipment.
+
+665
+00:33:42,001 --> 00:33:45,219
+Make cooperation possible across regions rather than
+
+666
+00:33:45,219 --> 00:33:48,772
+assuming it will appear automatically when resources tighten.
+
+667
+00:33:49,349 --> 00:33:52,110
+These actions have value without requiring a prediction
+
+668
+00:33:52,110 --> 00:33:55,183
+that one particular ancient disaster will return.
+
+669
+00:33:55,183 --> 00:33:58,089
+They can also reduce vulnerabilities to smaller, more
+
+670
+00:33:58,089 --> 00:33:59,445
+immediate shocks.
+
+671
+00:33:59,445 --> 00:34:01,715
+None makes civilization invulnerable.
+
+672
+00:34:01,715 --> 00:34:04,668
+The lesson is that survival depends on relationships between
+
+673
+00:34:04,668 --> 00:34:07,021
+systems, people, and ecosystems.
+
+674
+00:34:07,021 --> 00:34:09,734
+We may be able to protect some humans through an extraordinary
+
+675
+00:34:09,734 --> 00:34:13,096
+crisis while losing much of the world that supported them.
+
+676
+00:34:13,096 --> 00:34:15,893
+Keeping more of that world alive is a different and
+
+677
+00:34:15,893 --> 00:34:16,938
+larger achievement
+
+678
+00:34:17,442 --> 00:34:20,215
+So when we ask whether humanity could survive Earth's
+
+679
+00:34:20,215 --> 00:34:24,201
+next great catastrophe, the final question is this: after
+
+680
+00:34:24,201 --> 00:34:27,455
+the shelter opens, what will still be growing, working,
+
+681
+00:34:27,455 --> 00:34:29,328
+and connecting us outside?

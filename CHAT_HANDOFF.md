@@ -10,7 +10,7 @@
 
 - Trao đổi với người dùng bằng **tiếng Việt**. Sản phẩm hướng đến **thị trường Mỹ**, dùng kịch bản, lời đọc và phụ đề **tiếng Anh Mỹ**.
 - Khi được giao làm video, tự xử lý nghiên cứu, kịch bản, âm thanh, hình ảnh, dựng, kiểm tra và bàn giao. Người dùng đã cho phép **không chờ duyệt từng bước**; chỉ hỏi khi thực sự thiếu điều kiện không thể tự giải quyết.
-- **Chất lượng và đủ ý quan trọng hơn độ dài.** Người dùng thích bản dài nếu nội dung xứng đáng, không muốn kéo dài bằng lặp ý hoặc làm chậm lời đọc. Bản 18–25 phút đã được triển khai thành công; đây là mốc tham chiếu, không phải giới hạn cố định cho mọi chủ đề.
+- **Chất lượng và đủ ý quan trọng hơn độ dài.** Người dùng thích bản dài nếu nội dung xứng đáng, không muốn kéo dài bằng lặp ý hoặc làm chậm lời đọc. Các bản 18–25 và 25–35 phút đã được triển khai thành công; đây là mốc tham chiếu, không phải giới hạn cố định cho mọi chủ đề.
 - Người dùng không xem được các liên kết tệp cục bộ trong chat. **Bàn giao bằng liên kết GitHub**; ưu tiên liên kết MP4 theo commit để tránh cache bản cũ.
 - Kho đang dùng: `tai23082004l02-svg/YTB-ng-i-que`, nhánh bàn giao `main`. Trong các tác vụ trước, người dùng đã yêu cầu đưa video và tài liệu lên kho này. Khi tiếp tục công việc cùng dự án, giữ cách bàn giao đó trừ khi có yêu cầu khác.
 - Không tự đăng lên YouTube khi chưa được yêu cầu.
@@ -28,12 +28,13 @@
 
 Đây là **video minh họa tĩnh có đổi cảnh**. Không mô tả thành hoạt hình tay chân đầy đủ khi không có chuyển động nhân vật riêng.
 
-## 3. Hai sản phẩm đã hoàn thành
+## 3. Các sản phẩm đã hoàn thành
 
 | Video | Bản bàn giao | Giá trị tham khảo |
 | --- | --- | --- |
 | [Before the Alarm Clock](videos/before-the-alarm-clock/README.md) | Khoảng 4:12, bản cập nhật 2, 48 hình | Bản đã chốt cách bỏ header, tắt zoom và tăng mật độ hình. Không lấy bản đầu có zoom làm mẫu. |
 | [The Last Humans](videos/the-last-humans/README.md) | **24:45**, 20 phần, **268 hình dùng**, 480 đoạn phụ đề | Mẫu video dài được người dùng đánh giá tốt. Có đủ nguồn ảnh và dữ liệu dựng trong GitHub. |
+| [Could We Survive?](videos/could-we-survive/README.md) | **34:30**, 28 phần, **371 hình dùng**, 681 đoạn phụ đề | Năm đại tuyệt chủng và giả định sinh tồn hiện đại; có ảnh nguồn, ghi chú khoa học và bộ đăng YouTube. |
 
 Tên tiếng Anh video dài: **Earth Once Had Many Human Species. Why Are We the Only Ones Left?**
 
@@ -43,6 +44,11 @@ https://raw.githubusercontent.com/tai23082004l02-svg/YTB-ng-i-que/afd41171e9b38c
 **Trạng thái bàn giao: đã hoàn thành và đẩy lên GitHub. Không có video đang làm dở.** Không tự tạo lại hoặc thay đổi video cũ nếu người dùng chỉ yêu cầu một chủ đề mới.
 
 ## 4. Tệp nào chứa gì?
+
+Bản mới nhất nằm trong [videos/could-we-survive/](videos/could-we-survive/README.md): video 34:30, 32 bộ ảnh nguồn (384 hình tạo ra, 371 hình dùng), dữ liệu dựng, nguồn tham khảo và bộ đăng ZIP. Giọng `am_michael`, TTS 1.07 và tempo bổ sung 1.041171498; nhịp kể cuối khoảng 143 từ/phút. Không áp dụng máy móc tốc độ hoặc số đo cân âm lượng này sang video khác.
+
+Đọc `project/curation-notes.json` của bản này khi sửa: ô 4 của `sheet-15` có trilobite sống sai niên đại Trias và đã bị loại, thay bằng ô 5 của `sheet-29`. Giữ sự phân biệt giữa bằng chứng cổ đại và giả định hiện đại; không biến video thành một dự báo chắc chắn hoặc gán xác suất sống sót không có dữ liệu.
+
 
 Trong [videos/the-last-humans/](videos/the-last-humans/):
 

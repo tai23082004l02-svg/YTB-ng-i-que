@@ -1,0 +1,14 @@
+[
+  {
+    "shot_index": 201,
+    "excluded": {
+      "sheet": "15",
+      "cell": 4
+    },
+    "replacement": {
+      "sheet": "29",
+      "cell": 5
+    },
+    "reason": "Generated Triassic living-sea panel contained trilobites, which were extinct by then; replaced with conceptual fossil-boundary evidence."
+  }
+]

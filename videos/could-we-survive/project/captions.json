@@ -1,0 +1,3407 @@
+[
+  {
+    "start": 0.3361597977009361,
+    "end": 1.6327761602616897,
+    "text": "The lights still work."
+  },
+  {
+    "start": 1.6327761602616897,
+    "end": 3.4456379264345953,
+    "text": "Your phone still has a signal."
+  },
+  {
+    "start": 3.4456379264345953,
+    "end": 5.882796459766382,
+    "text": "Somewhere outside the city, the crops that feed it are"
+  },
+  {
+    "start": 5.882796459766382,
+    "end": 7.191418529387883,
+    "text": "beginning to fail."
+  },
+  {
+    "start": 7.191418529387883,
+    "end": 10.036771102785092,
+    "text": "Now imagine that the problem is larger than one country,"
+  },
+  {
+    "start": 10.036771102785092,
+    "end": 12.990175039729031,
+    "text": "and that next season will not bring normal weather back."
+  },
+  {
+    "start": 12.990175039729031,
+    "end": 15.715470542518764,
+    "text": "Could a technologically advanced civilization survive"
+  },
+  {
+    "start": 15.715470542518764,
+    "end": 17.42028094514494,
+    "text": "a planetary crisis?"
+  },
+  {
+    "start": 17.42028094514494,
+    "end": 20.32566205384589,
+    "text": "Earth has already run versions of that experiment on life"
+  },
+  {
+    "start": 20.32566205384589,
+    "end": 24.611699474532823,
+    "text": "five times. The Big Five mass extinctions reshaped oceans,"
+  },
+  {
+    "start": 24.611699474532823,
+    "end": 27.73318331032723,
+    "text": "erased familiar ecosystems, and opened the world to"
+  },
+  {
+    "start": 27.73318331032723,
+    "end": 28.873725481098262,
+    "text": "survivors."
+  },
+  {
+    "start": 29.269913814102935,
+    "end": 32.175294922803886,
+    "text": "But none of those survivors had satellites, hospitals,"
+  },
+  {
+    "start": 32.175294922803886,
+    "end": 34.62445916319642,
+    "text": "nuclear reactors, or global trade."
+  },
+  {
+    "start": 34.62445916319642,
+    "end": 37.67390875662634,
+    "text": "We do. We also have billions of people whose next meal"
+  },
+  {
+    "start": 37.67390875662634,
+    "end": 39.894964562864665,
+    "text": "depends on systems they cannot see."
+  },
+  {
+    "start": 39.894964562864665,
+    "end": 42.764328550383375,
+    "text": "In this thought experiment, we will bring the major pressures"
+  },
+  {
+    "start": 42.764328550383375,
+    "end": 45.90982380029927,
+    "text": "behind those ancient disasters into the modern world."
+  },
+  {
+    "start": 45.90982380029927,
+    "end": 48.9352619796077,
+    "text": "We will ask what technology could realistically protect,"
+  },
+  {
+    "start": 48.9352619796077,
+    "end": 51.25236344233201,
+    "text": "what it would still need to function, and where our"
+  },
+  {
+    "start": 51.25236344233201,
+    "end": 52.83711677435071,
+    "text": "knowledge runs out."
+  },
+  {
+    "start": 52.83711677435071,
+    "end": 55.35831525710773,
+    "text": "The question is larger than whether you could survive"
+  },
+  {
+    "start": 55.35831525710773,
+    "end": 57.1111484879769,
+    "text": "the first terrible day."
+  },
+  {
+    "start": 57.50733682098157,
+    "end": 60.484752172047,
+    "text": "It is whether there would still be a livable world waiting"
+  },
+  {
+    "start": 60.484752172047,
+    "end": 62.453688130009624,
+    "text": "when you opened the shelter door."
+  },
+  {
+    "start": 63.438156108990945,
+    "end": 66.5236228236031,
+    "text": "Before the first disaster, define survival."
+  },
+  {
+    "start": 66.5236228236031,
+    "end": 69.92123792179471,
+    "text": "One person remaining alive is not a functioning society."
+  },
+  {
+    "start": 69.92123792179471,
+    "end": 74.05120115069192,
+    "text": "A functioning society is not necessarily a global civilization."
+  },
+  {
+    "start": 74.05120115069192,
+    "end": 76.8125137746639,
+    "text": "And the collapse of a civilization does not automatically"
+  },
+  {
+    "start": 76.8125137746639,
+    "end": 78.901506803234,
+    "text": "mean the extinction of its species."
+  },
+  {
+    "start": 78.901506803234,
+    "end": 82.28711619436486,
+    "text": "We will keep three outcomes separate: individual survival,"
+  },
+  {
+    "start": 82.28711619436486,
+    "end": 85.4926399795845,
+    "text": "the survival of connected human populations, and the"
+  },
+  {
+    "start": 85.4926399795845,
+    "end": 88.6381352295004,
+    "text": "survival of the industrial systems that support billions"
+  },
+  {
+    "start": 88.6381352295004,
+    "end": 92.64804138779014,
+    "text": "of lives. Those outcomes can diverge dramatically."
+  },
+  {
+    "start": 93.09225254903781,
+    "end": 95.85356517300978,
+    "text": "A remote community might endure while international shipping"
+  },
+  {
+    "start": 95.85356517300978,
+    "end": 99.35923163474813,
+    "text": "stops. A highly protected facility might remain comfortable"
+  },
+  {
+    "start": 99.35923163474813,
+    "end": 101.58028744098645,
+    "text": "while the farms supplying it fail."
+  },
+  {
+    "start": 101.58028744098645,
+    "end": 104.2095372872902,
+    "text": "None of that lets us calculate a reliable percentage of"
+  },
+  {
+    "start": 104.2095372872902,
+    "end": 107.04288415362666,
+    "text": "people who would survive an ancient catastrophe."
+  },
+  {
+    "start": 107.04288415362666,
+    "end": 110.30843647415003,
+    "text": "We do not possess a tested simulator of the entire world."
+  },
+  {
+    "start": 110.30843647415003,
+    "end": 112.75760071454258,
+    "text": "So our conclusions will be conditional."
+  },
+  {
+    "start": 112.75760071454258,
+    "end": 116.21524434803791,
+    "text": "We will look at warning time, geographic reach, duration,"
+  },
+  {
+    "start": 116.21524434803791,
+    "end": 120.27317333457064,
+    "text": "and the condition of food, water, energy, and cooperation."
+  },
+  {
+    "start": 120.84944727348653,
+    "end": 124.2830794928604,
+    "text": "Wherever the illustration shows a modern city in an ancient-style"
+  },
+  {
+    "start": 124.2830794928604,
+    "end": 128.3650198935146,
+    "text": "disaster, remember that it is a constructed scenario."
+  },
+  {
+    "start": 128.3650198935146,
+    "end": 131.77464069876694,
+    "text": "It is not evidence that this exact event is forecast for"
+  },
+  {
+    "start": 131.77464069876694,
+    "end": 132.85515433423424,
+    "text": "next year."
+  },
+  {
+    "start": 133.86363372733703,
+    "end": 136.66096347249126,
+    "text": "Earth is roughly four and a half billion years old, but"
+  },
+  {
+    "start": 136.66096347249126,
+    "end": 139.8424758435894,
+    "text": "the Big Five belong to a much shorter chapter: the last"
+  },
+  {
+    "start": 139.8424758435894,
+    "end": 142.29164008398195,
+    "text": "roughly four hundred fifty million years."
+  },
+  {
+    "start": 142.29164008398195,
+    "end": 145.38911250565485,
+    "text": "They are recognized from major losses in the fossil record,"
+  },
+  {
+    "start": 145.38911250565485,
+    "end": 149.01483603800065,
+    "text": "especially marine animals that preserve relatively well."
+  },
+  {
+    "start": 149.01483603800065,
+    "end": 152.38843972207076,
+    "text": "A commonly used benchmark for a mass extinction is the"
+  },
+  {
+    "start": 152.38843972207076,
+    "end": 155.83407764850537,
+    "text": "loss of about three quarters of species over a geologically"
+  },
+  {
+    "start": 155.83407764850537,
+    "end": 159.26770986787923,
+    "text": "short interval. That interval can still be immensely long"
+  },
+  {
+    "start": 159.26770986787923,
+    "end": 161.39272001763155,
+    "text": "compared with a human lifetime."
+  },
+  {
+    "start": 161.8129197647577,
+    "end": 164.98242642879512,
+    "text": "These events were not five identical explosions."
+  },
+  {
+    "start": 164.98242642879512,
+    "end": 168.41605864816896,
+    "text": "Some involved multiple pulses, environmental feedbacks,"
+  },
+  {
+    "start": 168.41605864816896,
+    "end": 171.59757101926712,
+    "text": "or pressures that accumulated over long periods."
+  },
+  {
+    "start": 171.59757101926712,
+    "end": 174.2268208655709,
+    "text": "Nor does a species percentage translate into the same"
+  },
+  {
+    "start": 174.2268208655709,
+    "end": 177.82853298379518,
+    "text": "percentage of individual animals, biomass, or humans."
+  },
+  {
+    "start": 177.82853298379518,
+    "end": 181.3822222737765,
+    "text": "Our comparison will follow mechanisms: cooling and sea-level"
+  },
+  {
+    "start": 181.3822222737765,
+    "end": 185.70427681564567,
+    "text": "change, ocean oxygen loss, sustained volcanic warming,"
+  },
+  {
+    "start": 185.70427681564567,
+    "end": 188.28550383370643,
+    "text": "and the aftermath of a major impact."
+  },
+  {
+    "start": 188.70570358083262,
+    "end": 191.55105615422983,
+    "text": "We will not squeeze a million years of geology into a"
+  },
+  {
+    "start": 191.55105615422983,
+    "end": 195.16477397951488,
+    "text": "week and pretend the results are historically faithful."
+  },
+  {
+    "start": 195.16477397951488,
+    "end": 198.29826352237004,
+    "text": "The speed of a crisis is part of the crisis."
+  },
+  {
+    "start": 198.29826352237004,
+    "end": 201.49178160052892,
+    "text": "Preparation only helps if the warning arrives before the"
+  },
+  {
+    "start": 201.49178160052892,
+    "end": 203.78487164913176,
+    "text": "systems it depends on have failed."
+  },
+  {
+    "start": 204.76933962811304,
+    "end": 207.2185038685056,
+    "text": "Take inventory before testing the planet."
+  },
+  {
+    "start": 207.2185038685056,
+    "end": 210.55609043139347,
+    "text": "We have weather forecasts, remote sensing, scientific"
+  },
+  {
+    "start": 210.55609043139347,
+    "end": 213.5575171965804,
+    "text": "networks, public health, stored food, water treatment,"
+  },
+  {
+    "start": 213.5575171965804,
+    "end": 216.06670997227667,
+    "text": "and machinery capable of moving enormous quantities"
+  },
+  {
+    "start": 216.06670997227667,
+    "end": 219.33226229280007,
+    "text": "of material. We can generate electricity without burning"
+  },
+  {
+    "start": 219.33226229280007,
+    "end": 222.9219687039636,
+    "text": "a campfire, preserve seeds, and grow some crops indoors."
+  },
+  {
+    "start": 222.9219687039636,
+    "end": 225.21505875256645,
+    "text": "These are genuine advantages."
+  },
+  {
+    "start": 225.21505875256645,
+    "end": 227.83230289180943,
+    "text": "Each advantage also has a supply chain."
+  },
+  {
+    "start": 227.83230289180943,
+    "end": 231.28994652530477,
+    "text": "A generator needs fuel or another energy source."
+  },
+  {
+    "start": 231.73415768655244,
+    "end": 234.97569859295433,
+    "text": "A hospital needs staff, clean water, medicines, spare"
+  },
+  {
+    "start": 234.97569859295433,
+    "end": 236.54844621791227,
+    "text": "parts, and sanitation."
+  },
+  {
+    "start": 236.54844621791227,
+    "end": 239.39379879130948,
+    "text": "A greenhouse needs more than a transparent roof."
+  },
+  {
+    "start": 239.39379879130948,
+    "end": 242.4672597988609,
+    "text": "Its plants still require suitable temperatures, nutrients,"
+  },
+  {
+    "start": 242.4672597988609,
+    "end": 243.8479161108469,
+    "text": "water, and light."
+  },
+  {
+    "start": 243.8479161108469,
+    "end": 246.8733542901553,
+    "text": "Global trade can share resources between regions, but"
+  },
+  {
+    "start": 246.8733542901553,
+    "end": 249.85076964122075,
+    "text": "it cannot import food from a planet that has stopped producing"
+  },
+  {
+    "start": 249.85076964122075,
+    "end": 253.5125102947488,
+    "text": "enough of it. The test is therefore a chain of dependencies."
+  },
+  {
+    "start": 253.5125102947488,
+    "end": 255.98568594926283,
+    "text": "Can the power system keep water moving?"
+  },
+  {
+    "start": 255.98568594926283,
+    "end": 258.3988330684731,
+    "text": "Can transport keep farms supplied?"
+  },
+  {
+    "start": 258.7950214014778,
+    "end": 261.7004025101788,
+    "text": "Can governments distribute scarce food without turning"
+  },
+  {
+    "start": 261.7004025101788,
+    "end": 264.7378463965479,
+    "text": "a shared emergency into competing blockades?"
+  },
+  {
+    "start": 264.7378463965479,
+    "end": 266.77881659687506,
+    "text": "Technology buys options."
+  },
+  {
+    "start": 266.77881659687506,
+    "end": 269.8882947256087,
+    "text": "Maintaining those options through years of disruption"
+  },
+  {
+    "start": 269.8882947256087,
+    "end": 273.50201255089377,
+    "text": "requires preparation that reaches far beyond a warehouse"
+  },
+  {
+    "start": 273.50201255089377,
+    "end": 274.7866232063938,
+    "text": "full of equipment."
+  },
+  {
+    "start": 275.77109118537504,
+    "end": 278.50839239522554,
+    "text": "Our first stop is around four hundred forty-three million"
+  },
+  {
+    "start": 278.50839239522554,
+    "end": 281.5938591098377,
+    "text": "years ago, near the end of the Ordovician Period."
+  },
+  {
+    "start": 281.5938591098377,
+    "end": 284.35517173380964,
+    "text": "Much of the animal life visible in the fossil record lived"
+  },
+  {
+    "start": 284.35517173380964,
+    "end": 287.7287754178798,
+    "text": "in the sea. An interval of major glaciation and falling"
+  },
+  {
+    "start": 287.7287754178798,
+    "end": 290.8742706677957,
+    "text": "sea level transformed shallow marine habitats."
+  },
+  {
+    "start": 290.8742706677957,
+    "end": 294.0437773318331,
+    "text": "Subsequent changes, including warming and disturbances"
+  },
+  {
+    "start": 294.0437773318331,
+    "end": 297.237295409992,
+    "text": "to ocean conditions, contributed to a crisis with more"
+  },
+  {
+    "start": 297.237295409992,
+    "end": 300.7789789929126,
+    "text": "than one phase. Researchers continue to investigate the"
+  },
+  {
+    "start": 300.7789789929126,
+    "end": 304.8249022723845,
+    "text": "causes, timing, and relative importance of these processes."
+  },
+  {
+    "start": 305.3771647971789,
+    "end": 307.9703975223004,
+    "text": "For a modern thought experiment, the important lesson"
+  },
+  {
+    "start": 307.9703975223004,
+    "end": 310.9598185804266,
+    "text": "is that cooling can destroy living space even when the"
+  },
+  {
+    "start": 310.9598185804266,
+    "end": 314.22537090095,
+    "text": "planet does not become one solid ball of ice."
+  },
+  {
+    "start": 314.22537090095,
+    "end": 317.3228433226229,
+    "text": "A falling ocean exposes continental shelves."
+  },
+  {
+    "start": 317.3228433226229,
+    "end": 318.87157953345934,
+    "text": "Coastlines shift."
+  },
+  {
+    "start": 318.87157953345934,
+    "end": 321.93303483395005,
+    "text": "Water moves into ice, and the locations of productive"
+  },
+  {
+    "start": 321.93303483395005,
+    "end": 323.6138338224547,
+    "text": "environments change."
+  },
+  {
+    "start": 323.6138338224547,
+    "end": 327.263568768922,
+    "text": "The animals adapted to a shallow tropical sea cannot simply"
+  },
+  {
+    "start": 327.263568768922,
+    "end": 329.928835736408,
+    "text": "pack a suitcase and follow the shoreline."
+  },
+  {
+    "start": 330.34903548353424,
+    "end": 333.6145878040576,
+    "text": "Human societies have more mobility, but they have also"
+  },
+  {
+    "start": 333.6145878040576,
+    "end": 337.80457956825853,
+    "text": "invested in fixed cities, ports, farms, and borders."
+  },
+  {
+    "start": 337.80457956825853,
+    "end": 341.3702745653006,
+    "text": "Our first modern test begins with a simple question: how"
+  },
+  {
+    "start": 341.3702745653006,
+    "end": 344.39571274460906,
+    "text": "much of a civilization can move when its familiar climate"
+  },
+  {
+    "start": 344.39571274460906,
+    "end": 345.28413506710433,
+    "text": "moves?"
+  },
+  {
+    "start": 346.3166258743286,
+    "end": 349.6061896089735,
+    "text": "Imagine severe cooling pushing reliable growing seasons"
+  },
+  {
+    "start": 349.6061896089735,
+    "end": 352.61962208122117,
+    "text": "away from important agricultural regions."
+  },
+  {
+    "start": 352.61962208122117,
+    "end": 355.7291002099549,
+    "text": "This is a hypothetical replay of an ancient pressure,"
+  },
+  {
+    "start": 355.7291002099549,
+    "end": 358.4423900056838,
+    "text": "not a prediction of the direction of today's human-caused"
+  },
+  {
+    "start": 358.4423900056838,
+    "end": 362.02009070978664,
+    "text": "climate change. Existing crop varieties may no longer"
+  },
+  {
+    "start": 362.02009070978664,
+    "end": 363.8329524759596,
+    "text": "match local conditions."
+  },
+  {
+    "start": 363.8329524759596,
+    "end": 367.69879014952033,
+    "text": "Frost timing, rainfall, and the length of summer matter"
+  },
+  {
+    "start": 367.69879014952033,
+    "end": 369.9078402486979,
+    "text": "as much as the average temperature."
+  },
+  {
+    "start": 370.35205140994555,
+    "end": 372.7291814079736,
+    "text": "Some places could become more suitable for particular"
+  },
+  {
+    "start": 372.7291814079736,
+    "end": 375.6345625166745,
+    "text": "crops, but newly favorable weather does not instantly"
+  },
+  {
+    "start": 375.6345625166745,
+    "end": 379.3563317055063,
+    "text": "create deep soil, roads, equipment, skilled workers, and"
+  },
+  {
+    "start": 379.3563317055063,
+    "end": 380.89306220928205,
+    "text": "political access."
+  },
+  {
+    "start": 380.89306220928205,
+    "end": 383.57033488382876,
+    "text": "You cannot relocate a national harvest by moving a marker"
+  },
+  {
+    "start": 383.57033488382876,
+    "end": 387.85637230451573,
+    "text": "on a map. If change unfolds over many generations, research,"
+  },
+  {
+    "start": 387.85637230451573,
+    "end": 390.97785614031017,
+    "text": "crop breeding, infrastructure, and migration have time"
+  },
+  {
+    "start": 390.97785614031017,
+    "end": 394.89171664211386,
+    "text": "to work. If the same severe conditions arrive much faster,"
+  },
+  {
+    "start": 394.89171664211386,
+    "end": 398.38537739679145,
+    "text": "adaptation becomes a race against harvest failures."
+  },
+  {
+    "start": 398.8055771439177,
+    "end": 402.6594091104177,
+    "text": "Indoor agriculture can protect valuable foods, but staple"
+  },
+  {
+    "start": 402.6594091104177,
+    "end": 406.2491155215813,
+    "text": "calories for enormous populations require an accounting"
+  },
+  {
+    "start": 406.2491155215813,
+    "end": 408.0619772877542,
+    "text": "of energy and scale."
+  },
+  {
+    "start": 408.0619772877542,
+    "end": 411.33953531533825,
+    "text": "The survival problem is not merely staying warm."
+  },
+  {
+    "start": 411.33953531533825,
+    "end": 414.7491561205906,
+    "text": "It is replacing enough food production before stored supplies"
+  },
+  {
+    "start": 414.7491561205906,
+    "end": 417.34238884571215,
+    "text": "become a bridge with no destination."
+  },
+  {
+    "start": 418.32685682469344,
+    "end": 419.59946177313265,
+    "text": "We could move people."
+  },
+  {
+    "start": 419.59946177313265,
+    "end": 423.105128234871,
+    "text": "We could also redesign transport routes, expand cultivation"
+  },
+  {
+    "start": 423.105128234871,
+    "end": 426.5387604542449,
+    "text": "where conditions permit, and protect critical infrastructure."
+  },
+  {
+    "start": 426.5387604542449,
+    "end": 430.2845410571981,
+    "text": "Satellites would help track ice, vegetation, and weather."
+  },
+  {
+    "start": 430.2845410571981,
+    "end": 433.5380876706608,
+    "text": "Seed collections and agricultural research could preserve"
+  },
+  {
+    "start": 433.5380876706608,
+    "end": 436.5275087287869,
+    "text": "options that a single local crop failure would otherwise"
+  },
+  {
+    "start": 436.5275087287869,
+    "end": 439.66099827164214,
+    "text": "remove. But the social bottleneck might be sharper than"
+  },
+  {
+    "start": 439.66099827164214,
+    "end": 441.22174018953933,
+    "text": "the technological one."
+  },
+  {
+    "start": 441.22174018953933,
+    "end": 444.15113271236174,
+    "text": "A route on a map can cross a closed border."
+  },
+  {
+    "start": 444.57133245948796,
+    "end": 447.6447934670394,
+    "text": "A potential growing region can already belong to a community"
+  },
+  {
+    "start": 447.6447934670394,
+    "end": 449.1214954355113,
+    "text": "with its own needs."
+  },
+  {
+    "start": 449.1214954355113,
+    "end": 453.09538447261883,
+    "text": "Cold and crop failure do not automatically produce cooperation,"
+  },
+  {
+    "start": 453.09538447261883,
+    "end": 455.68861719774037,
+    "text": "and vulnerable people may have the least ability to"
+  },
+  {
+    "start": 455.68861719774037,
+    "end": 459.31434073008614,
+    "text": "relocate. Falling sea level would also strand some port"
+  },
+  {
+    "start": 459.31434073008614,
+    "end": 462.35178461645535,
+    "text": "facilities relative to the coast, while changing water"
+  },
+  {
+    "start": 462.35178461645535,
+    "end": 465.98951385586184,
+    "text": "systems and ice could disrupt navigation in other ways."
+  },
+  {
+    "start": 465.98951385586184,
+    "end": 468.82286072219836,
+    "text": "There would be regional differences rather than one"
+  },
+  {
+    "start": 468.82286072219836,
+    "end": 471.0679279425582,
+    "text": "uniform global experience."
+  },
+  {
+    "start": 471.48812768968435,
+    "end": 474.87373708081515,
+    "text": "A credible response would plan settlement, public health,"
+  },
+  {
+    "start": 474.87373708081515,
+    "end": 476.87869015996,
+    "text": "water, and food together."
+  },
+  {
+    "start": 476.87869015996,
+    "end": 480.2522938440302,
+    "text": "Moving people into an unprepared refuge can transfer the"
+  },
+  {
+    "start": 480.2522938440302,
+    "end": 482.48535535732924,
+    "text": "emergency without solving it."
+  },
+  {
+    "start": 482.48535535732924,
+    "end": 485.8709647484601,
+    "text": "Survival would depend on making new livelihoods possible,"
+  },
+  {
+    "start": 485.8709647484601,
+    "end": 488.63227737243204,
+    "text": "not simply moving bodies out of the cold."
+  },
+  {
+    "start": 489.64075676553495,
+    "end": 493.31450312612367,
+    "text": "Would an Ordovician-style crisis automatically erase humanity?"
+  },
+  {
+    "start": 493.31450312612367,
+    "end": 496.3519470124929,
+    "text": "The evidence does not justify that conclusion."
+  },
+  {
+    "start": 496.3519470124929,
+    "end": 499.43741372710497,
+    "text": "Modern people occupy many environments, and protected"
+  },
+  {
+    "start": 499.43741372710497,
+    "end": 503.27923998654427,
+    "text": "populations could plausibly survive severe regional cooling."
+  },
+  {
+    "start": 503.27923998654427,
+    "end": 506.12459255994156,
+    "text": "Maintaining the present global standard of living is"
+  },
+  {
+    "start": 506.12459255994156,
+    "end": 508.0214942755396,
+    "text": "a much tougher proposition."
+  },
+  {
+    "start": 508.0214942755396,
+    "end": 511.0349267477873,
+    "text": "The outcome depends on how much productive land remains"
+  },
+  {
+    "start": 511.0349267477873,
+    "end": 514.4445475530397,
+    "text": "accessible, how quickly conditions change, and whether"
+  },
+  {
+    "start": 514.4445475530397,
+    "end": 517.1338259346472,
+    "text": "institutions preserve exchange instead of shutting it"
+  },
+  {
+    "start": 517.1338259346472,
+    "end": 518.0102425500818,
+    "text": "down."
+  },
+  {
+    "start": 518.4064308830865,
+    "end": 521.287800577666,
+    "text": "With substantial warning, crop adaptation and planned"
+  },
+  {
+    "start": 521.287800577666,
+    "end": 524.2652159287313,
+    "text": "relocation offer real possibilities."
+  },
+  {
+    "start": 524.2652159287313,
+    "end": 527.6028024916192,
+    "text": "With rapid, synchronized failures and conflict over remaining"
+  },
+  {
+    "start": 527.6028024916192,
+    "end": 531.2885545592687,
+    "text": "resources, mortality and displacement could become catastrophic"
+  },
+  {
+    "start": 531.2885545592687,
+    "end": 534.8542495563108,
+    "text": "even without every region becoming physically uninhabitable."
+  },
+  {
+    "start": 534.8542495563108,
+    "end": 538.0597733415304,
+    "text": "Notice what this verdict does not contain: a precise"
+  },
+  {
+    "start": 538.0597733415304,
+    "end": 541.2893085408716,
+    "text": "survival percentage or a promise that technology will"
+  },
+  {
+    "start": 541.2893085408716,
+    "end": 542.7059819740398,
+    "text": "solve the problem."
+  },
+  {
+    "start": 542.7059819740398,
+    "end": 545.8514772239557,
+    "text": "We have identified useful tools and the conditions under"
+  },
+  {
+    "start": 545.8514772239557,
+    "end": 547.2081221218202,
+    "text": "which they might help."
+  },
+  {
+    "start": 547.6283218689464,
+    "end": 550.9178856035912,
+    "text": "The first test teaches that habitability is geographic"
+  },
+  {
+    "start": 550.9178856035912,
+    "end": 553.5711468640166,
+    "text": "and political as well as biological."
+  },
+  {
+    "start": 553.5711468640166,
+    "end": 556.8366991845398,
+    "text": "A place can be capable of supporting life while remaining"
+  },
+  {
+    "start": 556.8366991845398,
+    "end": 559.2138291825679,
+    "text": "unreachable to the people who need it."
+  },
+  {
+    "start": 559.2138291825679,
+    "end": 562.8275470078529,
+    "text": "The next test makes the geography harder to escape, because"
+  },
+  {
+    "start": 562.8275470078529,
+    "end": 565.7089167024324,
+    "text": "the damage begins under the surface of the sea."
+  },
+  {
+    "start": 566.7173960955353,
+    "end": 569.9469312948763,
+    "text": "The Late Devonian crisis unfolded in several episodes"
+  },
+  {
+    "start": 569.9469312948763,
+    "end": 572.155981394054,
+    "text": "rather than one clean afternoon."
+  },
+  {
+    "start": 572.155981394054,
+    "end": 574.8452597756615,
+    "text": "Major losses occurred during intervals around three hundred"
+  },
+  {
+    "start": 574.8452597756615,
+    "end": 577.7506408843624,
+    "text": "seventy-two million years ago and later near the end of"
+  },
+  {
+    "start": 577.7506408843624,
+    "end": 580.7160505283671,
+    "text": "the period, around three hundred fifty-nine million years"
+  },
+  {
+    "start": 580.7160505283671,
+    "end": 584.1616884548017,
+    "text": "ago. Oxygen-poor marine conditions are an important part"
+  },
+  {
+    "start": 584.1616884548017,
+    "end": 588.3276688048811,
+    "text": "of the evidence, alongside changes in climate and ecosystems."
+  },
+  {
+    "start": 588.3276688048811,
+    "end": 591.6772610748297,
+    "text": "Explanations involve interacting processes, and there"
+  },
+  {
+    "start": 591.6772610748297,
+    "end": 595.4830702130868,
+    "text": "is no single universally settled cause for every pulse."
+  },
+  {
+    "start": 596.0593441520026,
+    "end": 598.5205140994559,
+    "text": "The spread of land plants and changes in weathering and"
+  },
+  {
+    "start": 598.5205140994559,
+    "end": 602.470391722442,
+    "text": "nutrient delivery are among the ideas investigated, together"
+  },
+  {
+    "start": 602.470391722442,
+    "end": 605.65190409354,
+    "text": "with other environmental and geological drivers."
+  },
+  {
+    "start": 605.65190409354,
+    "end": 608.6773422728485,
+    "text": "The lesson is not that trees are inherently a planetary"
+  },
+  {
+    "start": 608.6773422728485,
+    "end": 611.9188831792503,
+    "text": "threat. It is that changes on land can alter what reaches"
+  },
+  {
+    "start": 611.9188831792503,
+    "end": 614.7042072173439,
+    "text": "the ocean and how marine systems function."
+  },
+  {
+    "start": 614.7042072173439,
+    "end": 618.365947870872,
+    "text": "Imagine the modern ocean losing oxygen across expanding"
+  },
+  {
+    "start": 618.365947870872,
+    "end": 621.6555116055167,
+    "text": "regions while important food webs reorganize."
+  },
+  {
+    "start": 621.6555116055167,
+    "end": 623.6364532705402,
+    "text": "Fish that can move may leave."
+  },
+  {
+    "start": 624.0806644317879,
+    "end": 627.3342110452505,
+    "text": "Animals attached to the seafloor have fewer choices."
+  },
+  {
+    "start": 627.3342110452505,
+    "end": 630.4917120022271,
+    "text": "A reef can lose the living structure that provides habitat"
+  },
+  {
+    "start": 630.4917120022271,
+    "end": 632.2085281119141,
+    "text": "for many other species."
+  },
+  {
+    "start": 632.2085281119141,
+    "end": 635.7021888665917,
+    "text": "The crisis travels through ecological relationships, not"
+  },
+  {
+    "start": 635.7021888665917,
+    "end": 637.9112389657693,
+    "text": "just through a map of dead fish."
+  },
+  {
+    "start": 638.919718358872,
+    "end": 640.8286257815308,
+    "text": "Here is a crucial distinction."
+  },
+  {
+    "start": 640.8286257815308,
+    "end": 643.7340068902317,
+    "text": "Oxygen loss in seawater does not mean that people on the"
+  },
+  {
+    "start": 643.7340068902317,
+    "end": 646.9275249683907,
+    "text": "coast instantly lose the oxygen in the atmosphere."
+  },
+  {
+    "start": 646.9275249683907,
+    "end": 649.6648261782412,
+    "text": "Dissolved oxygen and the atmosphere are connected over"
+  },
+  {
+    "start": 649.6648261782412,
+    "end": 652.4381445092739,
+    "text": "time, but they are different reservoirs with different"
+  },
+  {
+    "start": 652.4381445092739,
+    "end": 656.4240392534422,
+    "text": "dynamics. The immediate modern human danger is the disruption"
+  },
+  {
+    "start": 656.4240392534422,
+    "end": 660.5299910682179,
+    "text": "of marine ecosystems, livelihoods, and food supplies,"
+  },
+  {
+    "start": 660.5299910682179,
+    "end": 663.5914463687086,
+    "text": "with impacts that vary by region and by dependence on"
+  },
+  {
+    "start": 663.5914463687086,
+    "end": 664.5278915194469,
+    "text": "the sea."
+  },
+  {
+    "start": 664.996114094816,
+    "end": 668.4177406071292,
+    "text": "Warmer water generally holds less dissolved oxygen, and"
+  },
+  {
+    "start": 668.4177406071292,
+    "end": 672.2955839877507,
+    "text": "changes in mixing and biological activity can worsen oxygen"
+  },
+  {
+    "start": 672.2955839877507,
+    "end": 676.5456042872553,
+    "text": "stress. Excess nutrients can stimulate growth whose decomposition"
+  },
+  {
+    "start": 676.5456042872553,
+    "end": 678.1663747404563,
+    "text": "consumes oxygen."
+  },
+  {
+    "start": 678.1663747404563,
+    "end": 681.5399784245265,
+    "text": "These processes already matter in some modern waters,"
+  },
+  {
+    "start": 681.5399784245265,
+    "end": 684.9255878156572,
+    "text": "but a local dead zone is not itself a repeat of the entire"
+  },
+  {
+    "start": 684.9255878156572,
+    "end": 686.6904267535872,
+    "text": "Devonian extinction."
+  },
+  {
+    "start": 686.6904267535872,
+    "end": 689.3556937210732,
+    "text": "Scale and duration change the stakes."
+  },
+  {
+    "start": 689.7758934681993,
+    "end": 692.8013316475078,
+    "text": "If severe oxygen stress spreads across productive marine"
+  },
+  {
+    "start": 692.8013316475078,
+    "end": 696.1749353315779,
+    "text": "regions, fishing fleets cannot keep landing the same catches"
+  },
+  {
+    "start": 696.1749353315779,
+    "end": 698.4440139660592,
+    "text": "simply by buying better boats."
+  },
+  {
+    "start": 698.4440139660592,
+    "end": 701.7695948218864,
+    "text": "Aquaculture is not automatically insulated either."
+  },
+  {
+    "start": 701.7695948218864,
+    "end": 705.5754039601434,
+    "text": "Many systems need suitable water, healthy stock, energy,"
+  },
+  {
+    "start": 705.5754039601434,
+    "end": 709.2971731489752,
+    "text": "and feed. A damaged ocean would expose how much coastal"
+  },
+  {
+    "start": 709.2971731489752,
+    "end": 712.8508624389565,
+    "text": "prosperity depends on living systems rather than hardware."
+  },
+  {
+    "start": 714.0034103167882,
+    "end": 717.292974051433,
+    "text": "Our response would begin with monitoring, reducing avoidable"
+  },
+  {
+    "start": 717.292974051433,
+    "end": 720.9667204120219,
+    "text": "pollution and nutrient stress, protecting remaining habitats,"
+  },
+  {
+    "start": 720.9667204120219,
+    "end": 723.4759131877181,
+    "text": "and managing fisheries conservatively."
+  },
+  {
+    "start": 723.4759131877181,
+    "end": 726.381294296419,
+    "text": "Those actions can improve resilience where human choices"
+  },
+  {
+    "start": 726.381294296419,
+    "end": 727.9300305072555,
+    "text": "influence the drivers."
+  },
+  {
+    "start": 727.9300305072555,
+    "end": 731.3396513125078,
+    "text": "They cannot manufacture a healthy global ocean on command"
+  },
+  {
+    "start": 731.3396513125078,
+    "end": 734.2930552494519,
+    "text": "once enormous physical changes are underway."
+  },
+  {
+    "start": 734.2930552494519,
+    "end": 737.6306418123397,
+    "text": "Societies would need to diversify diets and livelihoods,"
+  },
+  {
+    "start": 737.6306418123397,
+    "end": 741.232353930564,
+    "text": "preserve access to terrestrial food, and support communities"
+  },
+  {
+    "start": 741.232353930564,
+    "end": 744.0056722615967,
+    "text": "whose income and nutrition come from the sea."
+  },
+  {
+    "start": 744.4018605946014,
+    "end": 747.5473558445173,
+    "text": "Pumping oxygen into a contained tank is very different"
+  },
+  {
+    "start": 747.5473558445173,
+    "end": 749.936491549606,
+    "text": "from oxygenating a vast ocean."
+  },
+  {
+    "start": 749.936491549606,
+    "end": 753.3341066477976,
+    "text": "That gap between a successful local device and a planetary"
+  },
+  {
+    "start": 753.3341066477976,
+    "end": 756.6596875036248,
+    "text": "solution appears repeatedly in this video."
+  },
+  {
+    "start": 756.6596875036248,
+    "end": 760.0092797735734,
+    "text": "Humanity could plausibly survive major marine disruption"
+  },
+  {
+    "start": 760.0092797735734,
+    "end": 763.406894871765,
+    "text": "without every person depending directly on seafood."
+  },
+  {
+    "start": 763.406894871765,
+    "end": 766.828521384078,
+    "text": "But that is no comfort to regions facing the loss of food,"
+  },
+  {
+    "start": 766.828521384078,
+    "end": 770.3101764316949,
+    "text": "employment, and coastal protection at the same time."
+  },
+  {
+    "start": 770.9344731988539,
+    "end": 774.5842081453212,
+    "text": "Land agriculture would also face additional demand just"
+  },
+  {
+    "start": 774.5842081453212,
+    "end": 777.8137433446623,
+    "text": "as other environmental changes might be stressing it."
+  },
+  {
+    "start": 777.8137433446623,
+    "end": 780.8511872310315,
+    "text": "Our second verdict is therefore conditional resilience"
+  },
+  {
+    "start": 780.8511872310315,
+    "end": 783.2763400573025,
+    "text": "with potentially profound losses."
+  },
+  {
+    "start": 783.2763400573025,
+    "end": 786.013641267153,
+    "text": "Surviving the damage would not restore the disappeared"
+  },
+  {
+    "start": 786.013641267153,
+    "end": 790.1676159101717,
+    "text": "species or automatically rebuild the ecological services"
+  },
+  {
+    "start": 790.1676159101717,
+    "end": 792.1845746963774,
+    "text": "that once made life easier."
+  },
+  {
+    "start": 793.2170655036017,
+    "end": 796.0143952487559,
+    "text": "Now we reach the end of the Permian, roughly two hundred"
+  },
+  {
+    "start": 796.0143952487559,
+    "end": 797.9593197925971,
+    "text": "fifty-two million years ago."
+  },
+  {
+    "start": 797.9593197925971,
+    "end": 800.7326381236298,
+    "text": "This event is often called the Great Dying, and it was"
+  },
+  {
+    "start": 800.7326381236298,
+    "end": 804.0222018582746,
+    "text": "the most severe of the Big Five in the marine fossil record."
+  },
+  {
+    "start": 804.0222018582746,
+    "end": 807.4198169564662,
+    "text": "Enormous volcanic activity associated with the Siberian"
+  },
+  {
+    "start": 807.4198169564662,
+    "end": 811.2496375088447,
+    "text": "Traps released gases and helped drive a profound environmental"
+  },
+  {
+    "start": 811.2496375088447,
+    "end": 816.1479659896298,
+    "text": "crisis. Warming, ocean oxygen loss, changes in carbon"
+  },
+  {
+    "start": 816.1479659896298,
+    "end": 818.993318563027,
+    "text": "chemistry, and other stresses interacted."
+  },
+  {
+    "start": 819.3895068960317,
+    "end": 822.8831676507092,
+    "text": "The exact sequence and contribution of particular processes"
+  },
+  {
+    "start": 822.8831676507092,
+    "end": 824.9001264369149,
+    "text": "remain subjects of research."
+  },
+  {
+    "start": 824.9001264369149,
+    "end": 828.2497187068634,
+    "text": "This was not one ordinary volcano splashing lava across"
+  },
+  {
+    "start": 828.2497187068634,
+    "end": 829.7744435035785,
+    "text": "the entire planet."
+  },
+  {
+    "start": 829.7744435035785,
+    "end": 832.9199387534943,
+    "text": "A large igneous province operates at a different scale"
+  },
+  {
+    "start": 832.9199387534943,
+    "end": 834.9128861255784,
+    "text": "and over a much longer history."
+  },
+  {
+    "start": 834.9128861255784,
+    "end": 838.0343699613728,
+    "text": "Carbon released into the atmosphere can alter environments"
+  },
+  {
+    "start": 838.0343699613728,
+    "end": 841.2278880395318,
+    "text": "far from the place where magma reaches the surface."
+  },
+  {
+    "start": 841.2278880395318,
+    "end": 844.9616629354243,
+    "text": "Recovery of ecosystems took far longer than a human emergency"
+  },
+  {
+    "start": 844.9616629354243,
+    "end": 846.9666160145692,
+    "text": "response could simply wait out."
+  },
+  {
+    "start": 847.3628043475738,
+    "end": 850.6763794963401,
+    "text": "For our modern test, the central pressure is sustained,"
+  },
+  {
+    "start": 850.6763794963401,
+    "end": 854.0860003015927,
+    "text": "widespread environmental change that attacks both land"
+  },
+  {
+    "start": 854.0860003015927,
+    "end": 858.0238722175178,
+    "text": "and sea. Cooling devices can protect a room from heat."
+  },
+  {
+    "start": 858.0238722175178,
+    "end": 860.9772761544617,
+    "text": "The harder question is whether we can keep a civilization"
+  },
+  {
+    "start": 860.9772761544617,
+    "end": 864.5429711515038,
+    "text": "supplied while the conditions outside become increasingly"
+  },
+  {
+    "start": 864.5429711515038,
+    "end": 865.5634562516674,
+    "text": "hostile."
+  },
+  {
+    "start": 866.5719356447702,
+    "end": 869.057117006345,
+    "text": "Heat becomes especially dangerous when the body cannot"
+  },
+  {
+    "start": 869.057117006345,
+    "end": 870.5098075606955,
+    "text": "shed it fast enough."
+  },
+  {
+    "start": 870.5098075606955,
+    "end": 873.4872229117609,
+    "text": "Sweating helps only when evaporation can carry heat away,"
+  },
+  {
+    "start": 873.4872229117609,
+    "end": 875.9483928592141,
+    "text": "and humidity can restrict that process."
+  },
+  {
+    "start": 875.9483928592141,
+    "end": 879.8982704822002,
+    "text": "Health, age, exertion, shade, air movement, and access"
+  },
+  {
+    "start": 879.8982704822002,
+    "end": 881.8431950260413,
+    "text": "to cooling all affect risk."
+  },
+  {
+    "start": 881.8431950260413,
+    "end": 884.4004106299806,
+    "text": "There is no single convenient temperature that divides"
+  },
+  {
+    "start": 884.4004106299806,
+    "end": 886.7655349209479,
+    "text": "every person into safe and dead."
+  },
+  {
+    "start": 886.7655349209479,
+    "end": 890.5353269380226,
+    "text": "Laboratory limits and real-world exposure are not interchangeable,"
+  },
+  {
+    "start": 890.5353269380226,
+    "end": 893.3806795114199,
+    "text": "and dangerous conditions can occur below simplified"
+  },
+  {
+    "start": 893.3806795114199,
+    "end": 895.4696725399899,
+    "text": "thresholds repeated online."
+  },
+  {
+    "start": 895.9138837012376,
+    "end": 898.939321880546,
+    "text": "In a severe warming scenario, the first major failure"
+  },
+  {
+    "start": 898.939321880546,
+    "end": 900.6681436972938,
+    "text": "might be outdoor labor."
+  },
+  {
+    "start": 900.6681436972938,
+    "end": 904.221832987275,
+    "text": "Farming, construction, repairs, and transport do not all"
+  },
+  {
+    "start": 904.221832987275,
+    "end": 906.7910542982751,
+    "text": "happen inside climate-controlled buildings."
+  },
+  {
+    "start": 906.7910542982751,
+    "end": 910.1046294470414,
+    "text": "If workers cannot perform essential tasks safely, heat"
+  },
+  {
+    "start": 910.1046294470414,
+    "end": 913.2021018687143,
+    "text": "can reduce the capacity to maintain the very systems that"
+  },
+  {
+    "start": 913.2021018687143,
+    "end": 914.690809544247,
+    "text": "provide protection."
+  },
+  {
+    "start": 914.690809544247,
+    "end": 917.0079110069713,
+    "text": "Nighttime relief also matters."
+  },
+  {
+    "start": 917.0079110069713,
+    "end": 920.1053834286442,
+    "text": "A dangerous afternoon followed by another dangerously"
+  },
+  {
+    "start": 920.1053834286442,
+    "end": 922.3384449419434,
+    "text": "warm night can compound stress."
+  },
+  {
+    "start": 922.782656103191,
+    "end": 925.6640257977705,
+    "text": "Some regions could remain substantially more habitable"
+  },
+  {
+    "start": 925.6640257977705,
+    "end": 929.3857949866023,
+    "text": "than others, making geography and access central again."
+  },
+  {
+    "start": 929.3857949866023,
+    "end": 932.6153301859433,
+    "text": "The human body is flexible, but it is not independent"
+  },
+  {
+    "start": 932.6153301859433,
+    "end": 933.9839807908687,
+    "text": "of its surroundings."
+  },
+  {
+    "start": 933.9839807908687,
+    "end": 937.4776415455462,
+    "text": "Technology protects people only where cooling, water,"
+  },
+  {
+    "start": 937.4776415455462,
+    "end": 940.0948856847892,
+    "text": "shelter, and care actually reach them."
+  },
+  {
+    "start": 941.1273764920136,
+    "end": 944.2608660348687,
+    "text": "Imagine a city during an extreme heat emergency."
+  },
+  {
+    "start": 944.2608660348687,
+    "end": 947.7305153754248,
+    "text": "Air conditioning demand rises while power equipment, water"
+  },
+  {
+    "start": 947.7305153754248,
+    "end": 950.719936433551,
+    "text": "supplies, and the people maintaining them face additional"
+  },
+  {
+    "start": 950.719936433551,
+    "end": 954.9099281977519,
+    "text": "strain. A failure in one system can cascade into the next."
+  },
+  {
+    "start": 954.9099281977519,
+    "end": 958.2235033465183,
+    "text": "Without electricity, water pumping and refrigeration"
+  },
+  {
+    "start": 958.2235033465183,
+    "end": 962.2214037977473,
+    "text": "may suffer. Without reliable water, some forms of power"
+  },
+  {
+    "start": 962.2214037977473,
+    "end": 965.4629447041492,
+    "text": "generation and industrial cooling become harder."
+  },
+  {
+    "start": 965.9311672795183,
+    "end": 968.6924799034903,
+    "text": "Nuclear power can provide large amounts of low-carbon"
+  },
+  {
+    "start": 968.6924799034903,
+    "end": 972.0900950016819,
+    "text": "electricity, but a plant is not a box that produces power"
+  },
+  {
+    "start": 972.0900950016819,
+    "end": 976.0399726246678,
+    "text": "forever without staff, cooling, maintenance, or a supporting"
+  },
+  {
+    "start": 976.0399726246678,
+    "end": 977.5887088355043,
+    "text": "industrial system."
+  },
+  {
+    "start": 977.5887088355043,
+    "end": 980.4460671159624,
+    "text": "Other energy sources have their own operating limits and"
+  },
+  {
+    "start": 980.4460671159624,
+    "end": 984.3959447389482,
+    "text": "advantages. A diverse, resilient grid is more useful than"
+  },
+  {
+    "start": 984.3959447389482,
+    "end": 987.1212402417381,
+    "text": "a single imagined miracle technology."
+  },
+  {
+    "start": 987.1212402417381,
+    "end": 990.5788838752333,
+    "text": "Backup generators can bridge outages where fuel and maintenance"
+  },
+  {
+    "start": 990.5788838752333,
+    "end": 993.784407660453,
+    "text": "are available. They cannot replace an entire national"
+  },
+  {
+    "start": 993.784407660453,
+    "end": 995.7413379113548,
+    "text": "infrastructure indefinitely."
+  },
+  {
+    "start": 996.1615376584809,
+    "end": 998.7307589694811,
+    "text": "The same applies to a personal shelter."
+  },
+  {
+    "start": 998.7307589694811,
+    "end": 1001.4440487652099,
+    "text": "Its temperature may be comfortable while its owner still"
+  },
+  {
+    "start": 1001.4440487652099,
+    "end": 1005.6460462364716,
+    "text": "needs replacement filters, medicine, sanitation, and food"
+  },
+  {
+    "start": 1005.6460462364716,
+    "end": 1009.4758667888503,
+    "text": "from outside. The relevant survival unit is larger than"
+  },
+  {
+    "start": 1009.4758667888503,
+    "end": 1012.4772935540373,
+    "text": "one building. It includes the network that keeps that"
+  },
+  {
+    "start": 1012.4772935540373,
+    "end": 1014.4582352190606,
+    "text": "building worth sheltering in."
+  },
+  {
+    "start": 1015.4667146121634,
+    "end": 1018.3120671855607,
+    "text": "The most difficult Permian-style problem is the combination"
+  },
+  {
+    "start": 1018.3120671855607,
+    "end": 1021.9497964249672,
+    "text": "of stresses. Ocean food webs may be damaged while heat"
+  },
+  {
+    "start": 1021.9497964249672,
+    "end": 1025.059274553701,
+    "text": "and water changes challenge agriculture on land."
+  },
+  {
+    "start": 1025.059274553701,
+    "end": 1028.0727070259486,
+    "text": "Moving north or uphill can help particular communities"
+  },
+  {
+    "start": 1028.0727070259486,
+    "end": 1031.1701794476216,
+    "text": "only if those destinations have usable resources and can"
+  },
+  {
+    "start": 1031.1701794476216,
+    "end": 1033.0670811632197,
+    "text": "support additional people."
+  },
+  {
+    "start": 1033.0670811632197,
+    "end": 1036.7888503520514,
+    "text": "Growing plants indoors provides control, but its energy,"
+  },
+  {
+    "start": 1036.7888503520514,
+    "end": 1039.8382999454814,
+    "text": "construction, nutrient, and water requirements must"
+  },
+  {
+    "start": 1039.8382999454814,
+    "end": 1040.954830702131,
+    "text": "be counted."
+  },
+  {
+    "start": 1041.3510190351356,
+    "end": 1044.2083773155935,
+    "text": "Cooling a crop in an increasingly hot environment can"
+  },
+  {
+    "start": 1044.2083773155935,
+    "end": 1047.2098040807803,
+    "text": "become an additional burden rather than a free escape."
+  },
+  {
+    "start": 1047.2098040807803,
+    "end": 1051.0156132190375,
+    "text": "Meanwhile, ecological recovery would not arrive conveniently"
+  },
+  {
+    "start": 1051.0156132190375,
+    "end": 1052.7324293287243,
+    "text": "after one election cycle."
+  },
+  {
+    "start": 1052.7324293287243,
+    "end": 1056.1420501339767,
+    "text": "Could some connected human populations survive in protected,"
+  },
+  {
+    "start": 1056.1420501339767,
+    "end": 1057.882877657785,
+    "text": "better-supplied regions?"
+  },
+  {
+    "start": 1057.882877657785,
+    "end": 1060.3920704334814,
+    "text": "That is plausible under some scenarios."
+  },
+  {
+    "start": 1060.3920704334814,
+    "end": 1063.033325986846,
+    "text": "Can we demonstrate that billions of people would retain"
+  },
+  {
+    "start": 1063.033325986846,
+    "end": 1066.4429467920984,
+    "text": "today's food security through a full, severe ancient-scale"
+  },
+  {
+    "start": 1066.4429467920984,
+    "end": 1068.3518542147572,
+    "text": "crisis? No."
+  },
+  {
+    "start": 1068.748042547762,
+    "end": 1071.785486434131,
+    "text": "Can we demonstrate that every last human would necessarily"
+  },
+  {
+    "start": 1071.785486434131,
+    "end": 1074.5708104722246,
+    "text": "die? We cannot establish that either."
+  },
+  {
+    "start": 1074.5708104722246,
+    "end": 1078.160516883388,
+    "text": "The third test gives our sharpest warning about civilization:"
+  },
+  {
+    "start": 1078.160516883388,
+    "end": 1081.834263243977,
+    "text": "heat protection without durable food, water, energy,"
+  },
+  {
+    "start": 1081.834263243977,
+    "end": 1084.3794731408552,
+    "text": "and cooperation is incomplete."
+  },
+  {
+    "start": 1084.3794731408552,
+    "end": 1087.3808999060423,
+    "text": "Survival would depend on keeping several lifelines working"
+  },
+  {
+    "start": 1087.3808999060423,
+    "end": 1090.490378034776,
+    "text": "together, through a disruption that might greatly outlast"
+  },
+  {
+    "start": 1090.490378034776,
+    "end": 1092.7354452551358,
+    "text": "the systems we initially built."
+  },
+  {
+    "start": 1093.7679360623601,
+    "end": 1096.769362827547,
+    "text": "Around two hundred one million years ago, another major"
+  },
+  {
+    "start": 1096.769362827547,
+    "end": 1099.338584138547,
+    "text": "crisis struck near the end of the Triassic."
+  },
+  {
+    "start": 1099.338584138547,
+    "end": 1102.7962277720426,
+    "text": "Vast volcanic activity associated with the Central Atlantic"
+  },
+  {
+    "start": 1102.7962277720426,
+    "end": 1106.1098029208088,
+    "text": "Magmatic Province accompanied the breakup of the supercontinent"
+  },
+  {
+    "start": 1106.1098029208088,
+    "end": 1110.2397661497062,
+    "text": "Pangaea. Carbon and sulfur emissions drove different stresses."
+  },
+  {
+    "start": 1110.2397661497062,
+    "end": 1114.3457179644818,
+    "text": "Researchers investigate greenhouse warming, ocean disruption,"
+  },
+  {
+    "start": 1114.3457179644818,
+    "end": 1117.4071732649722,
+    "text": "and potentially cooling pulses from aerosols."
+  },
+  {
+    "start": 1117.4071732649722,
+    "end": 1120.5886856360705,
+    "text": "The sequence and regional impacts remain active research"
+  },
+  {
+    "start": 1120.5886856360705,
+    "end": 1121.609170736234,
+    "text": "questions."
+  },
+  {
+    "start": 1122.0293704833603,
+    "end": 1124.526557551996,
+    "text": "The survivors entered a world in which dinosaurs would"
+  },
+  {
+    "start": 1124.526557551996,
+    "end": 1127.8881555290052,
+    "text": "become especially prominent, but that later outcome was"
+  },
+  {
+    "start": 1127.8881555290052,
+    "end": 1130.4453711329445,
+    "text": "not a purpose built into the disaster."
+  },
+  {
+    "start": 1130.4453711329445,
+    "end": 1134.2511802712015,
+    "text": "For modern humans, this test emphasizes repeated pressure"
+  },
+  {
+    "start": 1134.2511802712015,
+    "end": 1137.0004871881126,
+    "text": "rather than one isolated explosion."
+  },
+  {
+    "start": 1137.0004871881126,
+    "end": 1140.181999559211,
+    "text": "Imagine successive environmental shocks that repeatedly"
+  },
+  {
+    "start": 1140.181999559211,
+    "end": 1141.7547471841688,
+    "text": "interrupt recovery."
+  },
+  {
+    "start": 1141.7547471841688,
+    "end": 1145.6325905647902,
+    "text": "A country rebuilds after a bad harvest, only to face another"
+  },
+  {
+    "start": 1145.6325905647902,
+    "end": 1148.9461657135566,
+    "text": "disruption before reserves and infrastructure recover."
+  },
+  {
+    "start": 1149.546451066594,
+    "end": 1152.7759862659352,
+    "text": "A city adapts to a new climate, then discovers that the"
+  },
+  {
+    "start": 1152.7759862659352,
+    "end": 1154.9009964156876,
+    "text": "new normal is moving again."
+  },
+  {
+    "start": 1154.9009964156876,
+    "end": 1157.5782690902342,
+    "text": "We should not assume that every ancient process would"
+  },
+  {
+    "start": 1157.5782690902342,
+    "end": 1159.6192392905614,
+    "text": "run at the same rate today."
+  },
+  {
+    "start": 1159.6192392905614,
+    "end": 1162.3325290862904,
+    "text": "The useful question is what happens when the response"
+  },
+  {
+    "start": 1162.3325290862904,
+    "end": 1165.730144184482,
+    "text": "time of institutions is slower than the changes accumulating"
+  },
+  {
+    "start": 1165.730144184482,
+    "end": 1166.7626349917064,
+    "text": "around them."
+  },
+  {
+    "start": 1167.771114384809,
+    "end": 1170.160250089898,
+    "text": "Engineering can reduce exposure."
+  },
+  {
+    "start": 1170.160250089898,
+    "end": 1173.5098423598465,
+    "text": "Buildings can be redesigned, water systems strengthened,"
+  },
+  {
+    "start": 1173.5098423598465,
+    "end": 1177.303645791043,
+    "text": "habitats protected, and energy supplies diversified."
+  },
+  {
+    "start": 1177.303645791043,
+    "end": 1180.7132665962952,
+    "text": "Early warning and coordinated planning can prevent avoidable"
+  },
+  {
+    "start": 1180.7132665962952,
+    "end": 1184.387012956884,
+    "text": "losses. Emissions reductions can also reduce the human"
+  },
+  {
+    "start": 1184.387012956884,
+    "end": 1186.9322228537624,
+    "text": "contribution to environmental stress."
+  },
+  {
+    "start": 1186.9322228537624,
+    "end": 1190.1977751742859,
+    "text": "But those capabilities should not be confused with a demonstrated"
+  },
+  {
+    "start": 1190.1977751742859,
+    "end": 1193.5113503230523,
+    "text": "ability to switch off a vast natural carbon release at"
+  },
+  {
+    "start": 1193.5113503230523,
+    "end": 1195.0600865338888,
+    "text": "planetary scale."
+  },
+  {
+    "start": 1195.4562748668934,
+    "end": 1198.4096788038373,
+    "text": "Carbon removal technologies face practical requirements"
+  },
+  {
+    "start": 1198.4096788038373,
+    "end": 1202.7317333457065,
+    "text": "for energy, materials, transport, storage, and deployment."
+  },
+  {
+    "start": 1202.7317333457065,
+    "end": 1205.9492628379867,
+    "text": "A promising process in a facility is not automatically"
+  },
+  {
+    "start": 1205.9492628379867,
+    "end": 1208.650546926655,
+    "text": "a solution to every geological source."
+  },
+  {
+    "start": 1208.650546926655,
+    "end": 1211.8560707118747,
+    "text": "Proposals to modify incoming sunlight raise additional"
+  },
+  {
+    "start": 1211.8560707118747,
+    "end": 1215.745919799557,
+    "text": "questions about regional effects, governance, durability,"
+  },
+  {
+    "start": 1215.745919799557,
+    "end": 1218.7233351506222,
+    "text": "and what they would leave unresolved, including ocean"
+  },
+  {
+    "start": 1218.7233351506222,
+    "end": 1222.7572527230336,
+    "text": "chemistry. This video is not prescribing an untested global"
+  },
+  {
+    "start": 1222.7572527230336,
+    "end": 1223.873783479683,
+    "text": "intervention."
+  },
+  {
+    "start": 1224.2699718126878,
+    "end": 1227.4875013049682,
+    "text": "It is asking what evidence supports the promised protection."
+  },
+  {
+    "start": 1227.4875013049682,
+    "end": 1230.3448595854263,
+    "text": "A resilient strategy would preserve several ways to"
+  },
+  {
+    "start": 1230.3448595854263,
+    "end": 1233.45433771416,
+    "text": "respond and reduce pressures we can influence, rather"
+  },
+  {
+    "start": 1233.45433771416,
+    "end": 1236.7679128629263,
+    "text": "than spend every resource on one uncertain rescue."
+  },
+  {
+    "start": 1236.7679128629263,
+    "end": 1240.4776763446973,
+    "text": "The longer the emergency lasts, the more important maintenance,"
+  },
+  {
+    "start": 1240.4776763446973,
+    "end": 1244.1274112911644,
+    "text": "training, replacements, and public trust become."
+  },
+  {
+    "start": 1244.1274112911644,
+    "end": 1247.0688095210478,
+    "text": "Civilization has to keep learning while it is also trying"
+  },
+  {
+    "start": 1247.0688095210478,
+    "end": 1248.5455114895196,
+    "text": "to keep the lights on."
+  },
+  {
+    "start": 1249.5780022967442,
+    "end": 1252.8435546172677,
+    "text": "A modern society could survive a bad year by drawing down"
+  },
+  {
+    "start": 1252.8435546172677,
+    "end": 1256.7454094120105,
+    "text": "reserves. Surviving repeated bad years requires changing"
+  },
+  {
+    "start": 1256.7454094120105,
+    "end": 1259.9749446113517,
+    "text": "the balance between what it consumes and what it can sustainably"
+  },
+  {
+    "start": 1259.9749446113517,
+    "end": 1264.1049078402489,
+    "text": "replace. Surviving a much longer environmental transition"
+  },
+  {
+    "start": 1264.1049078402489,
+    "end": 1267.4905172313797,
+    "text": "adds another problem: preserving knowledge and institutions"
+  },
+  {
+    "start": 1267.4905172313797,
+    "end": 1269.0632648563376,
+    "text": "across generations."
+  },
+  {
+    "start": 1269.0632648563376,
+    "end": 1272.4848913686508,
+    "text": "A stockpile cannot train its own replacement engineers."
+  },
+  {
+    "start": 1272.4848913686508,
+    "end": 1274.946061316104,
+    "text": "A seed bank does not plant itself."
+  },
+  {
+    "start": 1275.3902724773518,
+    "end": 1278.3916992425386,
+    "text": "An emergency government can distribute food for a time,"
+  },
+  {
+    "start": 1278.3916992425386,
+    "end": 1282.1734969666743,
+    "text": "but lasting recovery also needs workable local production"
+  },
+  {
+    "start": 1282.1734969666743,
+    "end": 1284.9588210047677,
+    "text": "and legitimate ways to settle conflict."
+  },
+  {
+    "start": 1284.9588210047677,
+    "end": 1288.4764931735667,
+    "text": "This is why a scenario lasting decades or longer cannot"
+  },
+  {
+    "start": 1288.4764931735667,
+    "end": 1291.7900683223331,
+    "text": "be evaluated only by the strength of a bunker door."
+  },
+  {
+    "start": 1291.7900683223331,
+    "end": 1294.6354208957302,
+    "text": "It tests whether people can build a continuing way of"
+  },
+  {
+    "start": 1294.6354208957302,
+    "end": 1296.8204595807865,
+    "text": "life in altered conditions."
+  },
+  {
+    "start": 1296.8204595807865,
+    "end": 1300.0259833660061,
+    "text": "Our fourth verdict resembles a stress test of adaptation"
+  },
+  {
+    "start": 1300.0259833660061,
+    "end": 1301.0464684661697,
+    "text": "itself."
+  },
+  {
+    "start": 1301.4666682132956,
+    "end": 1304.8042547761836,
+    "text": "The more widespread, rapid, and persistent the pressure,"
+  },
+  {
+    "start": 1304.8042547761836,
+    "end": 1308.8141609344734,
+    "text": "the less convincing a one-time technological fix becomes."
+  },
+  {
+    "start": 1308.8141609344734,
+    "end": 1311.7195420431744,
+    "text": "Human persistence remains different from the survival"
+  },
+  {
+    "start": 1311.7195420431744,
+    "end": 1313.6644665870153,
+    "text": "of the present global system."
+  },
+  {
+    "start": 1313.6644665870153,
+    "end": 1316.5698476957164,
+    "text": "And a temporary refuge is most useful when it connects"
+  },
+  {
+    "start": 1316.5698476957164,
+    "end": 1319.2951431985061,
+    "text": "to a future people can actually inhabit."
+  },
+  {
+    "start": 1319.2951431985061,
+    "end": 1323.0529295085203,
+    "text": "The next disaster removes much of that preparation time."
+  },
+  {
+    "start": 1324.2294888004733,
+    "end": 1327.8552123328193,
+    "text": "Sixty-six million years ago, a large asteroid struck near"
+  },
+  {
+    "start": 1327.8552123328193,
+    "end": 1330.340393694394,
+    "text": "what is now the Yucatan Peninsula."
+  },
+  {
+    "start": 1330.340393694394,
+    "end": 1333.6419631360995,
+    "text": "The Chicxulub impact is the central trigger associated"
+  },
+  {
+    "start": 1333.6419631360995,
+    "end": 1337.3157094966884,
+    "text": "with the end-Cretaceous extinction, which eliminated non-avian"
+  },
+  {
+    "start": 1337.3157094966884,
+    "end": 1339.764873737081,
+    "text": "dinosaurs and many other groups."
+  },
+  {
+    "start": 1339.764873737081,
+    "end": 1343.1985059564547,
+    "text": "Birds survived, along with lineages that would help shape"
+  },
+  {
+    "start": 1343.1985059564547,
+    "end": 1344.8432878237772,
+    "text": "the world that followed."
+  },
+  {
+    "start": 1345.2874989850247,
+    "end": 1348.3609599925762,
+    "text": "Deccan volcanism is also part of the broader environmental"
+  },
+  {
+    "start": 1348.3609599925762,
+    "end": 1351.3863981718846,
+    "text": "history researchers investigate, but it does not erase"
+  },
+  {
+    "start": 1351.3863981718846,
+    "end": 1354.4838705935576,
+    "text": "the extensive evidence for the impact's decisive role."
+  },
+  {
+    "start": 1354.4838705935576,
+    "end": 1356.9930633692538,
+    "text": "The immediate violence was enormous."
+  },
+  {
+    "start": 1356.9930633692538,
+    "end": 1359.8264102355904,
+    "text": "The lasting global problem involved material thrown into"
+  },
+  {
+    "start": 1359.8264102355904,
+    "end": 1362.9118769502024,
+    "text": "the atmosphere and changes that reduced sunlight and disrupted"
+  },
+  {
+    "start": 1362.9118769502024,
+    "end": 1366.9457945226136,
+    "text": "ecosystems. Dust, sulfur-bearing aerosols, and soot have"
+  },
+  {
+    "start": 1366.9457945226136,
+    "end": 1370.211346843137,
+    "text": "been studied through evidence and models; their amounts,"
+  },
+  {
+    "start": 1370.211346843137,
+    "end": 1373.7410247189969,
+    "text": "persistence, and relative effects carry uncertainties."
+  },
+  {
+    "start": 1374.3172986579127,
+    "end": 1377.2586968877958,
+    "text": "We will not pretend that every place on Earth experienced"
+  },
+  {
+    "start": 1377.2586968877958,
+    "end": 1379.959980976464,
+    "text": "the same blast, fire, or wave."
+  },
+  {
+    "start": 1379.959980976464,
+    "end": 1383.5977102158708,
+    "text": "Distance, geography, and the impact setting matter."
+  },
+  {
+    "start": 1383.5977102158708,
+    "end": 1387.019336728184,
+    "text": "For a modern civilization, this test has two very different"
+  },
+  {
+    "start": 1387.019336728184,
+    "end": 1390.8611629876232,
+    "text": "versions: the asteroid is detected early enough for action,"
+  },
+  {
+    "start": 1390.8611629876232,
+    "end": 1393.1902701574083,
+    "text": "or the impact has already happened."
+  },
+  {
+    "start": 1394.1747381363896,
+    "end": 1397.248199143941,
+    "text": "With sufficient warning and suitable orbital information,"
+  },
+  {
+    "start": 1397.248199143941,
+    "end": 1399.8174204549412,
+    "text": "preventing an impact could be far more effective than"
+  },
+  {
+    "start": 1399.8174204549412,
+    "end": 1401.7383335846607,
+    "text": "trying to rebuild after one."
+  },
+  {
+    "start": 1401.7383335846607,
+    "end": 1404.9558630769411,
+    "text": "We already search for near-Earth objects, and NASA's DART"
+  },
+  {
+    "start": 1404.9558630769411,
+    "end": 1407.8972613068242,
+    "text": "mission demonstrated that a spacecraft impact could change"
+  },
+  {
+    "start": 1407.8972613068242,
+    "end": 1410.5385168601888,
+    "text": "the motion of a small asteroid moonlet."
+  },
+  {
+    "start": 1410.5385168601888,
+    "end": 1413.2157895347354,
+    "text": "That was a real planetary-defense achievement."
+  },
+  {
+    "start": 1413.2157895347354,
+    "end": 1416.1091649363757,
+    "text": "It was not a demonstration that we can reliably divert"
+  },
+  {
+    "start": 1416.1091649363757,
+    "end": 1419.9149740746327,
+    "text": "every object, especially something on Chicxulub's scale"
+  },
+  {
+    "start": 1419.9149740746327,
+    "end": 1422.1600412949927,
+    "text": "or something discovered very late."
+  },
+  {
+    "start": 1422.6042524562401,
+    "end": 1426.6141586145297,
+    "text": "Object size, structure, trajectory, warning time, launch"
+  },
+  {
+    "start": 1426.6141586145297,
+    "end": 1430.0237794197822,
+    "text": "capability, and the available mission design all matter."
+  },
+  {
+    "start": 1430.0237794197822,
+    "end": 1432.9171548214224,
+    "text": "A small change applied early can produce a very different"
+  },
+  {
+    "start": 1432.9171548214224,
+    "end": 1435.6184389100906,
+    "text": "future position than the same effort applied at the last"
+  },
+  {
+    "start": 1435.6184389100906,
+    "end": 1439.3882309271653,
+    "text": "moment. That is the value of time in orbital mechanics."
+  },
+  {
+    "start": 1439.3882309271653,
+    "end": 1442.2335835005626,
+    "text": "But discovering a threat does not automatically provide"
+  },
+  {
+    "start": 1442.2335835005626,
+    "end": 1443.7463025902168,
+    "text": "a working intervention."
+  },
+  {
+    "start": 1443.7463025902168,
+    "end": 1446.7597350624646,
+    "text": "Our assessment must distinguish a demonstrated technique"
+  },
+  {
+    "start": 1446.7597350624646,
+    "end": 1450.1813615747778,
+    "text": "from an untested promise at a much larger scale."
+  },
+  {
+    "start": 1450.5775499077824,
+    "end": 1453.963159298913,
+    "text": "If prevention succeeds, an extinction-style aftermath"
+  },
+  {
+    "start": 1453.963159298913,
+    "end": 1455.9320952568758,
+    "text": "might be avoided altogether."
+  },
+  {
+    "start": 1455.9320952568758,
+    "end": 1459.1856418703383,
+    "text": "If there is no adequate warning, the same satellites that"
+  },
+  {
+    "start": 1459.1856418703383,
+    "end": 1462.7753482815021,
+    "text": "once offered an advantage may only record a disaster we"
+  },
+  {
+    "start": 1462.7753482815021,
+    "end": 1464.1439988864272,
+    "text": "failed to stop."
+  },
+  {
+    "start": 1465.1764896936515,
+    "end": 1467.205454186918,
+    "text": "Suppose prevention has failed."
+  },
+  {
+    "start": 1467.205454186918,
+    "end": 1470.6630978204134,
+    "text": "Close to a huge impact, physical destruction can overwhelm"
+  },
+  {
+    "start": 1470.6630978204134,
+    "end": 1473.1242677678667,
+    "text": "ordinary emergency preparations."
+  },
+  {
+    "start": 1473.1242677678667,
+    "end": 1476.822025542577,
+    "text": "Farther away, survival conditions would depend on location,"
+  },
+  {
+    "start": 1476.822025542577,
+    "end": 1479.8954865501285,
+    "text": "shelter, damaged infrastructure, and the particular"
+  },
+  {
+    "start": 1479.8954865501285,
+    "end": 1481.8764282151517,
+    "text": "effects reaching that region."
+  },
+  {
+    "start": 1481.8764282151517,
+    "end": 1484.8418378591564,
+    "text": "Tsunamis would threaten exposed coastlines according to"
+  },
+  {
+    "start": 1484.8418378591564,
+    "end": 1488.5275899268058,
+    "text": "basin geography; they would not form one identical wall"
+  },
+  {
+    "start": 1488.5275899268058,
+    "end": 1491.00076558132,
+    "text": "sweeping over every mountain on Earth."
+  },
+  {
+    "start": 1491.4449767425676,
+    "end": 1494.8545975478198,
+    "text": "Fires and atmospheric heating are also complex questions,"
+  },
+  {
+    "start": 1494.8545975478198,
+    "end": 1497.6759387070956,
+    "text": "with the global extent of some effects debated."
+  },
+  {
+    "start": 1497.6759387070956,
+    "end": 1500.4732684522498,
+    "text": "The useful response is to identify the kinds of systems"
+  },
+  {
+    "start": 1500.4732684522498,
+    "end": 1503.6787922374695,
+    "text": "likely to be disrupted, rather than invent one cinematic"
+  },
+  {
+    "start": 1503.6787922374695,
+    "end": 1505.4796482965817,
+    "text": "sequence for every city."
+  },
+  {
+    "start": 1505.4796482965817,
+    "end": 1509.1053718289274,
+    "text": "Communications, ports, roads, power, water treatment,"
+  },
+  {
+    "start": 1509.1053718289274,
+    "end": 1512.2028442506003,
+    "text": "and hospitals could face simultaneous problems."
+  },
+  {
+    "start": 1512.2028442506003,
+    "end": 1514.9041283392685,
+    "text": "People outside the most immediate destruction would still"
+  },
+  {
+    "start": 1514.9041283392685,
+    "end": 1519.070108689348,
+    "text": "need clean water, sanitation, medical care, and reliable"
+  },
+  {
+    "start": 1519.070108689348,
+    "end": 1520.1986451530584,
+    "text": "information."
+  },
+  {
+    "start": 1520.5708220719416,
+    "end": 1523.884397220708,
+    "text": "Protected facilities could save lives, but distribution"
+  },
+  {
+    "start": 1523.884397220708,
+    "end": 1525.7212704010024,
+    "text": "would matter enormously."
+  },
+  {
+    "start": 1525.7212704010024,
+    "end": 1528.8667656509183,
+    "text": "A shelter network that excludes most people leaves a very"
+  },
+  {
+    "start": 1528.8667656509183,
+    "end": 1532.072289436138,
+    "text": "different outcome from a coordinated public response."
+  },
+  {
+    "start": 1532.072289436138,
+    "end": 1534.9536591307174,
+    "text": "And surviving the first days would only move the question"
+  },
+  {
+    "start": 1534.9536591307174,
+    "end": 1538.399297057152,
+    "text": "forward. The deeper global emergency could develop when"
+  },
+  {
+    "start": 1538.399297057152,
+    "end": 1541.5447923070678,
+    "text": "the sunlight available to crops and natural food webs"
+  },
+  {
+    "start": 1541.5447923070678,
+    "end": 1542.493243164867,
+    "text": "falls."
+  },
+  {
+    "start": 1543.5017225579697,
+    "end": 1546.6592235149465,
+    "text": "Photosynthesis connects sunlight to much of the food supporting"
+  },
+  {
+    "start": 1546.6592235149465,
+    "end": 1550.7531696226615,
+    "text": "complex life. After a sufficiently large impact, reduced"
+  },
+  {
+    "start": 1550.7531696226615,
+    "end": 1553.3103852266006,
+    "text": "sunlight and cooling could suppress production across"
+  },
+  {
+    "start": 1553.3103852266006,
+    "end": 1556.575937547124,
+    "text": "broad regions. The duration and severity would depend"
+  },
+  {
+    "start": 1556.575937547124,
+    "end": 1560.2616896147736,
+    "text": "on atmospheric material and the scenario modeled; there"
+  },
+  {
+    "start": 1560.2616896147736,
+    "end": 1563.5032305211755,
+    "text": "is no single darkness timer we can confidently assign"
+  },
+  {
+    "start": 1563.5032305211755,
+    "end": 1565.5682121356242,
+    "text": "to every possible impact."
+  },
+  {
+    "start": 1565.5682121356242,
+    "end": 1569.2179470820913,
+    "text": "Nor would night necessarily become perfectly black everywhere."
+  },
+  {
+    "start": 1569.7942210210072,
+    "end": 1573.1077961697736,
+    "text": "Even a substantial reduction can be devastating when crops"
+  },
+  {
+    "start": 1573.1077961697736,
+    "end": 1576.1092229349606,
+    "text": "and ecosystems depend on particular conditions."
+  },
+  {
+    "start": 1576.1092229349606,
+    "end": 1579.5428551543343,
+    "text": "Stored grain and other food could buy time, but stockpiles"
+  },
+  {
+    "start": 1579.5428551543343,
+    "end": 1582.8324188889792,
+    "text": "are unevenly distributed and need protection, transport,"
+  },
+  {
+    "start": 1582.8324188889792,
+    "end": 1584.4531893421802,
+    "text": "and fair allocation."
+  },
+  {
+    "start": 1584.4531893421802,
+    "end": 1587.5626674709138,
+    "text": "Livestock depend on feed as well as human decisions about"
+  },
+  {
+    "start": 1587.5626674709138,
+    "end": 1589.5796262571196,
+    "text": "which foods to prioritize."
+  },
+  {
+    "start": 1589.5796262571196,
+    "end": 1592.8451785776429,
+    "text": "Fisheries depend on living marine food webs, not just"
+  },
+  {
+    "start": 1592.8451785776429,
+    "end": 1594.2978691319934,
+    "text": "surviving boats."
+  },
+  {
+    "start": 1594.2978691319934,
+    "end": 1596.879096150054,
+    "text": "A short interruption is a different problem from several"
+  },
+  {
+    "start": 1596.879096150054,
+    "end": 1598.6679465021055,
+    "text": "failed growing seasons."
+  },
+  {
+    "start": 1599.0881462492316,
+    "end": 1602.3056757415122,
+    "text": "The central accounting question becomes unavoidable: how"
+  },
+  {
+    "start": 1602.3056757415122,
+    "end": 1605.7873307891289,
+    "text": "many usable calories can still be produced, where, and"
+  },
+  {
+    "start": 1605.7873307891289,
+    "end": 1609.4610771497178,
+    "text": "for how long? Money and machinery can move existing food"
+  },
+  {
+    "start": 1609.4610771497178,
+    "end": 1613.0027607326383,
+    "text": "around. They cannot turn an insufficient total harvest"
+  },
+  {
+    "start": 1613.0027607326383,
+    "end": 1616.4483986590728,
+    "text": "into enough food simply by changing its ownership."
+  },
+  {
+    "start": 1617.4808894662972,
+    "end": 1620.3262420396945,
+    "text": "Some alternatives deserve serious research."
+  },
+  {
+    "start": 1620.3262420396945,
+    "end": 1623.2676402695777,
+    "text": "Controlled environments can grow plants with artificial"
+  },
+  {
+    "start": 1623.2676402695777,
+    "end": 1626.7492953171945,
+    "text": "light where reliable energy and equipment are available."
+  },
+  {
+    "start": 1626.7492953171945,
+    "end": 1630.7231843543018,
+    "text": "Other proposed resilient foods involve fungi or microbes"
+  },
+  {
+    "start": 1630.7231843543018,
+    "end": 1634.4449535431336,
+    "text": "using suitable feedstocks, or processes that could convert"
+  },
+  {
+    "start": 1634.4449535431336,
+    "end": 1637.5424259648066,
+    "text": "available resources into edible nutrients."
+  },
+  {
+    "start": 1637.5424259648066,
+    "end": 1640.6519040935402,
+    "text": "Researchers have explored such possibilities for abrupt"
+  },
+  {
+    "start": 1640.6519040935402,
+    "end": 1642.4407544455917,
+    "text": "reductions in sunlight."
+  },
+  {
+    "start": 1642.8369427785965,
+    "end": 1645.3581412613535,
+    "text": "These are not demonstrated guarantees that billions of"
+  },
+  {
+    "start": 1645.3581412613535,
+    "end": 1648.431602268905,
+    "text": "people could immediately switch diets and remain healthy."
+  },
+  {
+    "start": 1648.431602268905,
+    "end": 1651.3009662564236,
+    "text": "A fungus does not create energy from nothing."
+  },
+  {
+    "start": 1651.3009662564236,
+    "end": 1655.178809637045,
+    "text": "A microbial process needs inputs, safe operation, quality"
+  },
+  {
+    "start": 1655.178809637045,
+    "end": 1657.9761393821993,
+    "text": "control, and a way to distribute its products."
+  },
+  {
+    "start": 1657.9761393821993,
+    "end": 1660.9055319050217,
+    "text": "Nutrition includes more than calories, and acceptance"
+  },
+  {
+    "start": 1660.9055319050217,
+    "end": 1662.898479277106,
+    "text": "and public health matter too."
+  },
+  {
+    "start": 1662.898479277106,
+    "end": 1665.6117690728347,
+    "text": "Large-scale deployment would require preparation before"
+  },
+  {
+    "start": 1665.6117690728347,
+    "end": 1669.2134811910591,
+    "text": "the emergency, together with robust power, materials,"
+  },
+  {
+    "start": 1669.2134811910591,
+    "end": 1671.8307253303021,
+    "text": "trained workers, and functioning logistics."
+  },
+  {
+    "start": 1672.250925077428,
+    "end": 1675.3003746708582,
+    "text": "Even nuclear-powered food production is a system that"
+  },
+  {
+    "start": 1675.3003746708582,
+    "end": 1677.2933220429422,
+    "text": "must be built and maintained."
+  },
+  {
+    "start": 1677.2933220429422,
+    "end": 1680.3907944646153,
+    "text": "It could provide a valuable component of resilience without"
+  },
+  {
+    "start": 1680.3907944646153,
+    "end": 1684.0285237040218,
+    "text": "replacing every field and every missing ecosystem."
+  },
+  {
+    "start": 1684.0285237040218,
+    "end": 1687.7022700646105,
+    "text": "The promising question is how much reliable food a prepared"
+  },
+  {
+    "start": 1687.7022700646105,
+    "end": 1690.7517196580404,
+    "text": "system could add under specified conditions."
+  },
+  {
+    "start": 1690.7517196580404,
+    "end": 1694.4494774327509,
+    "text": "The dangerous shortcut is treating a laboratory possibility"
+  },
+  {
+    "start": 1694.4494774327509,
+    "end": 1696.9826816225684,
+    "text": "as a fully stocked global pantry."
+  },
+  {
+    "start": 1697.9671496015499,
+    "end": 1701.3287475785592,
+    "text": "Could humanity survive another Chicxulub-scale event?"
+  },
+  {
+    "start": 1701.3287475785592,
+    "end": 1704.3661914649283,
+    "text": "There is no responsible single yes or no that ignores"
+  },
+  {
+    "start": 1704.3661914649283,
+    "end": 1708.56818893619,
+    "text": "warning time, impact setting, preparedness, and the resulting"
+  },
+  {
+    "start": 1708.56818893619,
+    "end": 1712.8782377709983,
+    "text": "food crisis. Prevention has a genuine technological foundation"
+  },
+  {
+    "start": 1712.8782377709983,
+    "end": 1716.5039613033443,
+    "text": "at smaller demonstrated scales, but its limits matter."
+  },
+  {
+    "start": 1716.5039613033443,
+    "end": 1719.9736106439004,
+    "text": "After impact, surviving populations might persist in"
+  },
+  {
+    "start": 1719.9736106439004,
+    "end": 1723.047071651452,
+    "text": "some regions or protected systems, while the fate of the"
+  },
+  {
+    "start": 1723.047071651452,
+    "end": 1726.1445440731247,
+    "text": "present civilization could be extremely severe."
+  },
+  {
+    "start": 1726.564743820251,
+    "end": 1729.3860849795265,
+    "text": "We cannot convert an imagined bunker into a proof that"
+  },
+  {
+    "start": 1729.3860849795265,
+    "end": 1731.6311521998864,
+    "text": "human extinction is impossible."
+  },
+  {
+    "start": 1731.6311521998864,
+    "end": 1735.22085861105,
+    "text": "We also cannot infer that every last person must die because"
+  },
+  {
+    "start": 1735.22085861105,
+    "end": 1737.4779315384706,
+    "text": "many ancient species disappeared."
+  },
+  {
+    "start": 1737.4779315384706,
+    "end": 1740.311278404807,
+    "text": "The survivors of the end-Cretaceous event remind us that"
+  },
+  {
+    "start": 1740.311278404807,
+    "end": 1743.2886937558726,
+    "text": "mass extinction is selective and uneven."
+  },
+  {
+    "start": 1743.2886937558726,
+    "end": 1746.0139892586621,
+    "text": "They do not tell us that a world of billions of highly"
+  },
+  {
+    "start": 1746.0139892586621,
+    "end": 1748.9553874885453,
+    "text": "connected people would find recovery easy."
+  },
+  {
+    "start": 1748.9553874885453,
+    "end": 1752.1368998596433,
+    "text": "The fifth test therefore rewards earlier action more than"
+  },
+  {
+    "start": 1752.1368998596433,
+    "end": 1754.3819670800033,
+    "text": "a heroic last-minute escape."
+  },
+  {
+    "start": 1754.826178241251,
+    "end": 1758.4759131877183,
+    "text": "Better detection, contingency planning, resilient food"
+  },
+  {
+    "start": 1758.4759131877183,
+    "end": 1762.2817223259756,
+    "text": "research, and reliable institutions offer ways to improve"
+  },
+  {
+    "start": 1762.2817223259756,
+    "end": 1765.6553260100457,
+    "text": "the odds without pretending those odds are already known."
+  },
+  {
+    "start": 1765.6553260100457,
+    "end": 1768.8008212599614,
+    "text": "The outcome would be shaped by decisions made well before"
+  },
+  {
+    "start": 1768.8008212599614,
+    "end": 1770.289528935494,
+    "text": "the sky changed."
+  },
+  {
+    "start": 1771.2739969144754,
+    "end": 1774.7796633762136,
+    "text": "Put the five tests side by side, and a pattern emerges."
+  },
+  {
+    "start": 1774.7796633762136,
+    "end": 1777.2648447377885,
+    "text": "The decisive variables are not simply how frightening"
+  },
+  {
+    "start": 1777.2648447377885,
+    "end": 1778.765558120382,
+    "text": "the illustration looks."
+  },
+  {
+    "start": 1778.765558120382,
+    "end": 1782.4393044809708,
+    "text": "They are speed, geographic reach, duration, remaining"
+  },
+  {
+    "start": 1782.4393044809708,
+    "end": 1785.620816852069,
+    "text": "productive environments, and the ability to maintain essential"
+  },
+  {
+    "start": 1785.620816852069,
+    "end": 1789.102471899686,
+    "text": "systems. A gradual pressure may permit adaptation that"
+  },
+  {
+    "start": 1789.102471899686,
+    "end": 1790.8793165446764,
+    "text": "a sudden event does not."
+  },
+  {
+    "start": 1790.8793165446764,
+    "end": 1794.180885986382,
+    "text": "A regional disaster can receive help from elsewhere; a"
+  },
+  {
+    "start": 1794.180885986382,
+    "end": 1798.1907921446718,
+    "text": "synchronized global food crisis has fewer external rescuers."
+  },
+  {
+    "start": 1798.791077497709,
+    "end": 1801.7444814346532,
+    "text": "A short interruption can be bridged by reserves, while"
+  },
+  {
+    "start": 1801.7444814346532,
+    "end": 1804.7819253210223,
+    "text": "a long transition demands continued production."
+  },
+  {
+    "start": 1804.7819253210223,
+    "end": 1808.2995974898215,
+    "text": "A technology that protects one facility may still be valuable"
+  },
+  {
+    "start": 1808.2995974898215,
+    "end": 1811.16896147734,
+    "text": "without solving the whole planetary problem."
+  },
+  {
+    "start": 1811.16896147734,
+    "end": 1814.4705309190456,
+    "text": "None of this produces a scientifically established ranking"
+  },
+  {
+    "start": 1814.4705309190456,
+    "end": 1817.495969098354,
+    "text": "of human survival percentages for the Big Five."
+  },
+  {
+    "start": 1817.495969098354,
+    "end": 1821.2417497013073,
+    "text": "Our scenarios cannot supply data that history never recorded,"
+  },
+  {
+    "start": 1821.2417497013073,
+    "end": 1824.8194504054102,
+    "text": "because no industrial human civilization experienced"
+  },
+  {
+    "start": 1824.8194504054102,
+    "end": 1826.0080154044242,
+    "text": "those events."
+  },
+  {
+    "start": 1826.404203737429,
+    "end": 1830.2940528251113,
+    "text": "What they can do is expose dependencies and identify preparations"
+  },
+  {
+    "start": 1830.2940528251113,
+    "end": 1831.9148232783123,
+    "text": "worth investigating."
+  },
+  {
+    "start": 1831.9148232783123,
+    "end": 1834.6641301952234,
+    "text": "The question is not whether modern humans are tougher"
+  },
+  {
+    "start": 1834.6641301952234,
+    "end": 1836.873180294401,
+    "text": "than a particular extinct animal."
+  },
+  {
+    "start": 1836.873180294401,
+    "end": 1839.8025728172236,
+    "text": "It is how well a civilization can preserve the conditions"
+  },
+  {
+    "start": 1839.8025728172236,
+    "end": 1843.9325360461207,
+    "text": "that let people cooperate, eat, stay healthy, and raise"
+  },
+  {
+    "start": 1843.9325360461207,
+    "end": 1847.5582595784665,
+    "text": "another generation when familiar ecosystems stop behaving"
+  },
+  {
+    "start": 1847.5582595784665,
+    "end": 1848.8068531127844,
+    "text": "as expected."
+  },
+  {
+    "start": 1849.815332505887,
+    "end": 1853.0088505840458,
+    "text": "When scientists discuss a possible or ongoing sixth mass"
+  },
+  {
+    "start": 1853.0088505840458,
+    "end": 1856.1783572480833,
+    "text": "extinction, they usually mean the modern biodiversity"
+  },
+  {
+    "start": 1856.1783572480833,
+    "end": 1859.5039381039105,
+    "text": "crisis, strongly driven by human activity."
+  },
+  {
+    "start": 1859.5039381039105,
+    "end": 1863.621895625747,
+    "text": "Habitat conversion, overexploitation, invasive species,"
+  },
+  {
+    "start": 1863.621895625747,
+    "end": 1866.7793965827236,
+    "text": "pollution, and climate change can act together."
+  },
+  {
+    "start": 1866.7793965827236,
+    "end": 1870.5852057209804,
+    "text": "IPBES has estimated that around a million animal and plant"
+  },
+  {
+    "start": 1870.5852057209804,
+    "end": 1873.994826526233,
+    "text": "species are threatened with extinction, many within decades"
+  },
+  {
+    "start": 1873.994826526233,
+    "end": 1875.9277453630132,
+    "text": "unless pressures are reduced."
+  },
+  {
+    "start": 1876.3479451101393,
+    "end": 1879.2293148047188,
+    "text": "Threatened does not mean already extinct, and the estimate"
+  },
+  {
+    "start": 1879.2293148047188,
+    "end": 1881.8345532369012,
+    "text": "does not mean a million species will certainly vanish"
+  },
+  {
+    "start": 1881.8345532369012,
+    "end": 1883.3352666194946,
+    "text": "on a fixed deadline."
+  },
+  {
+    "start": 1883.3352666194946,
+    "end": 1886.2766648493778,
+    "text": "There is also a distinction between reaching a Big Five-style"
+  },
+  {
+    "start": 1886.2766648493778,
+    "end": 1890.2265424723637,
+    "text": "total loss threshold and observing unusually rapid losses"
+  },
+  {
+    "start": 1890.2265424723637,
+    "end": 1893.119917874004,
+    "text": "and escalating risks on the way toward one."
+  },
+  {
+    "start": 1893.119917874004,
+    "end": 1897.0337783758077,
+    "text": "Researchers debate definitions, comparisons, and the completeness"
+  },
+  {
+    "start": 1897.0337783758077,
+    "end": 1900.647496201093,
+    "text": "of the record. Modern observations and ancient fossils"
+  },
+  {
+    "start": 1900.647496201093,
+    "end": 1902.4843693813873,
+    "text": "have different limitations."
+  },
+  {
+    "start": 1902.9525919567566,
+    "end": 1906.0500643784294,
+    "text": "None of that makes the damage imaginary or requires us"
+  },
+  {
+    "start": 1906.0500643784294,
+    "end": 1909.0875082647985,
+    "text": "to wait for a particular percentage before acting."
+  },
+  {
+    "start": 1909.0875082647985,
+    "end": 1912.8452945748127,
+    "text": "This potential sixth event need not arrive as one dramatic"
+  },
+  {
+    "start": 1912.8452945748127,
+    "end": 1914.40603649271,
+    "text": "external object."
+  },
+  {
+    "start": 1914.40603649271,
+    "end": 1917.4794975002612,
+    "text": "It can grow through many decisions that repeatedly remove"
+  },
+  {
+    "start": 1917.4794975002612,
+    "end": 1921.1772552749715,
+    "text": "habitat and destabilize the systems on which other species,"
+  },
+  {
+    "start": 1921.1772552749715,
+    "end": 1923.770488000093,
+    "text": "and human societies, depend."
+  },
+  {
+    "start": 1924.8029788073172,
+    "end": 1928.908930622093,
+    "text": "A nuclear war, an extreme pandemic, or another large impact"
+  },
+  {
+    "start": 1928.908930622093,
+    "end": 1931.238037791878,
+    "text": "could be catastrophic for humanity."
+  },
+  {
+    "start": 1931.238037791878,
+    "end": 1934.5516129406444,
+    "text": "But a catastrophe that kills many people is not automatically"
+  },
+  {
+    "start": 1934.5516129406444,
+    "end": 1937.3489426857986,
+    "text": "a mass extinction across the tree of life."
+  },
+  {
+    "start": 1937.3489426857986,
+    "end": 1941.4428887935137,
+    "text": "A human pathogen does not, by that fact alone, eliminate"
+  },
+  {
+    "start": 1941.4428887935137,
+    "end": 1945.2486979317705,
+    "text": "marine animals, plants, and unrelated organisms on the"
+  },
+  {
+    "start": 1945.2486979317705,
+    "end": 1947.889953485135,
+    "text": "scale associated with the Big Five."
+  },
+  {
+    "start": 1948.3101532322612,
+    "end": 1951.2515514621443,
+    "text": "The environmental consequences of nuclear conflict have"
+  },
+  {
+    "start": 1951.2515514621443,
+    "end": 1954.3850410049995,
+    "text": "been studied through models, including potential disruption"
+  },
+  {
+    "start": 1954.3850410049995,
+    "end": 1957.5905647902193,
+    "text": "to climate and food systems, but the outcome depends on"
+  },
+  {
+    "start": 1957.5905647902193,
+    "end": 1960.8561171107426,
+    "text": "the scenario and is not a universal script."
+  },
+  {
+    "start": 1960.8561171107426,
+    "end": 1963.7494925123829,
+    "text": "Another major impact is a different kind of threat again,"
+  },
+  {
+    "start": 1963.7494925123829,
+    "end": 1966.9189991764201,
+    "text": "with distinct questions of frequency, detection, and"
+  },
+  {
+    "start": 1966.9189991764201,
+    "end": 1970.556728415827,
+    "text": "prevention. These dangers deserve attention without being"
+  },
+  {
+    "start": 1970.556728415827,
+    "end": 1973.414086696285,
+    "text": "collapsed into one interchangeable label."
+  },
+  {
+    "start": 1973.8102750292892,
+    "end": 1977.3639643192705,
+    "text": "For the existing biodiversity crisis, the strongest point"
+  },
+  {
+    "start": 1977.3639643192705,
+    "end": 1980.2813511350325,
+    "text": "is that several major drivers are influenced by human"
+  },
+  {
+    "start": 1980.2813511350325,
+    "end": 1983.823034717953,
+    "text": "choices now. Natural history is not an appointment book"
+  },
+  {
+    "start": 1983.823034717953,
+    "end": 1987.4727696644206,
+    "text": "announcing that a sixth disaster must repeat one ancient"
+  },
+  {
+    "start": 1987.4727696644206,
+    "end": 1990.966430419098,
+    "text": "mechanism. It is evidence that life-support systems can"
+  },
+  {
+    "start": 1990.966430419098,
+    "end": 1994.0639028407704,
+    "text": "change profoundly, and that the survival of particular"
+  },
+  {
+    "start": 1994.0639028407704,
+    "end": 1997.5095407672054,
+    "text": "species or societies cannot be assumed from their current"
+  },
+  {
+    "start": 1997.5095407672054,
+    "end": 1998.614065816794,
+    "text": "abundance."
+  },
+  {
+    "start": 1999.6225452098968,
+    "end": 2003.1162059645746,
+    "text": "Across all five tests, the most useful preparations look"
+  },
+  {
+    "start": 2003.1162059645746,
+    "end": 2006.3697525780372,
+    "text": "less like a single escape pod and more like a resilient"
+  },
+  {
+    "start": 2006.3697525780372,
+    "end": 2010.5477386351772,
+    "text": "society. Preserve diverse food production, monitor threats,"
+  },
+  {
+    "start": 2010.5477386351772,
+    "end": 2014.2214849957663,
+    "text": "protect water, strengthen energy systems, maintain public"
+  },
+  {
+    "start": 2014.2214849957663,
+    "end": 2017.270934589196,
+    "text": "health, and invest in research before an emergency makes"
+  },
+  {
+    "start": 2017.270934589196,
+    "end": 2018.6035680729392,
+    "text": "deployment harder."
+  },
+  {
+    "start": 2018.6035680729392,
+    "end": 2022.0011831711308,
+    "text": "Preserve knowledge and practical skills as well as equipment."
+  },
+  {
+    "start": 2022.0011831711308,
+    "end": 2025.218712663411,
+    "text": "Make cooperation possible across regions rather than"
+  },
+  {
+    "start": 2025.218712663411,
+    "end": 2028.7724019533923,
+    "text": "assuming it will appear automatically when resources tighten."
+  },
+  {
+    "start": 2029.3486758923082,
+    "end": 2032.10998851628,
+    "text": "These actions have value without requiring a prediction"
+  },
+  {
+    "start": 2032.10998851628,
+    "end": 2035.1834495238318,
+    "text": "that one particular ancient disaster will return."
+  },
+  {
+    "start": 2035.1834495238318,
+    "end": 2038.0888306325323,
+    "text": "They can also reduce vulnerabilities to smaller, more"
+  },
+  {
+    "start": 2038.0888306325323,
+    "end": 2039.445475530397,
+    "text": "immediate shocks."
+  },
+  {
+    "start": 2039.445475530397,
+    "end": 2041.714554164878,
+    "text": "None makes civilization invulnerable."
+  },
+  {
+    "start": 2041.714554164878,
+    "end": 2044.6679581018225,
+    "text": "The lesson is that survival depends on relationships between"
+  },
+  {
+    "start": 2044.6679581018225,
+    "end": 2047.0210766857288,
+    "text": "systems, people, and ecosystems."
+  },
+  {
+    "start": 2047.0210766857288,
+    "end": 2049.7343664814575,
+    "text": "We may be able to protect some humans through an extraordinary"
+  },
+  {
+    "start": 2049.7343664814575,
+    "end": 2053.095964458467,
+    "text": "crisis while losing much of the world that supported them."
+  },
+  {
+    "start": 2053.095964458467,
+    "end": 2055.8932942036217,
+    "text": "Keeping more of that world alive is a different and"
+  },
+  {
+    "start": 2055.8932942036217,
+    "end": 2056.9377907179064,
+    "text": "larger achievement"
+  },
+  {
+    "start": 2057.4420304144583,
+    "end": 2060.2153487454907,
+    "text": "So when we ask whether humanity could survive Earth's"
+  },
+  {
+    "start": 2060.2153487454907,
+    "end": 2064.201243489659,
+    "text": "next great catastrophe, the final question is this: after"
+  },
+  {
+    "start": 2064.201243489659,
+    "end": 2067.454790103122,
+    "text": "the shelter opens, what will still be growing, working,"
+  },
+  {
+    "start": 2067.454790103122,
+    "end": 2069.3276804045986,
+    "text": "and connecting us outside?"
+  }
+]

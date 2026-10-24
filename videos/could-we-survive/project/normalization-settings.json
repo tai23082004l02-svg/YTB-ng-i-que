@@ -1,0 +1,15 @@
+{
+  "source_measurement": {
+    "input_i": "-27.64",
+    "input_tp": "-1.72",
+    "input_lra": "3.30",
+    "input_thresh": "-37.99",
+    "output_i": "-17.49",
+    "output_tp": "-2.50",
+    "output_lra": "2.30",
+    "output_thresh": "-27.85",
+    "normalization_type": "dynamic",
+    "target_offset": "1.49"
+  },
+  "filter": "loudnorm=I=-16:TP=-2.5:LRA=9:measured_I=-27.64:measured_TP=-1.72:measured_LRA=3.30:measured_thresh=-37.99:offset=1.49:linear=false"
+}

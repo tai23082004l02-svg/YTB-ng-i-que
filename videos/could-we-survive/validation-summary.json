@@ -1,0 +1,15 @@
+{
+  "full_video_decode": "passed",
+  "full_final_audio_decode": "passed",
+  "duration_seconds": 2070.0,
+  "chapters": 28,
+  "selected_unique_illustrations": 371,
+  "source_illustrations": 384,
+  "subtitle_cues": 681,
+  "encoded_integrated_loudness_lufs": -16.76,
+  "encoded_true_peak_dbtp": -1.7,
+  "video_sha256": "f6f7e4c62d8a702b44d1725c9e751db9b8f57ac16bfdaa455cb4f9bc2b1e0d35",
+  "format": "1280x720 H.264, 24 fps, AAC 128 kbps 48 kHz mono",
+  "motion": "static images, no camera motion or top header",
+  "visual_review": "representative source sheets and full-film contact frames; corrected Triassic frame inspected in final export"
+}

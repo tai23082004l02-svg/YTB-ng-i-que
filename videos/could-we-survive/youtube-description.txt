@@ -1,0 +1,62 @@
+TITLE
+Could We Survive Earth's 5 Mass Extinctions?
+
+DESCRIPTION
+Could modern humanity survive the forces behind Earth's five great mass extinctions? Our technology gives us powerful advantages—but food, water, electricity, and cooperation still have to work together.
+
+This illustrated scientific thought experiment revisits the Late Ordovician, Late Devonian, end-Permian, end-Triassic, and end-Cretaceous crises. For each one, we separate ancient evidence from a hypothetical modern scenario and ask what our tools could protect, how long they could last, and what might fail first.
+
+We explore changing climates, oxygen loss in the oceans, volcanic warming and cooling, asteroid defense, impact winter, resilient food research, and what scientists mean by a possible sixth mass extinction.
+
+Individual survival, the persistence of human populations, and the survival of today's civilization are different questions. This video gives conditional assessments, not invented survival percentages or a prediction that a particular disaster is about to happen.
+
+CHAPTERS
+00:00 When the Lifelines Fail
+01:03 Three Meanings of Survival
+02:13 The Big Five in Deep Time
+03:24 Our Modern Survival Toolkit
+04:35 Test 1: The Late Ordovician
+05:45 When the Farm Belt Moves
+06:58 Migration and New Refuges
+08:09 Could We Survive Severe Cooling?
+09:26 Test 2: The Late Devonian
+10:38 Ocean Oxygen vs. the Air We Breathe
+11:53 Replacing What the Ocean Provides
+13:12 Test 3: The Great Dying
+14:26 The Limits of the Human Body
+15:40 Cooling Needs Power and Water
+16:55 When Land and Sea Fail Together
+18:13 Test 4: The End Triassic
+19:27 The Limits of Planetary Engineering
+20:49 Surviving the Long Emergency
+22:03 Test 5: The Chicxulub Impact
+23:13 Warning Time and Asteroid Defense
+24:24 The First Days After Impact
+25:43 The Harvest After the Sky Darkens
+26:57 Food Without Normal Sunlight
+28:17 Could We Survive a Giant Impact?
+29:30 What the Five Tests Really Compare
+30:49 What a Sixth Extinction Means
+32:04 Other Global Catastrophes
+33:19 The World Beyond the Shelter
+
+SOURCES & EVIDENCE NOTES
+Full references, uncertainties, and illustration notes:
+https://github.com/tai23082004l02-svg/YTB-ng-i-que/blob/main/videos/could-we-survive/SOURCES.md
+
+NASA — DART asteroid-deflection mission:
+https://science.nasa.gov/mission/dart/
+
+Barnosky et al. — Mass-extinction benchmark and the sixth-extinction question:
+https://www.nature.com/articles/nature09678
+
+Chicxulub impact winter and fine silicate dust:
+https://www.nature.com/articles/s41561-023-01290-4
+
+IPBES — Global biodiversity assessment, summary for policymakers:
+https://doi.org/10.5281/zenodo.3553579
+
+PRODUCTION NOTE
+Original English script with AI-generated 2D illustrations and synthetic narration. Ancient ecosystems are artistic reconstructions; modern disaster scenes and diagrams are hypothetical or conceptual, not footage of real emergencies or official forecasts.
+
+#MassExtinction #EarthHistory #ScienceDocumentary

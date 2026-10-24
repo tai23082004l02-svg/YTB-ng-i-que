@@ -30,7 +30,7 @@
 
 ## 4. Lời đọc và phụ đề
 
-- Dùng **Kokoro**, ngôn ngữ tiếng Anh Mỹ. Giọng mặc định đã dùng: **`am_michael`**; tốc độ khoảng **0.97** ở bản ngắn và **1.04** ở bản dài. Chọn nhịp tự nhiên theo nội dung, không áp dụng máy móc hệ số tempo của bản cũ. Xem cấu hình và lưu ý trong tài liệu bàn giao.
+- Dùng **Kokoro**, ngôn ngữ tiếng Anh Mỹ. Giọng mặc định đã dùng: **`am_michael`**; tốc độ khoảng **0.97** ở bản ngắn, **1.04** ở bản dài đầu tiên và **1.07** ở bản đại tuyệt chủng. Chọn nhịp tự nhiên theo nội dung, không áp dụng máy móc hệ số tempo của bản cũ. Xem cấu hình và lưu ý trong tài liệu bàn giao.
 - Nghe/kiểm tra phát âm, khoảng nghỉ và nhịp kể; xuất lời đọc riêng để tái sử dụng khi sửa hình.
 - Khi người dùng chỉ sửa hình, giữ nguyên kịch bản và lời đọc nếu không có yêu cầu sửa nội dung.
 - Phụ đề tiếng Anh đặt phía dưới, chữ sáng có viền tối, dễ đọc trên điện thoại. Không dùng dải nền đen cố định che toàn bộ phía dưới hình.
@@ -47,7 +47,9 @@
 - Trong câu trả lời bàn giao, ưu tiên liên kết GitHub có thể truy cập, vì người dùng không xem được liên kết tệp cục bộ. Dùng liên kết theo commit khi cần tránh tải nhầm bản cũ do cache.
 - Không tự đăng video lên YouTube nếu chưa được yêu cầu.
 
-## Mẫu đã được chấp nhận
+## Video tham chiếu
+
+- [Could We Survive? — 34:30, 371 hình, ví dụ triển khai theo hướng dẫn](videos/could-we-survive/README.md)
 
 - [The Last Humans — 24:45, 268 hình, mẫu video dài](videos/the-last-humans/README.md)
 
