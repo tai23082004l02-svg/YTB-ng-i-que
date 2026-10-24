@@ -1,6 +1,6 @@
 # Nguyên tắc sản xuất video
 
-Đây là cách làm đã được người dùng chốt sau bản cập nhật 2 của **Before the Alarm Clock**. Dùng làm mặc định cho video tiếp theo; yêu cầu mới của người dùng được ưu tiên khi có khác biệt.
+Đây là cách làm đã được người dùng chốt sau bản cập nhật 2 của **Before the Alarm Clock**, rồi tiếp tục áp dụng và được đánh giá tốt ở video dài **The Last Humans**. Khi mở chat mới, đọc thêm [CHAT_HANDOFF.md](CHAT_HANDOFF.md). Dùng làm mặc định cho video tiếp theo; yêu cầu mới của người dùng được ưu tiên khi có khác biệt.
 
 ## 1. Định hướng nội dung
 
@@ -8,7 +8,7 @@
 - Tự xử lý kịch bản, âm thanh, hình ảnh và dựng video khi được giao sản xuất; không dừng để xin duyệt từng bước nếu không có yêu cầu duyệt.
 - Viết kịch bản mới, có mở đầu thu hút, diễn tiến rõ và kết thúc gọn. Không chép lời hoặc lấy hình từ video tham khảo để dùng làm nội dung mới.
 - Với nội dung lịch sử hoặc kiến thức, đối chiếu các ý chính với nguồn đáng tin cậy; phân biệt bằng chứng, suy luận và cảnh minh họa giả định. Không bịa số liệu hoặc biến một ví dụ thành quy luật chung.
-- Chọn độ dài theo chủ đề và yêu cầu. Video tham chiếu dài khoảng 4 phút 12 giây; đây không phải giới hạn bắt buộc cho mọi video.
+- Ưu tiên kịch bản chất lượng, đủ ý; người dùng thích làm dài khi nội dung xứng đáng. Không kéo dài bằng lặp ý, thêm khoảng trống hoặc cố tình làm chậm lời đọc. Độ dài theo chủ đề và yêu cầu; các bản 4:12 và 24:45 đều là ví dụ đã hoàn thành, không phải giới hạn bắt buộc.
 
 ## 2. Phong cách hình ảnh
 
@@ -30,7 +30,7 @@
 
 ## 4. Lời đọc và phụ đề
 
-- Dùng **Kokoro**, ngôn ngữ tiếng Anh Mỹ. Giọng mặc định đã dùng: **`am_michael`**, tốc độ khoảng **0.97**; chỉ đổi khi nội dung hoặc yêu cầu cần.
+- Dùng **Kokoro**, ngôn ngữ tiếng Anh Mỹ. Giọng mặc định đã dùng: **`am_michael`**; tốc độ khoảng **0.97** ở bản ngắn và **1.04** ở bản dài. Chọn nhịp tự nhiên theo nội dung, không áp dụng máy móc hệ số tempo của bản cũ. Xem cấu hình và lưu ý trong tài liệu bàn giao.
 - Nghe/kiểm tra phát âm, khoảng nghỉ và nhịp kể; xuất lời đọc riêng để tái sử dụng khi sửa hình.
 - Khi người dùng chỉ sửa hình, giữ nguyên kịch bản và lời đọc nếu không có yêu cầu sửa nội dung.
 - Phụ đề tiếng Anh đặt phía dưới, chữ sáng có viền tối, dễ đọc trên điện thoại. Không dùng dải nền đen cố định che toàn bộ phía dưới hình.
@@ -48,6 +48,8 @@
 - Không tự đăng video lên YouTube nếu chưa được yêu cầu.
 
 ## Mẫu đã được chấp nhận
+
+- [The Last Humans — 24:45, 268 hình, mẫu video dài](videos/the-last-humans/README.md)
 
 - [Video và tài liệu Before the Alarm Clock](videos/before-the-alarm-clock/README.md)
 - [Thay đổi trong bản cập nhật 2](videos/before-the-alarm-clock/release-notes-v2.md)
