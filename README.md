@@ -2,6 +2,7 @@
 
 Sản xuất video kiến thức bằng tiếng Anh Mỹ, minh họa hoạt hình 2D và lời đọc Kokoro.
 
+- **[Bản thử người que: A Day in the Stone Age — 2:26, 40 cảnh](videos/stick-figure-prehistoric-day-preview/README.md)**
 - **[12 Shorts The Last Humans — dọc9:16,252cảnh, có bộ tải chung](videos/the-last-humans/shorts/README.md)**
 - **[Video dài mới nhất: Without Us — 46 phút 26 giây, 695 cảnh](videos/without-us/README.md)**
 - [The Last Blue Day — 44 phút 24 giây](videos/the-last-blue-day/README.md)

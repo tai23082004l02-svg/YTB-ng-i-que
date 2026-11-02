@@ -156,3 +156,8 @@ Tài liệu giúp khôi phục bối cảnh từ kho, **không tự truyền l�
 Người dùng đã chọn tên **The Long Wonder**, handle hiển thị trong ảnh Studio là **@TheLongWonder**. Bộ avatar và banner được thiết kế tại [branding/the-long-wonder/](branding/the-long-wonder/README.md): xanh đêm, vàng kem, teal; tagline “Deep time. Distant worlds. Human questions.” Avatar 800×800 PNG, banner 2560×1440 JPG, chữ trong vùng an toàn giữa. Chưa tự cập nhật trên YouTube.
 
 **Lựa chọn mới về độ nét:** Sau khi thảo luận ảnh hơi mềm do cắt từ tấm nhiều ô và xuất 720p, người dùng chọn giữ cách hiện tại. Không tự đổi sang 4 cảnh/tấm hoặc 1080p, không tạo bản thử nâng nét khi chưa có yêu cầu mới.
+
+
+## Thử nghiệm người que — 02/11/2026
+
+Người dùng yêu cầu đổi thử sang phong cách người que, chủ đề một ngày ở thời tiền sử, và chọn bản thử 2–3 phút. Đã hoàn thành [A Day in the Stone Age — bản thử](videos/stick-figure-prehistoric-day-preview/README.md): 2:26, 40 cảnh, 49 cue, Kokoro am_michael speed 1.02, 720p/24fps. Nhân vật nét đen đầu tròn, áo da thú, nền màu đất. Hình vẫn đứng yên, không zoom/pan/header. Đây là ngày hè giả định ở châu Âu khoảng 20.000 năm trước; các nhân vật và buổi săn không thành công là hư cấu. Nguồn, ảnh và mã dựng nằm trong thư mục. Đang chờ phản hồi của người dùng về bản thử; chưa coi phong cách này là lựa chọn mặc định cho mọi video. Chưa đăng YouTube.

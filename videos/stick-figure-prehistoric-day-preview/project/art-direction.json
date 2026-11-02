@@ -1,0 +1,16 @@
+{
+  "status": "style preview requested 2026-11-02; awaiting user feedback on the completed preview",
+  "setting": "fictional Homo sapiens hunter-gatherer camp, European open summer landscape, approximately 20,000 years ago",
+  "style": "black stick-figure limbs, round cream heads, expressive faces, small hide tunics, muted earthy illustrated backgrounds",
+  "characters": {
+    "Kai": "three short black hair spikes, ochre shoulder patch",
+    "Ena": "black bob, teal shoulder patch",
+    "child": "one hair curl, rust tunic",
+    "elder": "gray hair and eyebrows, hide cloak"
+  },
+  "generation": "three newly generated 4-by-4 sheets; sheet-01 establishes the reference for sheets 02 and 03",
+  "animation": "static illustrations with cuts; no independent limb movement",
+  "curation": "40 distinct panels selected from 48; no source panels reused as multiple zoom levels",
+  "excluded_from_timeline": {"sheet-01": [6], "sheet-02": [12], "sheet-03": [5,8,9,12,13,14]},
+  "limits": "scene assignments and clothing colors are fictional visual identifiers; not excavated evidence; no claim of one universal prehistoric lifestyle"
+}

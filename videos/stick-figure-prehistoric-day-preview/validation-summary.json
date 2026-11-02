@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "duration_seconds": 145.958333,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": "24/1",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "scenes": 40,
+  "source_panels": 48,
+  "selected_unique_panels": 40,
+  "subtitle_cues": 49,
+  "subtitle_full_text_matches": true,
+  "full_decode_exit_code": 0,
+  "integrated_loudness_lufs": -16.62,
+  "true_peak_dbtp": -1.72,
+  "scene_seconds_range": [
+    3.0416666666666665,
+    4.583333333333333
+  ],
+  "mean_scene_seconds": 3.648958325,
+  "mp4_bytes": 9416040,
+  "sha256": "910e36b9ed31714643086ef794cd0963376f95da61ecd460a6d23b77afc0ce89",
+  "review_scope": "Full decode, streams, caption text and timing, continuous scene timing, audio measurement; source-board and sampled final-frame visual review. Not exhaustive human listening."
+}
