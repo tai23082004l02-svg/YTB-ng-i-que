@@ -2,6 +2,7 @@
 
 Sản xuất video kiến thức bằng tiếng Anh Mỹ, minh họa hoạt hình 2D và lời đọc Kokoro.
 
+- **[Short kể chuyện tếu: Would a Shark Poop Out Your Bones? — 51 giây, SRT riêng](videos/shorts/shark-bones/README.md)**
 - **[Short mới: Your Hunt Failed. What's for Dinner? — 45 giây, không phụ đề gắn sẵn](videos/shorts/dinner-ran-away/README.md)**
 - **[Short người que: A Toothache 14,000 Years Ago — 9:16, 50 giây](videos/shorts/stone-age-toothache/README.md)**
 - **[Bản thử người que: A Day in the Stone Age — 2:26, 40 cảnh](videos/stick-figure-prehistoric-day-preview/README.md)**

@@ -83,3 +83,8 @@
 
 - [Video và tài liệu Before the Alarm Clock](videos/before-the-alarm-clock/README.md)
 - [Thay đổi trong bản cập nhật 2](videos/before-the-alarm-clock/release-notes-v2.md)
+
+
+## Shorts kể chuyện hài theo lựa chọn mới
+
+Người dùng chọn thêm dạng câu hỏi giả định lạ, ngôn ngữ tếu và giọng kể tỉnh bơ: mở đầu mạnh → giải thích dễ hiểu có nguồn → chốt câu nhây. Không bị giới hạn ở chủ đề tiền sử. Dùng phản ứng người que và ẩn dụ hình ảnh để gây cười; không biến câu đùa, sơ đồ hoặc giả định thành thông tin khoa học. Giữ MP4 không chữ/nhãn/phụ đề gắn sẵn, xuất SRT riêng. Mẫu đầu: [Shark Bones —51giây](videos/shorts/shark-bones/README.md).

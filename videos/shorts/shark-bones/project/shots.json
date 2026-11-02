@@ -1,0 +1,302 @@
+[
+  {
+    "index": 0,
+    "sheet": 1,
+    "cell": 0,
+    "crop": [
+      9,
+      9,
+      229,
+      410
+    ],
+    "start_frame": 0,
+    "end_frame": 59,
+    "frames": 59,
+    "duration": 2.4583333333333335
+  },
+  {
+    "index": 1,
+    "sheet": 1,
+    "cell": 1,
+    "crop": [
+      247,
+      9,
+      460,
+      410
+    ],
+    "start_frame": 59,
+    "end_frame": 118,
+    "frames": 59,
+    "duration": 2.4583333333333335
+  },
+  {
+    "index": 2,
+    "sheet": 1,
+    "cell": 2,
+    "crop": [
+      478,
+      9,
+      688,
+      410
+    ],
+    "start_frame": 118,
+    "end_frame": 176,
+    "frames": 58,
+    "duration": 2.4166666666666665
+  },
+  {
+    "index": 3,
+    "sheet": 1,
+    "cell": 3,
+    "crop": [
+      706,
+      9,
+      932,
+      410
+    ],
+    "start_frame": 176,
+    "end_frame": 235,
+    "frames": 59,
+    "duration": 2.4583333333333335
+  },
+  {
+    "index": 4,
+    "sheet": 1,
+    "cell": 5,
+    "crop": [
+      247,
+      428,
+      460,
+      811
+    ],
+    "start_frame": 235,
+    "end_frame": 308,
+    "frames": 73,
+    "duration": 3.0416666666666665
+  },
+  {
+    "index": 5,
+    "sheet": 2,
+    "cell": 6,
+    "crop": [
+      480,
+      427,
+      693,
+      792
+    ],
+    "start_frame": 308,
+    "end_frame": 380,
+    "frames": 72,
+    "duration": 3.0
+  },
+  {
+    "index": 6,
+    "sheet": 1,
+    "cell": 8,
+    "crop": [
+      9,
+      829,
+      229,
+      1217
+    ],
+    "start_frame": 380,
+    "end_frame": 453,
+    "frames": 73,
+    "duration": 3.0416666666666665
+  },
+  {
+    "index": 7,
+    "sheet": 1,
+    "cell": 9,
+    "crop": [
+      247,
+      829,
+      460,
+      1217
+    ],
+    "start_frame": 453,
+    "end_frame": 506,
+    "frames": 53,
+    "duration": 2.2083333333333335
+  },
+  {
+    "index": 8,
+    "sheet": 1,
+    "cell": 11,
+    "crop": [
+      706,
+      829,
+      932,
+      1217
+    ],
+    "start_frame": 506,
+    "end_frame": 559,
+    "frames": 53,
+    "duration": 2.2083333333333335
+  },
+  {
+    "index": 9,
+    "sheet": 1,
+    "cell": 12,
+    "crop": [
+      9,
+      1235,
+      229,
+      1663
+    ],
+    "start_frame": 559,
+    "end_frame": 624,
+    "frames": 65,
+    "duration": 2.7083333333333335
+  },
+  {
+    "index": 10,
+    "sheet": 1,
+    "cell": 13,
+    "crop": [
+      247,
+      1235,
+      460,
+      1663
+    ],
+    "start_frame": 624,
+    "end_frame": 689,
+    "frames": 65,
+    "duration": 2.7083333333333335
+  },
+  {
+    "index": 11,
+    "sheet": 1,
+    "cell": 15,
+    "crop": [
+      706,
+      1235,
+      932,
+      1663
+    ],
+    "start_frame": 689,
+    "end_frame": 754,
+    "frames": 65,
+    "duration": 2.7083333333333335
+  },
+  {
+    "index": 12,
+    "sheet": 2,
+    "cell": 0,
+    "crop": [
+      9,
+      9,
+      232,
+      409
+    ],
+    "start_frame": 754,
+    "end_frame": 822,
+    "frames": 68,
+    "duration": 2.8333333333333335
+  },
+  {
+    "index": 13,
+    "sheet": 2,
+    "cell": 4,
+    "crop": [
+      9,
+      427,
+      232,
+      792
+    ],
+    "start_frame": 822,
+    "end_frame": 884,
+    "frames": 62,
+    "duration": 2.5833333333333335
+  },
+  {
+    "index": 14,
+    "sheet": 2,
+    "cell": 5,
+    "crop": [
+      250,
+      427,
+      462,
+      792
+    ],
+    "start_frame": 884,
+    "end_frame": 954,
+    "frames": 70,
+    "duration": 2.9166666666666665
+  },
+  {
+    "index": 15,
+    "sheet": 2,
+    "cell": 8,
+    "crop": [
+      9,
+      810,
+      232,
+      1189
+    ],
+    "start_frame": 954,
+    "end_frame": 1023,
+    "frames": 69,
+    "duration": 2.875
+  },
+  {
+    "index": 16,
+    "sheet": 2,
+    "cell": 7,
+    "crop": [
+      711,
+      427,
+      932,
+      792
+    ],
+    "start_frame": 1023,
+    "end_frame": 1093,
+    "frames": 70,
+    "duration": 2.9166666666666665
+  },
+  {
+    "index": 17,
+    "sheet": 2,
+    "cell": 10,
+    "crop": [
+      480,
+      810,
+      693,
+      1189
+    ],
+    "start_frame": 1093,
+    "end_frame": 1138,
+    "frames": 45,
+    "duration": 1.875
+  },
+  {
+    "index": 18,
+    "sheet": 2,
+    "cell": 12,
+    "crop": [
+      9,
+      1207,
+      232,
+      1663
+    ],
+    "start_frame": 1138,
+    "end_frame": 1183,
+    "frames": 45,
+    "duration": 1.875
+  },
+  {
+    "index": 19,
+    "sheet": 2,
+    "cell": 14,
+    "crop": [
+      480,
+      1207,
+      693,
+      1663
+    ],
+    "start_frame": 1183,
+    "end_frame": 1228,
+    "frames": 45,
+    "duration": 1.875
+  }
+]

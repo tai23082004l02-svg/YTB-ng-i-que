@@ -1,0 +1,13 @@
+# Sources and reconstruction limits
+
+- [American Museum of Natural History: All About Sharks](https://www.amnh.org/explore/ology/marine-biology/all-about-sharks), section “Expandable, acid-filled stomach” — supports the general statement that shark digestion can break down bones. No claim is made that all bone disappears, all sharks digest at the same rate, or a particular person's bones must appear in feces.
+- [Hawaiʻi Department of Land and Natural Resources: The Shark Inside](https://dlnr.hawaii.gov/sharks/anatomy/the-shark-inside/) — large indigestible objects may remain in the stomach and be regurgitated; some sharks can evert and retract their stomach through the mouth. This is the basis for the wrong-exit and inside-out jokes.
+- [Brunnschweiler et al.: Rapid voluntary stomach eversion in a free-living shark](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/abs/rapid-voluntary-stomach-eversion-in-a-freeliving-shark/3739A82389D2F13F192B8D7902D04720), Journal of the Marine Biological Association of the United Kingdom — a documented free-living Caribbean reef shark example. The Short says “some sharks”, not all species or every meal.
+
+The opening is an absurd hypothetical, not a reconstruction of an attack or a claim that humans are typical shark prey. Kai remains outside the shark throughout the images. No actual human remains are depicted; the tiny complete toy skeleton appears only in a thought bubble illustrating a rejected cartoon idea.
+
+The gray shark is a generic cartoon requiem-type shark, not a measured depiction of a specific species. Shark fins/gills and the J-shaped stomach/outlet are simplified; bone icons represent prey material, not the shark's own skeleton (which is cartilaginous). Eversion images use a smooth peach pouch emerging from the mouth; this is not a tongue, a measured medical diagram, or a demonstration on an animal. No exact speed, acid concentration, digestive success rate or universal fecal composition is claimed.
+
+The inside-out sock and customer-service desk/headset are overt visual metaphors, not biological mechanisms. Regurgitation and stomach eversion are related ways of rejecting material, not a claim that every regurgitation requires full eversion. “Returned to sender” and “customer service issue” are jokes.
+
+All images and script are new; narration is synthetic Kokoro. No third-party footage, paper figures or music. As requested, explanation remains in the description/documents, with no Illustration labels or burned captions on the MP4. A matching SRT is separate.

@@ -173,3 +173,10 @@ Người dùng đã chọn triển khai chủ đề đau răng thời tiền s�
 ## Short người que — Your Hunt Failed. What's for Dinner?
 
 Đã hoàn thành [Dinner Ran Away](videos/shorts/dinner-ran-away/README.md): 45.04 giây, dọc720×1280/24fps,20 cảnh từ2 tấm4×4,20 cue SRT riêng, Kokoro am_michael1.07. Bản đầu áp dụng lựa chọn mới: MP4 sạch, không phụ đề gắn sẵn/track phụ đề, không nhãn Illustration. Có ảnh bìa không chữ, tiêu đề, mô tả, tags, bình luận ghim, nguồn và mã dựng. Câu chuyện hư cấu về săn hụt, thực phẩm đa dạng tùy nơi/mùa và chia sẻ công việc; không đảm bảo mọi nhóm đều đủ ăn. Đã kiểm tra đầy đủ tệp, SRT và âm thanh; chưa đăng/lên lịch YouTube. Bản Toothache cũ giữ nguyên theo trao đổi.
+
+
+## Dòng Shorts kể chuyện tếu — Shark Bones
+
+Người dùng muốn mở rộng sang kể chuyện hài, câu hỏi kiểu “nếu bị cá mập ăn thì phân có xương mình không”, ngôn ngữ tếu tếu. Công thức được chọn: câu hỏi trời ơi → giọng Mỹ tỉnh bơ → kiến thức có nguồn → câu chốt nhây; ví dụ “You were a customer service issue.” Không giới hạn ở thời tiền sử. Giữ người que, bố cục dọc, MP4 sạch và SRT riêng.
+
+Đã hoàn thành [Would a Shark Poop Out Your Bones?](videos/shorts/shark-bones/README.md):51.17 giây,20 cảnh,21 cue SRT riêng,720×1280/24fps,Kokoro am_michael1.07. Kai mặc quần bơi đỏ; cá mập hoạt hình, sơ đồ tiêu hóa đơn giản, chiếc tất lộn ngược và quầy chăm sóc khách hàng làm ẩn dụ. Không có cảnh người bị cắn/ăn. Nguồn AMNH/Hawaii DLNR; không khẳng định mọi loài đều lộn dạ dày hoặc toàn bộ xương chắc chắn đi ra một đường. Có bộ đăng và dữ liệu dựng. Chưa đăng/lên lịch YouTube.
