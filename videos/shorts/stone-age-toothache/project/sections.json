@@ -1,0 +1,104 @@
+[
+  {
+    "name": "The hook",
+    "text": "Your tooth hurts. It is fourteen thousand years ago. There is no dental clinic down the road. So did people simply do nothing?",
+    "panels": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "An archaeological clue",
+    "text": "Not always. At Villabruna, in northern Italy, researchers studied a human molar with a cavity. Inside it, they found tiny scratches and chipped enamel.",
+    "panels": [
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        8
+      ]
+    ]
+  },
+  {
+    "name": "What the marks suggest",
+    "text": "Experiments suggested that pointed flint tools had scraped the cavity while the person was alive. Think careful scraping, not a modern dentist's drill.",
+    "panels": [
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        11
+      ],
+      [
+        1,
+        13
+      ]
+    ]
+  },
+  {
+    "name": "What we do not know",
+    "text": "That is evidence of an attempt to treat a damaged tooth. It does not tell us exactly how it felt, who helped, or whether the treatment worked.",
+    "panels": [
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "The punchline",
+    "text": "The person holding their cheek here is imaginary. The ancient tooth is real. Our ancestors had serious skills. I would still rather book an appointment.",
+    "panels": [
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        7
+      ]
+    ]
+  }
+]

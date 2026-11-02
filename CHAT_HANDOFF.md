@@ -161,3 +161,8 @@ Người dùng đã chọn tên **The Long Wonder**, handle hiển thị trong �
 ## Thử nghiệm người que — 02/11/2026
 
 Người dùng yêu cầu đổi thử sang phong cách người que, chủ đề một ngày ở thời tiền sử, và chọn bản thử 2–3 phút. Đã hoàn thành [A Day in the Stone Age — bản thử](videos/stick-figure-prehistoric-day-preview/README.md): 2:26, 40 cảnh, 49 cue, Kokoro am_michael speed 1.02, 720p/24fps. Nhân vật nét đen đầu tròn, áo da thú, nền màu đất. Hình vẫn đứng yên, không zoom/pan/header. Đây là ngày hè giả định ở châu Âu khoảng 20.000 năm trước; các nhân vật và buổi săn không thành công là hư cấu. Nguồn, ảnh và mã dựng nằm trong thư mục. Đang chờ phản hồi của người dùng về bản thử; chưa coi phong cách này là lựa chọn mặc định cho mọi video. Chưa đăng YouTube.
+
+
+## Short người que — A Toothache 14,000 Years Ago
+
+Người dùng đã chọn triển khai chủ đề đau răng thời tiền sử để đăng thử Shorts. Đã hoàn thành [Short dọc người que](videos/shorts/stone-age-toothache/README.md): 50.29 giây, 720×1280/24fps, 18 cảnh từ 2 tấm dọc4×4, 25 cue, Kokoro am_michael1.07. Bố cục dọc mới theo mẫu người que trước; không cắt thẳng khung ngang. Phụ đề41px, marginbottom250/right110. Render fps=24 trước ASS để phụ đề thay đúng lúc trong cảnh tĩnh; đã kiểm tra pixel giữa các mốc trong cùng cảnh. Nguồn chính Oxilia2015 về Villabruna; không gọi đây là nha khoa sớm nhất, không khẳng định hết đau hoặc biết người thực hiện. Hình chiếc răng/vết xước là minh họa có nhãn, không phải ảnh hiện vật. Có video, cover, kịch bản, SRT, tiêu đề, mô tả, tags, bình luận ghim, nguồn và mã dựng. Chưa đăng/lên lịch YouTube; chủ kênh tự đăng thử.

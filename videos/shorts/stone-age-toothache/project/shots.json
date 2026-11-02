@@ -1,0 +1,272 @@
+[
+  {
+    "index": 0,
+    "sheet": 1,
+    "cell": 0,
+    "crop": [
+      9,
+      9,
+      240,
+      399
+    ],
+    "start_frame": 0,
+    "end_frame": 53,
+    "frames": 53,
+    "duration": 2.2083333333333335
+  },
+  {
+    "index": 1,
+    "sheet": 1,
+    "cell": 1,
+    "crop": [
+      258,
+      9,
+      461,
+      399
+    ],
+    "start_frame": 53,
+    "end_frame": 106,
+    "frames": 53,
+    "duration": 2.2083333333333335
+  },
+  {
+    "index": 2,
+    "sheet": 1,
+    "cell": 2,
+    "crop": [
+      479,
+      9,
+      683,
+      399
+    ],
+    "start_frame": 106,
+    "end_frame": 160,
+    "frames": 54,
+    "duration": 2.25
+  },
+  {
+    "index": 3,
+    "sheet": 1,
+    "cell": 3,
+    "crop": [
+      701,
+      9,
+      932,
+      399
+    ],
+    "start_frame": 160,
+    "end_frame": 213,
+    "frames": 53,
+    "duration": 2.2083333333333335
+  },
+  {
+    "index": 4,
+    "sheet": 1,
+    "cell": 6,
+    "crop": [
+      479,
+      417,
+      683,
+      815
+    ],
+    "start_frame": 213,
+    "end_frame": 263,
+    "frames": 50,
+    "duration": 2.0833333333333335
+  },
+  {
+    "index": 5,
+    "sheet": 1,
+    "cell": 7,
+    "crop": [
+      701,
+      417,
+      932,
+      815
+    ],
+    "start_frame": 263,
+    "end_frame": 367,
+    "frames": 104,
+    "duration": 4.333333333333333
+  },
+  {
+    "index": 6,
+    "sheet": 1,
+    "cell": 8,
+    "crop": [
+      9,
+      833,
+      240,
+      1184
+    ],
+    "start_frame": 367,
+    "end_frame": 475,
+    "frames": 108,
+    "duration": 4.5
+  },
+  {
+    "index": 7,
+    "sheet": 1,
+    "cell": 10,
+    "crop": [
+      479,
+      833,
+      683,
+      1184
+    ],
+    "start_frame": 475,
+    "end_frame": 571,
+    "frames": 96,
+    "duration": 4.0
+  },
+  {
+    "index": 8,
+    "sheet": 1,
+    "cell": 11,
+    "crop": [
+      701,
+      833,
+      932,
+      1184
+    ],
+    "start_frame": 571,
+    "end_frame": 667,
+    "frames": 96,
+    "duration": 4.0
+  },
+  {
+    "index": 9,
+    "sheet": 1,
+    "cell": 13,
+    "crop": [
+      258,
+      1202,
+      461,
+      1663
+    ],
+    "start_frame": 667,
+    "end_frame": 726,
+    "frames": 59,
+    "duration": 2.4583333333333335
+  },
+  {
+    "index": 10,
+    "sheet": 2,
+    "cell": 0,
+    "crop": [
+      9,
+      9,
+      227,
+      403
+    ],
+    "start_frame": 726,
+    "end_frame": 783,
+    "frames": 57,
+    "duration": 2.375
+  },
+  {
+    "index": 11,
+    "sheet": 2,
+    "cell": 1,
+    "crop": [
+      245,
+      9,
+      462,
+      403
+    ],
+    "start_frame": 783,
+    "end_frame": 840,
+    "frames": 57,
+    "duration": 2.375
+  },
+  {
+    "index": 12,
+    "sheet": 2,
+    "cell": 2,
+    "crop": [
+      480,
+      9,
+      700,
+      403
+    ],
+    "start_frame": 840,
+    "end_frame": 896,
+    "frames": 56,
+    "duration": 2.3333333333333335
+  },
+  {
+    "index": 13,
+    "sheet": 2,
+    "cell": 3,
+    "crop": [
+      718,
+      9,
+      932,
+      403
+    ],
+    "start_frame": 896,
+    "end_frame": 953,
+    "frames": 57,
+    "duration": 2.375
+  },
+  {
+    "index": 14,
+    "sheet": 2,
+    "cell": 4,
+    "crop": [
+      9,
+      421,
+      227,
+      813
+    ],
+    "start_frame": 953,
+    "end_frame": 1016,
+    "frames": 63,
+    "duration": 2.625
+  },
+  {
+    "index": 15,
+    "sheet": 2,
+    "cell": 5,
+    "crop": [
+      245,
+      421,
+      462,
+      813
+    ],
+    "start_frame": 1016,
+    "end_frame": 1080,
+    "frames": 64,
+    "duration": 2.6666666666666665
+  },
+  {
+    "index": 16,
+    "sheet": 2,
+    "cell": 6,
+    "crop": [
+      480,
+      421,
+      700,
+      813
+    ],
+    "start_frame": 1080,
+    "end_frame": 1144,
+    "frames": 64,
+    "duration": 2.6666666666666665
+  },
+  {
+    "index": 17,
+    "sheet": 2,
+    "cell": 7,
+    "crop": [
+      718,
+      421,
+      932,
+      813
+    ],
+    "start_frame": 1144,
+    "end_frame": 1207,
+    "frames": 63,
+    "duration": 2.625
+  }
+]
