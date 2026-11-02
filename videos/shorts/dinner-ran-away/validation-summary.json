@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "duration_seconds": 45.041667,
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": "24/1",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate_hz": "48000",
+  "scenes": 20,
+  "source_panels": 32,
+  "selected_unique_panels": 20,
+  "subtitle_cues": 20,
+  "subtitle_delivery": "separate SRT only; not burned or muxed",
+  "subtitle_full_text_matches": true,
+  "no_subtitle_stream": true,
+  "no_text_overlay_filters": true,
+  "sampled_frame_mean_absolute_errors": [
+    2.012782841435185,
+    2.001915509259259,
+    1.8263968460648148,
+    1.8882826967592592,
+    1.961961082175926,
+    1.5709393084490741
+  ],
+  "full_decode_exit_code": 0,
+  "integrated_loudness_lufs": -17.14,
+  "true_peak_dbtp": -3.65,
+  "scene_seconds_range": [
+    1.9583333333333333,
+    2.7916666666666665
+  ],
+  "mp4_bytes": 4470679,
+  "sha256": "88864b20044ddfc760e3a886c4a34743588c972173040fb253d868ea29b26e75",
+  "review_scope": "Full decode, streams, SRT timing/text, unique panels, continuous frame timeline, final AAC loudness, source-board and six final-frame visual comparisons against clean source illustrations. Not exhaustive human listening."
+}

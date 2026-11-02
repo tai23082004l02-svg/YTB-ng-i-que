@@ -1,5 +1,7 @@
 # Bàn giao cho cuộc chat mới
 
+**Cập nhật theo yêu cầu mới của người dùng ngày 02/11/2026:** Từ video mới tiếp theo, không thêm nhãn “Illustration” hoặc nhãn giải thích lên hình; không gắn phụ đề vào MP4 và không nhúng track phụ đề. Xuất SRT riêng có mốc thời gian thật để người dùng tự xử lý. Ghi chú về hình phục dựng để trong mô tả/tài liệu. Lựa chọn này thay các chỉ dẫn cũ về phụ đề gắn sẵn cho video mới; không tự sửa các MP4 đã bàn giao.
+
 Đọc tài liệu này cùng [AGENTS.md](AGENTS.md) và [VIDEO_GUIDELINES.md](VIDEO_GUIDELINES.md) trước khi tiếp tục sản xuất. Đây là những lựa chọn và kinh nghiệm đã được người dùng chốt; yêu cầu mới của người dùng được ưu tiên nếu có khác biệt.
 
 ## Câu mở đầu có thể gửi ở chat mới
@@ -24,7 +26,7 @@
 5. Chuyển thẳng giữa các hình, bố cục đầy khung và rõ hành động. Không làm méo tỷ lệ hoặc cắt mất nhân vật quan trọng.
 6. Cảnh nhiều người phải có đủ người, ngoại hình và hành động phân biệt. Dùng nhóm nhân vật tham chiếu để giữ tóc, quần áo, phụ kiện và vóc dáng nhất quán.
 7. Xen kẽ cảnh toàn, tương tác nhóm, cận đồ vật và hình giải thích. Không dùng một hình để gánh cả đoạn thuyết minh dài.
-8. Phụ đề tiếng Anh phía dưới, chữ sáng có viền tối; **không có dải nền đen cố định** che phần dưới hình.
+8. **Mặc định mới: MP4 không có phụ đề gắn sẵn hoặc track phụ đề; xuất SRT riêng. Không thêm nhãn “Illustration” lên hình.**
 
 Đây là **video minh họa tĩnh có đổi cảnh**. Không mô tả thành hoạt hình tay chân đầy đủ khi không có chuyển động nhân vật riêng.
 
@@ -129,7 +131,7 @@ Máy trước có thư mục home chỉ đọc nên cache phải chuyển sang n
 3. Tạo lời đọc, đo **thời lượng thực tế**, rồi quyết định số hình. Ước lượng ban đầu bằng số giây chia khoảng 4, rồi điều chỉnh theo cảnh đơn giản (3–4 giây) và sơ đồ cần quan sát (5–6 giây). Video 35:23 có thể cần khoảng 500–530 hình khác nhau; tạo thêm nguồn dự phòng và không coi số lượng là hạn ngạch cố định.
 4. Lập kế hoạch hình bám từng ý lời kể, chốt tạo hình nhân vật, tạo đủ hình khác nhau và rà soát lỗi nội dung. Không coi hình AI tạo ra là bằng chứng khoa học.
 5. Có thể dùng bộ ảnh nhiều ô như mẫu để giữ phong cách; khi tách ô phải đọc kích thước thực tế và cắt theo lưới. Đây là cách sản xuất, không bắt buộc mọi video đều phải có đúng 24 bộ ảnh.
-6. Dựng hình cố định, cắt thẳng, gắn phụ đề có mốc thời gian thật. Chia ranh giới cảnh theo số frame để tránh lệch tích lũy. Ở 24 fps, có thể làm tròn mốc giây × 24 thành frame rồi lấy hiệu hai ranh giới.
+6. Dựng hình cố định, cắt thẳng; xuất SRT riêng có mốc thời gian thật, không gắn phụ đề hoặc nhãn chữ vào MP4. Chia ranh giới cảnh theo số frame để tránh lệch tích lũy. Ở 24 fps, có thể làm tròn mốc giây × 24 thành frame rồi lấy hiệu hai ranh giới.
 7. Kiểm tra bằng giải mã toàn bộ MP4 (`ffmpeg -v error -i video.mp4 -f null -`), kiểm tra thông số bằng `ffprobe`, xem hình đại diện ở nhiều đoạn, đối chiếu phụ đề và đo âm lượng sau AAC. Kiểm tra lại phần thực sự thay đổi khi sửa lỗi.
 8. Bàn giao MP4, thumbnail, kịch bản, SRT, mô tả YouTube, nguồn và ghi chú. Lưu ảnh nguồn/dữ liệu dựng để lần sửa sau không phải làm lại từ đầu.
 9. Đẩy lên GitHub, xác nhận push thành công và kiểm tra liên kết tải. Không báo hoàn tất khi chỉ có kịch bản, ảnh hoặc lệnh chưa chạy.
@@ -166,3 +168,8 @@ Người dùng yêu cầu đổi thử sang phong cách người que, chủ đ�
 ## Short người que — A Toothache 14,000 Years Ago
 
 Người dùng đã chọn triển khai chủ đề đau răng thời tiền sử để đăng thử Shorts. Đã hoàn thành [Short dọc người que](videos/shorts/stone-age-toothache/README.md): 50.29 giây, 720×1280/24fps, 18 cảnh từ 2 tấm dọc4×4, 25 cue, Kokoro am_michael1.07. Bố cục dọc mới theo mẫu người que trước; không cắt thẳng khung ngang. Phụ đề41px, marginbottom250/right110. Render fps=24 trước ASS để phụ đề thay đúng lúc trong cảnh tĩnh; đã kiểm tra pixel giữa các mốc trong cùng cảnh. Nguồn chính Oxilia2015 về Villabruna; không gọi đây là nha khoa sớm nhất, không khẳng định hết đau hoặc biết người thực hiện. Hình chiếc răng/vết xước là minh họa có nhãn, không phải ảnh hiện vật. Có video, cover, kịch bản, SRT, tiêu đề, mô tả, tags, bình luận ghim, nguồn và mã dựng. Chưa đăng/lên lịch YouTube; chủ kênh tự đăng thử.
+
+
+## Short người que — Your Hunt Failed. What's for Dinner?
+
+Đã hoàn thành [Dinner Ran Away](videos/shorts/dinner-ran-away/README.md): 45.04 giây, dọc720×1280/24fps,20 cảnh từ2 tấm4×4,20 cue SRT riêng, Kokoro am_michael1.07. Bản đầu áp dụng lựa chọn mới: MP4 sạch, không phụ đề gắn sẵn/track phụ đề, không nhãn Illustration. Có ảnh bìa không chữ, tiêu đề, mô tả, tags, bình luận ghim, nguồn và mã dựng. Câu chuyện hư cấu về săn hụt, thực phẩm đa dạng tùy nơi/mùa và chia sẻ công việc; không đảm bảo mọi nhóm đều đủ ăn. Đã kiểm tra đầy đủ tệp, SRT và âm thanh; chưa đăng/lên lịch YouTube. Bản Toothache cũ giữ nguyên theo trao đổi.

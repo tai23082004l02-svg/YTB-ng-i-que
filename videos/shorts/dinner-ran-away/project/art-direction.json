@@ -1,0 +1,16 @@
+{
+  "style": "earthy portrait stick figures, new compositions matching prior Kai/Ena character reference",
+  "setting": "fictional prehistoric European summer hunter-gatherer camp; not a specific excavated site",
+  "characters": {
+    "Kai": "three short black hair spikes, ochre hide shoulder patch",
+    "Ena": "black bob, teal hide shoulder patch",
+    "child": "one curl, rust tunic",
+    "elder": "gray hair in bun, hide cloak"
+  },
+  "source_sheets": 2,
+  "source_panels": 32,
+  "selected_unique_panels": 20,
+  "in_picture_text": "none; SRT delivered separately",
+  "scene_motion": "none; cuts only",
+  "limits": "generic wild plants/roots; no named food species, fixed labor rules or guarantee against hunger"
+}

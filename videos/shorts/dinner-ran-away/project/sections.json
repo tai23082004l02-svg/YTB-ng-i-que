@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Dinner escaped",
+    "text": "You spent hours tracking dinner. Dinner ran away. So, does your prehistoric camp go hungry? Not necessarily.",
+    "panels": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "More than hunting",
+    "text": "Hunting was only part of the food story. Depending on the place and season, people also gathered edible plants and caught smaller animals.",
+    "panels": [
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        11
+      ]
+    ]
+  },
+  {
+    "name": "Learned knowledge",
+    "text": "Knowing where to look mattered. So did knowing what not to eat.",
+    "panels": [
+      [
+        1,
+        13
+      ],
+      [
+        1,
+        14
+      ]
+    ]
+  },
+  {
+    "name": "Other work",
+    "text": "Meanwhile, other people were gathering fuel, preparing food, and maintaining tools.",
+    "panels": [
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Shared work",
+    "text": "Your failed hunt was one part of the day, not everyone's entire survival plan. Sharing work and resources helped people handle uncertainty.",
+    "panels": [
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        7
+      ]
+    ]
+  },
+  {
+    "name": "The joke",
+    "text": "Tonight's meal might be modest. But at least nobody asks why you didn't just order delivery.",
+    "panels": [
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        11
+      ]
+    ]
+  }
+]

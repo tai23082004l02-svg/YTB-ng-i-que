@@ -1,5 +1,7 @@
 # Nguyên tắc sản xuất video
 
+**Cập nhật theo yêu cầu mới của người dùng ngày 02/11/2026:** Từ video mới tiếp theo, không thêm nhãn “Illustration” hoặc nhãn giải thích lên hình; không gắn phụ đề vào MP4 và không nhúng track phụ đề. Xuất SRT riêng có mốc thời gian thật để người dùng tự xử lý. Ghi chú về hình phục dựng để trong mô tả/tài liệu. Lựa chọn này thay các chỉ dẫn cũ về phụ đề gắn sẵn cho video mới; không tự sửa các MP4 đã bàn giao.
+
 Đây là cách làm đã được người dùng chốt sau bản cập nhật 2 của **Before the Alarm Clock**, rồi tiếp tục áp dụng và được đánh giá tốt ở video dài **The Last Humans**. Khi mở chat mới, đọc thêm [CHAT_HANDOFF.md](CHAT_HANDOFF.md). Dùng làm mặc định cho video tiếp theo; yêu cầu mới của người dùng được ưu tiên khi có khác biệt.
 
 ## 1. Định hướng nội dung
@@ -40,7 +42,7 @@
 - Dùng **Kokoro**, ngôn ngữ tiếng Anh Mỹ. Giọng mặc định đã dùng: **`am_michael`**; tốc độ khoảng **0.97** ở bản ngắn, **1.04** ở bản dài đầu tiên và **1.07** ở bản đại tuyệt chủng. Chọn nhịp tự nhiên theo nội dung, không áp dụng máy móc hệ số tempo của bản cũ. Xem cấu hình và lưu ý trong tài liệu bàn giao.
 - Nghe/kiểm tra phát âm, khoảng nghỉ và nhịp kể; xuất lời đọc riêng để tái sử dụng khi sửa hình.
 - Khi người dùng chỉ sửa hình, giữ nguyên kịch bản và lời đọc nếu không có yêu cầu sửa nội dung.
-- Phụ đề tiếng Anh đặt phía dưới, chữ sáng có viền tối, dễ đọc trên điện thoại. Không dùng dải nền đen cố định che toàn bộ phía dưới hình.
+- **Không gắn phụ đề vào MP4; không nhúng track phụ đề. Xuất SRT tiếng Anh riêng để người dùng tự xử lý. Không thêm nhãn “Illustration” hoặc nhãn giải thích lên hình.**
 - Đồng bộ theo mốc thời gian lời đọc; xử lý dấu câu, xuống dòng và phụ đề đi qua điểm đổi hình. Không chia thời gian đều theo số chữ để giả làm đồng bộ chính xác.
 - Cân âm lượng lời đọc, tránh clipping; bản tham chiếu dùng mục tiêu khoảng -16 LUFS, true peak không quá -1.5 dBTP.
 
@@ -58,7 +60,7 @@
 
 - Khung dọc9:16,720×1280; lời dẫn tự đứng riêng và giọng Kokoro riêng từng tập. Bộ đầu khoảng57–64giây/tập; không ép nhanh lời đọc để đạt nhịp hình.
 - Cảnh đơn giản 2–3 giây; giải thích cần quan sát4–5giây. Đây là nhịp Shorts, không thay mặc định khoảng4giây của video dài.
-- Giữ hình tĩnh, không zoom/pan/rung, không header/bộ đếm; phụ đề lớn viền tối ở vùng dưới, chừa giao diện điện thoại, không dải đen cố định.
+- Giữ hình tĩnh, không zoom/pan/rung, không header/bộ đếm hoặc nhãn giải thích. MP4 không có phụ đề gắn sẵn/track phụ đề; xuất SRT riêng để người dùng tự xử lý.
 - Với cảnh nhóm/sơ đồ từ bản ngang, bố trí lại dọc để giữ đủ người và ý nghĩa; ghi rõ hình mới dùng nguồn cũ làm tham chiếu. Không lấy sơ đồ AI như một cây phát sinh đã đo đạc.
 - Mỗi tập có MP4, ảnh bìa, kịch bản, SRT, tiêu đề, mô tả, tags, bình luận ghim; bộ chung có ZIP và CSV thứ tự gợi ý. Không tự đăng/lên lịch hoặc bịa URL bản dài.
 - Mẫu: [12 Shorts The Last Humans](videos/the-last-humans/shorts/README.md).

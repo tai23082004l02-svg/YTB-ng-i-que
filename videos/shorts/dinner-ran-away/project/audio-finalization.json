@@ -1,0 +1,7 @@
+{
+  "source": "narration-normalized.wav (PCM before final limiter)",
+  "filter": "aresample=192000,alimiter=limit=0.65:level=false:latency=true,aresample=48000",
+  "codec": "AAC mono 192kbps 48kHz",
+  "video": "stream copied",
+  "source_was_prior_aac": false
+}
